@@ -1,0 +1,164 @@
+﻿# This file is pre-processed from data/raw/漁業署/z_105_100_附錄一(1060925).doc
+0000	總計	Grand total		
+0100	吳郭魚類	Tilapia	Oreochromis|hybrids Tialpia spp.	福壽魚、南洋鯽、尼羅魚
+0201	鯉魚	Common carp	Cyprinus carpio	鮘仔、在來鯉、財神魚
+0202	鯽魚	Crucian carp	Carassius auratus	鯽仔、細頭
+0203	草魚	Grass carp	Ctenopharyngodon idellus	鯇、鯤、池魚、草根魚
+0204	青魚	Black chinese roach|Black carp	Mylopharyngodon piceus	黑鰱、黑鰡、烏鰡、黑鯪
+0205	大頭鰱	Bighead carp|Black silver carp	Aristichthys nobilis	黑鰱、鱅、花鰱、胖頭鰱
+0206	竹葉鰱	Silver carp	Hypophthalmichthys molitrix	白鰱、白葉仔、鰱仔
+0207	鯁魚	Mud carp	Cirrhina mditorella	鯪魚、鯪仔魚、花鯪仔
+0299	其他淡水魚類	Other fresh water fish		鱔魚
+0300	鰻魚	Eel Japanese eel	Anguilla japonica	正鰻、白鱔、鰻麗、白鰻
+0400	淡水鯰	Freshwater catfish|Chinese catfish	Silurus assotus	泰國鯰、念仔魚、鰱仔、土殺
+0500	鱸魚	Japanese seaperch	Lateolbrax japonicus	七星鱸、沙鱸、紅目鱸、盲槽
+0501	淡水銀鱸	Sliver Perch	Bidyanus bidyanus	淡水珍珠石斑、澳洲鱸
+0502	淡水大口黑鱸	Large-mouth bass	Micropterus salmoides	黑鱸、加州鱸、淡水鱸
+0503	七星鱸	Japanese seaperch	Lateolbrax japonicus	花鱸、青鱸、日本真鱸
+0504	紅目鱸	Sand Bass	Psammoperca waigiensis	紅眼鱸、紅目、沙鱸
+0599	其他鱸魚	Giant seaperch	Lates calcarifer	盲槽、尖吻鱸
+0600	泥鰍	Loach Pond loach	Misgurnus anguillicandatus	河鰡、旋鰡、旋鰡鼓、土鰍
+0700	觀賞魚			
+0701	錦鯉	Koi	Cyprinus carpio	紅白、丹頂、淺黃、大正、昭和
+0702	七彩神仙			
+0789	其他觀賞蝦 			
+0799	其他觀賞魚 	Other ornamental fish		慈鯛類
+1100	鱒魚	Trout Rainbow trout	Oncorhynchus mykiss	虹鱒
+1200	香魚	Sweet fish Ayu	Plecoglossus altivelis	魚桀魚、年魚
+1400	虱目魚	Milkfish	Chanos chanos	麻虱目、安平魚、國姓魚
+1500	鮃鰈類	Flatfish|Indian spiny turbot	Psettodes erumei	扁魚、皇帝魚、半平魚、龍舌
+1601	嘉臘	Red porgy|Japanese seab ream	Pagrus major	加魶、真鯛、加幾魚、銅盆魚
+1602	赤鯮	Yellow seabream|Yellow porgy	Taius tumifrons	紅盤仔、赤棕
+1603	盤仔	Crimson seabream|Threadfin porgy	Evynnis cardinalis)	血鯛、齊頭盤、魬鯛
+1604	黑鯛	Black seabream	Acanthopagrus schlegel	厚唇、烏毛、烏格、烏鱠
+1605	銀紋笛鯛	River snapper	Lutjanus argentimaculatus	紅槽、丁班
+1699	其他鯛	Misc. seabream		赤翅、花身、鏡鯛
+1701	大黃魚	Large yellow croaker|Croceine croaker	Larimichthys croseus	黃口、火口、大黃花
+1702	小黃魚	Small yellow croaker	Larimichthys polyocyis	黃口、黃順、黃瓜、紅瓜
+1704	黑口	Black mouth croaker	Atrobucca nibe	加正、加網、黑喉、臭魚
+1705	白口	White mouth croaker|Sliver pennah croaker	Pennahia argentatus	白姑魚、胖頭、烏耳、白姑子
+1706	鮸魚	Brown croaker|Mi-iuy croaker	Miichthys miiuy	鮸仔、魚敏魚、米魚、水鮸仔
+1799	其他黃花魚類	Other croakers		魷口、春只、三代子、紅花
+1800	金線	Golden thread	Nemipterus virgatus	金線鰱、紅姑魚、金線魚
+1900	馬頭	Tile fish|Red tilfish	Branchiostegus japonicus	紅面頭、紅馬頭、白馬頭魚、日本方頭魚
+2000	龍尖	Snappers|Long-nose emperor	Lethrinus miniatus	龍占、濱龍占、海豬哥
+2100	赤海	Firespot snapper|Two-spot red snapper	Lutjanus bahar	赤松、紅槽、紅雞仔、橫笛鯛
+2200	秋姑	Goat fish Bicolor parrofish	Parupeneus barberinus	秋哥、紅哥里、鬚哥、紅秋姑
+2300	鸚哥魚	Blue-barred orange parrotfish|Bicolor parrofish	Cetoscarus bicolor	鸚哥、青衣、條紋鸚哥魚
+2400	紅目鰱	Red bulleye Big-eye	Priacanthus macracanthus	紅嚴公、赤目鰱、大目鯛
+2500	鱠	Groupers	Epinephelus malabaricus	過仔、石斑
+2600	狗母	Lizard fish|Slender lizardfish	Saurida elongata	狗母梭、烏狗母、臭青仔、短紋花狗桿魚
+2700	海鰻	Pike-eel Hookjaw moray	Enchelycore schismatorhynchus	虎鰻、齒鰻、薯鰻、金錢鰻、鱸鰻
+2800	海鯰	Sea catfish|Spotted sea catfish	Arius maculatus	生仔魚、成仔魚、鰻鯰
+2900	海鱺	Cobia	Rachycentron canadus	海 魚戾魚 、 錫 腊白、軍曹魚
+3000	皮刀	Moonfish	Mene maculata	庖刀魚、皮鞋刀眼眶魚、菜刀魚
+3101	圓鰺	Amberfish|Whitetipped mackerel scad	Decapterus maruadsi	四破、硬尾、金鼓、吧弄
+3102	真鰺	Horse mackerel|Japanese scad	Trachurus japonicus	巴蘭、巴攏、竹莢魚、瓜魚
+3103	扁甲鰺	Torpedo scad	Megalaspis cordyla	鐵甲、大目巴攏、大甲鰺
+3104	紅尾鰺	Redtail scad	Decapterus kurroides	赤尾、馬尾冬、紅瓜鰺
+3105	甘仔鰺	Malabar cavalla|Trevally	Carangoides malaboricus	瓜仔魚、花鯧、甘仔魚
+3106	紅甘鰺	Greater amberjack	Seriola dumerili	紅甘、竹午、汕午、紅頭午
+3199	其他鰺	Other scads		青魽鰺、紅魽、礁午、青甘、紅甘鰺
+3200	烏魚	Mullet|Striped mullet	Mugil cephalus	正頭烏、回頭烏、信魚、鯔
+3301	白鯧	White pomfret|Silver pomfret	Pampus argenteus	正鯧、暗鯧、銀鯧、黑鰭
+3303	黑鯧	Black pomfret	Apolectus niger	三角鯧、昌鼠魚、烏鯧
+3399	其他鯧	Other pomfrets		燕尾鯧
+3400	肉魚	Japanese butterfish	Psenopsis anomala	肉鯽、瓜仔鯧
+3500	午仔魚	Threadfin|Sixfinger threadfin	Polydactylus sextarius	四絲馬鮁、午仔、小午
+3600	飛魚	Whitefih flying fish	Cypselurus unicolor	文鰩魚、飛魚、小烏、飛烏
+3601	飛魚卵			
+3700	尖鮻	Japanese barracuda|Giant barracuda	Sphyraena barracuda	金梭、金梭魚、大眼梭子魚
+3800	沙鮻	Sand borer|Silver sillago	Sillago sihama	沙腸、沙盪、沙鑽仔
+3900	西刀	Silver bar fish|Dorab wolf herring	Chirocentrus dorab	寶刀魚、布刀
+4000	油魚	Oilfish	Ruvettus pretiosus	油甘、黃腸魚、帶鰆
+4002	鰶	Gizzard shed	Nematalosa japonica	土黃魚
+4300	白帶魚	Hairtail|Largehead hairtail	Trichiurus lepturus	白魚、肥帶、裙帶、油帶
+4400	鱰	Dorado Dolphin fish	Coryphaena hippurus	鬼頭刀、飛烏虎、萬引
+4500	笛鯛類	Snappers Brownstripe	Lutjanus vitta	紅糟、赤筆、青筆
+4601	臭肉鰮	Round herring	Etrumeus teres	臭肉、鰮仔魚、圓眼仔
+4602	鱙仔	Anchovy|Japanese anchoue	Engraulis japonius	苦魺、日本鯷、片口
+4603	魩仔	Larval fish|Buccaneer anchovy	Emcrasicholina punctifer	日本鯷
+4604	青鱗	Scaled sardine	Sardinella sindensis	沙丁魚、青花魚、星德砂丁
+4605	丁香	Silver anchovy	Spratelloides gracilis	灰海荷鰮、針嘴鰮、日本銀帶鯡
+4699	其他鰮類	Other sardines		力魚、鰳魚、白力
+4700	鯖	Mackerels|Spotted chub mackerel	Scomber austrlasicus	花飛、青飛、扁鯖、花鰱
+4801	正鰹	Skipjack tuna	Katsuwonus pelamis	柴魚、煙仔魚、魚卓鯤
+4802	花鰹	Oceanic bonito	Auxis thazard	花煙、平花煙、油煙
+4803	圓花鰹	Bullet tuna	Auxis rochei	煙管仔、竹棍魚、鎗管煙子
+4899	其他鰹類	Other skipjacks		巴鰹
+4901	土拖鰆	Narrow barred spanish mackerel	Scomberomorus commerson	土托、馬加、梭齒、康氏馬發
+4902	馬加鰆	Spanish mackerel	Scomberomorus niphonius	正馬加、燕魚、藍點馬皎、日本馬加鰆
+4903	闊腹鰆	Korean mackerel	Scomberomorus koreanus	闊北、白北、高麗鰆
+4999	其他鰆類	Other mackerels		疏齒、石喬、煙仔虎
+5001	長鰭鮪	Albacore	Thunnus alalunga	長 鰭串、白肉串、長鬚甕串
+5002	大目鮪	Bigeye tuna	Thunnus obesus	大目鮪、大目串、短墩
+5003	黃鰭鮪	Yellowfin tuna	Thunnus albacares	串仔、黑肉、甕串、黃鰭金槍魚
+5004	黑鮪	Bluefin tuna	Thunnus thynnus	黑串、金槍魚、烏甕串、黑甕串、串魚
+5005	其他鮪類	Other tunas		小串、小黃鰭、金槍魚
+5006	南方黑鮪	Southern bluefin tuna	Thunnus Maccoyii	
+5101	劍旗魚	Swordfish	Xiphias gladius	丁挽舅、劍魚、大目旗魚、丁挽舅旗魚
+5102	紅肉旗魚	Striped marlin	Kajikia audax	紅目丁挽、真旗魚、紅目槍魚
+5103	黑皮旗魚	Blue marlin	Makaira mazara	鐵皮丁挽、鐵皮、烏皮、
+5104	白皮旗魚	Black marlin	Makaira indica	翹翅仔、立翅旗魚
+5105	雨傘旗魚	Indd-pacific sailfish	Istiophorus platypterus	芭蕉旗魚、破鐘、傘雨傘魚、破雨傘
+5106	大西洋白旗魚	Atlantic white marlin	Kajikia albidus	
+5199	其他旗魚	Other marlin		
+5201	大鯊	Sharks	Isurus glaucus	尖頭鯊、犛頭鯊豆腐鯊、狗鯊、虎鯊
+5202	鯊條	Young sharks	Hemitriakis japonicus	翅鯊、日本翅鯊
+5203	黑鯊	Silky shark	Carcharhinus falciformis	平滑白眼鮫
+5204	水鯊	Blue shark	Prionace glauca	鉅鋒齒鮫、大青鯊
+5205	馬加鯊	Shortfin mako	Isurus oxyrinchus	灰鯖鮫、尖吻鯖鯊、煙仔鯊
+5300	鱝	Skates and rays	Dasyatis akajei	魴仔魚、赤土魴、土魚魟
+5400	鱈魚	Cod|Walleye pollock	Theragra chalcogramma	鱈魚、明太魚
+5500	秋刀魚	Saury|Sanma	Cololabis saira	山瑪魚、散肉
+5600	剝皮魚	File fish|Unicorn leather jacket	Aluterus monceros	剝皮魨、獨腳魨剝皮魚、光復魚
+5700	翻車魨	Ocean sunfish	Mola mola	蜇魴、蜇魚、海蟲、曼波
+6000	其他魚類	Others		
+6101	花枝	Cuttle fish	Sepiidae	烏賊(6102) 、目賊、墨魚、烏子
+6102	烏賊	Cuttle fish	Sepiidae	花枝(6101) 、目賊、墨魚、烏子
+6103	魷魚	Squids	Ommastrephidae	南魷、飛魷、赤魷、柔魚
+6104	鎖管	Neritic squids	Loliginidae	小管、小卷、透抽、軟翅仔
+6109	章魚	Octopus	Octopodidae	土婆、厚水仔、蛸、石居
+6199	其他頭足類 	Other cephalopods		軟舌、目斗
+6201	草蝦	Grass shrimp|Giant tiger prawn	Penaeus monodon	中蝦、草對蝦
+6202	斑節蝦	Kuruma shrimp	Penaeus japonicus	大蝦、九節蝦、雷公蝦、竹節蝦
+6203	沙蝦	Sand shrimp|Greasyback shrimp	Metapenaeus ensis	沙蝦、蘆蝦、中蝦
+6204	長腳大蝦	Giant freshwater prawn	Macrobrachium rosenbergii	泰國蝦
+6205	紅尾蝦	Red tail shrimp	Penaeus penicillatus	白鬚仔、白刺大蝦
+6206	厚殼蝦	Thick-shell shrimp	Trachy penaeus curvirostris	猴蝦、援蝦、百鬚水濂蝦（香港）
+6207	劍蝦	Spear shrimp	Parapenaeus hardwickii	哈氏擬對蝦、長額紡對蝦
+6208	大頭蝦	Big head shrimp|Mino nylon shrimp	Heterocarpus sibogae	紅蝦、紅中蝦、赤蝦、蔥頭蝦
+6209	蘆蝦	Lu shrimp|Southern rough shrimp	Trachypenaeus curvirostris	沙蝦、中蝦
+6210	龍蝦	Japanese spiny lobster	Penulirus japonicus	龍蝦
+6220	白蝦	Whiteleg shrimp	Litopenaeus vannamei	美洲白蝦、白蝦仔、南美白蝦
+6221	櫻花蝦	Sakura shrimp	Sergestes lucens	晶瑩櫻蝦
+6222	赤尾青蝦	Taiwan mauxia shrimp	Acetes intermedius	赤尾青
+6299	其他蝦類	Other shrimps		五鬚蝦、鐵丁蝦、赤尾青蝦
+6300	蝦姑	Slipper lobster|Japanese fan lobster	Ibacus ciliatus	蝦姑白、蝦姑撇仔
+6401	蟳	Serrated crab|Mud crab	Scylla serrata (Forskal)	紅蟳、菜蟳、砂蟳、青蟹
+6402	蠘	Pelagic crab	Portunus pelagicus (Linnaeus)	蠘仔、梭子蟹、市子、台灣蠘
+6404	旭蟹	Crimson crab|Frong crab	Ranina ranina	蝦姑頭、倒退、紅蠘、西蛄麻
+6499	其他蟳蟹類 	Other crabs		毛蟹、砂垂
+6501	牡蠣	Oysters	Crassostrea gigas	蚵仔、青蚵、石蚵、正蚵
+6502	文蛤	Hard clam	Meretrix lusoria	蚶仔、粉嶢
+6503	蜊	Short-necked clam|Marsh clams	Corbicula flumined	赤嘴、海瓜子、花蛤仔、山瓜子
+6504	血蚶	Blood cockle|Ark shells	Anadara granosa	血蚶、泥蚶、粒蚶
+6507	九孔	Small abalones|Sea ears	Haliotis aqualilis	九孔
+6508	鳳螺	Trochus	Babylonia formosae	精螺
+6511	西施貝	Purple clam	Hiatula diphos	西刀舌、西施舌、獅刀舌
+6512	日月貝	Scallop	Amusium pleuronectes	日月蟶、日月蛤
+6513	蜆	Fresh water clam	Corbicula fluminea	臘仔、蜊仔、刺仔、台灣蜆
+6599	其他貝類	Other shellfishes		夜光貝、田螺、公代(淡菜)
+6601	牛蛙	Bull Frogs	Rana catesbeiana	水雞
+6602	花跳	Mud skipper	Boleophthalmus pectinirostris	彈塗魚、海免、石跳仔、跳跳魚
+6603	鱉	Soft-shell turtle	Trionyx sinensis	甲魚、圓魚、水魚
+6604	鱷魚	Crocodile	Alligator mississippiensis	
+6700	海膽	Sea urchin	Tripneutes gratilla	刺膽、花膽
+6800	海參	Sea cucumber	Stichopus japonicus	海參、刺參
+6900	珊瑚	Corals	Corallium japonicume	紅珊瑚
+7000	其他水產生物	Other aquatic animals		
+7101	石花菜	Agar-agar	Gelidium amansii	
+7102	紫菜	Purple laver	Porphyra tenera	海苔、蓮花菜
+7103	龍鬚菜	Gracilar	Gracilaria spp.	紗仔、髮菜
+7104	青海菜	Seaweed		海草、海藻、海菜
+7199	其他藻類	Other seaweeds		海砲仔、頭毛菜、虎蒂、青菜仔(虎苔)

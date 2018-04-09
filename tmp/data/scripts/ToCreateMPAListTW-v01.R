@@ -60,6 +60,9 @@ MPAL_FATW_TMP[,
                                      regexpr('s', decimalLongitudeTmp) - 1))/3600)
               ][, decimalLongitudeTmp := NULL]
 
+# 
+MPAL_FATW_TMP[, coordinate := paste(decimalLatitude, decimalLongitude, sep = " ")]
+
 # 匯出結果
 fwrite(MPAL_FATW_TMP, file = "../processed/pMPAL_FATW_TMP_2018_01.txt", sep = "\t")
 

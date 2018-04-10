@@ -61,7 +61,23 @@ MPAL_FATW_TMP[,
               ][, decimalLongitudeTmp := NULL]
 
 # 
-MPAL_FATW_TMP[, coordinate := paste(decimalLatitude, decimalLongitude, sep = " ")]
+MPAL_FATW_TMP[, coordinate := paste(round(decimalLatitude, 5),
+                                    round(decimalLongitude,5),
+                                    sep = " ")]
+
+##
+MPAs <- unique(MPAL_FATW_TMP[`_地理圖資的類型` %in% c(),])
+
+WKTL <- NULL
+for(i in 1:length(MPAs)) {
+  NAME <- MPAs[i]
+  NUM <- nrow(MPAL_FATW_TMP[`_海洋保護區或其子區的名稱` == NAME])
+  for(i in 1:NUM) {
+    paste(MPAL_FATW_TMP[`_海洋保護區或其子區的名稱` == NAME][i][, coordinate],
+          sep = ", ")
+  }
+}
+
 
 # 匯出結果
 fwrite(MPAL_FATW_TMP, file = "../processed/pMPAL_FATW_TMP_2018_01.txt", sep = "\t")

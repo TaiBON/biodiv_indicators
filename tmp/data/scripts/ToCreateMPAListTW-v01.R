@@ -13,11 +13,11 @@ MPAList_FATW_2018_01 <- fread(file = "./pre-processed/MPAList_FATW_2018_01.txt",
 
 # 先剔除無法從原始資料中攫取出地理範圍所需點位的海洋保護區
 ## 這些海洋保護區在欄位 "_以Excel統一座標的格式" 中的欄位數值會是 NA
-MPAL_FATW_TMP <- MPAList_FATW_2018_01[!is.na(`_以Excel統一座標的格式`)]
+MPAL_FATW_TMP <- MPAList_FATW_2018_01[!is.na(cleanedCoordinate)]
 
 # 看一下是哪些海洋保護區在上步驟中被暫時剔除了
-MPAL_FATW_TMP_NA <- MPAList_FATW_2018_01[is.na(`_以Excel統一座標的格式`)][!is.na(`_所屬的海洋保護區`)]
-unique(MPAL_FATW_TMP_NA$`_海洋保護區或其子區的名稱`)
+MPAL_FATW_TMP_NA <- MPAList_FATW_2018_01[is.na(cleanedCoordinate)][!is.na(parentMPA)]
+unique(MPAL_FATW_TMP_NA$nameOfMPA)
 ## 「琉球漁業資源保育區」和「綠島漁業資源保育區」，兩者的環島分區面積必須有小琉球的完整圖資才能計算
 ## 「墾丁國家公園」，其其他海域一般管制區必須有墾丁國家公園的完整圖資才能計算
 ## 「東沙環礁國家公園」，其一般管制區需有官方文件中所提「東南側臨海之海域範圍」的完整圖資才能計算
@@ -29,24 +29,24 @@ unique(MPAL_FATW_TMP_NA$`_海洋保護區或其子區的名稱`)
 # 抽出各海洋保護區地理範圍所需點位之緯度的度、分、秒並將其轉為十進位制
 MPAL_FATW_TMP[,
               
-              decimalLatitude := as.numeric(substr(`_以Excel統一座標的格式`, 1,
-                                                   regexpr("°", `_以Excel統一座標的格式`)-1)) +
-                (as.numeric(substr(`_以Excel統一座標的格式`,
-                                   regexpr("°", `_以Excel統一座標的格式`) + 1,
-                                   regexpr("'", `_以Excel統一座標的格式`) - 1))/60)
-              ][regexpr('s', `_以Excel統一座標的格式`) > 0,
+              decimalLatitude := as.numeric(substr(cleanedCoordinate, 1,
+                                                   regexpr("°", cleanedCoordinate)-1)) +
+                (as.numeric(substr(cleanedCoordinate,
+                                   regexpr("°", cleanedCoordinate) + 1,
+                                   regexpr("'", cleanedCoordinate) - 1))/60)
+              ][regexpr('s', cleanedCoordinate) > 0,
                 decimalLatitude := decimalLatitude +
-                  (as.numeric(substr(`_以Excel統一座標的格式`,
-                                     regexpr("'", `_以Excel統一座標的格式`) + 1,
-                                     regexpr('s', `_以Excel統一座標的格式`) - 1))/3600)
+                  (as.numeric(substr(cleanedCoordinate,
+                                     regexpr("'", cleanedCoordinate) + 1,
+                                     regexpr('s', cleanedCoordinate) - 1))/3600)
               ]
 
 # 抽出各海洋保護區地理範圍所需點位之經度的度、分、秒並將其轉為十進位制
 MPAL_FATW_TMP[,
               
               decimalLongitudeTmp := regmatches(
-                `_以Excel統一座標的格式`,
-                regexpr(" .*", `_以Excel統一座標的格式`))
+                cleanedCoordinate,
+                regexpr(" .*", cleanedCoordinate))
               ][,
                 decimalLongitude := as.numeric(substr(decimalLongitudeTmp, 2,
                                                      regexpr("°", decimalLongitudeTmp)-1)) +
@@ -61,21 +61,23 @@ MPAL_FATW_TMP[,
               ][, decimalLongitudeTmp := NULL]
 
 # 
-MPAL_FATW_TMP[, coordinate := paste(round(decimalLatitude, 5),
-                                    round(decimalLongitude,5),
+MPAL_FATW_TMP[, coordinate := paste(round(decimalLatitude, 4),
+                                    round(decimalLongitude, 4),
                                     sep = " ")]
 
-##
-MPAs <- unique(MPAL_FATW_TMP[`_地理圖資的類型` %in% c(),])
+MPAs <- unique(MPAL_FATW_TMP[typeOfData %in% c("POINT", "LINE", "POLYGON"),
+                             .(nameOfMPA, parentMPA)])
 
 WKTL <- NULL
-for(i in 1:length(MPAs)) {
-  NAME <- MPAs[i]
-  NUM <- nrow(MPAL_FATW_TMP[`_海洋保護區或其子區的名稱` == NAME])
+for(i in 1:nrow(MPAs)) {
+  NAME <- MPAs$nameOfMPA[i]
+  NUM <- nrow(MPAL_FATW_TMP[nameOfMPA == NAME])
+  WKT <- NULL
   for(i in 1:NUM) {
-    paste(MPAL_FATW_TMP[`_海洋保護區或其子區的名稱` == NAME][i][, coordinate],
-          sep = ", ")
+    WKT <- paste(WKT, MPAL_FATW_TMP[nameOfMPA == NAME][i][, coordinate],
+                 sep = ", ")
   }
+  WKTL <- c(WKTL, WKT)
 }
 
 

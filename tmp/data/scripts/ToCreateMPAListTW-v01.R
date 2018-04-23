@@ -100,4 +100,5 @@ names(MPAL_WKT)[4] <- "WKT"
 
 # 匯出結果
 fwrite(MPAL_WKT, file = "../processed/pMPAL_FATW_TMP_2018_01.txt", sep = "\t")
+fwrite(MPAL_WKT, file = "../processed/pMPAL_FATW_TMP_2018_01.csv", sep = ",")
 

@@ -7,12 +7,13 @@ library(data.table)
 # 自 pre-procesed 中匯入資料
 ## 此匯入的海洋保護區地理範圍資料並非漁業署官網上最原始的版本 (in .pdf)，而是已經用 Excel
 ## 清理過一輪，主要是將所有點位資料的格式統一以利後續操作。
+## "MPAList_FATW_2018_01" 代表 2018 年來自漁業署的海洋保護區列表第一版
 MPAList_FATW_2018_01 <- fread(file = "./pre-processed/MPAList_FATW_2018_01.txt",
                               header = T, sep = "\t", stringsAsFactors = F,
                               encoding = "UTF-8")
 
 # 先剔除無法從原始資料中攫取出地理範圍所需點位的海洋保護區
-## 這些海洋保護區在欄位 "_以Excel統一座標的格式" 中的欄位數值會是 NA
+## 這些海洋保護區在欄位 "cleanedCoordinate" 中的欄位數值會是 NA
 MPAL_FATW_TMP <- MPAList_FATW_2018_01[!is.na(cleanedCoordinate)]
 
 # 看一下是哪些海洋保護區在上步驟中被暫時剔除了
@@ -60,27 +61,43 @@ MPAL_FATW_TMP[,
                                      regexpr('s', decimalLongitudeTmp) - 1))/3600)
               ][, decimalLongitudeTmp := NULL]
 
-# 
-MPAL_FATW_TMP[, coordinate := paste(round(decimalLatitude, 4),
-                                    round(decimalLongitude, 4),
+# 將經緯度四捨五入至小數點後第四位並置入新建欄位 "coordinate"
+MPAL_FATW_TMP[, coordinate := paste(round(decimalLongitude, 4),
+                                    round(decimalLatitude, 4),
                                     sep = " ")]
 
-MPAs <- unique(MPAL_FATW_TMP[typeOfData %in% c("POINT", "LINE", "POLYGON"),
-                             .(nameOfMPA, parentMPA)])
+# 列出現有地理圖資類型屬於 POINT、LINE、POLYGON 的海洋保護區
+MPAL_PLP <- unique(MPAL_FATW_TMP[typeOfData %in% c("POINT", "LINE", "POLYGON"),
+                                 .(nameOfMPA, parentMPA, typeOfData)])
 
-WKTL <- NULL
-for(i in 1:nrow(MPAs)) {
-  NAME <- MPAs$nameOfMPA[i]
-  NUM <- nrow(MPAL_FATW_TMP[nameOfMPA == NAME])
-  WKT <- NULL
+# 將各海洋保護區的地理圖資轉成 WKT 格式
+MPAL_WKT <- NULL
+for(i in 1:nrow(MPAL_PLP)) {
+  MPA_NAME <- MPAL_PLP$nameOfMPA[i]
+  MPA_TMP <- MPAL_FATW_TMP[nameOfMPA == MPA_NAME]
+  NUM <- nrow(MPA_TMP)
+  TYPE <- unique(MPA_TMP[, typeOfData])
+  
+  MPAL_WKT_TMP <- NULL
   for(i in 1:NUM) {
-    WKT <- paste(WKT, MPAL_FATW_TMP[nameOfMPA == NAME][i][, coordinate],
-                 sep = ", ")
+    MPAL_WKT_TMP <- paste(MPAL_WKT_TMP, MPAL_FATW_TMP[nameOfMPA == MPA_NAME][i][, coordinate],
+                          sep = ", ")
   }
-  WKTL <- c(WKTL, WKT)
+  MPAL_WKT_TMP <- substr(MPAL_WKT_TMP, regexpr(', ', MPAL_WKT_TMP)+2, nchar(MPAL_WKT_TMP))
+  
+  if(TYPE == "POLYGON") {
+    MPAL_WKT_TMP <- paste(TYPE, "((", MPAL_WKT_TMP, "))", sep = "")
+  } else {
+    MPAL_WKT_TMP <- paste(TYPE, "(", MPAL_WKT_TMP, ")", sep = "")
+  }
+  
+  MPAL_WKT <- c(MPAL_WKT, MPAL_WKT_TMP)
 }
 
+#
+MPAL_WKT <- cbind(MPAL_PLP, MPAL_WKT)
+names(MPAL_WKT)[4] <- "WKT"
 
 # 匯出結果
-fwrite(MPAL_FATW_TMP, file = "../processed/pMPAL_FATW_TMP_2018_01.txt", sep = "\t")
+fwrite(MPAL_WKT, file = "../processed/pMPAL_FATW_TMP_2018_01.txt", sep = "\t")
 

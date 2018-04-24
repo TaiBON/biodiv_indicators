@@ -66,6 +66,13 @@ MPAL_FATW_TMP[, coordinate := paste(round(decimalLongitude, 4),
                                     round(decimalLatitude, 4),
                                     sep = " ")]
 
+# 原始資料中各 POLYGON 的端點並非皆以順時針有序排列
+# 解決方案為先計算出各 POLYGON 的重心坐標，接著計算各端點以重心為原點時所夾的角度，
+# 此角度可做為後續排序時的依據。
+MPAL_FATW_TMP[typeOfData == "POLYGON", centroidX := mean(decimalLongitude), by = nameOfMPA][
+  typeOfData == "POLYGON", centroidY := mean(decimalLatitude), by = nameOfMPA][
+    , atan2 := atan2(decimalLongitude - centroidX, decimalLatitude - centroidY)]
+
 # 列出現有地理圖資類型屬於 POINT、LINE、POLYGON 的海洋保護區
 MPAL_PLP <- unique(MPAL_FATW_TMP[typeOfData %in% c("POINT", "LINE", "POLYGON"),
                                  .(nameOfMPA, parentMPA, typeOfData)])
@@ -74,13 +81,13 @@ MPAL_PLP <- unique(MPAL_FATW_TMP[typeOfData %in% c("POINT", "LINE", "POLYGON"),
 MPAL_WKT <- NULL
 for(i in 1:nrow(MPAL_PLP)) {
   MPA_NAME <- MPAL_PLP$nameOfMPA[i]
-  MPA_TMP <- MPAL_FATW_TMP[nameOfMPA == MPA_NAME]
+  MPA_TMP <- MPAL_FATW_TMP[nameOfMPA == MPA_NAME][order(atan2)]
   NUM <- nrow(MPA_TMP)
   TYPE <- unique(MPA_TMP[, typeOfData])
   
   MPAL_WKT_TMP <- NULL
   for(i in 1:NUM) {
-    MPAL_WKT_TMP <- paste(MPAL_WKT_TMP, MPAL_FATW_TMP[nameOfMPA == MPA_NAME][i][, coordinate],
+    MPAL_WKT_TMP <- paste(MPAL_WKT_TMP, MPA_TMP[i][, coordinate],
                           sep = ", ")
   }
   MPAL_WKT_TMP <- substr(MPAL_WKT_TMP, regexpr(', ', MPAL_WKT_TMP)+2, nchar(MPAL_WKT_TMP))

@@ -73,8 +73,8 @@ MPAL_FATW_TMP[typeOfData == "POLYGON", centroidX := mean(decimalLongitude), by =
   typeOfData == "POLYGON", centroidY := mean(decimalLatitude), by = nameOfMPA][
     , atan2 := atan2(decimalLongitude - centroidX, decimalLatitude - centroidY)]
 
-# 列出現有地理圖資類型屬於 POINT、LINE、POLYGON 的海洋保護區
-MPAL_PLP <- unique(MPAL_FATW_TMP[typeOfData %in% c("POINT", "LINE", "POLYGON"),
+# 列出現有地理圖資類型屬於 POINT、LINESTRING、POLYGON 的海洋保護區
+MPAL_PLP <- unique(MPAL_FATW_TMP[typeOfData %in% c("POINT", "LINESTRING", "POLYGON"),
                                  .(nameOfMPA, parentMPA, typeOfData)])
 
 # 將各海洋保護區的地理圖資轉成 WKT 格式

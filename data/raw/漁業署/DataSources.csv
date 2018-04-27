@@ -1,4 +1,4 @@
-﻿fileName  fileFormat  sourceURL
-國內已有法令依據之海洋保護區資料彙整表 pdf  https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=7&chk=f5d07a6b-2159-4218-a376-f632fb1ed1f9&param=pn%3d1
-ca4178d52535b1cac769943b34754e74_export xlsx  https://data.gov.tw/dataset/40091
-ca4178d52535b1cac769943b34754e74_export csv https://data.gov.tw/dataset/40091
+﻿fileName,fileFormat,sourceURL,downloadDate
+國內已有法令依據之海洋保護區資料彙整表,pdf,https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=7&chk=f5d07a6b-2159-4218-a376-f632fb1ed1f9&param=pn%3d1,2018-03-29
+ca4178d52535b1cac769943b34754e74_export,xlsx, https://data.gov.tw/dataset/40091,2018-04-20
+ca4178d52535b1cac769943b34754e74_export,csv,https://data.gov.tw/dataset/40091,2018-04-20

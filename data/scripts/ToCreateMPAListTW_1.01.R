@@ -133,4 +133,6 @@ names(mpalist.fatw.wkt)[4] <- "WKT"
 
 # 匯出結果
 fwrite(mpalist.fatw.wkt, file = "../processed/MPAListProcessed_FATW_2018_01.csv", sep = ",")
+fwrite(mpalist.fatw.wkt, file = "../processed/MPAListProcessed_FATW_2018_01.txt", sep = "\t")
+
 

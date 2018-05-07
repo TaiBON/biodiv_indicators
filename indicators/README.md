@@ -1,4 +1,11 @@
-﻿# 關於
+﻿<style>
+  a:link
+  {
+    test:expression(target="_blank")
+  }
+</style>
+
+# 關於
 
 * 本目錄用於保存本團隊的指標說明文件
 
@@ -10,7 +17,7 @@
 |I.02|沿近海魚種單位努力漁獲量|NA
 |I.03|定置網漁場之魚種組成及其豐度變動趨勢|NA
 |I.04|平均營養指數|[I.04「平均營養指數」1.0](https://hackmd.io/9AQmWynKTHSt6bjkyf1aug)
-|I.05|漁獲平衡指數|NA
+|I.05|漁獲平衡指數|[I.05「漁獲平衡指數」1.0](https://hackmd.io/V7vrPXr4SKSndl6D-ejQXQ)
 |I.06|基礎生產力需求|NA
 |I.07|投入漁業生物研究及基礎調查的經費|NA
 |I.08|漁船總噸數及每年降低的噸數|NA

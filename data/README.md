@@ -1,9 +1,9 @@
-# ����
+﻿# 關於
 
-* ���ؿ��Ω�O�s���ζ�����ƲM�z�L�{
+* 本目錄用於保存本團隊的資料清理過程
 
-* �l�ؿ� raw �Ψө�m���Эp��һݸ�ơ]�A�Ω�һݸ�ƵL�k�z�L�۰ʤƬy�{�i���Ƥ����ɡ^
+* 子目錄 raw 用來放置指標計算所需資料（適用於所需資料無法透過自動化流程進行資料介接時）
 
-* �l�ؿ� scripts �Ψө�m�M�z��ƪ� scripts�A�M�z��������Ʒ|�פJ�t�@�l�ؿ� processed
+* 子目錄 scripts 用來放置清理資料的 scripts，清理完畢的資料會匯入另一子目錄 processed
 
-* �l�ؿ� processed �Ψө�m�w�Q�M�z���B�i�פJ���Эp��Τ��R�����
+* 子目錄 processed 用來放置已被清理到位、可匯入指標計算及分析的資料

@@ -1,13 +1,6 @@
-﻿<style>
-  a:link
-  {
-    test:expression(target="_blank")
-  }
-</style>
+﻿# 關於
 
-# 關於
-
-* 本目錄用於保存本團隊的指標說明文件
+* 本目錄用於保存本團隊的指標說明文件（文件模板請見[此](https://hackmd.io/38faQa0CSFGqeLx9t188yA)）
 
 * 本計畫指標一覽表：
 

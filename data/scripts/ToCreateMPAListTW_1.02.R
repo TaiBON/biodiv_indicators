@@ -24,10 +24,10 @@ mpalist.fatw.raw <- fread(file = "./pre-processed/MPAList_FATW_2018_02.txt",
                           encoding = "UTF-8")
 
 # 
-mpalist.fatw.tmp.1 <- unique(mpalist.fatw.raw[, c("nameOfMPA", "parentMPA", "basedOn", "level",
-                                                  "areaTotalByFATW", "areaTerrestrialByFATW",
-                                                  "areaMarineByFATW")])
-mpalist.fatw.tmp.1 <- mpalist.fatw.tmp.1[!is.na(level) & !is.na(areaTotalByFATW)]
+mpalist.fatw.tmp.1 <- unique(mpalist.fatw.raw[, c("originalOrder", "nameOfMPA", "parentMPA",
+                                                  "basedOn", "level", "areaTotalByFATW",
+                                                  "areaTerrestrialByFATW",
+                                                  "areaMarineByFATW", "typeOfCase")])
 
 #
 mpalist.fatw.tmp <- mpalist.fatw.raw[!is.na(cleanedCoordinate) & !is.na(typeOfWKT)]
@@ -84,8 +84,11 @@ mpalist.fatw.tmp[,
                                 decimalLatitude - centroidY)]
 
 # 列出地理圖資類型屬於 MULTIPOINT、POLYGON 的海洋保護區
-mpalist.fatw.plp <- unique(mpalist.fatw.tmp[, .(nameOfMPA, parentMPA, basedOn,
-                                                level, typeOfCase, typeOfWKT)])
+mpalist.fatw.plp <- unique(mpalist.fatw.tmp[, .(originalOrder, nameOfMPA, parentMPA,
+                                                basedOn, level, areaTotalByFATW,
+                                                areaTerrestrialByFATW,
+                                                areaMarineByFATW,
+                                                typeOfCase, typeOfWKT)])
 
 # 將各海洋保護區的地理圖資轉成 WKT 格式
 mpalist.fatw.wkt <- NULL
@@ -119,21 +122,11 @@ for(i in 1:nrow(mpalist.fatw.plp)) {
 
 #
 mpalist.fatw.wkt <- cbind(mpalist.fatw.plp, mpalist.fatw.wkt)
-names(mpalist.fatw.wkt)[7] <- "WKT"
+mpalist.fatw.wkt[, typeOfWKT := NULL]
+names(mpalist.fatw.wkt)[10] <- "WKT"
 
 #
-setkey(mpalist.fatw.wkt, nameOfMPA)
-setkey(mpalist.fatw.tmp.1, nameOfMPA)
-mpalist.fatw <- mpalist.fatw.tmp.1[mpalist.fatw.wkt, nomatch = NA][,
-  .(nameOfMPA,
-    parentMPA = i.parentMPA,
-    basedOn = i.basedOn,
-    level = i.level,
-    areaTotalByFATW,
-    areaTerrestrialByFATW,
-    areaMarineByFATW,
-    typeOfCase,
-    WKT)][order(basedOn)]
+mpalist.fatw <- merge(mpalist.fatw.wkt, mpalist.fatw.tmp.1, all = T)
 
 # 匯出結果
 fwrite(mpalist.fatw, file = "../processed/MPAListProcessed_FATW_2018_01.csv", sep = ",")

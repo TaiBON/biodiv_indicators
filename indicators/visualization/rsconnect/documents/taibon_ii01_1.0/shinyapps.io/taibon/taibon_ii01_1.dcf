@@ -1,0 +1,12 @@
+name: taibon_ii01_1
+title: taibon_ii01_1
+username:
+account: taibon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 344889
+bundleId: 1379303
+url: https://taibon.shinyapps.io/taibon_ii01_1/
+when: 1526584581.30729
+asMultiple: FALSE
+asStatic: FALSE

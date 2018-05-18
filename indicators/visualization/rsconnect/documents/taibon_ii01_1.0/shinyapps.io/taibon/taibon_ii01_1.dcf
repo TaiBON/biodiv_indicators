@@ -5,8 +5,8 @@ account: taibon
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 344889
-bundleId: 1379303
+bundleId: 1379797
 url: https://taibon.shinyapps.io/taibon_ii01_1/
-when: 1526584581.30729
+when: 1526609402.30788
 asMultiple: FALSE
 asStatic: FALSE

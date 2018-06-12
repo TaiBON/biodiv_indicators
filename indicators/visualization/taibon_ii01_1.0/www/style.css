@@ -1,0 +1,43 @@
+﻿body {
+  padding-bottom: 50px;
+  font-family: "微軟正黑體";
+}
+
+h1 {
+  margin-bottom: 70px; 
+}
+
+h2 {
+  margin-bottom: 25px;
+  margin-left: -15px; 
+}
+
+h3 {
+  margin-bottom: 10px; 
+}
+
+.inputTitle {
+  color: #428bca;
+  margin-top: 10px;
+}
+
+.inputTitle2 {
+  color: dark-grey;
+  margin-top: 10px;
+}
+
+.single {
+  padding-top: 5px;
+}
+
+#mpa_area, #mpa_twenty, .const {
+  color: dark-grey;
+  font-size: 40px;
+  padding-top: 5px;
+}
+
+#mpa_ratio {
+  color: dark-grey;
+  font-size: 160px;
+}
+

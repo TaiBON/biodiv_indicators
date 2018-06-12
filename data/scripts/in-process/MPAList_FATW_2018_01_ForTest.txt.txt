@@ -1,3 +1,5 @@
-﻿nameOfMPA	parentMPA	typeOfData	WKT
-東沙環礁國家公園東沙領海特別景觀區	東沙環礁國家公園	POLYGON	POLYGON((116.6667 20.5667, 116.6667 20.8167, 116.95 20.8167, 116.95 20.5667))
+﻿nameOfMPA	parentMPA	typeOfData	level	areaTotalByFATW	areaTerrestrialByFATW	areaMarineByFATW	WKT
+小港漁業資源保育區		POLYGON	3	0.45			POLYGON((121.4039 23.1708, 121.4045 23.17, 121.4062 23.1709, 121.4067 23.1576))
+
+
 

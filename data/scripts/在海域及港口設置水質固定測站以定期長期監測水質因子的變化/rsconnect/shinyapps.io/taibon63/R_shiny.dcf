@@ -1,0 +1,12 @@
+name: R_shiny
+title: R_shiny
+username:
+account: taibon63
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 398574
+bundleId: 1529871
+url: https://taibon63.shinyapps.io/R_shiny/
+when: 1533966108.03284
+asMultiple: FALSE
+asStatic: FALSE

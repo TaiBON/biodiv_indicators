@@ -1,0 +1,252 @@
+﻿year	taxonID	vernacularName	scientificName	notesToScientificName	taxonRank	SAU1	SAU2	notesToSAU2	Chang1	FB	FBthenSAU2	SAU2thenFB	FBthenSAU2Modified	notesToFBthenSAU2Modified	SAU2thenFBModified	notesToSAU2thenFBModified
+2013	100	吳郭魚類	Cichlidae	原文件中無此科級註記，而是列出 "Oreochromis hybrid" 和 "Tialpia"。	family	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	201	鯉魚	Cyprinus carpio		species	NA	NA		NA	3.1	3.1	3.1	3.1		3.1	
+2013	202	鯽魚	Carassius auratus		species	NA	NA		NA	2	2	2	2		2	
+2013	203	草魚	Ctenopharyngodon idellus		species	NA	NA		NA	2	2	2	2		2	
+2013	204	青魚	Mylopharyngodon piceus		species	NA	NA		NA	3.2	3.2	3.2	3.2		3.2	
+2013	205	大頭鰱	Aristichthys nobilis		species	NA	NA		NA	2.8	2.8	2.8	2.8		2.8	
+2013	206	竹葉鰱	Hypophthalmichthys molitrix		species	NA	NA		NA	2	2	2	2		2	
+2013	207	鯁魚	Cirrhina mditorella		species	NA	NA		NA	2	2	2	2		2	
+2013	299	其他淡水魚類	NA		NA	NA	NA		NA	3.6	3.6	3.6	3.6		3.6	
+2013	300	鰻魚	Anguilla japonica		species	NA	NA		NA	4.4	4.4	4.4	4.4		4.4	
+2013	400	淡水鯰	Silurus assotus		species	NA	NA		NA	3.4	3.4	3.4	3.4		3.4	
+2013	500	鱸魚	Lateolbrax japonicus		species	NA	3.78	Lateolabrax japonicus	NA	4	4	3.78	4		3.78	
+2013	504	紅目鱸	Psammoperca waigiensis		species	NA	3.53	map to order rank	NA	3.2	3.2	3.53	3.2		3.53	
+2013	600	泥鰍	Misgurnus anguillicandatus		species	NA	NA		NA	3.2	3.2	3.2	3.2		3.2	
+2013	700	觀賞魚類	NA		NA	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	701	錦鯉	Cyprinus carpio		species	NA	NA		NA	3.1	3.1	3.1	3.1		3.1	
+2013	789	其他觀賞蝦	NA		NA	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	799	其他觀賞魚	NA		NA	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	1001	吳郭魚類	Cichlidae		family	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	1100	鱒魚	Oncorhynchus mykiss		species	NA	NA		NA	4.1	4.1	4.1	4.1		4.1	
+2013	1200	香魚	Plecoglossus altivelis		species	NA	NA		3	2.8	2.8	2.8	2.8		2.8	
+2013	1400	虱目魚	Chanos chanos		species	2.03	2.03		NA	2.4	2.4	2.03	2.4		2.03	
+2013	1500	鮃鰈類	Psettodes erumei		species	4.39	4.39		NA	4.4	4.4	4.39	4.4		4.39	
+2013	1601	嘉臘	Pagrus major		species	3.7	3.7		3.7	3.7	3.7	3.7	3.7		3.7	
+2013	1602	赤鯮	Taius tumifrons		species	NA	3.31	map to family rank	NA	3.8	3.8	3.31	3.8		3.31	
+2013	1603	盤仔	Evynnis cardinalis		species	NA	3.31	map to family rank	3.3	3.3	3.3	3.31	3.3		3.31	
+2013	1604	黑鯛	Acanthopagrus schlegel		species	3.24	3.24		3.2	3.2	3.2	3.24	3.2		3.24	
+2013	1605	銀紋笛鯛	Lutjanus argentimaculatus		species	3.58	3.58		3.6	3.6	3.6	3.58	3.6		3.58	
+2013	1699	其他鯛	Sparidae	原文件中無此科級註記，此乃根據原文件中 "Misc. seabream" 所做的判斷。	family	3.31	3.31		NA	NA	3.31	3.31	3.31		3.31	
+2013	1701	大黃魚	Larimichthys croseus		species	NA	3.72	Larimichthys crocea	NA	3.7	3.7	3.72	3.7		3.72	
+2013	1702	小黃魚	Larimichthys polyocyis		species	NA	3.57	Larimichthys polyactis	NA	3.6	3.6	3.57	3.6		3.57	
+2013	1703	黑口	Atrobucca nibe		species	3.03	3.03		3.7	4	4	3.03	4		3.03	
+2013	1705	白口	Pennahia argentatus		species	NA	3.47	Pennahia argentata	NA	3.7	3.7	3.47	3.7		3.47	
+2013	1706	鮸魚	Miichthys miiuy		species	3.5	3.5		3.5	3.5	3.5	3.5	3.5		3.5	
+2013	1799	其他黃花魚類	Sciaenidae	原文件中無此科級註記，此乃根據原文件中 "Other croakers" 所做的判斷。	family	3.76	3.76		NA	NA	3.76	3.76	3.76		3.76	
+2013	1800	金線	Nemipterus virgatus		species	3.99	3.99		4	4	4	3.99	4		3.99	
+2013	1900	馬頭	Branchiostegus japonicus		species	NA	3.53	map to order rank	3.4	3.4	3.4	3.53	3.4		3.53	
+2013	2000	龍尖	Lethrinus miniatus		species	4.19	4.19		NA	4.2	4.2	4.19	4.2		4.19	
+2016	2001	鯉魚	Cyprinus		genus	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	2002	鯽魚	Carassius		genus	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	2003	草魚	Ctenopharyngodon idella		species	NA	NA		NA	2	2	2	2		2	
+2016	2005	鱅	Aristichthys nobilis		species	NA	NA		NA	2.8	2.8	2.8	2.8		2.8	
+2013	2100	赤海	Lutjanus bahar		species	NA	4.27	Lutjanus bohar	NA	4.3	4.3	4.27	4.3		4.27	
+2013	2200	秋姑	Parupeneus barberinus		species	3.22	3.22		NA	3.4	3.4	3.22	3.4		3.22	
+2013	2300	鸚哥魚	Cetoscarus bicolor		species	NA	2	map to family rank	NA	2	2	2	2		2	
+2013	2400	紅目鰱	Priacanthus macracanthus		species	3.8	3.8		NA	4.1	4.1	3.8	4.1		3.8	
+2013	2500	鱠	Epinephelus malabaricus		species	3.96	3.96		NA	4.2	4.2	3.96	4.2		3.96	
+2013	2600	狗母	Saurida elongata		species	NA	NA		NA	4.4	4.4	4.4	4.4		4.4	
+2013	2700	海鰻	Enchelycore schismatorhynchus		species	NA	4.07	map to family rank	NA	4.6	4.6	4.07	4.6		4.07	
+2013	2701	海鯰	Arius maculatus		species	NA	3.48	map to family rank	3.4	3.4	3.4	3.48	3.4		3.48	
+2013	2900	海鱺	Rachycentron canadus		species	NA	3.96	Rachycentron canadum	4	4	4	3.96	4		3.96	
+2013	3000	皮刀	Mene maculata		species	3.45	3.45		3.5	NA	3.45	3.45	3.45		3.45	
+2016	3000	鰻鱺科	Anguillidae		family	NA	NA		NA	3.5	3.5	3.5	3.5		3.5	
+2013	3101	圓鰺	Decapterus maruadsi		species	3.4	3.4		3.4	3.4	3.4	3.4	3.4		3.4	
+2013	3102	真鰺	Trachurus japonicus		species	3.4	3.4		3.4	3.4	3.4	3.4	3.4		3.4	
+2013	3103	扁甲鰺	Megalaspis cordyla		species	4.39	4.39		4.4	3.9	3.9	4.39	3.9		4.39	
+2013	3104	紅尾鰺	Decapterus kurroides		species	NA	4.05	map to family rank	3.4	3.4	3.4	4.05	3.4		4.05	
+2013	3105	甘仔鰺	Carangoides malaboricus		species	NA	4.36	Carangoides malabaricus	NA	3.9	3.9	4.36	3.9		4.36	
+2013	3106	紅甘鰺	Seriola dumerili		species	4.5	4.5		4.5	4.5	4.5	4.5	4.5		4.5	
+2013	3199	其他鰺	Carangidae	原文件中無此科級註記，此乃根據原文件中 "Other scads" 所做的判斷。	family	4.05	4.05		NA	NA	4.05	4.05	4.05		4.05	
+2013	3200	烏魚	Mugil cephalus		species	2.13	2.13		2.1	2.5	2.5	2.13	2.5		2.13	
+2013	3301	白鯧	Pampus argenteus		species	3.3	3.3		3.1	3.3	3.3	3.3	3.3		3.3	
+2013	3303	黑鯧	Apolectus niger		species	NA	3.64	Parastromateus niger	NA	2.9	2.9	3.64	2.9		3.64	
+2013	3399	其他鯧	Bramidae	原文件中無此科級註記，此乃根據原文件中 "Other pomfrets" 和 "燕尾鲳" 所做的判斷。	family	NA	3.53	map to order rank	NA	NA	3.53	3.53	3.53		3.53	
+2013	3400	肉魚	Psenopsis anomala		species	3.45	3.45		4	4	4	3.45	4		3.45	
+2013	3500	午仔魚	Polydactylus sextarius		species	NA	3.53	map to order rank	NA	3.8	3.8	3.53	3.8		3.53	
+2013	3600	飛魚	Cypselurus unicolor		species	NA	3.4	map to genus rank	NA	3.7	3.7	3.4	3.7		3.4	
+2013	3601	飛魚卵	NA		NA	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	3700	尖鮻	Sphyraena barracuda		species	4.49	4.49		4.5	4.5	4.5	4.49	4.5		4.49	
+2013	3800	沙鮻	Sillago sihama		species	3.33	3.33		3.4	3.3	3.3	3.33	3.3		3.33	
+2013	3900	西刀	Chirocentrus dorab		species	4.5	4.5		NA	4.4	4.4	4.5	4.4		4.5	
+2013	4000	油魚	Ruvettus pretiosus		species	4.08	4.08		4.2	4.2	4.2	4.08	4.2		4.08	
+2016	4001	淡水鯰	Clarias		genus	NA	3.47	map to species rank	NA	NA	3.47	3.47	3.47		3.47	
+2013	4002	鰶	Nematalosa japonica		species	NA	3.16	map to order rank	NA	2.4	2.4	3.16	2.4		3.16	
+2013	4300	白帶魚	Trichiurus lepturus		species	4.42	4.42		4.4	4.4	4.4	4.42	4.4		4.42	
+2013	4400	鱰	Coryphaena hippurus		species	4.37	4.37		4.4	4.4	4.4	4.37	4.4		4.37	
+2013	4500	笛鯛類	Lutjanus	原文件採用學名 Lutjanus vitta，但其俗名卻寫做 "笛鯛類"，故在此僅採信其屬級分類。	genus	4.02	4.02		NA	NA	4.02	4.02	4.02		4.02	
+2013	4601	臭肉鰮	Etrumeus teres		species	NA	3.16	map to order rank	3.5	3.6	3.6	3.16	3.6		3.16	
+2013	4602	鱙仔	Engraulis japonius		species	3.14	3.14		NA	3.1	3.1	3.14	3.1		3.14	
+2013	4603	魩仔	Emcrasicholina punctifer		species	NA	3.24	map to order rank	NA	3.3	3.3	3.24	3.3		3.24	
+2013	4604	青鱗	Sardinella sindensis		species	NA	2.77	map to genus rank	NA	2.9	2.9	2.77	2.9		2.77	
+2013	4605	丁香	Spratelloides gracilis		species	3.06	3.06		3	3.1	3.1	3.06	3.1		3.06	
+2013	4699	其他鰮類	Clupeidae	原文件中無此科級註記，此乃根據原文件中 "Other sardines" 所做的判斷。	family	3.16	3.16		NA	NA	3.16	3.16	3.16		3.16	
+2013	4700	鯖	Scomber austrlasicus		species	4.23	4.23		NA	4.2	4.2	4.23	4.2		4.23	
+2013	4801	正鰹	Katsuwonus pelamis		species	4.43	4.43		4.3	4.4	4.4	4.43	4.4		4.43	
+2013	4802	花鰹	Auxis thazard		species	4.37	4.37		NA	4.4	4.4	4.37	4.4		4.37	
+2013	4803	圓花鰹	Auxis rochei		species	4.13	4.13		4.1	4.3	4.3	4.13	4.3		4.13	
+2013	4899	其他鰹類	Katsuwonus	原文件中無此屬級註記，此乃根據原文件中 "Other skipjacks" 所做的判斷。	genus	NA	4.26	map to family rank	NA	NA	4.26	4.26	4.26		4.26	
+2013	4901	土拖鰆	Scomberomorus commerson		species	4.5	4.5		NA	4.5	4.5	4.5	4.5		4.5	
+2013	4902	馬加鰆	Scomberomorus niphonius		species	4.5	4.5		4.5	4.5	4.5	4.5	4.5		4.5	
+2013	4903	闊腹鰆	Scomberomorus koreanus		species	NA	4.35	map to genus rank	NA	4.2	4.2	4.35	4.2		4.35	
+2013	4999	其他鰆類	Scombridae	原文件中無此科級註記，此乃根據原文件中 "Other mackerels" 所做的判斷。	family	4.26	4.26		NA	NA	4.26	4.26	4.26		4.26	
+2013	5001	長鰭鮪	Thunnus alalunga		species	4.3	4.3		4.3	4.3	4.3	4.3	4.3		4.3	
+2013	5002	大目鮪	Thunnus obesus		species	4.49	4.49		4.5	4.5	4.5	4.49	4.5		4.49	
+2016	5003	紅眼沙鱸	Psammoperca waigiensis		species	NA	3.53	map to order rank	NA	4	4	3.53	4		3.53	
+2013	5003	黑鮪	Thunnus thynnus		species	NA	4.26	map to family rank	NA	4	4	4.26	4		4.26	
+2013	5003	黃鰭鮪	Thunnus albacares		species	4.41	4.41		4.3	4	4	4.41	4		4.41	
+2016	5004	尖吻鱸	Lates calcarifer		species	4.35	4.35		NA	3.8	3.8	4.35	3.8		4.35	
+2013	5005	其他鮪類	Scombridae	原文件中無此科級註記，此乃根據原文件中 "Other tunas" 所做的判斷。	family	4.26	4.26		NA	NA	4.26	4.26	4.26		4.26	
+2013	5006	南方黑鮪	Thunnus Maccoyii		species	NA	4.26	map to family rank	NA	3.9	3.9	4.26	3.9		4.26	
+2013	5101	劍旗魚	Xiphias gladius		species	4.53	4.53		4.5	4.5	4.5	4.53	4.5		4.53	
+2013	5102	紅肉旗魚	Kajikia audax		species	4.58	4.58		NA	4.5	4.5	4.58	4.5		4.58	
+2013	5103	黑皮旗魚	Makaira mazara		species	4.46	4.46		NA	4.5	4.5	4.46	4.5		4.46	
+2013	5104	白皮旗魚	Makaira indica		species	NA	4.5	Istiompax indica	4.5	4.5	4.5	4.5	4.5		4.5	
+2013	5105	雨傘旗魚	Istiophorus platypterus		species	4.5	4.5		4.5	4.5	4.5	4.5	4.5		4.5	
+2013	5106	大西洋白旗魚	Kajikia albidus		species	NA	4.48	map to family rank	NA	4.5	4.5	4.48	4.5		4.48	
+2013	5199	其他旗魚	Istiophoridae	原文件中無此科級註記，此乃根據原文件中 "Other marlin" 所做的判斷。	family	4.48	4.48		NA	NA	4.48	4.48	4.48		4.48	
+2013	5201	大鯊	Isurus glaucus		species	NA	4.5	map to genus rank	NA	4.5	4.5	4.5	4.5		4.5	
+2013	5202	鯊條	Hemitriakis japonicus	此學名可能有誤	species	NA	4.05	map to subclass rank	NA	4.4	4.4	4.05	4.4		4.05	
+2013	5203	黑鯊	Carcharhinus falciformis		species	4.51	4.51		NA	4.5	4.5	4.51	4.5		4.51	
+2013	5204	水鯊	Prionace glauca		species	4.35	4.35		NA	4.4	4.4	4.35	4.4		4.35	
+2013	5205	馬加鯊	Isurus oxyrinchus		species	NA	4.5	map to genus rank	4.5	4.5	4.5	4.5	4.5		4.5	
+2013	5300	鱝	Dasyatis akajei		species	3.84	3.84		3.8	3.8	3.8	3.84	3.8		3.84	
+2013	5400	鱈魚	Theragra chalcogramma		species	NA	NA		NA	3.6	3.6	3.6	3.6		3.6	
+2013	5500	秋刀魚	Cololabis saira		species	3.71	3.71		NA	3.7	3.7	3.71	3.7		3.71	
+2013	5600	剝皮魚	Aluterus monceros		species	NA	2.81	map to genus rank	NA	3.8	3.8	2.81	3.8		2.81	
+2013	5700	翻車魨	Mola mola		species	3.71	3.71		NA	3.7	3.7	3.71	3.7		3.71	
+2013	6000	其他魚類	NA		NA	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	6102	烏賊	Sepiidae		family	3.6	3.6		NA	NA	3.6	3.6	3.6		3.6	
+2013	6103	魷魚	Ommastrephidae		family	4.09	4.09		NA	NA	4.09	4.09	4.09		4.09	
+2013	6104	鎖管	Loliginidae		family	3.9	3.9		NA	NA	3.9	3.9	3.9		3.9	
+2013	6109	章魚	Octopodidae		family	3.59	3.59		NA	NA	3.59	3.59	3.59		3.59	
+2013	6199	其他頭足類	Cephalopoda	原文件中無此綱級註記，此乃根據原文件中 "Other cephalopods" 所做的判斷。	class	3.81	3.81		NA	NA	3.81	3.81	3.81		3.81	
+2013	6201	草蝦	Penaeus monodon		species	2.6	2.6		2	NA	2.6	2.6	2.6		2.6	
+2013	6202	斑節蝦	Penaeus japonicus		species	2.7	2.7		2	NA	2.7	2.7	2.7		2.7	
+2013	6203	沙蝦	Metapenaeus ensis		species	2.7	2.7		NA	NA	2.7	2.7	2.7		2.7	
+2013	6204	長腳大蝦	Macrobrachium rosenbergii		species	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	6205	紅尾蝦	Penaeus penicillatus		species	2.7	2.7		2	NA	2.7	2.7	2.7		2.7	
+2013	6206	厚殼蝦	Trachy penaeus	原文件採用學名 Trachy penaeus curvirostris，此為利於後續操作而捨棄亞種名。	species	NA	3.43	map to order rank	NA	NA	3.43	3.43	3.43		3.43	
+2013	6207	劍蝦	Parapenaeus hardwickii		species	NA	3.43	map to order rank	NA	NA	3.43	3.43	3.43		3.43	
+2013	6208	大頭蝦	Heterocarpus sibogae		species	NA	3.43	map to order rank	NA	NA	3.43	3.43	3.43		3.43	
+2013	6209	蘆蝦	Trachypenaeus curvirostris		species	NA	3.43	map to order rank	2	NA	3.43	3.43	3.43		3.43	
+2013	6210	龍蝦	Penulirus japonicus		species	NA	3.43	map to order rank	NA	NA	3.43	3.43	3.43		3.43	
+2013	6220	白蝦	Litopenaeus vannamei		species	NA	3.43	map to order rank	NA	NA	3.43	3.43	3.43		3.43	
+2013	6221	櫻花蝦	Sergestes lucens		species	NA	2.93	map to family rank	NA	NA	2.93	2.93	2.93		2.93	
+2013	6222	赤尾青蝦	Acetes intermedius		species	NA	2.93	map to family rank	NA	NA	2.93	2.93	2.93		2.93	
+2013	6299	其他蝦類	Decapoda	原文件中無此目級註記，此乃根據原文件中 "Other shrimps" 所做的判斷。	order	3.43	3.43		NA	NA	3.43	3.43	3.43		3.43	
+2013	6300	蝦姑	Ibacus ciliatus		species	2.6	2.6		2	NA	2.6	2.6	2.6		2.6	
+2013	6401	蟳	Scylla serrata		species	3.17	3.17		2	NA	3.17	3.17	3.17		3.17	
+2013	6402	蠘	Portunus pelagicus		species	3	3		2	NA	3	3	3		3	
+2013	6404	旭蟹	Ranina ranina		species	3.2	3.2		NA	NA	3.2	3.2	3.2		3.2	
+2013	6499	其他蟳蟹類	Decapoda	原文件中無此目級註記，此乃根據原文件中 "Other crabs" 所做的判斷。	order	3.43	3.43		NA	NA	3.43	3.43	3.43		3.43	
+2013	6501	牡蠣	Crassostrea gigas		species	2	2		NA	NA	2	2	2		2	
+2013	6502	文蛤	Meretrix lusoria		species	2	2		2	NA	2	2	2		2	
+2013	6503	蜊	Corbicula flumined		species	NA	2.1	map to phylum rank	NA	NA	2.1	2.1	2.1		2.1	
+2013	6504	血蚶	Anadara granosa		species	NA	2.1	map to phylum rank	NA	NA	2.1	2.1	2.1		2.1	
+2013	6507	九孔	Haliotis aqualilis		species	NA	2.1	map to phylum rank	NA	NA	2.1	2.1	2.1		2.1	
+2013	6508	鳳螺	Babylonia formosae		species	NA	2.1	map to phylum rank	NA	NA	2.1	2.1	2.1		2.1	
+2013	6511	西施貝	Hiatula diphos		species	NA	2.1	map to phylum rank	NA	NA	2.1	2.1	2.1		2.1	
+2013	6512	日月貝	Amusium pleuronectes		species	NA	2.1	map to phylum rank	NA	NA	2.1	2.1	2.1		2.1	
+2013	6513	蜆	Corbicula fluminea		species	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	6599	其他貝類	Mollusca	原文件中無此門級註記	phylum	2.1	2.1		NA	NA	2.1	2.1	2.1		2.1	
+2013	6601	牛蛙	Rana catesbeiana		species	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	6602	花跳	Boleophthalmus pectinirostris		species	NA	3.53	map to order rank	NA	2	2	3.53	2		3.53	
+2013	6603	鱉	Trionyx sinensis		species	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	6604	鱷魚	Alligator mississippiensis		species	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	6605	鱉蛋	NA		species	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	6700	海膽	Tripneutes gratilla		species	NA	2.3	map to phylum rank	NA	NA	2.3	2.3	2.3		2.3	
+2013	6800	海參	Stichopus japonicus		species	NA	2.3	map to phylum rank	NA	NA	2.3	2.3	2.3		2.3	
+2013	6900	珊瑚	Corallium japonicume	此學名可能有誤	species	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	7000	觀賞魚類	NA		NA	NA	NA		NA	NA	NA	NA	NA		NA	
+2013	7101	石花菜	Gelidium amansii		species	1	1		1	NA	1	1	1		1	
+2013	7102	紫菜	Porphyra tenera		species	1	1		1	NA	1	1	1		1	
+2013	7103	龍鬚菜	Gracilaria		genus	1	1		NA	NA	1	1	1		1	
+2013	7104	青海菜	NA		NA	1	1		NA	NA	1	1	1		1	
+2013	7199	其他藻類	NA		NA	1	1		NA	NA	1	1	1		1	
+2016	8001	麥奇鈎吻鮭	Oncorhynchus mykiss		species	NA	NA		NA	4.1	4.1	4.1	4.1		4.1	
+2016	9001	香魚	Plecoglossus altivelis		species	NA	NA		3	2.8	2.8	2.8	2.8		2.8	
+2016	10001	虱目魚	Chanos chanos		species	2.03	2.03		NA	2.4	2.4	2.03	2.4		2.03	
+2016	12001	真鯛	Pagrus major		species	3.7	3.7		3.7	3.7	3.7	3.7	3.7		3.7	
+2016	12002	黃背牙鯛	Dentex hypselosomus		species	NA	3.31	map to family rank	NA	3.7	3.7	3.31	3.7		3.31	
+2016	12004	黑棘鯛	Acanthopagrus schlegelii		species	3.24	3.24		NA	3.2	3.2	3.24	3.2		3.24	
+2016	12099	其他鯛	Sparidae	原文件中無此科級註記，此乃根據原文件中 "Other porgies" 所做的判斷。	family	3.31	3.31		NA	NA	3.31	3.31	3.31		3.31	
+2016	15004	白姑魚	Pennahia		genus	NA	3.76	map to family rank	NA	NA	3.76	3.76	3.76		3.76	
+2016	16001	金線魚	Nemipterus		genus	NA	3.99	map to species rank	NA	NA	3.99	3.99	3.99		3.99	
+2016	23001	大棘大眼鯛	Priacanthus macracanthus		species	3.8	3.8		NA	4.1	4.1	3.8	4.1		3.8	
+2016	26002	點帶石斑	Epinephelus coioide		species	NA	3.84	map to genus rank	NA	4	4	3.84	4		3.84	
+2016	26003	鞍帶石斑魚	Epinephelus lanceolatus		species	NA	3.84	map to genus rank	NA	4	4	3.84	4		3.84	
+2016	26099	其他石斑	Serranidae	原文件中無此科級註記，此乃根據原文件中 "Other groupers" 所做的判斷。	family	3.98	3.98		NA	NA	3.98	3.98	3.98		3.98	
+2016	29000	合齒魚科	Synodontidae		family	NA	NA		NA	NA	NA	NA	4.4	"Synodontidae" → "Saurida elongata"	4.4	"Synodontidae" → "Saurida elongata"
+2016	30000	鯙科	Muraenidae		family	4.07	4.07		NA	NA	4.07	4.07	4.07		4.07	
+2016	34001	海鱺	Rachycentron canadum		species	3.96	3.96		4	4	4	3.96	4		3.96	
+2016	35001	眼眶魚	Mene maculata		species	3.45	3.45		3.5	3.5	3.5	3.45	3.5		3.45	
+2016	36001	真鰺	Trachurus japonicus		species	3.4	3.4		3.4	3.4	3.4	3.4	3.4		3.4	
+2016	36003	藍圓鰺	Decapterus maruadsi		species	3.4	3.4		3.4	3.4	3.4	3.4	3.4		3.4	
+2016	36005	吉打副葉鰺	Alepes djedaba		species	NA	4.05	map to family rank	NA	3.3	3.3	4.05	3.3		4.05	
+2016	36099	其他鰺	Carangidae	原文件中無此科級註記，此乃根據原文件中 "Other scads" 所做的判斷。	family	4.05	4.05		NA	NA	4.05	4.05	4.05		4.05	
+2016	37001	鯔	Mugil cephalus		species	2.13	2.13		2.1	2.5	2.5	2.13	2.5		2.13	
+2016	38002	鐮鯧	Pampus echinogaster		species	NA	3.62	map to family rank	NA	3.5	3.5	3.62	3.5		3.62	
+2016	39001	刺鯧	Psenopsis anomala		species	3.45	3.45		4	4	4	3.45	4		3.45	
+2016	40000	馬鮁科	Polynemidae		family		3.53	map to order rank	NA	NA	3.53	3.53	3.53		3.53	
+2016	41001	飛魚卵	NA		NA	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	46000	帶鰆科	Gempylidae		family	NA	3.53	map to order rank	NA	NA	3.53	3.53	3.53		3.53	
+2016	48000	帶魚屬	Trichiurus		genus	4.42	4.42		NA	NA	4.42	4.42	4.42		4.42	
+2016	49001	鬼頭刀	Coryphaena hippurus		species	4.37	4.37		4.4	4.4	4.4	4.37	4.4		4.37	
+2016	51003	日本銀帶鯡	Spratelloides gracilis		species	3.06	3.06		3	3.1	3.1	3.06	3.1		3.06	
+2016	51099	其他鯡	Clupeidae	原文件中無此科級註記，此乃根據原文件中 "Other herrings/sardines/Shads" 所做的判斷。	family	3.16	3.16		NA	NA	3.16	3.16	3.16		3.16	
+2016	52001	鱙仔	Engraulis japonicus		species	3.14	3.14		NA	3.1	3.1	3.14	3.1		3.14	
+2016	52002	魩仔	Encrasicholina	原文件中無此屬級註記，而是列出 "Encrasicholina punctifer" 和 "Encrasicholina heteroloba"。	genus	NA	3.24	map to order rank	NA	NA	3.24	3.24	3.24		3.24	
+2016	53001	花腹鯖	Scomber australasicus		species	4.23	4.23		4.2	4.2	4.2	4.23	4.2		4.23	
+2016	53101	正鰹	Katsuwonus pelamis		species	4.43	4.43		4.3	4.4	4.4	4.43	4.4		4.43	
+2016	53102	扁花鰹	Auxis thazard		species	4.37	4.37		NA	4.4	4.4	4.37	4.4		4.37	
+2016	53103	圓花鰹	Auxis rochei		species	4.13	4.13		4.1	4.3	4.3	4.13	4.3		4.13	
+2016	53199	其他鰹類	Katsuwonus	原文件中無此屬級註記，此乃根據原文件中 "Other skipjacks" 所做的判斷。	genus	NA	4.26	map to family rank	NA	NA	4.26	4.26	4.26		4.26	
+2016	53201	康氏馬加鰆	Scomberomorus commerson		species	4.5	4.5		NA	4.5	4.5	4.5	4.5		4.5	
+2016	53202	日本馬加鰆	Scomberomorus niphonius		species	4.5	4.5		4.5	4.5	4.5	4.5	4.5		4.5	
+2016	53299	其他鰆類	Scombridae	原文件中無此科級註記，此乃根據原文件中 "Other mackerels" 所做的判斷。	family	4.26	4.26		NA	NA	4.26	4.26	4.26		4.26	
+2016	53301	長鰭鮪	Thunnus alalunga		species	4.3	4.3		4.3	4.3	4.3	4.3	4.3		4.3	
+2016	53302	大目鮪	Thunnus obesus		species	4.49	4.49		4.5	4.5	4.5	4.49	4.5		4.49	
+2016	53303	黃鰭鮪	Thunnus albacares		species	4.41	4.41		4.3	4.4	4.4	4.41	4.4		4.41	
+2016	53304	太平洋黑鮪	Thunnus orientalis		species	4.21	4.21		4.2	4.5	4.5	4.21	4.5		4.21	
+2016	53305	南方黑鮪	Thunnus maccoyii		species	NA	4.26	map to family rank	NA	3.9	3.9	4.26	3.9		4.26	
+2016	53399	其他鮪類	Scombridae	原文件中無此科級註記，此乃根據原文件中 "Other tunas" 所做的判斷。	family	4.26	4.26		NA	4.5	4.5	4.26	4.5		4.26	
+2016	54001	劍旗魚	Xiphias gladius		species	4.53	4.53		4.5	4.5	4.5	4.53	4.5		4.53	
+2016	55001	紅肉旗魚	Kajikia audax		species	4.58	4.58		NA	NA	4.58	4.58	4.58		4.58	
+2016	55003	黑皮旗魚	Makaira nigricans		species	NA	4.48	map to family rank	NA	4.5	4.5	4.48	4.5		4.48	
+2016	55004	立翅旗魚	Istiompax indica		species	4.5	4.5		NA	4.5	4.5	4.5	4.5		4.5	
+2016	55005	雨傘旗魚	Istiophorus platypterus		species	4.5	4.5		4.5	4.5	4.5	4.5	4.5		4.5	
+2016	56100	真鯊屬	Carcharhinus		genus	NA	4.05	map to subclass rank	NA	NA	4.05	4.05	4.05		4.05	
+2016	56201	鋸峰齒鯊	Prionace glauca		species	4.35	4.35		NA	4.4	4.4	4.35	4.4		4.35	
+2016	56301	尖吻鯖鯊	Isurus oxyrinchus		species	NA	4.5	map to genus rank	4.5	4.5	4.5	4.5	4.5		4.5	
+2016	56999	其他鯊	Elasmobranchii	原文件中無此亞綱級註記，此乃根據原文件中 "Other sharks" 所做的判斷。	subclass	4.05	4.05		NA	NA	4.05	4.05	4.05		4.05	
+2016	59001	秋刀魚	Cololabis saira		species	3.71	3.71		NA	3.7	3.7	3.71	3.7		3.71	
+2016	60000	單棘魨科	Monacanthidae		family	3	3		NA	NA	3	3	3		3	
+2016	62998	其他淡水魚類	NA		NA	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	62999	其他海水魚類	NA		NA	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	63101	阿根廷魷	Illex argentinus		species	NA	4.09	map to family rank	NA	NA	4.09	4.09	4.09		4.09	
+2016	63102	美洲大赤魷	Dosidicus gigas		species	NA	4.09	map to family rank	NA	NA	4.09	4.09	4.09		4.09	
+2016	63201	鎖管	Uroteuthis chinensis		species	NA	3.9	map to family rank	NA	NA	3.9	3.9	3.9		3.9	
+2016	63999	其他頭足類	Cephalopoda	原文件中無此綱級註記，此乃根據原文件中 "Other cephalopods" 所做的判斷。	class	3.81	3.81		NA	NA	3.81	3.81	3.81		3.81	
+2016	64002	日本對蝦	Penaeus japonicus		species	2.7	2.7		2	NA	2.7	2.7	2.7		2.7	
+2016	64003	多毛對蝦	Penaeus penicillatus		species	2.7	2.7		2	NA	2.7	2.7	2.7		2.7	
+2016	64006	羅氏沼蝦	Macrobrachium rosenbergii		species	NA	3.43	map to order rank	NA	NA	3.43	3.43	3.43		3.43	
+2016	64008	劍蝦	Parapenaeus		genus	NA	3.43	map to order rank	NA	NA	3.43	3.43	3.43		3.43	
+2016	64009	管鞭蝦	Solenocera alticarinata		species	NA	3.43	map to order rank	NA	NA	3.43	3.43	3.43		3.43	
+2016	64010	凡納對蝦	Litopenaeus vannamei		species	NA	3.43	map to order rank	NA	NA	3.43	3.43	3.43		3.43	
+2016	64011	晶瑩櫻蝦	Sergestes lucens		species	NA	2.93	map to family rank	NA	NA	2.93	2.93	2.93		2.93	
+2016	64012	間型毛蝦	Acetes intermedius		species	NA	2.93	map to family rank	NA	NA	2.93	2.93	2.93		2.93	
+2016	64101	蝦姑	Ibacus ciliatus		species	2.6	2.6		2	NA	2.6	2.6	2.6		2.6	
+2016	64202	遠海梭子蟹	Portunus pelagicus		species	3	3		2	NA	3	3	3		3	
+2016	64299	其他蟳蟹類	Decapoda	原文件中無此目級註記，此乃根據原文件中 "Other crabs" 所做的判斷。	order	3.43	3.43		NA	NA	3.43	3.43	3.43		3.43	
+2016	65001	牡蠣	Crassostrea gigas		species	2	2		NA	NA	2	2	2		2	
+2016	65002	文蛤	Meretrix lusoria		species	2	2		2	NA	2	2	2		2	
+2016	65003	蜊	Tapes		genus	NA	2.1	map to phylum rank	NA	NA	2.1	2.1	2.1		2.1	
+2016	65010	臺灣蜆	Corbicula fluminea		species	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	65999	其他貝類	Mollusca	原文件中無此門級註記	phylum	2.1	2.1		NA	NA	2.1	2.1	2.1		2.1	
+2016	66000	蛙類	Anura	原文件中無此目級註記	order	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	67001	鱉	Trionychidae		family	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	67002	鱉蛋	NA		NA	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	71000	珊瑚	Anthozoa	原文件中無此綱級註記	class	NA	NA		NA	NA	NA	NA	NA		NA	
+2016	73201	龍鬚菜	Gracilaria		genus	1	1		NA	NA	1	1	1		1	

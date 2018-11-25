@@ -1,0 +1,22 @@
+﻿fishingMethod	fishingMethodEng
+單船拖網	Otter Trawl
+雙船拖網	Bull Trawl
+鰹鮪圍網	Purse Seine for Tuna
+鮪延繩釣	Tuna Long Line
+魷釣	Squid Jigging
+漁業加工	Processing
+漁獲物搬運	Carrier
+巾著網	Purse Seine
+鯖圍網	Purse Seine for Mackerel
+刺網	Gill Net
+追逐網	Driving-in Net
+鯛及雜魚延繩釣	Misc. Fish Long Line
+曳繩網	Troll Line
+定置漁業作業	Set-Net
+火誘網	Torch Light Net
+一支釣	Pole and Line Boote
+鏢旗魚	Spear Fishing
+雜漁業	Other Fishing
+養殖漁業作業	Mariculture
+公務用	Official
+其他	Others

@@ -1,0 +1,258 @@
+shiny::runApp()
+shiny::runApp()
+runApp()
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t',
+header = F, stringsAsFactors = F,
+encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t',
+header = F, stringsAsFactors = F,
+encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t',
+header = T, stringsAsFactors = F,
+encoding = 'UTF-8')
+runApp()
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = ',',
+header = F, stringsAsFactors = F,
+encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = ',',
+header = F, stringsAsFactors = F,
+encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t',
+header = F, stringsAsFactors = F,
+encoding = 'UTF-8')
+MPAList_FA <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- MPAList_FA_ForDisplay[1]
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- MPAList_FA_ForDisplay$V1
+View(MPAList_FA)
+library(shiny)
+library(ggplot2)
+library(data.table)
+MPAList_FA[$ORIG_NAME == '墾丁國家公園']
+MPAList_FA[$_ORIG_NAME == '墾丁國家公園']
+MPAList_FA[$ORIG_NAME == '墾丁國家公園']
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA[ORIG_NAME == '墾丁國家公園']
+MPAList_FA
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA[ORIG_NAME == '墾丁國家公園']
+MPAList_FA[!(ORIG_NAME %in% MPAList_FA_ForDisplay)]
+MPAList_FA <- MPAList_FA[ORIG_NAME %in% MPAList_FA_ForDisplay]
+MPAList_FA
+View(MPAList_FA)
+names(MPAList_FA)
+?sliderInput
+runApp()
+View(MPAList_FA)
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- MPAList_FA_ForDisplay$V1
+MPAList_FA <- MPAList_FA[ORIG_NAME %in% MPAList_FA_ForDisplay]
+names(MPAList_FA)
+View(MPAList_FA)
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+names(MPAList_FA)
+runApp()
+runApp()
+names(MPAList_FA)
+MPAList_FA[LAW_TW_CODE == 6, sum(ORIG_NAME_GROUP_AREA)]
+26504.85 - MPAList_FA[LAW_TW_CODE == 6, sum(ORIG_NAME_GROUP_AREA)]
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+26504.8500 - MPAList_FA[LAW_TW_CODE == 6, sum(ORIG_NAME_GROUP_AREA)]
+includeIt <- 26504.8500 - MPAList_FA[LAW_TW_CODE == 6, sum(ORIG_NAME_GROUP_AREA)]
+includeIt
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- MPAList_FA_ForDisplay$V1
+MPAList_FA <- MPAList_FA[ORIG_NAME %in% MPAList_FA_ForDisplay]
+names(MPAList_FA)
+includeIt <- 26504.85 - MPAList_FA[LAW_TW_CODE == 6, sum(ORIG_NAME_GROUP_AREA)]
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+?round
+runApp()
+runApp()
+paste(1,2)
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+runApp()
+?hr
+runApp()
+library(rsconnect)
+rsconnect::setAccountInfo(name='taibon',
+token='73BA1E85ECD0F9E637586C9E03124173',
+secret='8plsd92hf8DnlWdxQEIcTbVIq2LTSDJE7YWxT1xN')
+runApp()
+rsconnect::setAccountInfo(name='taibon-tmp-a',
+token='041BA7C7539A5428BE34912927DA8491',
+secret='Qv4QuldD5Pu6kwF7BV+6lMsUjBP3ARCK7ePh2JBF')
+runApp()
+library(rsconnect)
+rsconnect::setAccountInfo(name='taibon-tmp-a',
+token='041BA7C7539A5428BE34912927DA8491',
+secret='Qv4QuldD5Pu6kwF7BV+6lMsUjBP3ARCK7ePh2JBF')
+runApp()
+shiny::runApp()
+shiny::runApp()
+runApp()
+shiny::runApp()
+library(shiny)
+library(ggplot2)
+library(data.table)
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- MPAList_FA_ForDisplay$V1
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- MPAList_FA_ForDisplay$V1
+MPAList_FA <- MPAList_FA[ORIG_NAME %in% MPAList_FA_ForDisplay]
+names(MPAList_FA)
+includeIt <- 26504.85 - MPAList_FA[LAW_TW_CODE == 6, sum(ORIG_NAME_GROUP_AREA)]
+includeIt
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- MPAList_FA_ForDisplay$V1
+MPAList_FA <- MPAList_FA[ORIG_NAME %in% MPAList_FA_ForDisplay]
+names(MPAList_FA)
+includeIt <- 26504.85 - MPAList_FA[LAW_TW_CODE == 6, sum(ORIG_NAME_GROUP_AREA)]
+MPAList_FA[YEAR_ESTABLISH != 9999]
+runApp()
+runApp()
+runApp()
+MPAList_FATmp <- MPAList_FA[YEAR_ESTABLISH > 1983]
+MPAList_FATmp <- MPAList_FA[YEAR_ESTABLISH >= 1983]
+MPAList_FATmp <- MPAList_FA[YEAR_ESTABLISH >= 1983]
+View(MPAList_FA)
+MPAList_FATmp <- MPAList_FA[YEAR_ESTABLISH == 1983]
+View(MPAList_FATmp)
+MPAList_FA_ForDisplay
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+shiny::runApp()
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+library(shiny)
+library(ggplot2)
+library(data.table)
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+library(data.table)
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+library(data.table)
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'fuck.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+library(data.table)
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+shiny::runApp()
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- MPAList_FA_ForDisplay$V1
+MPAList_FA <- MPAList_FA[ORIG_NAME %in% MPAList_FA_ForDisplay]
+View(MPAList_FA)
+View(MPAList_FA)
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay
+MPAList_FA_ForDisplay <- MPAList_FA_ForDisplay$V1
+MPAList_FA <- MPAList_FA[ORIG_NAME %in% MPAList_FA_ForDisplay]
+View(MPAList_FA)
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+View(MPAList_FA)
+includeIt <- 26504.85 - MPAList_FA[LAW_TW_CODE == 6, sum(ORIG_NAME_GROUP_AREA)]
+includeIt
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- fread(file = 'MPAList_FA_ForDisplay.txt', sep = '\t', header = F,
+stringsAsFactors = F, encoding = 'UTF-8')
+MPAList_FA_ForDisplay <- MPAList_FA_ForDisplay$V1
+MPAList_FA <- MPAList_FA[ORIG_NAME %in% MPAList_FA_ForDisplay]
+names(MPAList_FA)
+includeIt <- 26504.85 - MPAList_FA[LAW_TW_CODE == 6, sum(ORIG_NAME_GROUP_AREA)]
+includeIt
+MPAList_FA <- fread(file = 'MPAList_FA.txt', sep = '\t', header = T,
+stringsAsFactors = F, encoding = 'UTF-8')
+View(MPAList_FA)
+runApp()

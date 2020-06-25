@@ -10,7 +10,7 @@ State (S)
 ### Aichi Biodiversity Targets
 Target 19: By 2020, knowledge, the science base and technologies relating to biodiversity, its values, functioning, status and trends, and the consequences of its loss, are improved, widely shared and transferred, and applied.
 ### Biodiversity Action Plan
-D12030 Research of population changes of indicating animals, plants, and micro organisms. Action plan key performance indicator:
+D12030 To enhance research of population changes of indicating animals, plants, and microorganisms. Key performance indicator of the action plan:
 * Research items of changes of indicating species
 ## Background
 近年區域性蛙類族群大量減少已成為全球性重要議題，隨著氣候變遷、環境破壞、人為干擾以及外來種入侵等等因素，蛙類數量快速減少，超過30 %的蛙類物種瀕危或滅絕。本指標透過公民科學家參與，以相同規範的調查方法監測全臺常見蛙類的族群數量。透過常見蛙類的族群時間、空間變化，了解氣候變遷與環境干擾對蛙類族群影響，並提供經營決策重要資訊。

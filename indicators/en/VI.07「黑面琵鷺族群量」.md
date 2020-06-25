@@ -11,7 +11,7 @@ State (S)
 ### Aichi Biodiversity Targets
 Target 19: By 2020, knowledge, the science base and technologies relating to biodiversity, its values, functioning, status and trends, and the consequences of its loss, are improved, widely shared and transferred, and applied.
 ### Biodiversity Action Plan
-D12030 Research of population changes of indicating animals, plants, and micro organisms. Action plan key performance indicator:
+D12030 To enhance research of population changes of indicating animals, plants, and microorganisms. Key performance indicator of the action plan:
 * Research items of changes of indicating species
 ## Background
 黑面琵鷺屬於琵鷺亞科，賞鳥人士則俗稱為「黑琵」，為全球瀕危物種之一，總數量不超過3,000隻。台江國家公園地區是目前全世界黑面琵鷺數量最多的度冬棲息地，近年最大數量幾乎都在1,000隻以上。 依照農委會野生動物保育法公告之保育類野生動物名錄，黑面琵鷺屬於瀕臨絕種的類別。

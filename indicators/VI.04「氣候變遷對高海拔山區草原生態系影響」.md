@@ -23,6 +23,7 @@
 ## 指標趨勢
 --
 ## 資料管理/權責單位
-林務局
+[林務局](https://www.forest.gov.tw)
 ## 參考資訊
-劉和義 (2013) GLORIA 高海拔山區草原生態系動態複查
+* 劉和義 (2013) GLORIA 高海拔山區草原生態系動態複查。行政院農委會林務局 [URL](https://conservation.forest.gov.tw/0000847)
+* 劉和義 (2015) 高海拔山區草原生態系變遷調查。行政院農委會林務局 [URL](https://conservation.forest.gov.tw/0000754)

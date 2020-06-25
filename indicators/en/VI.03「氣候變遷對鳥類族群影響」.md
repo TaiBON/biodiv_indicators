@@ -1,26 +1,26 @@
-# VI.03「氣候變遷對鳥類族群影響」
+# VI.03 The influence of climate change on bird populations
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-選定生物族群數量
-## 指標類別
-壓力( P )
-## 指標對應
+## Themes
+Population of selected taxa
+## PSBR model type
+Pressure (P)
+## Corresponding targets
 ### SDGs
-15.5 採取緊急重大行動來減少自然棲息地的退化，遏制生物多樣性的喪失，到2020年，保護受威脅物種，防止其滅絕。
-### 愛知目標
-目標15： 到2020年，透過保育和復原行動，包括復原至少15 %退化的生態系，強化生態系的復原能力以及生物多樣性對碳吸存的貢獻，從而幫助減緩與調適氣候變遷及防止沙漠化。
-## 發展背景
-氣候變遷致使環境平均溫度上升，極端氣象事件頻率提高，部分區域降雨極端化，乾旱期延長，暴雨頻率增加等，這些極端氣象事件可能衝擊鳥類族群。變暖的溫度以及延長的乾旱期可能打亂鳥類的遷徙時鐘或打亂鳥類與居住地的生態耦合，降低鳥類族群與其他物種之同步性，致使族群數量下降。因此透過監測鳥類數量與分布變化，可了解氣候變遷對生物多樣性之衝擊。
-## 定義及計算方式
-以臺灣繁殖鳥類做為監測對象，以長期監測與生態模擬探討氣候變遷對台灣鳥類分布之影響。 選擇監測地點後，進行長時間繁殖期鳥類調查，記錄出現鳥種與密度。生態模擬以台灣151種繁殖鳥類現況分布為基礎，利用生物分布預測模式，建立鳥類分布與環境因子之關係，再利用氣候變遷情境模擬資料，預測鳥類在短、中、長期分布情形，最後以地理資訊系統(GIS)疊圖方式比較物種多樣性的改變情形。
-## 現有資料內容及所跨年度
+15.5 Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species
+### Aichi Biodiversity Targets
+Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 per cent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
+## Background
+Climate change cause average temperature of environment to rise, increasing frequency of extreme climatic events, making extreme precipitation in certain regions, prolonging drought seasons, and increasing frequency of heavy rains. These extreme climatic events would cause impacts on avian population. Warm temperature and prolonged drought season would interfere the biological clocks of migration or disturb the coupled habitats of birds, then to reduce bird population with other coupled species. Hence, we can understand the impacts of climate change on biodiversity through monitoring the changes of avian quantity and distribution.
+## Definition and Calculation
+Applying breeding birds as monitoring targets, we use long-term monitoring and ecological modeling to assess the influence of distribution of birds in Taiwan under climate change. Taking long-term breeding birds survey to record bird presence and density after selecting monitoring places. Applying species distribution models to establish the relationship between avian distribution and environmental variables based on current distribution of 151 breeding birds. Then to predict distribution patterns under short-term, mid-term, and long-term using climate change scenarios, and to compare the changes of species diversity via GIS mapping.
+## The data and temporal range
 --
-## 指標趨勢
+## Trends
 --
-## 資料管理/權責單位
-[特有生物研究保育中心](https://www.tesri.gov.tw)
-## 參考資訊
-* 李培芬 (2006) 建立台灣氣候變遷的生態預警系統-以八色鳥為例 [DOI： 10.6539/GCC.200603_(49).0003](http://dx.doi.org/10.6539%2fGCC.200603_(49).0003))
-* 丁宗蘇 (2014) 氣候變遷之高山生態系指標物種研究–鳥類指標物種調查及脆弱度分析。玉山國家公園委託研究報告 [pdf](https://www.ysnp.gov.tw/upload/documents/20150122_105012.89825.pdf)
+## Data Management Authorities
+[Endemic Species Research Institute, Council of Agriculture](https://www.tesri.gov.tw)
+## References
+* Lee, P.-F. (2006) Establishment of ecological warning system under climate change—a case study of fairy pitta. [DOI： 10.6539/GCC.200603_(49).0003](http://dx.doi.org/10.6539%2fGCC.200603_(49).0003)
+* Ting, T.-S. (2014) Indicator species of alpine ecosystem under climate change—field investigation and vulnerability analysis of avian indicator species. Yushan National Park Headquarters. [pdf](https://www.ysnp.gov.tw/upload/documents/20150122_105012.89825.pdf)

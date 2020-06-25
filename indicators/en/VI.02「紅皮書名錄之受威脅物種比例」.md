@@ -1,36 +1,36 @@
-# VI.02「紅皮書名錄之受威脅物種比例」
+# VI.02 Ratio of Threatened Species in the Red List
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-選定生物族群數量
-## 指標類別
-壓力( P )
-## 指標對應
+## Themes
+Population of selected taxa
+## PSBR model type
+Pressure (P)
+## Corresponding targets
 ### SDGs
-15.5 採取緊急重大行動來減少自然棲息地的退化，遏制生物多樣性的喪失，到2020年，保護受威脅物種，防止其滅絕。
-### 愛知目標
-目標12： 到2020年，防止了已知瀕危物種免遭滅絕，並改善族群數量下滑最嚴重的物種的保育狀況。
-### 生物多樣性行動方案
-D31031訂定與執行瀕危物種研究保育策略行動綱領(含分布、棲地、現況、趨勢、監測、威脅因子)。 行動方案績效指標：
-* 瀕危物種研究保育策略行動綱領的數目(個)
-* 瀕危物種研究保育策略行動綱領完成比例(%)
-## 發展背景
-紅皮書名錄(red list)是針對野生動植物的受威脅程度的評估名錄，不少國家都有發展出各自的物種威脅程度評估方式或系統，不過這其中最知名，也最廣泛為人使用的就是國際自然保育聯盟(International Union for Conservation of Nature, IUCN)的紅皮書系統。IUCN的紅皮書名錄是根據嚴格準則去評估數以千計物種及亞種的絕種風險所編製而成。準則是根據物種及地區釐定，旨在向公眾及決策者反映保育工作的迫切性，並協助國際社會避免物種滅絕。 透過紅皮書名錄讓我們更清楚瞭解國家內生物受到威脅的狀態、程度、原因及變化趨勢。
-## 定義及計算方式
-農委會特有生物研究保育中心和林務局依據IUCN建議類別與評估標準，對所有原生鳥種、陸域爬行類、兩棲類、淡水魚類、陸域哺乳類及維管束植物，進行國家紅皮書名錄評估，至2018年共發表6份紅皮書名錄。紅皮書名錄之受脅物種數為統計各類群中屬於極危(CR)、瀕危(EN)及易危(VU)的物種數量。
-## 現有資料內容及所跨年度
-各類群紅皮書名錄之受威脅物種比例(2016、2017年)
-## 指標趨勢
-陸域脊椎動物之紅皮書名錄計畫五年更新一次，目前包含五個類群(鳥類、陸域爬行類、兩棲類、淡水魚類、陸域哺乳類)，其中，兩棲類及淡水魚類的受威脅物種比率較高，將近30 %。 維管束植物之紅皮書名錄計畫十年更新一次，目前包含四個類群(石松類、蕨類、裸子植物、被子植物)，其中，裸子植物的受威脅物種比率更達52 %。
-## 資料管理/權責單位
-[特有生物研究保育中心](https://www.tesri.gov.tw)
-## 參考資訊
-* [臺灣物種名錄(TaiCOL)](https://taicol.tw)
-* [環境資訊中心(TEIA)](https://e-info.org.tw)
-* [2016 臺灣鳥類紅皮書名錄](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1326166430.pdf)
-* [2017 臺灣陸域爬行類紅皮書名錄](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1325552972.pdf)
-* [2017 臺灣兩棲類紅皮書名錄](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1324558041.pdf)
-* [2017 臺灣淡水魚類紅皮書名錄](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1321011833.pdf)
-* [2017 臺灣陸域哺乳類紅皮書名錄](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1323595093.pdf)
-* [2017 臺灣維管束植物紅皮書名錄](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1315069780.pdf)
+15.5 Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species
+### Aichi Biodiversity Targets
+Target 12: By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
+### Biodiversity Action Plan
+D31031 To apply and execute the endangered species research and conservation strategy action plans (includes distribution, habitats, status, trends, monitoring, and threatened factors). Action Plan Performance Indices:
+* The number of endangered species research and conservation strategy action plans
+* The complete ratio of endangered species research and conservation strategy action plans (%)
+## Background
+The Red List is an assessment list of threatened degrees of wild animals and plants. Many contries have developed their own threatened assement methods or systems, however, the most famous and widely used method is the Red List system developed by International Union for Conservation of Nature (IUCN). The IUCN Red List is compiled to assess endangered risk of thousands of species and subspecies based on strict criteria. The criteria is determined on species and regions, and the purpose is to reflect the urgency of conservation tasks to the public and decision makers and help the international communities to prevent species extinction. We can clearly acknowledge the threatened states, degrees and changing trends of local organisms through the Red List.
+## Definition and Calculation
+The Endemic Species Research Institute and Forestry Bureau, Council of Agriculture assess vulnerability of native species of birds, terrestrial reptiles, amphibians, freshwater fishes, terrestrial mammals, and vascular plants to publish national Red List based on IUCN assessment standards. Until 2018, six Red Lists were published. The number of threatened species in the Red List is to count the numbers of critical endangered (CR), endangered (EN), and vulnerable (VU) species.
+## The data and temporal range
+The threatened species ratio in the Red Lists of each taxon (2016–2017)
+## Trends
+The Red List of terrestrial mammals will update every five years, and recently it includes five taxa (birds, terrestrial reptiles, amphibians, freshwater fishes, and terrestrial mammals). The threatened species ratio of amphibians and freshwater fishes is higher than other taxa, while 30% of species are endangered. The Red List of vascular plants is planned to update every ten years. It includes four taxa recently (lycophytes, monilophytes, gymnosperms, and angiosperms), while the ratio of threatened species of gymnosperms is 52%.
+## Data Management Authorities
+[Endemic Species Research Institute, Council of Agriculture](https://www.tesri.gov.tw)
+## References
+* [Taiwan Catalogue of Life (TaiCOL)](https://taicol.tw)
+* [Taiwan Environmental Information Association (TEIA)](https://e-info.org.tw)
+* [The Red List of Birds of Taiwan, 2016](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1326166430.pdf)
+* [The Red List of Terrestrial Reptiles of Taiwan, 2017](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1325552972.pdf)
+* [The Red List of Amphibians of Taiwan, 2017](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1324558041.pdf)
+* [The Red List of Freshwater Fishes of Taiwan, 2017](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1321011833.pdf)
+* [The Red List of Terrestrial Mammals of Taiwan, 2017](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1323595093.pdf)
+* [The Red List of Vascular Plants of Taiwan, 2017](https://www.tesri.gov.tw/Uploads/userfile/A6_2/2019-02-25_1315069780.pdf)

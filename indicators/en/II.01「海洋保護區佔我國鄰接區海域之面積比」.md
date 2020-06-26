@@ -21,6 +21,6 @@ Response(R)
 ### Updates
 依據漁業署網站資料，至2018年12月底臺灣海洋保護區(不含相關漁具漁法及特定漁業禁漁區)總面積為4495.5276 km^2^，海洋保護區面積佔總水域面積之6.908 % (臺灣距岸12里內水域面積為65,076.96 km^2^)。
 ### Data Management Authorities
-海保署、漁業署、國家公園管理處、林務局、觀光局、內政部
-### 資料來源/網站連結
-[漁業署網站中漁業資源之臺灣的海洋保護區](https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=1&chk=2001739d-d4cd-4ded-bf92-d570912baf08)
+Ocean Conservation Administration, Fisheries Agency, National Park Headquarters, Forestry Bureau, Tourism Bureau, Ministry of the Interior
+### Data Source/URL
+[Taiwan’s marine protected areas of fishery resources on the website of Fisheries Agency](https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=1&chk=2001739d-d4cd-4ded-bf92-d570912baf08)

@@ -20,7 +20,7 @@ D21020 To complete the plan of terrestrial, wetland and marine biodiversity moni
 ## Definition and Calculation
 濕地資源之開發利用，經過衝擊減輕、異地補償或生態補償等措施，使濕地的面積及生態功能無損失，2015年起配合濕地保育法施行，該年的國家重要濕地面積為43,546公頃，以此為基準評估往後國家級重要濕地面積的變化。
 ## Updates
-2015年–2018年國家級重要濕地面積維持在43,546公頃
+Important wetlands at national level remain 43,546 hectares during 2015–2018
 ## Trends
 配合濕地保育法施行，2015年的重要濕地面積41,894公頃，2015年至2018年的重要濕地面積值均維持在41,894公頃。
 ## Data Management Authorities

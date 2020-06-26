@@ -18,7 +18,7 @@ Terrestrial protected areas
 2018年1月–12月申請進入野生動物保護區、自然保護區及自然保留區的巡護人次共有3,915名，申請進入案件數則是1,530件。
 ## Trends
 --(資料品質尚待改善，暫不對外提供)
-## 資料管理/權責單位
+## Data Management Authorities
 Forestry Bureau, Council of Agriculture
 ## References
 2018年林管處生態保育業務績效表總彙整

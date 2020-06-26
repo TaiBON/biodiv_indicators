@@ -1,23 +1,23 @@
-# I.08「漁船總噸數及每年降低的噸數」
+# I.08 Total Tonnage of Fishing Vessels and Tonnage Reduced Every Year
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 所屬議題
-漁業資源
-### 指標類別
-回應( R )
-### 指標對應
+### Themes
+Fishery resources
+### PSBR model type
+Response (R)
+### Corresponding targets
 #### SDGs
-14.4 有效監管採收、消除過度漁撈、以及非法、未報告及不受規範(簡稱IUU)、或毀滅性漁撈作法，並設法恢復魚量達永續發展水準
-#### 愛知目標：
-目標6 到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。
-### 發展背景
-漁船總噸數及每年降低的噸數，可反映漁業捕撈能力，該指標在生物多樣性指標聯盟的指標類別中屬於回應類指標(Response)。過度捕撈應是使漁業資源減少的主要原因之一，如何降低漁獲壓力則應訂定管理及鼓勵措施，來減少漁船船數及噸數。 一個國家漁船總噸數可在一定的程度上代表國家的漁業捕撈能力，此指標應配合有效漁船總數指標來看，避免小型船合併建造後進行作業。
-### 定義及計算方式
-漁業署核發漁船執照資料中，具有合法執照的船隻數及噸數
-### 資料更新內容
-依據民國107年(2018)漁業統計年報，動力漁船總噸數為571,040.57噸，與民國106年(2017)相比較，減少9,514.12噸。
-### 資料管理/權責單位
-漁業署
-### 資料來源/網站連結
-[漁業署網站中統計與出版品之漁業統計年報](https://www.fa.gov.tw/cht/PublicationsFishYear/index.aspx)
+14.4 By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics
+#### Aichi Biodiversity Targets:
+Target 6: By 2020 all fish and invertebrate stocks and aquatic plants are managed and harvested sustainably, legally and applying ecosystem based approaches, so that overfishing is avoided, recovery plans and measures are in place for all depleted species, fisheries have no significant adverse impacts on threatened species and vulnerable ecosystems and the impacts of fisheries on stocks, species and ecosystems are within safe ecological limits.
+### Background
+The total tonnage of fishing vessels and the reduction in tonnage each year can reflect the fishing capacity of fishery. This indicator is the response type in the Psbr model of the Biodiversity Indicators Partnership. Overfishing should be one of the major reasons for the reduction of fishery resources, and how to reduce the fishing pressure should establish management and incentive measures to reduce the number of fishing vessels and tonnage. The gross tonnage of a country’s fishing vessels can represent the country’s fishing capacity to a certain extent. This indicator should be viewed in conjunction with the index of the total number of effective fishing vessels, in order to avoid the operation of combined small ships.
+### Definition and Calculation
+The number of vessels and tonnages with legal licenses issued by Fisheries Agency, Council of Agriculture
+### Updates
+According to the fishery statistics annual report of 2018, th total tonnage of powered fishing vessels was 571,040.57 tons, which was 9,514.12 tons lower than 2017.
+### Data Management Authorities
+Fisheries Agency, Council of Agriculture
+### Data Source/URL
+[Fisheries statistical yearbook on the website of Fisheries Agency, Council of Agriculture](https://www.fa.gov.tw/cht/PublicationsFishYear/index.aspx)

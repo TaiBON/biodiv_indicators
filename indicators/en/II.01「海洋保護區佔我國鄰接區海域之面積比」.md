@@ -1,26 +1,26 @@
 # II.01「海洋保護區佔我國鄰接區海域之面積比」
-原指標名稱：海洋保護區佔領海水域之面積比
+Original indicator name: Marine protected areas at the area ratio of territorial sea
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 所屬議題
-海洋保護區
-### 指標類別
-回應 ( R )
-### 指標對應
+### Themes
+Marine protected areas
+### PSBR model type
+Response(R)
+### Corresponding targets
 #### SDGs
 14.5.1 海洋保護區面積占我國海洋區域的比例。 2020年量化目標：海洋保護區面積占我國12浬海洋區域之比例為47.8%。
-#### 愛知目標：
+#### Aichi Biodiversity Targets:
 目標11 到 2020 年，至少有 17%的陸地、內陸水域和 10%沿海和海洋區域，尤其是對於生物多樣性和生態系服務具有特殊重要性的區域，因有效而公平的管理，和透過生態上具代表性和妥善關聯的保護區系統和其他以地區為保育基礎的有效措施而受到保護，並納入更廣泛的土地景觀和海洋景觀系統中。
-### 發展背景
+### Background
 海洋保護區 (marine protected area, MPA) 概念上為受到保護的大洋 (oceans)、海洋 (seas)、河口或大湖區域，通常是以特定形式限制人類活動以保護其中的自然或文化資源。 臺灣政府對海洋保護區之定義，根據漁業署官方網站公告，為「平均高潮線往海洋延伸之一定範圍內，具有特殊自然景觀、重要文化遺產及永續利用之生態資源等，需由法律或其他有效方式進行保護管理之區域。」
-### 定義及計算方式
+### Definition and Calculation
 1. 臺灣海洋保護區的法源有多種，受保護的嚴格程度也各不相同，計算前需明訂範圍（例如只納入受保護程度最高的海洋保護區）後始加總符合條件的海洋保護區面積並扣除相互重疊部分。
 2. 因臺灣的國際地位特殊，目前無法公告200浬經濟海域面積，如依過去計算以12浬領海面積做為計算分母，與國際無法比較。108年11月19日在海洋保育署開會的結論建議，把過去所用的含內水的領海的分母改為鄰接區海域作為分母。
 3. 因尚未有鄰接區海域之資料，故目前指標趨勢所呈現的資料單位為海洋保護區累積面積 (km^2^)。
-### 資料更新內容
+### Updates
 依據漁業署網站資料，至2018年12月底臺灣海洋保護區(不含相關漁具漁法及特定漁業禁漁區)總面積為4495.5276 km^2^，海洋保護區面積佔總水域面積之6.908 % (臺灣距岸12里內水域面積為65,076.96 km^2^)。
-### 資料管理/權責單位
-海保署、漁業署、國家公園管理處、林務局、觀光局、內政部
-### 資料來源/網站連結
-[漁業署網站中漁業資源之臺灣的海洋保護區](https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=1&chk=2001739d-d4cd-4ded-bf92-d570912baf08)
+### Data Management Authorities
+Ocean Conservation Administration, Fisheries Agency, National Park Headquarters, Forestry Bureau, Tourism Bureau, Ministry of the Interior
+### Data Source/URL
+[Taiwan’s marine protected areas of fishery resources on the website of Fisheries Agency](https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=1&chk=2001739d-d4cd-4ded-bf92-d570912baf08)

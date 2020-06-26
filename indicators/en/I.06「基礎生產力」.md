@@ -7,7 +7,7 @@ Fishery resources
 State (S)
 ### Corresponding targets
 #### SDGs
-14.2 以永續方式管理並保護海洋與海岸生態
+14.2 Managing and protecting marine and coastal ecology in a sustainable way
 #### Aichi Biodiversity Targets
 目標6 到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。
 ### Background

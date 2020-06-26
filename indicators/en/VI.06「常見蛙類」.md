@@ -1,4 +1,4 @@
-# VI.06 Common frogs
+# VI.06 Common Frogs
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

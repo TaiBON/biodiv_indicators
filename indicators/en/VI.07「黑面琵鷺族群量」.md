@@ -1,4 +1,4 @@
-# VI.07 Population of black-faced spoonbill (*Platalea minor*)
+# VI.07 Population of Black-faced Spoonbill (*Platalea minor*)
 Original indicator number: IV.05
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -20,11 +20,11 @@ D12030 To enhance research of population changes of indicating animals, plants, 
 ## The data and temporal range
 Global consensus of black-faced spoonbill (2007–2019)
 ## Updates
-2019年全台共記錄到2,407隻，佔全球約54%的族群量，相較於2018年增加212隻。
+In 2019, a total of 2,407 individuals were recorded in Taiwan, accounting for about 54% of the global population, and increased 212 individuals compared to 2018.
 ## Trends
-趨勢圖資料來自黑面琵鷺全球同步普查，從2011年開始，黑面琵鷺數量逐年上升，且仍有一半以上的族群量在臺灣度過冬季。
+The data of the trend map is from the global synchronous census of black-faced spoonbill. Since 2011, the number of black-faced spoonbill has increased year by year, and more than half of the populations still spend winter in Taiwan.
 ## Data Management Authorities
 Chinese Wild Bird Federation, Chiku Research Center of Endemic Research Institute, Black-Faced Spoonbill Conservation Association, Hong Kong Bird Watching Society, Wild Bird Society of Tainan
 ## Data sources/URL
-* [黑面琵鷺保育學會2018年黑面琵鷺全球同步普查結果](http://www.bfsa.org.tw/tc/research-in.php?cn=44&&id=353)
-* [香港觀鳥會2019年黑面琵鷺全球同步普查結果](https://www.hkbws.org.hk/cms/join-us-tw/zh-tw/project-tw/endangered-species-tw/bfs/bfs-census2019)
+* [2018 International Black-faced Spoonbill Census results, Black-faced Spoonbill Conservation Society](http://www.bfsa.org.tw/tc/research-in.php?cn=44&&id=353)
+* [2019 International Black-faced Spoonbill Census result, Hong Kong Bird Watching Society](https://www.hkbws.org.hk/cms/join-us-tw/zh-tw/project-tw/endangered-species-tw/bfs/bfs-census2019)

@@ -13,7 +13,7 @@ Target 19: By 2020, knowledge, the science base and technologies relating to bio
 D12030 To enhance research of population changes of indicating animals, plants, and microorganisms. Key performance indicator of the action plan:
 * Research items of changes of indicating species
 ## Background
-近年區域性蛙類族群大量減少已成為全球性重要議題，隨著氣候變遷、環境破壞、人為干擾以及外來種入侵等等因素，蛙類數量快速減少，超過30 %的蛙類物種瀕危或滅絕。本指標透過公民科學家參與，以相同規範的調查方法監測全臺常見蛙類的族群數量。透過常見蛙類的族群時間、空間變化，了解氣候變遷與環境干擾對蛙類族群影響，並提供經營決策重要資訊。
+Recently, the massive reduction of regional frog populations has become an important global issue. Along with climate change, environmental destruction, human disturbance and invasion of alien species, the number of frogs has decreased rapidly, and over 30% of frog species are endangered or extinct. Through participation of citizen scientists, this indicator monitors the populations of common frogs in Taiwan with the same standardized methods of investigation. Through the temporal and spatial changes of common frog populations, to understand the influence of climate chagne and environmental disturbance on populations of frogs, and provide important information for management and decision-making.
 ## Definition and Calculation
 以兩棲類資源調查資料計算常見蛙類中原生種、特有種與外來種在全臺灣各地的數量，並計算此3類在各年度總數量個別百分比，以了解組成趨勢。
 ## Updates

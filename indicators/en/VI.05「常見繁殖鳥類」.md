@@ -13,7 +13,7 @@ Target 19: By 2020, knowledge, the science base and technologies relating to bio
 D12030 To enhance research of population changes of indicating animals, plants, and microorganisms. Key performance indicator of the action plan:
 * Research items of changes of indicating species
 ## Background
-鳥類族群指標是一般大眾較熟習的物種，有長期的監測資料且被認為是絕佳的環境健康反映指標。繁殖鳥類調查(breeding bird survey, BBS)是針對常見鳥類的大尺度長時間調查計畫。計畫結合政府機關與民間組織，透過公民科學家參與，以相同規範的調查方法監測全臺常見鳥類的族群數量。透過常見鳥類的族群時間、空間變化，推衍環境與鳥類族群的相互關係，並提供經營決策重要資訊。
+Bird is a well known taxon to the public, which has long-term monitoring data and is considered to be an excellent environmental health indicator. Breeding bird survey (BBS) is a large-scale and long-term suvery project for common birds. The project incorperate government agencies and non-governmental organizations, through the participation of citizen scientists, to monitor the populations of common birds in Taiwan with same standardized survey methods. Through the temporal and spatial changes of common bird populations, the relationship among the environment and bird populations is derived, and to provide important information for management and decision-making.
 ## Definition and Calculation
 Raw data is composed of 92 common bird species derived from all of the surveys in Taiwan, which represents the spatial density and temporal frequency of avian monitoring. the common bird indicator is based on the number of avian surveys within a specific year. The indicator uses the statistics of common birds in different years, and uses the number of bird in different habitat to calculate. The code of the diagram is listed as the following:
 | Code | Represented habitats     |

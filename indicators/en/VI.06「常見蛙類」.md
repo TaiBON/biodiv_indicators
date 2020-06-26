@@ -15,7 +15,7 @@ D12030 To enhance research of population changes of indicating animals, plants, 
 ## Background
 Recently, the massive reduction of regional frog populations has become an important global issue. Along with climate change, environmental destruction, human disturbance and invasion of alien species, the number of frogs has decreased rapidly, and over 30% of frog species are endangered or extinct. Through participation of citizen scientists, this indicator monitors the populations of common frogs in Taiwan with the same standardized methods of investigation. Through the temporal and spatial changes of common frog populations, to understand the influence of climate chagne and environmental disturbance on populations of frogs, and provide important information for management and decision-making.
 ## Definition and Calculation
-以兩棲類資源調查資料計算常見蛙類中原生種、特有種與外來種在全臺灣各地的數量，並計算此3類在各年度總數量個別百分比，以了解組成趨勢。
+Calculate the number of native, endemic, and alien species in common frogs of Taiwan based on the investigation data of amphibians resources, and calculate the individual percentage of total number of these three categories in each year to understand the composition trends.
 ## Updates
 2017年11月13日–2018年11月12日，全台共記錄到109,214隻次的蛙類，其中以拉都希氏赤蛙的數量最多，共12,295隻次，外來種班腿樹蛙位居第二，數量為11,572隻次。外來種的比率佔10.76%、原生種是54.22%、特有種則是35.03%。
 ## Trends

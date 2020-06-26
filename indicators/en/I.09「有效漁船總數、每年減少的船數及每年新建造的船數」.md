@@ -1,11 +1,11 @@
-# I.09「有效漁船總數、每年減少的船數及每年新建造的船數」
+# I.09 The Total Number of Effective Fishing Vessels, the Number of Vessels Reduced Yearly and the Number of Newly Constructed Vessels Yearly
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ### Themes
 Fishery resources
 ### PSBR model type
-回應( R )
+Response (R)
 ### Corresponding targets
 14.4 有效監管採收、消除過度漁撈、以及非法、未報告及不受規範(簡稱IUU)、或毀滅性漁撈作法，並設法恢復魚量達永續發展水準
 #### Aichi Biodiversity Targets
@@ -19,4 +19,4 @@ Fishery resources
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL
-[漁業署網站中統計與出版品之漁業統計年報](https://www.fa.gov.tw/cht/PublicationsFishYear/index.aspx)
+[Fisheries statistical yearbook on the website of Fisheries Agency, Council of Agriculture](https://www.fa.gov.tw/cht/PublicationsFishYear/index.aspx)

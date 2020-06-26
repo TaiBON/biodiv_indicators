@@ -8,7 +8,7 @@
 回應( R )
 ### 指標對應
 #### SDGs
-14.4 在西元 2020 年以前，有效監管採收，消除過度漁撈，以及非法的、未報告的、未受監管的（以下簡稱 IUU）、或毀滅性魚撈作法，並實施科學管理計畫，在最短的時間內，將魚量恢復到依據它們的生物特性可產生最大永續發展的魚量。
+14.4 By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics
 #### 愛知目標：
 目標6 到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。
 ### 發展背景

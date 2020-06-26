@@ -1,12 +1,12 @@
-# I.07「投入漁業生物研究及基礎調查的經費」
+# I.07 Budgets Invested in Fishery Biological Research and Fundamental Investigation
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 所屬議題
-漁業資源
-### 指標類別
-回應( R )
-### 指標對應
+### Themes
+Fishery resources
+### PSBR model type
+Response (R)
+### Corresponding targets
 #### SDGs
 14.4 By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics
 #### Aichi Biodiversity Targets

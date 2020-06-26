@@ -21,6 +21,6 @@ No data currently available
 ### Trends
 --
 ### Data Management Authorities
-漁業署、國家公園管理處、海保署、縣市政府
-### 資料來源/網站連結
+Fisheries Agency, National Park Headquarters, Ocean Conservation Administration, County Government
+### Data Source/URL
 --

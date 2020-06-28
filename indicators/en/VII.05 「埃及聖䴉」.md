@@ -1,4 +1,4 @@
-# VII.05 African sacred ibis
+# VII.05 African Sacred Ibis
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -13,12 +13,12 @@ Pressure (P)
 Target 9: By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
 ### Biodiversity Action Plan
 D41050 Prevension of invasive species:
-1. 研擬新入侵生物緊急撲滅計畫，並聯合地方政府定期演習。
-2. 建立已入侵生物長期防治計畫，將入侵種造成之經濟損失及生態衝擊降至最小。
+1. Develop an emergency extermination plan for new invasive species, and cooperate with local governments in regular exercises.
+2. Establish a long-term prevention plan for invasive organisms to minimize the economic loss and ecological impact caused by invasive species.
 
 Key performance indicator of the action plan
-* 辦理或執行已入侵生物防治計畫之物種數、地區數及撲滅案件數
-* 已入侵生物分布範圍或數量減少比例或數量
+* Number of species, areas, and extinguishment cases handled or executed for the invasive species control plan
+* The decreasing ratio or amount of the distribution or number of invasive species
 ## Background
 埃及聖䴉原產於非洲與中東地區，1984年在台北關渡首次記錄到埃及聖䴉野外個體，現今已遍布西部各沿海溼地。埃及聖䴉與台灣本地鷺科鳥類在食物、巢樹等生態資源上有諸多重疊，其高環境適應力及廣泛的食性，對原生鳥種造成生存及繁殖上的競爭排除效應，因此需監測埃及聖䴉的族群數量變化，並逐步移除，降低其威脅性。
 ## Definition and Calculation

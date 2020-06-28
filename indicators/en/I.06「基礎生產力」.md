@@ -7,8 +7,8 @@ Fishery resources
 State (S)
 ### Corresponding targets
 #### SDGs
-14.2 Managing and protecting marine and coastal ecology in a sustainable way
-#### Aichi Biodiversity Targets
+14.2 Ensure the sustainable management and protection of marine and coastal ecosystems
+#### Aichi Biodiversity Targets:
 Target 6 By 2020 all fish and invertebrate stocks and aquatic plants are managed and harvested sustainably, legally and applying ecosystem based approaches, so that overfishing is avoided, recovery plans and measures are in place for all depleted species, fisheries have no significant adverse impacts on threatened species and vulnerable ecosystems and the impacts of fisheries on stocks, species and ecosystems are within safe ecological limits.
 ### Background
 海洋基礎生產力的大小，是評估一海域漁業生產力的基本參數，就實際上應用而言，將實測得到的基礎生產力和利用漁業統計年報求得的基礎生產力與基礎生產力 (primary production required to sustain fisheries, PPR) 相較，探討臺灣漁場是否有過漁之情形。

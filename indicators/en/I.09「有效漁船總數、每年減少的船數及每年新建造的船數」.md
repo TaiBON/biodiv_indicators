@@ -7,7 +7,7 @@ Fishery resources
 ### PSBR model type
 Response (R)
 ### Corresponding targets
-14.4 有效監管採收、消除過度漁撈、以及非法、未報告及不受規範(簡稱IUU)、或毀滅性漁撈作法，並設法恢復魚量達永續發展水準
+14.4 Effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics
 #### Aichi Biodiversity Targets
 Target 6 By 2020 all fish and invertebrate stocks and aquatic plants are managed and harvested sustainably, legally and applying ecosystem based approaches, so that overfishing is avoided, recovery plans and measures are in place for all depleted species, fisheries have no significant adverse impacts on threatened species and vulnerable ecosystems and the impacts of fisheries on stocks, species and ecosystems are within safe ecological limits.
 ### Background

@@ -2,15 +2,15 @@
 原指標名稱：保護區內選定生物族群數量
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-陸域保護區
-## 指標類別
-狀態( S )
-## 指標對應
+## Themes
+Terrestrial protected areas
+## PSBR model type
+State (S)
+## Corresponding targets
 ### SDGs
 15.4 到2030年，保護山地生態系統，包括其生物多樣性，以便加強山地生態系統的能力，使其能夠帶來對可持續發展必不可少的益處。
-### 愛知目標
-目標12： 到2020年，防止了已知瀕危物種免遭滅絕，並改善族群數量下滑最嚴重的物種的保育狀況。
+### Aichi Biodiversity Targets
+Target 12: By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
 ### 生物多樣性行動方案
 D12030加具指標性之動物、植物、微生物物種族群變化之研究。 行動方案績效指標：
 * 指標性物種類群變化之研究項目

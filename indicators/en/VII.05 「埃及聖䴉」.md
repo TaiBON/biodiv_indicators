@@ -20,10 +20,10 @@ Key performance indicator of the action plan
 * Number of species, areas, and extinguishment cases handled or executed for the invasive species control plan
 * The decreasing ratio or amount of the distribution or number of invasive species
 ## Background
-埃及聖䴉原產於非洲與中東地區，1984年在台北關渡首次記錄到埃及聖䴉野外個體，現今已遍布西部各沿海溼地。埃及聖䴉與台灣本地鷺科鳥類在食物、巢樹等生態資源上有諸多重疊，其高環境適應力及廣泛的食性，對原生鳥種造成生存及繁殖上的競爭排除效應，因此需監測埃及聖䴉的族群數量變化，並逐步移除，降低其威脅性。
+The Egyptian Sacred Ibis is native to Africa and the Middle East. In 1984, the wild individuals of the Egyptian Sacred Ibis were first recorded in Guandu, Taipei. Nowadays, it has widely spread all over the western coastal wetlands in Taiwan. There is a lot of overlap between the Egyptian Sacred Ibis and the local heron birds in Taiwan in terms of food, nest trees and other ecological resources. Their high environmental adaptability and wide variety of diets have a competitive exclusion effect on the survival and reproduction of native bird species, so Egyptian Sacred Ibis needs to be monitored. It is also needed to remove Egyptian Sacred Ibis gradually, reducing their threat.
 ## Definition and Calculation
-* 1995年至2010年的資料來自中華野鳥學會與林務局的補助計畫—98年度入侵種埃及聖䴉對於臺灣地區鳥類生態影響之研究，為進行年間的比較，將資料表準化，該計畫以各縣市該年度的最大族群量相加，作為該年度的聖䴉族群量代表。
-* 2011年至2014年由於缺乏相關計畫做參考，因此，是以eBird回報紀錄做為依據。將數據中缺值或不合理的紀錄去除後，以各縣市該年度的最大族群量相加，做為該年度的聖䴉族群量代表。
+* The data from 1995 to 2010 came from the subsidy project of the Chinese Wild Bird Society and the Forest Bureau— The impact of invasive Egyptian Sacred Ibis on native birds in Taiwan, 2009. In order to compare year by year, the data was standardized to represent the population of Egyptian Sacred Ibis of the year by summation the maximum population of each county in the year.
+* Due to the lack of relevant plans for reference from 2011 to 2014, it is based on the eBird records. After removing missing or unreasonable records of the data, the Egyptian Sacred Ibis population of the year is represented by summation of the maximum population of each county in the year.
 * 2015年至2017年的資料，來自林務局104年度至106年度埃及聖䴉族群管理試驗計畫，調查是於每年8至11月各月份的最後一個周末，由各地鳥於西部各濱海地區及濕地，依埃及聖䴉可能出沒地區採區域搜尋法進行同步調查，後統計各縣市調查資料，估算當年度的族群數量。
 * 2018年的資料，則是來自林務局107年度外來入侵鳥種埃及聖䴉族群管理結案報告與eBird的回報紀錄，將eBird數據中缺值或不合理的紀錄去除後，以各縣市該年度的最大族群量相加，之後，再加上該年度計畫移除的蛋、幼鳥、亞成鳥及成鳥的數量，做為該年度的聖䴉族群量代表。
 ## The data and temporal range

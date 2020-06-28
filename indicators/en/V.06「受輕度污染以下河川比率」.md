@@ -2,16 +2,16 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-陸域保護區
-## 指標類別
-壓力( P )
-## 指標對應
+## Themes
+Terrestrial protected areas
+## PSBR model type
+Pressure (P)
+## Corresponding targets
 ### SDGs
 6.3 改善民眾居住衛生，提升河川水質；加強推動廢污水妥善 處理；以公共污水廠二級處理放流水循環利用作為新興水源，提升水資源利用效率、降低傳統水資源開發需求；加強事業廢污水排放稽查管制，查緝可疑污染源，遏止水質污染情形發生；優化河川水質以保障國民健康及維護生態體系；強化化學物質流向勾稽，精進管理效能。
-### 愛知目標
-目標8： 至遲於2020年，污染，包括優養化，被控制到不危害生態系功能和生物多樣性的範圍。
-### 生物多樣性行動方案
+### Aichi Biodiversity Targets
+Target 8: By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
+### Biodiversity Action Plan
 D43010 訂定河川污染改善計畫與時程，逐年使河川與河口水質之營養鹽與重金屬含量低於國際標準。 行動方案績效指標：
 * 河川水質達成不缺氧、不發臭(DO＞2mg/L)之河川長度比例
 * 海洋環境品質達甲類及乙類標準的河口數量

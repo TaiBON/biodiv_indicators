@@ -10,7 +10,7 @@ State (S)
 #### SDGs
 14.1 減少各式海洋污染，包括營養鹽及海洋廢棄物。 14.1.1 沿岸區域優養化指數及漂流塑膠。 2020年量化目標：臺灣海洋廢棄物治理行動方案執行期間暫訂為2018至2022年。持續推動「治理行動方案」之「進行中行動方案」及執行「未來行動」，以有效減少廢棄物之產生與降低對海洋環境生態之衝擊。
 #### Aichi Biodiversity Targets:
-目標8 到 2020 年，污染，包括優養化，被控制到不危害生態系功能和生物多樣性的範圍。
+Target 8 By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
 ### Background
 海洋垃圾 (marine debris，或稱 marine litter)，常用定義為「遭人為丟棄、處置或不慎遺棄之任何物體，進入海岸或海洋環境者」。海洋垃圾可能來自陸上與海上，陸上來源包含垃圾掩埋場、河川夾帶、汙水排水系統溢漏、工業廢棄物以及海岸休閒觀光等；來自海上者則有船舶貨品、郵輪航道、漁船廢棄漁具、軍艦與研究船排放垃圾、離岸天然氣與石油開採設施、水產養殖設施等。如果從分布地點看，則可再細分為海底垃圾 (seafloor marine debris, SMD)、海漂垃圾 (floating marine debris, FMD) 以及海灘垃圾 (beached marine debris, BMD)。 由於人類密集居住於海濱地區，加上海上航運、漁業行為日益活絡，造成海上垃圾經年累月累積後，數量日益龐大，甚至在海上聚集成大如島嶼的漂流物，延伸可長達五百海浬，被謔稱為「塑膠濃湯 (plastic soup)」，其危害日鉅，成為我們應該努力面對的問題。
 ### Definition and Calculation

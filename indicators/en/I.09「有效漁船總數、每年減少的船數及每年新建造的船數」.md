@@ -9,7 +9,7 @@ Response (R)
 ### Corresponding targets
 14.4 有效監管採收、消除過度漁撈、以及非法、未報告及不受規範(簡稱IUU)、或毀滅性漁撈作法，並設法恢復魚量達永續發展水準
 #### Aichi Biodiversity Targets
-目標6 到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。
+Target 6 By 2020 all fish and invertebrate stocks and aquatic plants are managed and harvested sustainably, legally and applying ecosystem based approaches, so that overfishing is avoided, recovery plans and measures are in place for all depleted species, fisheries have no significant adverse impacts on threatened species and vulnerable ecosystems and the impacts of fisheries on stocks, species and ecosystems are within safe ecological limits.
 ### Background
 過度捕撈應是使漁業資源減少的主要原因之一，如何降低漁獲壓力則應訂定管理及鼓勵措施，來減少漁船船數及噸數。由於有不少漁船實際上並非從事漁業活動或處於休漁狀態，故需再由港檢所登記漁船出海的日誌或 VDR 的記錄來估算有效漁船的總數及每年減少的船數，希望船數每年能減少。通常每年新建造的漁船，雖然噸數須小於汰建的舊船，但其漁獲效率卻會大幅增加，故新建船數的統計會是重要的指標。
 ### Definition and Calculation

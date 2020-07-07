@@ -12,7 +12,7 @@ Pressure (P)
 ### Aichi Biodiversity Targets
 Target 12: By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
 ### 生物多樣性行動方案
-D31030加強野生動植物產製品查緝能力與落實執行。 行動方案績效指標：
+D31030 加強野生動植物產製品查緝能力與落實執行。 行動方案績效指標：
 * 改善查驗技術之案件數
 * 生物多樣性產製品之查驗件數
 ## 發展背景

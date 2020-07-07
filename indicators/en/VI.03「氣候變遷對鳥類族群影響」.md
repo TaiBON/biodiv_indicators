@@ -14,7 +14,7 @@ Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to
 ## Background
 Climate change cause average temperature of environment to rise, increasing frequency of extreme climatic events, making extreme precipitation in certain regions, prolonging drought seasons, and increasing frequency of heavy rains. These extreme climatic events would cause impacts on avian population. Warm temperature and prolonged drought season would interfere the biological clocks of migration or disturb the coupled habitats of birds, then to reduce bird population with other coupled species. Hence, we can understand the impacts of climate change on biodiversity through monitoring the changes of avian quantity and distribution.
 ## Definition and Calculation
-以臺灣繁殖鳥類做為監測對象，以長期監測與生態模擬探討氣候變遷對台灣鳥類分布之影響。 選擇監測地點後，進行長時間繁殖期鳥類調查，記錄出現鳥種與密度。生態模擬以台灣151種繁殖鳥類現況分布為基礎，利用生物分布預測模式，建立鳥類分布與環境因子之關係，再利用氣候變遷情境模擬資料，預測鳥類在短、中、長期分布情形，最後以地理資訊系統(GIS)疊圖方式比較物種多樣性的改變情形。
+Applying breeding birds as monitoring targets, we use long-term monitoring and ecological modeling to assess the influence of distribution of birds in Taiwan under climate change. Taking long-term breeding birds survey to record bird presence and density after selecting monitoring places. Applying species distribution models to establish the relationship between avian distribution and environmental variables based on current distribution of 151 breeding birds. Then to predict distribution patterns under short-term, mid-term, and long-term using climate change scenarios, and to compare the changes of species diversity via GIS mapping.
 ## The data and temporal range
 --
 ## Trends

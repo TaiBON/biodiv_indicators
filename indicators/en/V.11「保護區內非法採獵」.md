@@ -2,15 +2,15 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-陸域保護區
-## 指標類別
-壓力( P )
-## 指標對應
+## Themes
+Terrestrial protected areas
+## PSBR model type
+Pressure (P)
+## Corresponding targets
 ### SDGs
 15.7 採取緊急行動，終止偷獵和販賣受保護的動植物物種，處理非法野生動植物產品的供求問題。
-### 愛知目標
-目標12： 到2020年，防止了已知瀕危物種免遭滅絕，並改善族群數量下滑最嚴重的物種的保育狀況。
+### Aichi Biodiversity Targets
+Target 12: By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
 ### 生物多樣性行動方案
 D31030加強野生動植物產製品查緝能力與落實執行。 行動方案績效指標：
 * 改善查驗技術之案件數

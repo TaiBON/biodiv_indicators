@@ -12,7 +12,7 @@ Pressure (P)
 ### Aichi Biodiversity Targets
 Target 12: By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
 ### Biodiversity Action Plan
-D31031 To apply and execute the endangered species research and conservation strategy action plans (includes distribution, habitats, status, trends, monitoring, and threatened factors). Action Plan Performance Indices:
+D31031 To develop and implement action plans for the endangered species research and conservation strategies (includes distribution, habitats, status, trends, monitoring, and threat factors). Key performance indicator of the action plan:
 * The number of endangered species research and conservation strategy action plans
 * The complete ratio of endangered species research and conservation strategy action plans (%)
 ## Background

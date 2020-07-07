@@ -3,27 +3,27 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 所屬議題
-海洋污染
-### 指標類別
-壓力( P )
-### 指標對應
+### Themes
+Marine pollution
+### PSBR model type
+Pressure (P)
+### Corresponding targets
 #### SDGs
 14.1 減少各式海洋污染，包括營養鹽及海洋廢棄物。 14.1.2 2020年量化目標：8項水質項目合格率維持在99.5%以上。
-#### 愛知目標：
-目標8 到 2020 年，污染，包括優養化，被控制到不危害生態系功能和生物多樣性的範圍。
-### 發展背景
+#### Aichi Biodiversity Targets:
+Target 8 By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
+### Background
 在海洋中可發現許多有毒金屬包括汞，鎘，鉛，銅，和鋅等等。這些金屬元素可能單獨存在或與有機化合物相結合，毒性變得更強。例如，汞與碳結合後可形成神經毒性化合物甲基汞(CH3Hg)。雖然許多金屬在環境中自然存在，但工業和採礦活動造成的人為排放可能會加深許多毒性的濃度，若有可自動連續監測之水質項目，應將實測的原始數據建置資料庫並上網公開，此方式可據此找到污染源，予以告發並有效遏止偷排污染的行為。
-### 定義及計算方式
+### Definition and Calculation
 海域環境水質監測數據合格率之計算方式，是將各測站水質監測結果 (包括pH值、溶氧量、重金屬鎘、鉛、汞、銅、鋅共計 7 項)，與其所屬海域環境分類與水質標準進行單一比較統計。
 
 $$ 單一項目合格率(\%)=\frac{單一項目水質符合水質標準總次數}{單一項目水質指標有效監測總次數}\times100\% $$
 
 $$ 總合格率(\%)={\frac{7項水質指標項目符合水質標準總次數}{7 項水質指標有效監測總次數}}{\times}100\% $$
 
-### 資料更新內容
+### Updates
 2018 年水質監測結果，總達成率為 99.7 %。其中 pH值達成率為 99.0 %、溶氧量達成率為 99.5 %、銅達成率為 99.3 %，其他部分包括重金屬（鎘、鉛、鋅與汞）等項目的達成率均為 100.0%。
-### 資料管理/權責單位
-海保署(2018年以前為環保署)
-### 資料來源/網站連結
+### Data Management Authorities
+Ocean Conservation Administration( Environmental Protection Agency before 2018)
+### Data Source/URL
 [環保署之全國環境水質監測資訊網中之環境水質監測年報](https://wq.epa.gov.tw/Code/Report/ReportList.aspx)

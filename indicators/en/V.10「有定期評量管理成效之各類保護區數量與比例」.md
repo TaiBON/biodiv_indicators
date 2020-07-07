@@ -12,7 +12,7 @@ Response (R)
 ### Aichi Biodiversity Targets
 Target 11: By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### 生物多樣性行動方案
-D11030 檢討現有保護區系統，並定期進行各類保護區成效評估、管考、改善管理策略及廣宣。 行動方案績效指標(灰底表非量化)：
+D11030檢討現有保護區系統，並定期進行各類保護區成效評估、管考、改善管理策略及廣宣。 行動方案績效指標(灰底表非量化)：
 * 完成國家保護區系統之規劃
 * 有定期評量管理成效之各類保護區數量與比例
 ## 發展背景

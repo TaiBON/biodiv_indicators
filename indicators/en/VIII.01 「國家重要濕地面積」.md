@@ -13,7 +13,7 @@ State (S)
 ### Aichi Biodiversity Targets
 Target 5: By 2020, the rate of loss of all natural habitats, including forests, is at least halved and where feasible brought close to zero, and degradation and fragmentation is significantly reduced.
 ### Biodiversity Action Plan
-D21020 完成陸域、濕地與海洋生物多樣性監測系統之規劃，包括監測地點與方式之確定 行動方案績效指標：
+D21020 To complete the plan of terrestrial, wetland and marine biodiversity monitoring system, including confirmation of monitoring places and methods Key performance indicator of the action plan
 * To confirm the plan of national biodiversity monitoring places and methods
 ## Background
 濕地具有保水抑洪、淨化水質、經濟生產、觀光遊憩與研究教育等效益，亦提供多種生物棲息繁衍，是重要的生物基因庫，因此濕地在維護生物多樣性、種源基因保存及穩定生態等方面，扮演關鍵性的角色。為加強濕地之保育及復育，應確保濕地零淨損失。

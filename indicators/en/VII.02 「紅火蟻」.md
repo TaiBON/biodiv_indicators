@@ -12,7 +12,7 @@ Pressure (P)
 ### Aichi Biodiversity Targets
 Target 9: By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
 ### Biodiversity Action Plan
-D41050 Prevension of invasive species:
+D41050 入侵種生物防治：
 1. Develop an emergency extermination plan for new invasive species, and cooperate with local governments in regular exercises.
 2. Establish a long-term prevention plan for invasive organisms to minimize the economic loss and ecological impact caused by invasive species.
 

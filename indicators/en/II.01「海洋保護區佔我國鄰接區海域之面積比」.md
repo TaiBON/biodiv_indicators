@@ -11,7 +11,7 @@ Response(R)
 #### SDGs
 14.5.1 海洋保護區面積占我國海洋區域的比例。 2020年量化目標：海洋保護區面積占我國12浬海洋區域之比例為47.8%。
 #### Aichi Biodiversity Targets:
-目標11 到 2020 年，至少有 17%的陸地、內陸水域和 10%沿海和海洋區域，尤其是對於生物多樣性和生態系服務具有特殊重要性的區域，因有效而公平的管理，和透過生態上具代表性和妥善關聯的保護區系統和其他以地區為保育基礎的有效措施而受到保護，並納入更廣泛的土地景觀和海洋景觀系統中。
+Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background
 海洋保護區 (marine protected area, MPA) 概念上為受到保護的大洋 (oceans)、海洋 (seas)、河口或大湖區域，通常是以特定形式限制人類活動以保護其中的自然或文化資源。 臺灣政府對海洋保護區之定義，根據漁業署官方網站公告，為「平均高潮線往海洋延伸之一定範圍內，具有特殊自然景觀、重要文化遺產及永續利用之生態資源等，需由法律或其他有效方式進行保護管理之區域。」
 ### Definition and Calculation

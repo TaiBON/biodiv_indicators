@@ -2,15 +2,15 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-陸域保護區
-## 指標類別
-回應( R )
-## 指標對應
+## Themes
+Terrestrial protected areas
+## PSBR model type
+Response (R)
+## Corresponding targets
 ### SDGs
 15.4 到2030年，保護山地生態系統，包括其生物多樣性，以便加強山地生態系統的能力，使其能夠帶來對可持續發展必不可少的益處。
-### 愛知目標
-目標11： 到2020年，至少有17 %的陸地、內陸水域和10 %沿海和海洋區域，尤其是對於生物多樣性和生態系服務具有特殊重要性的區域，因有效而公平的管理，和透過生態上具代表性和妥善關聯的保護區系統和其他以地景為保育基礎的有效措施而受到保護，並納入更廣泛的土地景觀和海洋景觀系統中。
+### Aichi Biodiversity Targets
+Target 11: By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### 生物多樣性行動方案
 D11030檢討現有保護區系統，並定期進行各類保護區成效評估、管考、改善管理策略及廣宣。 行動方案績效指標：
 * 完成國家保護區系統之規劃

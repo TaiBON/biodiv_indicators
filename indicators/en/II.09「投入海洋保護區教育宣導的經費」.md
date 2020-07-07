@@ -11,7 +11,7 @@ Response (R)
 #### SDGs
 14.5 在西元 2020 年以前，依照國家與國際法規，以及可取得的最佳科學資訊，保護至少 10%的海岸與海洋區。
 #### Aichi Biodiversity Targets:
-目標11 到 2020 年，至少有 17%的陸地、內陸水域和 10%沿海和海洋區域，尤其是對於生物多樣性和生態系服務具有特殊重要性的區域，因有效而公平的管理，和透過生態上具代表性和妥善關聯的保護區系統和其他以地區為保育基礎的有效措施而受到保護，並納入更廣泛的土地景觀和海洋景觀系統中。
+Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background
 應投入經費與人力以強化海洋保護區之宣導教育，使漁民及一般社會大眾得以了解海洋保護區的功效與重要價值，加強對支持海洋保護區的劃設與落實管理的意願，並提升民眾守法的觀念。
 ### Definition and Calculation

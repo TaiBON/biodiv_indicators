@@ -1,14 +1,14 @@
 # V.17 「國家重要濕地地景發展強度指數(LDI)」
 
-## 所屬議題
-陸域保護區
-## 指標類別
-狀態( S )
-## 指標對應
+## Themes
+Terrestrial protected areas
+## PSBR model type
+State (S)
+## Corresponding targets
 ### SDGs
 15.1 到2020年，根據國際協議規定的義務，保護、恢復和可持續利用陸地和內陸的淡水生態系統及其服務，特別是森林、濕地、山麓和旱地。
-### 愛知目標
-目標19： 到2020年，與生物多樣性、其價值和功能，其狀況和趨勢以及其喪失可能帶來的後果有關的知識、科學基礎和技術已經提昇、廣泛分享和移轉及使用。
+### Aichi Biodiversity Targets
+Target 19: By 2020, knowledge, the science base and technologies relating to biodiversity, its values, functioning, status and trends, and the consequences of its loss, are improved, widely shared and transferred, and applied.
 ### 生物多樣性行動方案
 D21020完成陸域、濕地與海洋生物多樣性監測系統之規劃，包括監測地點與方式之確定 行動方案績效指標：
 * 確定全國生物多樣性監測地點與方式的規劃

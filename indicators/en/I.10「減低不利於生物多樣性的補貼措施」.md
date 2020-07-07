@@ -11,7 +11,7 @@ Response (R)
 #### SDGs
 14.6.1 不予提供非法、未報告及不受規範(簡稱IUU)漁撈行為的補助。
 #### Aichi Biodiversity Targets
-目標4 至遲於 2020 年，消除、淘汰或改革危害生物多樣性不當的獎勵措施 (如補貼漁船用油)；在顧及國家社會經濟條件下，制定並採用有助於生物多樣性保育和永續利用的積極獎勵措施。
+Target 4 By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
 ### Background
 追蹤歷年各項補貼金額趨勢，可供漁業政策修訂的參考。目前相關補貼如用油補貼與休漁獎勵等等幾乎佔了漁業署預算的五成，特別是用油補貼。取消不利於生物多樣性及漁業永續的負面補貼，將有助於漁業資源的復育。
 ### Definition and Calculation

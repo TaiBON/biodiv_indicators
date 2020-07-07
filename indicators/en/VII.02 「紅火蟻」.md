@@ -13,8 +13,8 @@ Pressure (P)
 Target 9: By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
 ### Biodiversity Action Plan
 D41050 Prevension of invasive species:
-1. 研擬新入侵生物緊急撲滅計畫，並聯合地方政府定期演習。
-2. 建立已入侵生物長期防治計畫，將入侵種造成之經濟損失及生態衝擊降至最小。
+1. Develop an emergency extermination plan for new invasive species, and cooperate with local governments in regular exercises.
+2. Establish a long-term prevention plan for invasive organisms to minimize the economic loss and ecological impact caused by invasive species.
 
 Key performance indicator of the action plan:
 * 辦理或執行已入侵生物防治計畫之物種數、地區數及撲滅案件數

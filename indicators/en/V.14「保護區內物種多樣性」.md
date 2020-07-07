@@ -12,7 +12,7 @@ State (S)
 ### Aichi Biodiversity Targets
 Target 12: By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
 ### 生物多樣性行動方案
-D12030 加具指標性之動物、植物、微生物物種族群變化之研究。 行動方案績效指標：
+D12030加具指標性之動物、植物、微生物物種族群變化之研究。 行動方案績效指標：
 * 指標性物種類群變化之研究項目
 ## 發展背景
 生物多樣性工作是當前全球重大議題之一，亦是人類永續發展之基礎。全球生物多樣性正處於快速喪失之趨勢，生物物種正以一百至一千倍的速率逐漸滅絕消失，人口以及資源消耗的增加，加以污染的結果、地球的暖化以及外來物種的引進，生物多樣性的危機今日已經成為人類應面對的現實。物種多樣性是區域生態的最基礎指標，高物種多樣性表示生態系中具有較多物種族群，在物種生態區位重疊的情況下，生態系整體有較高的穩定性，能承受一定程度的干擾。

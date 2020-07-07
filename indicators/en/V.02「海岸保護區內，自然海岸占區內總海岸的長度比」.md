@@ -12,7 +12,7 @@ State (S)
 ### Aichi Biodiversity Targets
 Target 11: By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Biodiversity Action Plan
-D11050 比照中央山脈保育軸之劃設理念，劃設海岸保育帶，同時解決現存海岸保護與開發之衝突。 行動方案績效指標(灰底表非量化)
+D11050比照中央山脈保育軸之劃設理念，劃設海岸保育帶，同時解決現存海岸保護與開發之衝突。 行動方案績效指標(灰底表非量化)
 * 完成國家海岸保育帶規劃
 * 受保護自然海岸帶占全國總海岸帶的面積比
 * 確認保護與開發衝突潛在地點

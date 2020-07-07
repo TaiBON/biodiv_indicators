@@ -12,7 +12,7 @@ State (S)
 ### Aichi Biodiversity Targets
 Target 5: By 2020, the rate of loss of all natural habitats, including forests, is at least halved and where feasible brought close to zero, and degradation and fragmentation is significantly reduced.
 ### Biodiversity Action Plan
-D00008 建立森林覆蓋面積(NDVI常態化差異植生指標)資料及健康監測評估。 行動方案績效指標：
+D00008建立森林覆蓋面積(NDVI常態化差異植生指標)資料及健康監測評估。 行動方案績效指標：
 * 全國森林覆蓋面積估算
 * 進行森林健康監測評估之森林面積與全國森林覆蓋面積比
 ## Background

@@ -19,7 +19,7 @@ Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 
 2. 因臺灣的國際地位特殊，目前無法公告200浬經濟海域面積，如依過去計算以12浬領海面積做為計算分母，與國際無法比較。108年11月19日在海洋保育署開會的結論建議，把過去所用的含內水的領海的分母改為鄰接區海域作為分母。
 3. 因尚未有鄰接區海域之資料，故目前指標趨勢所呈現的資料單位為海洋保護區累積面積 (km^2^)。
 ### Updates
-依據漁業署網站資料，至2018年12月底臺灣海洋保護區(不含相關漁具漁法及特定漁業禁漁區)總面積為4495.5276 km^2^，海洋保護區面積佔總水域面積之6.908% (臺灣距岸12里內水域面積為65,076.96 km^2^)。
+依據漁業署網站資料，至2018年12月底臺灣海洋保護區(不含相關漁具漁法及特定漁業禁漁區)總面積為4495.5276 km^2^，海洋保護區面積佔總水域面積之6.908 % (臺灣距岸12里內水域面積為65,076.96 km^2^)。
 ### Data Management Authorities
 Ocean Conservation Administration, Fisheries Agency, National Park Headquarters, Forestry Bureau, Tourism Bureau, Ministry of the Interior
 ### Data Source/URL

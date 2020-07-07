@@ -1,9 +1,3 @@
 files:
   - source: /indicators/*.md
     translation: /indicators/%two_letters_code%/%original_file_name%
-  - source: /data/processed
-    ignore:
-      - "\U00E5BBA2\U00E6A384"
-    translation: '%original_path%/%two_letters_code%'
-    first_line_contains_header: 1
-    scheme: 'identifier,source_phrase,translation'

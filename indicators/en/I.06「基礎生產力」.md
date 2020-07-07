@@ -16,12 +16,12 @@ Target 6 By 2020 all fish and invertebrate stocks and aquatic plants are managed
 
 $$ PPR=(Catches/9)\times10^{n-1} $$
 
-農委會水產試驗所在台灣周邊海域固定62個測站長期監測葉綠素 a (chlorophyll a; 葉綠素甲)濃度，其調查方法為於臺灣周邊海域62個測站按季採集水樣，葉綠素 a 分別使用10 μm篩絹及0.7 μm濾膜，逐級過濾浮游植物後遮光冷凍 (-20ºC) 保存攜回實驗室，將濾後濾膜經90%丙酮低溫萃取 14-24 小時後，以螢光光度計測定酸化前後的螢光值，計算出海域中葉綠素 a 含量。
+農委會水產試驗所在台灣周邊海域固定62個測站長期監測葉綠素a濃度，其調查方法為於臺灣周邊海域62測站按季採集水樣，葉綠素甲 (Chl-a) 分別使用10 μm篩絹及0.7 μm濾膜，逐級過濾浮游植物後遮光冷凍 (-20℃) 保存攜回實驗室，將濾後濾膜經90%丙酮低溫萃取 14-24 小時後，以螢光光度計測定酸化前後的螢光值，計算出海域中葉綠素甲含量。
 ### Updates
 過去無可對應資料，目前以水試所在台灣周邊海域固定62個測站長期監測之葉綠素a濃度為資料內容。
 ### Data Management Authorities
 Fisheries Research Institute, Council of Agriculture, Executive Yuan
 ### Data Source/URL
-[行政院環境保護署－環境資源資料開放平臺](https://opendata.epa.gov.tw)
+[Environment Resource of the Government’s Open Data platform from Environmental Protection Administration, Executive Yuan](https://opendata.epa.gov.tw)
 #### The name of data set
-[台灣周邊海域葉綠素甲平均濃度](https://opendata.epa.gov.tw/Data/Contents/WAT00497/)
+[Average chlorophyll a concentration in Taiwan' s adjacent sea areas](https://opendata.epa.gov.tw/Data/Contents/WAT00497/)

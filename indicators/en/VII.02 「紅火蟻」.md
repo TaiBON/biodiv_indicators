@@ -17,18 +17,18 @@ D41050 Prevension of invasive species:
 2. Establish a long-term prevention plan for invasive organisms to minimize the economic loss and ecological impact caused by invasive species.
 
 Key performance indicator of the action plan:
-* 辦理或執行已入侵生物防治計畫之物種數、地區數及撲滅案件數
-* 已入侵生物分布範圍或數量減少比例或數量
+* Number of species, areas, and extinguishment cases handled or executed for the invasive species control plan
+* The decreasing ratio or amount of the distribution or number of invasive species
 ## Background
-透過監測了解紅火蟻的分布現況、繁殖及棲地利用，探討紅火蟻對原生物種之影響。
+Discuss the impact of the red fire ants on native species through monitoring to understand the current distribution, reproduction and habitat utilization of the red fire ants.
 ## Definition and Calculation
-紅火蟻分布範圍之變動。紅火蟻的監測由國家紅火蟻防治中心、農委會所屬各區農業改良場及各縣市政府進行偵測，同時彙集當地居民的通報資料，進而統整出全台紅火蟻發生地區與普遍性。普遍發生區為紅火蟻發生情形較嚴重的區域。
+Changes in the distribution of the red fire ants. The monitoring of the red fire ants is detected by the National Red Imported Fire Ant Control Center, the Agriculture Research and Extension Station of each district under the Council of Agriculture, and the county and city governments. The monitoring is also compiled with notification of local residents to consolidate the occurrence and prevalence of the red fire ants. The prevalent occurrence area is the area where the occurrence of red fire ants is more serious.
 ## The data and temporal range
 Statistics of occurring areas of fire ants (2005–2020)
 ## Updates
-根據2020年1月更新的資料，紅火蟻主要為害的縣市集中在臺灣西北部，包含新北市、桃園市、新竹縣、金門縣等，其中，以桃園市與金門縣的狀況最為嚴重。目前紅火蟻危害臺灣的範圍尚未普及全臺灣，但由於其擴散性強，需針對重點區域進行防治。
+According to data updated in January 2020, counties and cities mainly affected by red fire ants are concentrated in northwestern Taiwan, including New Taipei City, Taoyuan City, Hsinchu County, and Jinmen County. Among them, Taoyuan City and Jinmen County are the most severely affected counties. Recently, the harming distribution of red fire ants has not yet spread to all Taiwan, but due to its strong migration, it needs to be prevented and controlled in the key areas.
 ## Trends
-普遍發生地區表示在該區域調查中，紅火蟻每年發生次數超過10次。自指標趨勢圖中可見，紅火蟻普遍發生的縣市與鄉鎮數量逐年上升。2015年政府投入防治作業，2016年普遍發生鄉鎮數量大幅減少，然而2017年至2020年略有回升，仍需持續防治。
+The prevalent occurrence area indicates that the red fire ants occur more than ten times a year in the investigation of the area. It can be seen from the indicator trend chart that the number of counties, cities and towns where red fire ants are prevalent is increasing year by year. In 2015, the government agencies invested in prevention and control operations. In 2016, the number of prevalent townships decreased significantly. However, there was slightly getting back from 2017 to 2020, and it needs to control and prevent continuously.
 ## Data Management Authorities
 Bureau of Animal and Plant Health Inspection and Quarantine, Council of Agriculture
 ## Data sources/URL

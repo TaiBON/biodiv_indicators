@@ -1,19 +1,19 @@
-# VIII.03 「森林碳匯吸存能力」
+# VIII.03 Carbon Sequestration Capacity of Forest
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-生態敏感地
-## 指標類別
-裨益( B )
-## 指標對應
+## Themes
+Sensitive habitats
+## PSBR model type
+Benefits (B)
+## Corresponding targets
 ### SDGs
-15.1 到2020年，根據國際協議規定的義務，保護、恢復和可持續利用陸地和內陸的淡水生態系統及其服務，特別是森林、濕地、山麓和旱地。
-### 愛知目標
-目標15： 到2020年，透過保育和復原行動，包括復原至少15 %退化的生態系，強化生態系的復原能力以及生物多樣性對碳吸存的貢獻，從而幫助減緩與調適氣候變遷及防止沙漠化。
+15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.
+### Aichi Biodiversity Targets
+Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 percent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 ### 生物多樣性行動方案
-D00008建立森林覆蓋面積(NDVI常態化差異植生指標)資料及健康監測評估。 行動方案績效指標：
-* 全國森林覆蓋面積估算
+D00008 Establishment of forest coverage area (normalized differential vegetation index; NDVI) and assessment of forest health monitoring. Key performance indicator of the action plan:
+* Estimation of forest coverage area in Taiwan
 * 進行森林健康監測評估之森林面積與全國森林覆蓋面積比
 ## 發展背景
 森林碳匯為單位時間內森林移除二氧化碳的總量。聯合國氣候變化政府間專家委員會(IPCC)於1997年將土地利用、土地利用變化及林業(Land Use, Land Use Change and Forestry, LULUCF)納入國家溫室氣體排放清冊指南(Guidelines for National Greenhouse Gas Inventories)，其中LULUCF就1990年後土地利用、森林及其他木質生物蓄積量的改變，造成碳排放及碳移除量進行估算。 由於臺灣區域計畫法、森林法對於林業用地變更以及森林伐採均已訂有相關規範，且自1992年起即實施禁伐天然林政策，至林地變更為其他使用之情形極少，因此可藉林務局第三次與第四次全國森林資源調查成果之林型面積，以及林業統計每年新植造林、伐採、薪材收穫及干擾等相關數據，估算臺灣森林資源每年的二氧化碳移除量。森林碳匯因其固碳減排效果顯著且非碳效益高而備受關注，現已成為國內外減少溫室氣體排放的重要途徑之一。

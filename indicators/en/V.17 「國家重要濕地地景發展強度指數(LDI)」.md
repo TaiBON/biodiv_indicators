@@ -1,4 +1,4 @@
-# V.17 「國家重要濕地地景發展強度指數(LDI)」
+# V.17 National Important Wetland Landscape Development Intensity Index (LDI)
 
 ## Themes
 Terrestrial protected areas
@@ -9,9 +9,9 @@ State (S)
 15.1 到2020年，根據國際協議規定的義務，保護、恢復和可持續利用陸地和內陸的淡水生態系統及其服務，特別是森林、濕地、山麓和旱地。
 ### Aichi Biodiversity Targets
 Target 19: By 2020, knowledge, the science base and technologies relating to biodiversity, its values, functioning, status and trends, and the consequences of its loss, are improved, widely shared and transferred, and applied.
-### 生物多樣性行動方案
+### Biodiversity Action Plan
 D21020完成陸域、濕地與海洋生物多樣性監測系統之規劃，包括監測地點與方式之確定 行動方案績效指標：
-* 確定全國生物多樣性監測地點與方式的規劃
+* Planning to determine national biodiversity monitoring locations and methods
 ## 發展背景
 濕地在生態系中扮演相當重要的角色，是許多野生動植物賴以為生的棲地環境，此外，濕地亦具有觀光遊憩、提升土地耐淹力等效益。近年來，因都市化程度遽增，導致濕地環境周圍的環境大幅變動，因此，隨時掌握並關切濕地生態系的地景變動情形成為重要議題。
 ## 定義及計算方式

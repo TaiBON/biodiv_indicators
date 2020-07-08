@@ -15,9 +15,9 @@ Target 6: By 2020 all fish and invertebrate stocks and aquatic plants are manage
 透過各漁業別之漁產量，以監測、管理各類型漁具漁法 (包括鏢旗魚、一支釣、曳繩釣、延繩釣、刺網、巾著網、焚寄網、圍網、扒網、魩鱙漁業、拖網、珊瑚漁業等) ，這些漁法，根據影響海洋生態的程度，可略分為永續性漁法、針對性漁法、破壞性漁法，為達到資源合理的開發與永續利用，應詳細追蹤各類漁法的變化趨勢。
 ### Definition and calculation
 1. Fishery ladings( tons) for fishery categories of coastal fisheries
-2. 目前資料為歷年漁業統計年報中之沿海漁業產量(千噸)、產值(千元)合計，以及沿岸漁業產量(千噸)、產值(千元)合計。
+2. The current data is the total of inshore fishery production (thousand tons) and the value of output (thousand NTD) from annual fishery statistical report
 ### Updates
-依據民國107年(2018)漁業統計年報，沿海漁業產量合計161.53千噸，產值為13,210,104千元；沿岸漁業產量合計26.39千噸，產值為3,605,905千元。
+According to the 2018 Fisheries Statistics Annual Report, the total output of coastal fisheries was 161.53 thousand tons, with an output value of 13,210,104 thousand NTD; the total output of coastal fisheries was 26.39 thousand tons, with an output value of 3,605,905 thousand NTD.
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

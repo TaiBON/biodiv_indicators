@@ -1,32 +1,32 @@
-# VIII.02 「自然海岸占全國總海岸的長度比」
+# VIII.02 The Ratio of Natural Coast to the Total Length of Coast in Taiwan
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-生態敏感地
-## 指標類別
-回應( R )
-## 指標對應
+## Themes
+Sensitive habitats
+## PSBR model type
+Response (R)
+## Corresponding targets
 ### SDGs
-14.5 到2020年，根據國內和國際法，並基於現有的最佳科學資料，保護至少10 %的沿海和海洋區域。
-### 愛知目標
-目標5： 至遲於2020年，使包括森林在內的所有自然棲地的喪失和退化以及破碎化程度至少減半，或在可行之處接近於零。
-### 生物多樣性行動方案
-D11050比照中央山脈保育軸之劃設理念，劃設海岸保育帶，同時解決現存海岸保護與開發之衝突。 行動方案績效指標：
-* 完成國家海岸保育帶規劃
-* 受保護自然海岸帶占全國總海岸帶的面積比
-* 確認保護與開發衝突潛在地點
-## 發展背景
-自然海岸提供海洋生物棲息環境和生育地，天然棲地比例愈高，生態系穩定性就愈高。為保存海岸生態功能的完整性，內政部依據「永續海岸整體發展方案」，每年運用衛星影像或航照資料，定期辦理海岸線監測，以掌握自然海岸線與人工海岸線之變化情形。
-## 定義及計算方式
-凡於海岸地區構築人工設施者，如堤防、港口、消波塊、海埔地、排水道者，均歸屬人工海岸，扣除人工海岸部分則為自然海岸。 自然海岸線比例 = 自然海岸線全長 / 海岸線全長
-## 現有資料內容及所跨年度
-歷年自然與人工海岸線之變化情形(2008-2018年)
-## 資料更新內容
-2018年自然海岸所占比例與2017年相同，均為55.32%。
-## 指標趨勢
-隨著堤防、消波塊、港口等人工海岸線長度增加，自然海岸線長度逐年減少，2008年至2018年自然海岸線比例從56.18 %降至55.32 %。
-## 資料管理/權責單位
-營建署綜合計畫組
-## 資料來源/網頁連結
-[107年度第2期各縣市自然及人工海岸線比例一覽表](https://www.cpami.gov.tw/最新消息/業務新訊/14251-自然海岸及人工海岸線長度.html)
+14.5 By 2020, conserve at least 10 percent of coastal and marine areas, consistent with national and international law and based on the best available scientific information.
+### Aichi Biodiversity Targets
+Target 5: By 2020, the rate of loss of all natural habitats, including forests, is at least halved and where feasible brought close to zero, and degradation and fragmentation is significantly reduced.
+### Biodiversity Action Plan
+D11050 According to the design concept of conservation axis of Central Mountain Ranges, the coastal conservation zone is planning to set, and resolves the existing conflict between the coastal conservation and development. Key performance indicator of the action plan:
+* Completion of national coastal conservation zone planning
+* The area ratio of protected natural coastal zone to the total coastal zone in Taiwan
+* Identify potential locations for protection and development conflicts
+## Background
+Natural coasts provide habitats for marine life, the higher the natural habitats, the higher the stability of the ecosystem. In order to preserve the integrity of ecological functions of coast, Ministry of the Interior uses satellite image or aerial photos to monitor the coastaline every year based on "sustainable coastal development program", and to control the changes in natural and artificial coastlines.
+## Definition and Calculation
+Those who construct artificial facilities in the coastal areas, such as embankments, ports, tetrapods, tideland, and drainage channels, belong to the artificial coast, and the portion deducted from the artificial coast is the natural coast. Proportion of natural coastline = total length of natural coastline / total length of coastline
+## The data and temporal range
+Changes in natural and artificial coastlines over the years (2008–2018)
+## Updates
+The proportion of natural coasts in 2018 is the same as that in 2017, both at 55.32%.
+## Trends
+With the increase in the length of artificial coastlines such as embankments, wave blocks, ports, etc., the length of natural coastlines has decreased year by year. From 2008 to 2018, the proportion of natural coastlines decreased from 56.18% to 55.32%.
+## Data Management Authorities
+Planning Division, Construction and Planning Agency
+## Data sources/URL
+[List of proportion of natural and artificial coastline by counties and cites, phase 2, 2018](https://www.cpami.gov.tw/最新消息/業務新訊/14251-自然海岸及人工海岸線長度.html)

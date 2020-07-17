@@ -1,5 +1,5 @@
-# VIII.01 National important wetland areas
-原指標名稱：維持濕地零淨損失
+# VIII.01 National Important Wetland Areas
+Original indicator name: Maintain zero net losses in wetlands
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -13,19 +13,19 @@ State (S)
 ### Aichi Biodiversity Targets
 Target 5: By 2020, the rate of loss of all natural habitats, including forests, is at least halved and where feasible brought close to zero, and degradation and fragmentation is significantly reduced.
 ### Biodiversity Action Plan
-D21020 To complete the plan of terrestrial, wetland and marine biodiversity monitoring system, including confirmation of monitoring places and methods Key performance indicator of the action plan
+D21020 To complete the plan of terrestrial, wetland and marine biodiversity monitoring system, including confirmation of monitoring places and methods Key performance indicator of the action plan:
 * To confirm the plan of national biodiversity monitoring places and methods
 ## Background
-濕地具有保水抑洪、淨化水質、經濟生產、觀光遊憩與研究教育等效益，亦提供多種生物棲息繁衍，是重要的生物基因庫，因此濕地在維護生物多樣性、種源基因保存及穩定生態等方面，扮演關鍵性的角色。為加強濕地之保育及復育，應確保濕地零淨損失。
+Wetlands have benefits such as water retention and flood suppression, water purification, economic production, recreation, research and education. They also provide habitats for a variety of living organisms, which are important gene pools. Therefore, the wetland plays a key role on biodiversity maintenance, conservation of genetic provenance and ecological stabilization. In order to enhance the conservation and restoration of wetlands, zero net losses of wetlands should be ensured.
 ## Definition and Calculation
-濕地資源之開發利用，經過衝擊減輕、異地補償或生態補償等措施，使濕地的面積及生態功能無損失，2015年起配合濕地保育法施行，該年的國家重要濕地面積為43,546公頃，以此為基準評估往後國家級重要濕地面積的變化。
+The development and utilization of wetland resources, through measures such as impact mitigation, ex situ compensation or ecological compensation, made the area and ecological function of the wetland without loss. It has been implemented in conjunction with the Wetland Conservation Act since 2015. The national important wetland area was 43,546 ha, and use this as a basis to assess changes in the area of important national wetlands in the future.
 ## Updates
 Important wetlands at national level remain 43,546 hectares during 2015–2018
 ## Trends
-配合濕地保育法施行，2015年的重要濕地面積41,894公頃，2015年至2018年的重要濕地面積值均維持在41,894公頃。
+To cope with Wetland Conservation Act, the important wetland area in 2015 was 41,894 ha, and maintained at 41,894 ha from 2015 to 2018.
 ## Data Management Authorities
 Coastal Restoration Section, Urban and Rural Development Branch, Construction and Planning Agency, Ministry of the Interior
 ## Data sources/URL
 * National Council for Sustainable Development, Executive Yuan— Individual indicator information mangement system of Taiwan sustainable development
-* Mitsch, W.J. and Gosselink, J.G. (2000) Wetlands. John Wiley & Sons, New York. doi：10.1002/rrr.637
-* [國家重要濕地國家重要濕地保育計畫(2011-2016年)](http://wetland-tw.tcd.gov.tw/WetLandWeb/landprotect.php)
+* Mitsch, W.J. and Gosselink, J.G. (2000) Wetlands. John Wiley & Sons, New York. doi: 10.1002/rrr.637
+* [National Important Wetland Conservation Project (2011–2016)](http://wetland-tw.tcd.gov.tw/WetLandWeb/landprotect.php)

@@ -13,14 +13,14 @@ Pressure (P)
 Target 9: By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
 ### Biodiversity Action Plan
 D41050 Prevension of invasive species
-1. 研擬新入侵生物緊急撲滅計畫，並聯合地方政府定期演習
-2. 建立已入侵生物長期防治計畫，將入侵種造成之經濟損失及生態衝擊降至最小。
+1. Develop an emergency extermination plan for new invasive species, and cooperate with local governments in regular exercises.
+2. Establish a long-term prevention plan for invasive organisms to minimize the economic loss and ecological impact caused by invasive species.
 
 Key performance indicator of action plan:
-* 辦理或執行已入侵生物防治計畫之物種數、地區數及撲滅案件數
-* 已入侵生物分布範圍或數量減少比例或數量
+* Number of species, areas, and extinguishment cases handled or executed for the invasive species control plan
+* The decreasing ratio or amount of the distribution or number of invasive species
 ## Background
-透過貿易、運輸、旅行及觀光等活動，被攜離原分布區而進入新的棲地或生態系之物種，稱為外來種(exotic species)。部分外來種會因適應力強、具有生存競爭優勢，進一步成為外來入侵種(invasive alien species)，威脅原生種生存、破壞原有生態環境平衡，造成生物多樣性降低。
+The species that carried away from the original habitat and enter new habitat or ecosystems through trade, transportation, travel and sightseeing activities are called alien species. Some alien species will become invasive alien species due to their strong adaptability and competitive advantage of survival. The alien invasive species will threaten the survival of native species, destroy the balance of the native ecosystems, and resulting in a decrease of biodiversity.
 ## Definition and Calculation
 The local ecosystem would be influenced by alien invasive species, and result in decreasing of the species number and quantity of native species. This indicator takes the invasion year as a base year, and to summarize the species number and quantity changes of the influenced native species.
 ## The data and temporal range
@@ -30,4 +30,4 @@ The local ecosystem would be influenced by alien invasive species, and result in
 ## Data Management Authorities
 Forestry Bureau, Council of Agriculture, Bureau of Animal and Plant Health Inspection and Quarantine, Council of Agriculture
 ## References
-林務局 (2006) 從外來種引入談對生態上影響
+Forest Bureau, Council of Agriculture (2006) Talking about ecological impact from the introduction of alien species

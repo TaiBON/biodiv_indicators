@@ -1,17 +1,17 @@
-# VIII.05 「國家土地利用分類變遷監測」
+# VIII.05 Monitoring of National Land Use Changes
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-生態敏感地
-## 指標類別
-回應( R )
-## 指標對應
-### 愛知目標
-目標15： 到2020年，透過保育和復原行動，包括復原至少15 %退化的生態系，強化生態系的復原能力以及生物多樣性對碳吸存的貢獻，從而幫助減緩與調適氣候變遷及防止沙漠化。
-## 發展背景
-國家土地利用監測主要由土地利用變遷偵測系統、變異點網路通報查報系統、國土監測查報App與變異點查報的行政程序所構成。其目的為使用衛星遙測資料，辦理土地變遷偵測及變異點通報查報作業，以掌握國土時空變遷之趨勢，並採高科技數位化的方式，改善傳統土地利用違規查報取締方法，以遏阻不法之國土破壞行為，達成國土永續發展的目標。
-## 定義及計算方式
+## Themes
+Sensitive habitats
+## PSBR model type
+Response (R)
+## Corresponding targets
+### Aichi Biodiversity Targets
+Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 percent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
+## Background
+The national land use monitoring is mainly composed of the land use change detection system, the variation spots notification and reporting system, the land monitoring and reporting app and the administrative procedures of the variation spots query and reporting. Its purpose is to use satellite remote sensing data to handle land use change detection and variation spots reporting and investigation operations, in order to grasp the trend of land use changes, and adopt high-tech digital methods to enhance traditional land use violation investigation and suppression methods to prevent illegal land destruction and achieve the goal of sustainable development of Taiwan.
+## Definition and Calculation
 以衛星遙測為偵測工具，進行全面性及週期性的土地利用變遷監測。首先建立衛星影像樣區光譜資料，完成永久樣區選定(永久樣區選定目的在提供進行遙測影像分類之基準，作為影像判釋成果驗證用)，而後經由觀測不同時期的影像，辨識前後期不同之處，透過電腦自動化判釋及人工篩選篩出疑似違規變異點，並通報各地方政府及目的事業主管機關派員至現地查核及回報稽查結果。
 ## 現有資料內容及所跨年度
 監測通報回報統計成果(2002-2019年)

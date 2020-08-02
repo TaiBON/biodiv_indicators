@@ -16,7 +16,7 @@ A passive fishing method that can calculate the fishing effort without calibrati
 ### Definition and Calculation
 Fish composition and its abundance change trends of fishing ground of set net
 1. Collecting long-term catch data from set net fishery around Taiwan.
-2. 挑選其中最顯著的五種魚種，計算其漁獲量 (公斤) 、尾數、歧異度指數的時間變化。
+2. Selecting five dominant species and calculating their temporal change of the yield of catch (kg), the number of individuals, and the diversity index.
 ### Updates
 目前更新到2017年資料，正鰹805.037公噸、圓花鰹347.013公噸、扁花鰹520.592公噸、白帶魚268.813公噸、鬼頭刀238.112公噸。
 ### Data Management Authorities

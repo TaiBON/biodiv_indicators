@@ -14,9 +14,9 @@ Target 6 By 2020 all fish and invertebrate stocks and aquatic plants are managed
 ### Background
 Because commercial fishing tends to collectively and systematically catch the secondary or tertiary consumers in the marine food web (mackerels, cods, groupers), these top level consumers ratio would decline and low level consumers ratio would arise as expected when the marine ecosystem is under pressure from overfishing and its resilience is undermined, which is called "fishing down marine food webs." This index is used to monitor the possible phenomenon in coastal and offshore waters of Taiwan.
 ### Definition and Calculation
-以臺灣沿近海漁獲中各海洋生物於特定年度之相對豐度為其營養位階之權數，各自相乘並加總後，得特定年度的平均營養位階，並以此數值的年度變化反映監測對象狀態。如數值趨勢變化為遞減，可能暗示一個國家海洋生態系中的高階消費者正面臨過漁壓力，此即平均營養指數
+Take the relative abundance of Taiwan coastal marine organisms in a certain year as the weight of the trophic level. By multiplying each of the trophic level weight and summing them up, the average trophic level of the specific year is obtained. The annual change of the average trophic level will reflect the status of the monitored organisms. If the numerical trend is decreasing, it may imply that the tertiary consumers in a marine ecosystem of a country are facing overfishing, which is the mean trophic index.
 ### Updates
-資料來源為 Sea Around Us中之Region-based Marine Trophic Index of the catch in the waters of Taiwan，資料僅到2014年。
+The data until 2014 is from the Region-based Marine Trophic Index of the catch in the waters of Taiwan in Sea Around Us.
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

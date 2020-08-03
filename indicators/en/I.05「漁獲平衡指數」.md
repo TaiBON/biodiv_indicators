@@ -12,21 +12,21 @@ State(S)
 #### Aichi Biodiversity Targets
 Target 6 By 2020 all fish and invertebrate stocks and aquatic plants are managed and harvested sustainably, legally and applying ecosystem based approaches, so that overfishing is avoided, recovery plans and measures are in place for all depleted species, fisheries have no significant adverse impacts on threatened species and vulnerable ecosystems and the impacts of fisheries on stocks, species and ecosystems are within safe ecological limits.
 ### Background
-漁業學家 Daniel Pauly 於 1998 年提出平均營養指數 (Mean Trophic Index, MTI) 及「漁獲物種漸趨海洋食物網底層 (fishing down marine food wed)」現象後，觸發許多有趣的討論，包括一項對 MTI 趨勢意涵的質疑：「MTI 趨勢向下，可能與生態系中高階消費者的族群消長無關，而是反映管理者的漁業政策傾向捕撈族群量較大的食物網底層以獲取較高的整體漁獲量。」 Pauly 於 2005 年的發表中正式回應此疑慮，表明此情況確有可能存在，並強調此類政策若是存在，應朝減少能量（或生物量）浪費的方向努力。換言之，MTI 的下降應伴隨漁獲量的上升，且兩者變動量的總和應趨於平衡，才表示對漁業資源的管理是朝永續漁業的方向發展。
+Fisheries scientist Daniel Pauly proposed the Mean Trophic Index (MTI) and " fishing down marine food web" in 1998, which triggered many interesting discussions including a question to the meaning of the MTI trend：" The downward trend of MTI may irrelevant with the growth and decline of the tertiary consumer groups in the ecosystem, but reflect the fishery policy of the managers tend to fish the species in the bottom of the food web with large populations to enhance the yield of catch." Pauly responded formally to this doubt in his 2005 publication to state the situation is possible. Also, he emphasized that if such policies exist, efforts should be made to reduce energy (or biomass) waste. In other words, the decline in MTI should be accompanied by the increase in yield of catch, and the sum of the two changes should be balanced, which means that the management of fishery resources is developing in the direction of sustainable fisheries.
 ### Definition and Calculation
-先訂出基準年，以其漁獲量和 MTI 為比較標準。以數學式表示為： $$ F_iB=log(Y_i(\frac{1}{TE})^{TL_i}-log(Y_0(\frac{1}{TE})^{TL_0}) $$
-* $Y_i= i$ 年的總漁獲量
-* $Y_0=$ 基準年的總漁獲量
-* $MTI_i= i$ 年的平均營養指數
-* $MTI_0=$ 基準年的平均營養指數
-* $TE=$ 食物網各層間的能量轉換效率
-* $F_iB_i=i$ 年的漁獲平衡指數
+Setting the standard year and use the yield of catch and MTI as comparison standard. The formula is ： $$ F_iB=log(Y_i(\frac{1}{TE})^{TL_i}-log(Y_0(\frac{1}{TE})^{TL_0}) $$
+* $Y_i= total yield of catch in i$ year
+* $Y_0=$ total yield of catch in the standard year
+* $MTI_i= Mean Trophic Index (MTI) of i$ years
+* $MTI_0=$ Mean Tropic Index (MTI) index in the standard year
+* $TE=$ Trophic level transfer efficiency between trophic levels of the food web
+* $F_iB_i= i$ year fishing-in-balance index
 
-為幫助讀者理解，我們假設能量轉換率為 0.1，並將其轉成以下形式： $$ FiB_i = log(\frac{Y_i}{Y_0}) + (MTI_i - MTI_0) $$ 設想 i 年的 MTI 較之基準年變化量為 -1（如從 4 降至 3），也就是捕撈對象在食物網中整整下降了一個層級。由於捕撈對象轉至族群量較大的食物網下層，i 年的漁獲量 (Yi) 應大於基準年 (Y0)；若假設能量轉換率可完全反映在生物量變化上，Yi 和 Y0 的差距應該會是 10 倍，兩者相除取對數將得到 1。於是 FiB = 1 + (-1) = 0。值得強調的是，當 i 年的漁獲量、MTI 皆維持在基準年水平，FiB 仍會是 0。若此狀態持續維持，也就是 FiB 始終為 0，即理想的「平衡」或「永續」漁業狀態。
+To help readers understand the equation, we assume that the trophic level efficiency is 0.1 and convert it into the following form： $$ FiB_i = log\Big(\frac{Y_i}{Y_0}\Big) + (MTI_i-MTI_0) $$ The annual MTI change from the standard year is -1 (for example, from 4 to 3), which means that the fishing target in the food web has dropped by one level. Since the fishing target is transferred to the lower part of the food web with larger populations, the yield of catch in year i (Yi) should be greater than the standard year (Y0); if we assumed that the trophic level efficiency can be fully reflected in the biomass change, the ratio between Yi and Y0 should be 10, and the logarithm of dividing the two will get 1. Then FiB = 1 + (-1) = 0. It is worth mentioning that when the yield of catch and MTI in year i are maintained at the standard year level, FiB will still be zero. If this state is maintained continuously, that is, FiB is always zero, which is the ideal "balanced" or "sustainable" fishery state.
 
-FiB 趨勢的上升、下降有時會被導向純然的「鼓勵多補高階或低階消費者」爭論中，這可能是一種錯誤的討論方向。事實上導致其上升、下降的因素有多種：
+The rise and fall of the FiB trend sometimes lead to a "encourage more tertiary or primary consumers" debate, which can be the wrong direction for discussion. In fact, there are a variety of factors that lead to the fluctuation of FiB：
 
-當 FiB < 0，可能是 i 年漁獲量之增長小於 MTI 下降的程度，或 i 年漁獲量之減少大於 MTI 上升的程度。前者可能源於部分漁獲並未包含在漁業統計資料中（如棄獲），或漁業對海洋生態系中生物量的取用已超出生態系功能可正常運作的程度；後者則可能反映由於漁業傾向捕撈高階消費者而導致漁獲量降低。
+FiB < 0. It may be caused by the increase in the yield of catch in year i is less than the decrease in MTI, or the decrease in the yield of catch in year i is greater than the increase in MTI. The former may be due to the fact that part of the catch is not included in the fishery statistic data (such as discards), or the use of the biomass that fishery used in the marine ecosystem has exceeded the extent that the ecosystem can function normally; the latter may reflect the tendency of fisheries fishing for teritary consumers leads to lower catches.
 
 當 FiB > 0，可能是 i 年漁獲量之增長大於 MTI 下降的程度，或 i 年漁獲量之減少小於 MTI 上升的程度。可能成因包括外來族群的移入（如新的鮪魚族群移入臺灣海域）、漁場範圍的擴張、區域內基礎生產力的上升（如環境優氧化）等。
 

@@ -28,7 +28,7 @@ The rise and fall of the FiB trend sometimes lead to a "encourage more tertiary 
 
 FiB < 0. It may be caused by the increase in the yield of catch in year i is less than the decrease in MTI, or the decrease in the yield of catch in year i is greater than the increase in MTI. The former may be due to the fact that part of the catch is not included in the fishery statistic data (such as discards), or the use of the biomass that fishery used in the marine ecosystem has exceeded the extent that the ecosystem can function normally; the latter may reflect the tendency of fisheries fishing for teritary consumers leads to lower catches.
 
-當 FiB > 0，可能是 i 年漁獲量之增長大於 MTI 下降的程度，或 i 年漁獲量之減少小於 MTI 上升的程度。可能成因包括外來族群的移入（如新的鮪魚族群移入臺灣海域）、漁場範圍的擴張、區域內基礎生產力的上升（如環境優氧化）等。
+FiB > 0. It may be caused by the increase in the yield of catch in year i is greater than the decrease in MTI, or the decrease in the catch in year i is less than the increase in MTI. Other possible causes include the migration of foreign populations (such as the migration of new tuna populations into the sea area of Taiwan), the expansion of fishing grounds, and the increase of basic productivity in regions (such as environmental eutrophication).
 
 故當 FiB 持續偏離平衡狀態，特別是當 FiB 持續下降，僅是點出現有管理方式不足以讓漁業資源維持在永續經營的水平上。至於政策上更明確的改善方向，需更多層面的設計與監測才可能找到解答。
 ### Updates

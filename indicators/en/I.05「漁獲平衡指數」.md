@@ -30,9 +30,9 @@ FiB < 0. It may be caused by the increase in the yield of catch in year i is les
 
 FiB > 0. It may be caused by the increase in the yield of catch in year i is greater than the decrease in MTI, or the decrease in the catch in year i is less than the increase in MTI. Other possible causes include the migration of foreign populations (such as the migration of new tuna populations into the sea area of Taiwan), the expansion of fishing grounds, and the increase of basic productivity in regions (such as environmental eutrophication).
 
-故當 FiB 持續偏離平衡狀態，特別是當 FiB 持續下降，僅是點出現有管理方式不足以讓漁業資源維持在永續經營的水平上。至於政策上更明確的改善方向，需更多層面的設計與監測才可能找到解答。
+When FiB keeps deviating from the equilibrium state, especially when FiB keeps decreasing, it is the management methods that are insufficient to maintain fishery resources at a sustainable level. As for a clearer policy direction for improvement, the designs and monitorings in many aspects are needed to find answers.
 ### Updates
-資料來源為 Sea Around Us中之Region-based Marine Trophic Index of the catch in the waters of Taiwan，資料僅到2014年。
+The data until 2014 is from the Region-based Marine Trophic Index of the catch in the waters of Taiwan in Sea Around Us.
 ### Trends
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture

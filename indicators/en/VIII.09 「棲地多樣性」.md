@@ -14,7 +14,7 @@ Sensitive habitats
 ## Background
 生物多樣性的喪失導因自許多因素，諸如氣候變遷、外來種入侵與污染，不過世界保育聯盟(IUCN, The World Conservation Union)在1994年與2004年相隔十年發表的瀕危物種紅皮書中，都將「棲地喪失」列為降低生物多樣性的最大原因，因此生態保育需要做好棲地保護以維護棲地多樣性。
 ## Definition and Calculation
-棲地多樣性為棲地健康狀態評估，針對各指定區域提供一套用以評估物種健康狀態的「屬性指標 (attribute indicator)」。以評估林地健康為例，屬性指標包括樹種多樣性、是否有更新現象等監測方法則依物種而異，再透過田野作業調查棲地的範圍、物種組成、物種族群以評估健康狀況、給予 7 個分級：
+Habitat diversity is the assessment of habitat health, which provides a set of "attribute indicators" for assessing the health status of species in each designated area. Taking the assessment of forest land health as an example, the monitoring methods for attribute indicators, including tree species diversity and the renewal monitoring methods will be used or not would according to different species. The fieldwork is used to investigate the habitat range, species composition, and species population to assess the health status, and giving 7 levels：
 | 分級 | 描述 |
 | -- | -- |
 |    |    |

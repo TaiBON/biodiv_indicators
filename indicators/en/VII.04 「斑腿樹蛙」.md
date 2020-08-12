@@ -24,7 +24,7 @@ The tadpoles of the tree-legged tree frog will prey on the native Taiwanese frog
 ## Definition and Calculation
 Changes of the distribution and number of spot-legged tree frogs. The occurrence and number of spot-legged tree frogs are mainly investigated through a volunteer team, and then the data are compiled by the amphibian conservation lab of National Donghua University, and to represent the distribution change of spot-legged tree frog using GIS layers.
 ## The data and temporal range
-斑腿樹蛙出現位點及數量(2010年‐2019年)
+Occurrence and quantity of *Polypedates megacephalus* (2010–2018)
 
 不計數跟蛙的數量合併，當作「1」觀察數量 有區間，例如10~19、&lt;50等數值，是以最低數量(10、50)作為觀察數量
 

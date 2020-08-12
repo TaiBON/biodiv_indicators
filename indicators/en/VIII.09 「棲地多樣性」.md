@@ -15,14 +15,14 @@ Sensitive habitats
 生物多樣性的喪失導因自許多因素，諸如氣候變遷、外來種入侵與污染，不過世界保育聯盟(IUCN, The World Conservation Union)在1994年與2004年相隔十年發表的瀕危物種紅皮書中，都將「棲地喪失」列為降低生物多樣性的最大原因，因此生態保育需要做好棲地保護以維護棲地多樣性。
 ## Definition and Calculation
 Habitat diversity is the assessment of habitat health, which provides a set of "attribute indicators" for assessing the health status of species in each designated area. Taking the assessment of forest land health as an example, the monitoring methods for attribute indicators, including tree species diversity and the renewal monitoring methods will be used or not would according to different species. The fieldwork is used to investigate the habitat range, species composition, and species population to assess the health status, and giving 7 levels：
-| 分級 | 描述 |
-| -- | -- |
-|    |    |
+| Level | 描述 |
+| ----- | -- |
+|       |    |
  有利維護 (Favourable Maintained)|達到監測目標 有利恢復 (Favourable Recovered)|先前被評為「差」的自然保育特色，如今狀況已恢復良好，且監測目標順利達成 不利恢復 (Unfavourable Recovering)|有一至多個屬性指標未能達到目標，但已有管理措施在改善此種情況 不利且無法改變 (Unfavourable No Change)|有一至多個屬性指標未能達到目標，且未能有改善措施 不利且持續下降 (Unfavourable Declining)|有一至多個屬性指標未能達到目標，且若不及時採取行動，健康狀態會越來越差 部分已瓦解 (Partially Destroyed)|地區內有些自然特色消失，且未能有恢復的一線生機 徹底瓦解 (Totally Destroyed)|地區內的自然特色完全消失，且無法恢復
 ## 現有資料內容及所跨年度
 --
 ## Trends
---(特生中心發展新方法學中)
+--(Endemic species research institude is developing new methodology)
 ## Data Management Authorities
 Endemic Research Institute, Council of Agriculture
 ## References

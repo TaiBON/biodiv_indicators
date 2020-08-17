@@ -24,10 +24,10 @@ The Egyptian Sacred Ibis is native to Africa and the Middle East. In 1984, the w
 ## Definition and Calculation
 * The data from 1995 to 2010 came from the subsidy project of the Chinese Wild Bird Society and the Forest Bureau— The impact of invasive Egyptian Sacred Ibis on native birds in Taiwan, 2009. In order to compare year by year, the data was standardized to represent the population of Egyptian Sacred Ibis of the year by summation the maximum population of each county in the year.
 * Due to the lack of relevant plans for reference from 2011 to 2014, it is based on the eBird records. After removing missing or unreasonable records of the data, the Egyptian Sacred Ibis population of the year is represented by summation of the maximum population of each county in the year.
-* 2015年至2017年的資料，來自林務局104年度至106年度埃及聖䴉族群管理試驗計畫，調查是於每年8至11月各月份的最後一個周末，由各地鳥於西部各濱海地區及濕地，依埃及聖䴉可能出沒地區採區域搜尋法進行同步調查，後統計各縣市調查資料，估算當年度的族群數量。
-* 2018年的資料，則是來自林務局107年度外來入侵鳥種埃及聖䴉族群管理結案報告與eBird的回報紀錄，將eBird數據中缺值或不合理的紀錄去除後，以各縣市該年度的最大族群量相加，之後，再加上該年度計畫移除的蛋、幼鳥、亞成鳥及成鳥的數量，做為該年度的聖䴉族群量代表。
+* The data from 2015 to 2017 are from the 2015 -2017 African Sacred Ibis management pilot project of Forestry Bureau. The survey of the pilot project is synchronously conducted on the last weekend of each month from August to November. The area searching has been using in every possible region such as the western coastal regions and wetlands that African Sacred Ibis may distribute. The population size of each year would be estimated after collecting the survey data of each county and city.
+* The data from 2018 are from the 2018 Population Control for Invasive Species-The Sacred Ibis annual report of Foersty and eBird records. The population size of African Sacred Ibis is represented by the sum of the maximum population size of every county and city (after removing the missing and unreliable records from eBird) and the number of eggs, juvenile, subadult, and adults removed in the report.
 ## The data and temporal range
-埃及聖䴉族群數量(1995-2017年) 埃及聖䴉出現位置及數量(1996-2018年)
+The population size of African Sacred Ibis from 1995 to 2017. The locations and sizes of African Sacred Ibis from 1996 to 2018.
 ## Updates
 由於2018年僅移除個體，並無針對族群量進行調查，因此，本次族群量數據均來自eBird。根據2018年1月至12月的資料，共有3544筆紀錄，其中以台南市的族群量最高，最多記錄到295隻個體。另外，該年有針對埃及聖䴉進行生殖控制計畫，共移除311顆蛋、216隻幼鳥、200隻亞成鳥及3隻成鳥。
 ## Trends

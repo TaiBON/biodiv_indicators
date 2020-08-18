@@ -29,7 +29,7 @@ The Egyptian Sacred Ibis is native to Africa and the Middle East. In 1984, the w
 ## The data and temporal range
 The population size of African Sacred Ibis from 1995 to 2017. The locations and sizes of African Sacred Ibis from 1996 to 2018.
 ## Updates
-由於2018年僅移除個體，並無針對族群量進行調查，因此，本次族群量數據均來自eBird。根據2018年1月至12月的資料，共有3544筆紀錄，其中以台南市的族群量最高，最多記錄到295隻個體。另外，該年有針對埃及聖䴉進行生殖控制計畫，共移除311顆蛋、216隻幼鳥、200隻亞成鳥及3隻成鳥。
+There was no population size estimation in 2018 due to the survey only removed individuals and didn't record the population size. Therefore, the population size data were all from eBird. According to the data from January to December 2018, there were 3,544 records, and Tainan had the highest records, 295 individuals, among all counties and cities. Also, there was a reproductive control program for African Sacred Ibis in the same year. A total of 311 eggs, 216 juveniles, 200 subadults, and three adults had been removed.
 ## Trends
 自指標趨勢圖可見埃及聖䴉分布範圍與數量逐年增加，在2005年後更呈現指數成長，顯示埃及聖䴉的威脅越來越嚴重。在林務局2017年的研究報告中指出，埃及聖䴉當前的族群數量已經脅迫到原生鳥類的的生存。其中，2011年至2014年族群量下降的原因為數據誤差，並不表示族群量減少，誤差原因為eBird是於2013年方在台灣正式推廣，因此，2011年至2012年的數據較少且誤差較大。經推廣後，已有許多賞鳥者將數據匯入eBird資料庫，所得之埃及聖䴉族群數量可信度相當高。 目前埃及聖䴉分布於臺灣各縣市沿海地區，自北中部逐漸往南部擴散，在南部已有不少觀察紀錄。建議有關單位採取更積極的方式，直接控制埃及聖環的族群數量。
 ## Data Management Authorities

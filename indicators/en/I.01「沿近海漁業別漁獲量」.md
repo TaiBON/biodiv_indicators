@@ -1,4 +1,4 @@
-# I.01 Fishery Ladings for Coastal Fisheries
+# I.01 Fish Landings for Coastal Fisheries
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

@@ -1,12 +1,12 @@
-# VIII.04 「生態系服務價值估算」
+# VIII.04 Estimation of Ecosystem Service Value
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-生態敏感地
-## 指標類別
-裨益( B )
-## 指標對應
+## Themes
+Sensitive habitats
+## PSBR model type
+Benefits (B)
+## Corresponding targets
 ### SDGs
 15.1 到2020年，根據國際協議規定的義務，保護、恢復和可持續利用陸地和內陸的淡水生態系統及其服務，特別是森林、濕地、山麓和旱地。
 ### 愛知目標

@@ -1,5 +1,6 @@
-# I.06 primary productivity
-Original indicator name: requirement of primary productivity<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+# I.06 primary production
+Original indicator name: primary production demand
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ### Themes
 Fishery resources
@@ -11,7 +12,7 @@ State (S)
 #### Aichi Biodiversity Targets:
 Target 6 By 2020 all fish and invertebrate stocks and aquatic plants are managed and harvested sustainably, legally and applying ecosystem based approaches, so that overfishing is avoided, recovery plans and measures are in place for all depleted species, fisheries have no significant adverse impacts on threatened species and vulnerable ecosystems and the impacts of fisheries on stocks, species and ecosystems are within safe ecological limits.
 ### Background
-The size of the marine primary productivity is the basic parameter for evaluating the productivity of a sea area’s fisheries. In terms of practical application, we compare the primary productivity obtained from the actual measurement and the primary production required to sustain fisheries (PPR) calculated from annual fishery report, and to explore whether there has been over-fishing in Taiwan’s fishing grounds.
+The size of the marine primary production is the basic parameter for evaluating the productivity of fisheries in a sea area. In terms of practical application, we compare the primary production obtained from the actual measurement and the primary production required to sustain fisheries (PPR) calculated from Taiwan Fisheries Yearbook, to explore whether there has been over-fishing in Taiwan’s fishing grounds.
 ### Definition and Calculation
 
 $$ PPR=(Catches/9)\times10^{n-1} $$

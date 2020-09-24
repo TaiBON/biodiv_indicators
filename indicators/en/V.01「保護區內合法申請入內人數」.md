@@ -1,5 +1,5 @@
 # Number of people legally applying to enter protected area
-原指標名稱：保護區內人為干擾程度
+Anthropogenic impacts in conservation areas
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

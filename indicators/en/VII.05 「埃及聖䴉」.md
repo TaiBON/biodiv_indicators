@@ -33,13 +33,13 @@ There was no population size estimation in 2018 due to the survey only removed i
 ## Trends
 From the indicator trend, it can be seen that the distribution range and number of African Sacred Ibis has increased year by year. After 2005,  African Sacred Ibis has shown exponential growth, indicating that the threat of it has become more and more serious. In the 2017 Research Report of the Forestry Bureau, it was pointed out that the current population size of  African Sacred Ibis has threatened the survival of native bird species. The reason for the decline in population size from 2011 to 2014 is the data bias, which does not mean that the population size is reduced. The bias is because eBird was officially promoted in Taiwan in 2013. Therefore, the data from 2011 to 2012 is less and the error Larger. After promotion, many bird watchers have imported the data into the eBird database, and the number of Egyptian holy warriors obtained is highly reliable. At present, the Egyptian sages are distributed in the coastal areas of Taiwan's counties and cities, gradually spreading from the central north to the south, and there have been many observation records in the south. It is recommended that relevant units take a more active approach and directly control the number of ethnic groups in the holy ring of Egypt.
 ## Data Management Authorities
-eBird團隊、行政院農委會林務局、社團法人中華民國野鳥學會、博威鳥控有限公司、臺灣大學森林環境暨資源學系野生動物研究室
+eBird team, Forestry Bureau of the Council of Agriculture of the Executive Yuan, Taiwan Wild Bird Federation, Birdway Control Co., Ltd., Wildlife Lab of School of Forestry and Resource Conservation, National Taiwan University
 ## References
-* eBird網站
-* 行政院農委會林務局 (2018) 107年度外來入侵鳥種埃及聖䴉族群管理結案報告
-* 行政院農委會林務局 (2017) 106年度外來入侵鳥種埃及聖䴉族群管理試驗
-* 行政院農委會林務局 (2016) 105年度外來入侵鳥種埃及聖䴉防治試驗
-* 行政院農委會林務局 (2015) 外來入侵鳥種埃及聖䴉防治計畫
-* 行政院農委會林務局 (2010) 入侵種埃及聖䴉族群模式與移除方法之研究
-* 行政院農委會林務局 (2011) 入侵種埃及聖䴉族群模式與移除方法之研究
-* 行政院農委會林務局 (2009) 入侵種埃及聖䴉對於臺灣地區鳥類生態影響之研究
+* eBird website
+* Forestry Bureau, Council of Agriculture, Executive Yuan (2018) Population Control for Invasive Species—The Sarced Ibis
+* Forestry Bureau, Council of Agriculture, Executive Yuan (2017) Experiment of Population Control for Invasive Species—The Sacred Ibis
+* Forestry Bureau, Council of Agriculture, Executive Yuan (2016) Experiement to Properly Enact Population Control for Invasive Species—The Sarced Ibis
+* Forestry Bureau, Council of Agriculture, Executive Yuan (2015) Population Control of The Invasive Species of Sacred Ibis
+* Forestry Bureau, Council of Agriculture, Executive Yuan (2010) Population Models and Control of the Invasive Species of Sacred Ibis
+* Forestry Bureau, Council of Agriculture, Executive Yuan (2011) Population Models and Control of the Invasive Species of Sacred Ibis
+* Forestry Bureau, Council of Agriculture, Executive Yuan (2009) Effects of Invasive Species Sacred Ibis (_Threskornis aethiopicus_) to the Taiwan bird Ecosystem

@@ -11,7 +11,7 @@ Response (R)
 #### Aichi Biodiversity Targets
 Target 6 By 2020 all fish and invertebrate stocks and aquatic plants are managed and harvested sustainably, legally and applying ecosystem based approaches, so that overfishing is avoided, recovery plans and measures are in place for all depleted species, fisheries have no significant adverse impacts on threatened species and vulnerable ecosystems and the impacts of fisheries on stocks, species and ecosystems are within safe ecological limits.
 ### Background
-過度捕撈應是使漁業資源減少的主要原因之一，如何降低漁獲壓力則應訂定管理及鼓勵措施，來減少漁船船數及噸數。由於有不少漁船實際上並非從事漁業活動或處於休漁狀態，故需再由港檢所登記漁船出海的日誌或 VDR 的記錄來估算有效漁船的總數及每年減少的船數，希望船數每年能減少。通常每年新建造的漁船，雖然噸數須小於汰建的舊船，但其漁獲效率卻會大幅增加，故新建船數的統計會是重要的指標。
+Overfishing should be one of the major reasons for the reduction of fishery resources, and establishing management and incentive measures to reduce the number of fishing vessels and tonnage could alleviate the pressure of overfishing. Since many fishing vessels are not actually engaged in fishing activities or are inactive, it is necessary to estimate the total number of active fishing vessels and the number of vessels reduced each year using the registered logbook of fishing vessels going to sea or the VDR records of the port inspection office (hope the numbers is reducing each year). Usually, each year, the tonnage of newly-built fishing vessels must be smaller than that of the replaced fishing vessels, but the newly-built ones have significantly increased fishing efficiency, therefore the statistics of the newly built vessels will be an important indicator.
 ### Definition and Calculation
 漁業署核發漁船執照資料中，具有合法執照的船隻數
 ### Updates

@@ -1,5 +1,5 @@
-# I.14 " Increasing in subsidies that are conductive to biodiversity"
-Original indicator name: not conducive to subsidies for biodiversity and reducing negative impacts
+# I.14 "Increase subsidies that are conducive to biodiversity"
+The original indicator name：a subsidy measure that is not conducive to biodiversity and reduces the negative impact
 
 ### Themes
 Fishery resources
@@ -7,7 +7,7 @@ Fishery resources
 Response (R)
 ### Corresponding targets
 #### SDGs
-14.6.1 不予提供非法、未報告及不受規範(簡稱IUU)漁撈行為的補助。
+14.6.1 Subsidies for illegal, unreported and unregulated (IUU) fishing activities will not be provided.
 #### Aichi Biodiversity Targets
 Target 4 By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
 ### Background

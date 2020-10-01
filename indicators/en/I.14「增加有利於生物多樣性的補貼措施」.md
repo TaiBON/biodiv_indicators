@@ -11,7 +11,7 @@ Response (R)
 #### Aichi Biodiversity Targets
 Target 4 By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
 ### Background
-追蹤歷年各項補貼金額趨勢，可供漁業政策修訂的參考增加有利的正面補貼，將有助於漁業資源的復育。
+Tracking the trend of various subsidies over the years can be used as a reference for the revision of fishery policy. Adding favorable positive subsidies will help the restoration of fishery resources.
 ### Definition and Calculation
 1. 部分的漁業補貼究竟是正面或負面，目前仍有爭議，主要以用油補貼與休漁獎勵佔大宗。
 2. 正面補貼指標資料內容採用休漁補貼之補助金額/年。

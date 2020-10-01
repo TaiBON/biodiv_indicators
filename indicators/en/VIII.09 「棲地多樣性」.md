@@ -10,9 +10,9 @@ Status (S)
 ### SDGs
 15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements. 15.4 By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development. 15.5 Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.
 ### Aichi Biodiversity Targets
-目標15： 到2020年，透過保育和復原行動，包括復原至少15 %退化的生態系，強化生態系的復原能力以及生物多樣性對碳吸存的貢獻，從而幫助減緩與調適氣候變遷及防止沙漠化。
+Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 per cent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 ## Background
-生物多樣性的喪失導因自許多因素，諸如氣候變遷、外來種入侵與污染，不過世界保育聯盟(IUCN, The World Conservation Union)在1994年與2004年相隔十年發表的瀕危物種紅皮書中，都將「棲地喪失」列為降低生物多樣性的最大原因，因此生態保育需要做好棲地保護以維護棲地多樣性。
+The loss of biodiversity is due to many factors, such as climate change, alien species invasion and pollution. However, the Red Book of Endangered Species published by the International Union for Conservation of Nature (IUCN) in 1994 and 2004, the "habitat loss" is listed as the major reason for reducing biodiversity. Therefore, conservation requires habitat protection to maintain habitat diversity.
 ## Definition and Calculation
 Habitat diversity is the assessment of habitat health, which provides a set of "attribute indicators" for assessing the health status of species in each designated area. Taking the assessment of forest land health as an example, the monitoring methods for attribute indicators, including tree species diversity and the renewal monitoring methods will be used or not would according to different species. The fieldwork is used to investigate the habitat range, species composition, and species population to assess the health status, and giving seven levels:
 | Level | description |

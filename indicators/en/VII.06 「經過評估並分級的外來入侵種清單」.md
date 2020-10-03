@@ -20,11 +20,11 @@ Key performance indicator of the action plan:
 ## Background
 Since invasive species pose different levels of threat to the local ecosystems, it is necessary to establish a risk assessment mechanism to classify invasive alien species as "priority management and prevention", "continuous monitoring" and "to-be-observed evaluation", etc., and to create corresponding monitoring and prevention measures.
 ## Definition and Calculation
-對外來入侵種進行風險評估，依風險級別建立「優先管理防治」、「持續監測」及「待觀察評估」之外來入侵種清單。 透過「入侵歷史」、「生態適應性」、「生活史」、「有害特質」等項目，對外來入侵種進行風險評估，並依不同物種調整評估項目。風險高者評為5分；風險中等或狀況不明者評為3分；風險低者則評為1分。根據風險評分再分別建立「優先管理防治」、「持續監測」及「待觀察評估」之外來入侵種清單。
+Carry out risk assessment of foreign invasive species, and establish a list of invasive species based on the risk level, which includes "priority management and prevention", "continuous monitoring" and "to-be-observed evaluation". Conduct risk assessments of invasive species through categories such as "invasion history", "ecological adaptability", "life cycle", and "harmful traits", and adjust the assessment items according to different species. Those with high risk are rated as five points; those with medium risk or unknown status are rated as three points; those with low risk are rated as one point. According to the risk score, a list of invasive species is established based on "priority management and prevention", "continuous monitoring" and "to-be-observed evaluation".
 ## The data and temporal range
-經風險評估及分級之外來入侵種清單(2004年)
+List of introduced invasive species after risk assessment and classification (2004)
 ## Updates
-2004年公布「優先防止、長期管理、觀察、監測或評估中隻21種入侵種生物清單」，內容包含紅火蟻、小花蔓澤蘭等，該清單至2018年仍維持原議，並無進行更新或刪減。
+In 2004, the “list of 21 invasive species in priority prevention, long-term management, observation, monitoring, or evaluation” was published, which included red fire ants, *Mikania micrantha*, etc. The list remained the original proposal until 2018 and has not been updated or deleted.
 ## Trends
 --
 (目前僅有2004年「優先防治、長期管理、觀察、監測或評估中之21種入侵種生物清單」，至2018年皆未再更新)

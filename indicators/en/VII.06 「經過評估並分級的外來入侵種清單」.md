@@ -27,11 +27,11 @@ List of introduced invasive species after risk assessment and classification (20
 In 2004, the “list of 21 invasive species in priority prevention, long-term management, observation, monitoring, or evaluation” was published, which included red fire ants, *Mikania micrantha*, etc. The list remained the original proposal until 2018 and has not been updated or deleted.
 ## Trends
 --
-(目前僅有2004年「優先防治、長期管理、觀察、監測或評估中之21種入侵種生物清單」，至2018年皆未再更新)
+(Currently, we only have the "list of 21 invasive species in priority control, long-term management, observation, monitoring or evaluation" in 2004, which was not updated until 2018)
 ## Data Management Authorities
 Forestry Bureau, Council of Agriculture
 ## Data Source/URL
-* 行政院國家永續發展委員會永續發展行動計畫之績效指標
-* 林務局 (2008) 已入侵外來種動物處理順序評估系統之建立
-* 林務局 (2016) 優先防治、長期管理、觀察、監測或評估中之21種入侵種生物清單
-* [行政院農委會林務局自然保育網](https://conservation.forest.gov.tw/0000410)
+* The key performance index of the sustainable development action plan of National Council for Sustainable Development, Executive Yuan
+* Forestry Bureau, Council of Agriculture (2008) Establishment of an evaluation system for the processing priority of invasive species
+* Forestry Bureau, Council of Agriculture (2016) List of 21 invasive species under priority control, long-term management, observation, monitoring or evaluation
+* [Nature Conservation Network, Forestry Bureau, Council of Agriculture, Executive Yuan](https://conservation.forest.gov.tw/0000410)

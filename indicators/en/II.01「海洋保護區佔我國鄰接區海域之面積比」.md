@@ -13,7 +13,7 @@ Response(R)
 #### Aichi Biodiversity Targets:
 Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background
-海洋保護區 (marine protected area, MPA) 概念上為受到保護的大洋 (oceans)、海洋 (seas)、河口或大湖區域，通常是以特定形式限制人類活動以保護其中的自然或文化資源。 臺灣政府對海洋保護區之定義，根據漁業署官方網站公告，為「平均高潮線往海洋延伸之一定範圍內，具有特殊自然景觀、重要文化遺產及永續利用之生態資源等，需由法律或其他有效方式進行保護管理之區域。」
+Marine protected area (MPA) is a protected area of oceans, seas, estuaries, or great lake regions, and usually restricts human activities in a specific form to protect the natural or cultural resources. The definition of Marine protected areas of Taiwanese government according to the official website of the Fisheries Agency, Council of Agriculture is “within a certain range of the average high water line extending to the ocean, with special natural landscapes, important cultural heritage, and sustainable ecological resources, etc., must be governed by law or other effective ways to protect and manage the area."
 ### Definition and Calculation
 1. 臺灣海洋保護區的法源有多種，受保護的嚴格程度也各不相同，計算前需明訂範圍（例如只納入受保護程度最高的海洋保護區）後始加總符合條件的海洋保護區面積並扣除相互重疊部分。
 2. 因臺灣的國際地位特殊，目前無法公告200浬經濟海域面積，如依過去計算以12浬領海面積做為計算分母，與國際無法比較。108年11月19日在海洋保育署開會的結論建議，把過去所用的含內水的領海的分母改為鄰接區海域作為分母。

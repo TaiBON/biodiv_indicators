@@ -1,4 +1,4 @@
-# I.14 "Increase subsidies that are conducive to biodiversity"
+# I.14 Increase subsidies that are conducive to biodiversity
 The original indicator name：a subsidy measure that is not conducive to biodiversity and reduces the negative impact
 
 ### Themes

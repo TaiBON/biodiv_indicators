@@ -1,4 +1,4 @@
-# II.01「海洋保護區佔我國鄰接區海域之面積比」
+# II.01 The ratio of marine protected areas to the sea areas adjacent
 Original indicator name: Marine protected areas at the area ratio of territorial sea
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -15,11 +15,11 @@ Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 
 ### Background
 Marine protected area (MPA) is a protected area of oceans, seas, estuaries, or great lake regions, and usually restricts human activities in a specific form to protect the natural or cultural resources. The definition of Marine protected areas of Taiwanese government according to the official website of the Fisheries Agency, Council of Agriculture is “within a certain range of the average high water line extending to the ocean, with special natural landscapes, important cultural heritage, and sustainable ecological resources, etc., must be governed by law or other effective ways to protect and manage the area."
 ### Definition and Calculation
-1. 臺灣海洋保護區的法源有多種，受保護的嚴格程度也各不相同，計算前需明訂範圍（例如只納入受保護程度最高的海洋保護區）後始加總符合條件的海洋保護區面積並扣除相互重疊部分。
-2. 因臺灣的國際地位特殊，目前無法公告200浬經濟海域面積，如依過去計算以12浬領海面積做為計算分母，與國際無法比較。108年11月19日在海洋保育署開會的結論建議，把過去所用的含內水的領海的分母改為鄰接區海域作為分母。
-3. 因尚未有鄰接區海域之資料，故目前指標趨勢所呈現的資料單位為海洋保護區累積面積 (km^2^)。
+1. There are many legal sources for Marine protected areas of Taiwan, and the strictness of protection to different areas is also different. The scope of the calculation (for example, only the most protected marine protected areas) must be specified and deduct the overlapping parts before the total area of eligible marine protected areas is added.
+2. Due to the special international status of Taiwan, it is not possible to announce the area of the 200-mile economic sea area. If using the 12-mile territorial sea area as the denominator, it will not able to compare with other countries. The conclusion of a meeting held at the Ocean Conservation Administration on November 19, 108 suggested that the denominator should be changed to the contiguous zone.
+3. There is still no data of the contiguous zone, the data unit presented by the current trend is the cumulative area of marine protected areas (km^2^).
 ### Updates
-依據漁業署網站資料，至2018年12月底臺灣海洋保護區(不含相關漁具漁法及特定漁業禁漁區)總面積為4495.5276 km^2^，海洋保護區面積佔總水域面積之6.908 % (臺灣距岸12里內水域面積為65,076.96 km^2^)。
+According to the information on the website of the Fisheries Agency, Council of Agriculture, the total area of Taiwan’s marine protected areas (excluding relevant fishing gear and fishing methods and specific fishery prohibited areas) as of the end of December 2018 was 4495.5276 km^2^, and the marine protected areas accounted for 6.908% of the total water area (Taiwan offshore The water area within 12 miles is 65,076.96 km^2^).
 ### Data Management Authorities
 Ocean Conservation Administration, Fisheries Agency, National Park Headquarters, Forestry Bureau, Tourism Bureau, Ministry of the Interior
 ### Data Source/URL

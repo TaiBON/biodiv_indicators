@@ -14,7 +14,7 @@ Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 
 ### Background
 Planning marine protected areas (including completely prohibited fishing areas), improving management and increasing bans are the simplest and most effective ways to restore fish resources. Therefore, by 2020, there should be 10% of the oceans included in the scope of marine protected areas in the global goal. When calculating the area ratio, the Exclusive Economic Zone (EEZ) is mostly used as the denominator in foreign countries, while our country uses 12 nautical miles with internal water as the denominator.
 ### Definition and Calculation
-「完全禁漁區」即國外一般所謂的 no-take area ，等於「核心區」或「海洋保留區」，不准任何漁具漁法進入。在臺灣，只要有一種漁具、漁法或是魚種的限捕也稱之為「禁漁區」，故使用「完全禁漁業區」一詞以避免混淆。 加總符合條件的完全禁漁區(或保護區核心區)面積並扣除相互重疊部分，最後除以總保護區面積。
+No-take area, which is equivalent to "core area" or "marine reserve region," is not allow fishing gear or method to enter. In Taiwan, if a region contains any fishing gear, fishing method, or fish species restrictions, it can also be called a "no-fishing zone." Therefore, the term "no-take area" is used to avoid confusion. The ratio of no-take area to the marine protected area is getting the sum of no-take area, deducting the overlapping parts, and dividing it by the total protected area.
 ### Updates
 依據漁業署網站資料，至2018年12月底，禁止進入或影響之海洋保護區總面積為586.2332 km^2^，佔現有海洋保護區總面積比例為1.8942%；禁止採捕之海洋保護區總面積為2974.7439 km^2^，佔現有海洋保護區總面積比例為9.6116%。
 ### Trends

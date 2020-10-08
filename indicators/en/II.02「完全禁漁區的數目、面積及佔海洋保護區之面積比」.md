@@ -12,7 +12,7 @@ Response(R)
 #### Aichi Biodiversity Targets:
 Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background
-劃設海洋保護區 (含完全禁漁區) 並加強落實管理取締，是復育魚類資源最簡單、最經濟、最有效的辦法，因此全球的目標是到 2020 年，全球海洋應有 10% 的海域應劃入海洋保護區的範圍。在國外計算面積比例時多半以專屬經濟區 (Exclusive Economic Zone, EEZ) 為分母，而我國則使用含內水的 12 海浬作分母。
+Planning marine protected areas (including completely prohibited fishing areas), improving management and increasing bans are the simplest and most effective ways to restore fish resources. Therefore, by 2020, there should be 10% of the oceans included in the scope of marine protected areas in the global goal. When calculating the area ratio, the Exclusive Economic Zone (EEZ) is mostly used as the denominator in foreign countries, while our country uses 12 nautical miles with internal water as the denominator.
 ### Definition and Calculation
 「完全禁漁區」即國外一般所謂的 no-take area ，等於「核心區」或「海洋保留區」，不准任何漁具漁法進入。在臺灣，只要有一種漁具、漁法或是魚種的限捕也稱之為「禁漁區」，故使用「完全禁漁業區」一詞以避免混淆。 加總符合條件的完全禁漁區(或保護區核心區)面積並扣除相互重疊部分，最後除以總保護區面積。
 ### Updates

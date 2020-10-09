@@ -13,7 +13,7 @@ Target 4 By 2020, at the latest, Governments, business and stakeholders at all l
 ### Background
 Tracking the trend of various subsidies over the years can be used as a reference for the revision of fishery policy. Adding favorable positive subsidies will help the restoration of fishery resources.
 ### Definition and Calculation
-1. 部分的漁業補貼究竟是正面或負面，目前仍有爭議，主要以用油補貼與休漁獎勵佔大宗。
+1. It's still controversial whether some fishery subsidies are beneficial or detrimental, the majority of which is fuel tax exemptions and reward for fishing moratoria.
 2. 正面補貼指標資料內容採用休漁補貼之補助金額/年。
 3. 休漁補貼資料則來自中央政府總決算之漁業署及所屬單位決算，單位為千元。
 ### Updates

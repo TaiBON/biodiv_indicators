@@ -12,7 +12,7 @@ State(S)
 #### Aichi Biodiversity Targets:
 Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background
-海洋敏感生態系如珊瑚礁、藻礁、海草床、紅樹林、潟湖、熱泉、冷泉等極具重要生態功能與價值，能反映海洋與海岸變遷之指標，應清楚劃分其面積大小並長期監測面積變化。
+The sensitive marine ecosystems such as coral reefs, algae reefs, seagrass beds, mangroves, lagoons, hot springs, cold springs are of important ecological functions and values, which can reflect the changes of the ocean and coast, should be clearly divided its area and monitored for a long time.
 ### Definition and Calculation
 加總海洋重要與敏感生態系 (含珊瑚礁、藻礁、海草床、紅樹林、潟湖、熱泉、冷泉等) 之面積與數量
 ### Updates

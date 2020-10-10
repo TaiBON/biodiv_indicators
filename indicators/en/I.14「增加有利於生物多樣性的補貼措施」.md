@@ -7,17 +7,17 @@ Fishery resources
 Response (R)
 ### Corresponding targets
 #### SDGs
-14.6.1 Subsidies for illegal, unreported and unregulated (IUU) fishing activities will not be provided.
+14.6.1 Subsidies for illegal, unreported and unregulated (IUU) fishing activities will not be granted.
 #### Aichi Biodiversity Targets
 Target 4 By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
 ### Background
 Tracking the trend of various subsidies over the years can be used as a reference for the revision of fishery policy. Adding favorable positive subsidies will help the restoration of fishery resources.
 ### Definition and Calculation
 1. It's still controversial whether some fishery subsidies are beneficial or detrimental, the majority of which is fuel tax exemptions and reward for fishing moratoria.
-2. 正面補貼指標資料內容採用休漁補貼之補助金額/年。
-3. 休漁補貼資料則來自中央政府總決算之漁業署及所屬單位決算，單位為千元。
+2. The content of the beneficial subsides index data adopts the subsidy amount per year of the fishing moratorium.
+3. The information of the fishing moratorium subsidy comes from the final accounts of the Fisheries Agency and its affiliated units of the central government’s final accounts, in units of thousand yuan.
 ### Updates
-依據漁業署及所屬單位民國107年決算，民國107年(2018)休漁補貼金額為158,017千元。
+According to the final accounts of the Fisheries Agency and its affiliates in 2018, the amount of subsidies for fishing moratorium in 2018 was 158,017 thousand yuan.
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

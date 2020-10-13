@@ -13,7 +13,7 @@ State (S)
 #### Aichi Biodiversity Targets:
 Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background
-1. 劃設海洋保護區必須落實管理才能發揮成效，評估海洋保護區是否有效管理最根本的評估辦法，是在海洋保護區內定期、定點進行重要生物類群的監測 (如魚類、珊瑚、海草、浮游動物)，調查物種群聚結構變化趨勢，以反映海洋保護區內生物多樣性之變化。
+1. The planning of marine protected areas must be managed in order to be effective. The most fundamental assessment method to evaluate whether the marine protected areas are effectively managed is to monitor important biological groups (such as fish, corals, seagrass, and zooplanktons) at certain sites in the marine protected areas). Researching the demographic trend of the population structure can reflect the change of biodiversity in the marine protected areas.
 2. 目前「海洋保護區」依據數個不同法源基礎，其法規制度、保護標的、設置目標及經費人力皆有差異，是否由各單位訂定長期監測方法管理之對應指標，以評估管理績效。
 ### Definition and Calculation
 1. 挑選不同法令所劃設的保護區，設固定測站或測缐，監測其群聚指標 (種類組成、豐度及多樣性指數) 的變化。

@@ -1,4 +1,4 @@
-# II.03「海洋重要與敏感生態系之面積」
+# II.03 Area of important and sensitive marine ecosystems
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -14,7 +14,7 @@ Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 
 ### Background
 The sensitive marine ecosystems such as coral reefs, algae reefs, seagrass beds, mangroves, lagoons, hot springs, cold springs are of important ecological functions and values, which can reflect the changes of the ocean and coast, should be clearly divided its area and monitored for a long time.
 ### Definition and Calculation
-加總海洋重要與敏感生態系 (含珊瑚礁、藻礁、海草床、紅樹林、潟湖、熱泉、冷泉等) 之面積與數量
+The sum of the area and quantity of important and sensitive marine ecosystems (including coral reefs, algal reefs, sea grass beds, mangroves, lagoons, hot springs, cold springs, etc.)
 ### Updates
 2019年完成臺灣本島西海岸、澎湖及金門之潮間帶海草分布調查，盤點的海草床面積共計36.8 公頃。 2019年紅樹林調查面積為660.7 公頃，如加上離島地區總面積達到680.7 公頃。
 ### Data Management Authorities

@@ -1,4 +1,4 @@
-# II.02 "Number and area of completely closed fishing areas and their percentages in marine protected areas"
+# II.02 Number and area of completely closed fishing areas and their percentages in marine protected areas
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

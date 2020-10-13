@@ -16,7 +16,7 @@ The sensitive marine ecosystems such as coral reefs, algae reefs, seagrass beds,
 ### Definition and Calculation
 The sum of the area and quantity of important and sensitive marine ecosystems (including coral reefs, algal reefs, sea grass beds, mangroves, lagoons, hot springs, cold springs, etc.)
 ### Updates
-2019年完成臺灣本島西海岸、澎湖及金門之潮間帶海草分布調查，盤點的海草床面積共計36.8 公頃。 2019年紅樹林調查面積為660.7 公頃，如加上離島地區總面積達到680.7 公頃。
+In 2019, a research of seagrass distribution in the intertidal zone on the west coast of Taiwan's main island, Penghu and Kinmen had found 36.8 hectares of seagrass beds. The result of the research showed that the total area of seagrass beds was 36.8 hectares. Also, the area of mangrove forests in 2019 was 660.7 hectares, after adding the area of islet regions, it would become 680.7 hectares.
 ### Data Management Authorities
 Marine National Park Headquarters, Ocean Conservation Administration, Taiwan Environmental Information Association
 ### Data Source/URL

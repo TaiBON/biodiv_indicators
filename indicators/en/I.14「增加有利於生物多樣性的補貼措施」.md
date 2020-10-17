@@ -11,7 +11,7 @@ Response (R)
 #### Aichi Biodiversity Targets
 Target 4 By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
 ### Background
-Tracking the trend of various subsidies over the years can be used as a reference for the revision of fishery policy. Adding favorable positive subsidies will help the restoration of fishery resources.
+The trend of various subsidies over the years can be used as a reference for the revision of fishery policy. Increasing favorable positive subsidies will help the restoration of fishery resources.
 ### Definition and Calculation
 1. It's still controversial whether some fishery subsidies are beneficial or detrimental, the majority of which is fuel tax exemptions and reward for fishing moratoria.
 2. The content of the beneficial subsides index data adopts the subsidy amount per year of the fishing moratorium.

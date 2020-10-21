@@ -1,5 +1,5 @@
-# II.06「投入海洋保護區之調查及監測的經費」
-原指標名稱：投入海洋保護區之調查及監測的人力、物力及經費
+# II.06 "Funds invested in the investigation and monitoring of marine protected areas"
+Original indicator name: Manpower, material resources and funds invested in the investigation and monitoring of marine protected areas
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

@@ -1,5 +1,5 @@
-# II.05「非保護區中的海洋生物多樣性群集變化」
-原指標名稱：非保護區內海洋生物多樣性變化之群聚資料
+# II.05 "Changes in marine biodiversity community in non-protected areas"
+The original indicator name: Cluster changes in marine biodiversity in non-protected areas
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -9,7 +9,7 @@ Marine protected areas
 State(S)
 ### Corresponding targets
 #### SDGs
-14.2 在西元 2020 年以前，以可永續的方式管理及保護海洋與海岸生態，避免重大的不利影響，作法包括強健他們的災後復原能力，並採取復原動作，以實現健康又具有生產力的海洋。
+14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans
 #### Aichi Biodiversity Targets:
 Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background

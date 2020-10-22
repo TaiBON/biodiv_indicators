@@ -9,7 +9,7 @@ Marine protected areas
 Response (R)
 ### Corresponding targets
 #### SDGs
-14.5 在西元 2020 年以前，依照國家與國際法規，以及可取得的最佳科學資訊，保護至少 10%的海岸與海洋區。
+14.5 By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information
 #### Aichi Biodiversity Targets:
 Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background

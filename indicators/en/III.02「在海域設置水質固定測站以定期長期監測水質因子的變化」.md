@@ -1,5 +1,5 @@
-# III.02「在海域設置水質固定測站以定期長期監測水質因子的變化」
-原指標名稱：在海域及港口設置水質固定測站以定期長期監測水質因子的變化
+# III.02 Set up fixed water quality monitoring stations in the sea and harbors to regularly long-term monitor changes in water quality variables.
+Original indicator name：Set up fixed water quality monitoring stations in sea areas and ports to regularly long-term monitor changes in water quality variables.
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

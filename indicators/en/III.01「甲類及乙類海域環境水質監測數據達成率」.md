@@ -1,4 +1,4 @@
-# III.01 "Percentage of data from environmental water quality monitoring up to standards in Category A and Category B sea areas"
+# III.01 "Pass rate of data from environmental water quality monitoring reaching Class A and Class B standards"
 Original indicator name: pass rate of data from marine environmental water quality monitoring and the number of estuaries with marine environmental quality reaching Class A and Class B standards
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>

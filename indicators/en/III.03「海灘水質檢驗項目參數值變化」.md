@@ -1,4 +1,4 @@
-# III.03「海灘水質檢驗項目參數值變化」
+# III.03 "Changes in parameters of beach water quality in testing items"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -8,17 +8,17 @@ Marine pollution
 Pressure (P)
 ### Corresponding targets
 #### SDGs
-14.1 在西元 2025 年以前，預防及大幅減少各式各樣的海洋 污染，尤其是來自陸上活動的污染，包括海洋廢棄物以 及營養污染。
+14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution.
 #### Aichi Biodiversity Targets:
 Target 8: By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
 ### Background
-根據許多人體健康與環境衛生的相關研究顯示，海灘遊憩地區水質污染對人體健康的風險來源主要為皮膚接觸以及口腔攝入致病微生物所造成。然而，海灘水質遭受大量細菌等微生物污染的原因，主要是大雨沖刷造成垃圾及地面污水污染、糞便污染及下水道排水溢流污染等，尤其在颱風或暴雨過後水質較差，因此不建議民眾下水遊憩。 由於致病微生物種類繁多，以致監測及制訂相關法令規範不易，參考許多先進國家如歐美諸國皆有明確的海灘水質「微生物污染指標」標準，可作為本署監測採樣基準，並於泳季定時監測及公告，以保障民眾戲水之健康安全。
+According to many studies on human health and environmental hygiene, the risk of water pollution in beach recreation areas to human health are mainly caused by skin contact and oral intake of pathogenic microorganisms. However, the beach water quality suffers from a large number of bacteria and other microbial pollution, mainly due to heavy rain washing caused garbage and ground sewage, fecal, and sewage overflow pollution, etc.. Especially after typhoons or heavy rains, the water quality is poor, therefore it is not recommended to go to the beach water for recreation. Due to the wide variety of pathogenic microorganisms, it is not easy to monitor and make relevant laws and standards. Many advanced countries such as the United States and European countries have clear "microbial contamination indicators" on beach water quality, which can be used as a reference basis to monitor water quality by Ocean Conservation Administration, and in the swimming season, regular monitoring and announcements are made to protect the health and safety of people playing in the beach water.
 ### Definition and Calculation
-監測項目為水溫、酸鹼值、鹽度、大腸桿菌群與腸球菌群等 5 項，計算其數值歷年趨勢。 根據海洋環境品質標準，海灘水中大腸桿菌群之合格菌落數應在1000 CFU/100mL以下，合格水質又依據腸球菌群以50 MPN/100mL為界線，區分為優良或普通。
+The monitoring items are water temperature, pH value, salinity, Escherichia coli ( E. coli) strains, and Enterococcus strains, a total of 5 items, and the numerical trends over the years are calculated. According to the marine environmental quality standards, the colony number of E. coli in beach water should be less than 1000 CFU/100mL. Beach water quality that passes the standards is further classified as good vs. normal when the colony number of Enterococcal bacteria is higher or lower than 50 MPN/100mL.
 ### Updates
-2018年6-8月每月8處海灘監測點水質監測成果(6-8月平均[^first] )，大腸桿菌群463.636 CFU/100mL，腸球菌群94.636MPN/100mL。
-[^first]: 低於極限值時以極限值之1/2計算平均
+From June to August 2018, the monthly water quality monitoring results of 8 beach monitoring stations ([^first] June to August average), the colony number of E. coli is 463.636 CFU/100mL, and the colony number of Enterococcus is 94.636MPN/100mL.
+[^first]: When it is lower than the limit value, calculate the average with 1/2 of the limit value
 ### Data Management Authorities
-Ocean Conservation Administration( Environmental Protection Agency before 2018)
+Ocean Conservation Administration (Environmental Protection Agency before 2018)
 ### Data Source/URL
-[環保署之全國環境水質監測資訊網中之海灘水質資料](https://wq.epa.gov.tw/Code/Report/DownloadList.aspx)
+[The data of Beach Water Quality, on the website of Environmental Water Quality Information by Environmental Protection Administration, Executive Yuan.](https://wq.epa.gov.tw/Code/Report/DownloadList.aspx)

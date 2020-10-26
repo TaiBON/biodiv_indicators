@@ -1,4 +1,4 @@
-# Capture rate of offshore fish species
+# I.02 Capture rate of offshore fish species
 Orignal name of the indicator: offshore catch per unit of effort
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -17,7 +17,7 @@ The ratio of "yield of catch" to "working time (effort)"is called Yield of Catch
 ### Definition and Calculation
 To estimate the catch rate, specific area (space), time (year, month, day), and representative fishing gears/methods are first set, then the data of VDR is used, which is calculated as nautical operation time－sailing time ＝ operation time, in combination with the capture data of various fishing gear and methods reported by each port.
 ### Updates
-no information available
+No data currently available
 Trends
 --
 ### Data Management Authorities

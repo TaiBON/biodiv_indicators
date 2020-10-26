@@ -1,4 +1,4 @@
-# I.10 Reducing subsidies that are not conducive to biodiversity
+# I.10 Reducing Subsidies That Are Not Conducive To Biodiversity
 Original indicator name: not conducive to subsidies for biodiversity and reducing negative impacts
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>

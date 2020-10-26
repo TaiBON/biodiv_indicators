@@ -1,6 +1,8 @@
 # I.05「漁獲平衡指數」
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+## 內容簡述
+該指標用以衡量漁業在各階層之漁獲量是否均衡。
 
 ### 所屬議題
 漁業資源

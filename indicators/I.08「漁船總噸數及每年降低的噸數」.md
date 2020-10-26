@@ -1,7 +1,9 @@
 # I.08「漁船總噸數及每年降低的噸數」
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
+### 內容簡述
+過度捕撈應是使漁業資源減少的主要原因之一，如何降低漁獲壓力則應訂定管理及鼓勵措施，來減少漁船船數及噸數。
+本項生物多樣性指標為漁船的年別船隻噸數統計，船隻數請參見[漁船年別船隻數](/zh-hant/indicator/psbr/161)，馬力數請參見[漁船年別馬力數](zh-hant/indicator/psbr/162)。
 ### 所屬議題
 漁業資源
 ### 指標類別

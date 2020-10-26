@@ -1,7 +1,8 @@
 # I.06「基礎生產力」
 原指標名稱：基礎生產力需求
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
+### 內容簡述
+海洋基礎生產力的大小，是評估一海域漁業生產力的基本參數，就實際上應用而言，將實測得到的基礎生產力和利用漁業統計年報求得的基礎生產力與基礎生產力需求 (primary production required to sustain fisheries, PPR) 相較，探討臺灣漁場是否有過漁之情形。(游婉玲 2010) 
 ### 所屬議題
 漁業資源
 ### 指標類別

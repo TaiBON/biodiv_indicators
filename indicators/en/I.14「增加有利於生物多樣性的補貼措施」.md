@@ -1,5 +1,5 @@
-# I.14 " Increasing in subsidies that are conductive to biodiversity"
-Original indicator name: not conducive to subsidies for biodiversity and reducing negative impacts
+# I.14 Increase subsidies that are conducive to biodiversity
+The original indicator name: a subsidy measure that is not conducive to biodiversity and reduce the negative impact
 
 ### Themes
 Fishery resources
@@ -7,18 +7,18 @@ Fishery resources
 Response (R)
 ### Corresponding targets
 #### SDGs
-14.6.1 不予提供非法、未報告及不受規範(簡稱IUU)漁撈行為的補助。
+14.6.1 Subsidies for illegal, unreported and unregulated (IUU) fishing activities will not be granted.
 #### Aichi Biodiversity Targets
 Target 4 By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
 ### Background
-追蹤歷年各項補貼金額趨勢，可供漁業政策修訂的參考增加有利的正面補貼，將有助於漁業資源的復育。
+The trend of various subsidies over the years can be used as a reference for the revision of fishery policy. Increasing positive subsidies (that is conducive to biodiversity) will help the restoration of fishery resources.
 ### Definition and Calculation
-1. 部分的漁業補貼究竟是正面或負面，目前仍有爭議，主要以用油補貼與休漁獎勵佔大宗。
-2. 正面補貼指標資料內容採用休漁補貼之補助金額/年。
-3. 休漁補貼資料則來自中央政府總決算之漁業署及所屬單位決算，單位為千元。
+1. Whether some of the fishery subsidies are positive or negative is still controversial. The subsidies for gas used and incentives for fishing moratorium account for the majority.
+2. The data of the positive subsides index adopts the subsidy amount per year of the fishing moratorium.
+3. The data of subsidies for fishing moratorium comes from the final accounts of the Fisheries Agency, Council of Agriculture and its affiliated units, which is part of the central government’s final accounts, in units of thousand yuan.
 ### Updates
-依據漁業署及所屬單位民國107年決算，民國107年(2018)休漁補貼金額為158,017千元。
+According to the final accounts of the Fisheries Agency, Council of Agriculture and its affiliated units in 2018, the amount of subsidies for fishing moratorium in 2018 was 158,017 thousand yuan.
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL
-[Final accounts of government public information on the website of the Fisheries Agency](https://www.fa.gov.tw/cht/GovAccount/index.aspx)
+[Final accounts published in the "Government Public Information" on the website of the Fisheries Agency, Council of Agriculture.](https://www.fa.gov.tw/cht/GovAccount/index.aspx)

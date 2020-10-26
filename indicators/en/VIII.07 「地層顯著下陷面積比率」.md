@@ -1,29 +1,29 @@
-# VIII.07 「地層顯著下陷面積比率」
+# VIII.07 Significant land subsidence area ratio
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 所屬議題
-生態敏感地
-## 指標類別
-壓力( P )
-## 指標對應
+## Themes
+Sensitive habitats
+## PSBR model type
+Pressure (P)
+## Corresponding targets
 ### SDGs
-15.3 到2030年，防治荒漠化，恢復退化的土地和土壤，包括受荒漠化、乾旱和洪澇影響的土地，努力建立一個不再出現土地退化的世界。
-### 愛知目標
-目標15： 到2020年，透過保育和復原行動，包括復原至少15 %退化的生態系，強化生態系的復原能力以及生物多樣性對碳吸存的貢獻，從而幫助減緩與調適氣候變遷及防止沙漠化。
-### 生物多樣性行動方案
-D42010於2015年以前調查現有劣化生態系之地點、面積、範圍劣化狀況並擬定復育劣化生態系之對策。 行動方案績效指標(灰底表非量化)：
-* 各單位擬定復育各類劣化環境之優先順序及復育方式
-* 復育各類劣化環境之面積或區域
-## 發展背景
-地層下陷使地面低窪極易遇雨淹水；沿海地區長期積水不退或海水入侵地下水含水層，容易使土地鹽化而導致地力喪失，影響土地價值與利用型態。 地層下陷為不可逆之現象，為彰顯各機關地層下陷防治之努力，因此，定義顯著下陷面積為評量指標。
-## 定義及計算方式
-「顯著下陷面積」定義為水準點檢測資料中年下陷速率超過3公分之區域面積。將檢測區所有水準樁之高程減去前一期高程而得水準樁下陷量，再利用內插模式繪製等下陷速率圖，以GIS系統計算速率超過3公分之等值區域面積(水準點閉合檢測誤差為2公分)。
-## 資料更新內容
-2018年地層顯著下陷面積為419.6平方公里(1.17%)。相較於2017年，增加0.07%。
-## 指標趨勢
-由於政府積極推動地層下陷防治工作，近年來地層下陷地區之持續下陷速度已趨於緩和，全台顯著下陷面積由2001年1,539.1平方公里(比率4.27 %)減少至2017年395平方公里(1.10 %)。惟2014年及2015年因水情狀況不佳，地下水補注量少於地下水使用量及蒸發量，因此造成雲林地區地層下陷程度較為嚴重，致使那兩年的地層顯著下陷面積比率增加。
-## 資料管理/權責單位
-水利署水文技術組
-## 資料來源/網頁連結
-[經濟部水利署地下水保育資料](https://www.wra.gov.tw/6950/7170/7356/7488/13314/)
+15.3 By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world
+### Aichi Biodiversity Targets
+Target 15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.
+### Biodiversity Action Plan
+D42010 Investigate the location, area, and scope of the existing degraded ecosystems before 2015, and formulate countermeasures to restore the degraded ecosystems. Action plan performance indicators (the gray background means non-quantitative indicators):
+* Each agency plans the priority order and methods of restoration of various degraded environments
+* Restore various degraded environments or areas
+## Background
+The land subsidence makes the ground low-lying vulnerable to rain and flooding; long-term accumulation of water in coastal areas or seawater intrusion into the groundwater aquifer can easily salinize the land and lead to the loss of land fertility, which affects the value and utilization of the land. Land subsidence is an irreversible phenomenon, in order to highlight the efforts of various agencies to prevent and control land subsidence, the area of significant subsidence is defined as one of the evaluation indicators.
+## Definition and Calculation
+"Significant subsidence area" is defined as the area where the annual subsidence rate exceeds 3 cm in the detection data of bench mark. Subtract the prior elevation of all the leveling piles in the detection area to obtain the leveling pile subsidence, and then use the interpolation method to draw the subsidence rate contour map, and use the GIS to calculate the area of the equivalent area of the level exceeding 3 cm (the error of bench mark closed inspection is 2 cm).
+## Updates
+In 2018, the significant land subsidence area was 419.6 square kilometers (1.17%). Compared with 2017, this is an increase of 0.07%.
+## Trends
+As the government aggresively promotes the prevention and control of land subsidence, the continuous subsidence rate in land subsidence areas has tended to moderate in recent years. The area of significant land subsidence across Taiwan has decreased from 1,539.1 km<sup>2</sup> (4.27%) in 2001 to 395 km<sup>2</sup> (1.10%) in 2017. However, in 2014 and 2015, due to poor precipitation conditions, the amount of groundwater recharge was less than the amount of groundwater used and evaporation, which caused a more serious land subsidence in the Yunlin area, resulting in an increase in the significant land subsidence area ratio.
+## Data Management Authorities
+Hydrology Division, Water Resources Agency, MOEA (Minister of Economic Affairs)
+## Data sources/URL
+[Ground water conservation data of the Water Resource Agency, Minister of Economic Affairs](https://www.wra.gov.tw/6950/7170/7356/7488/13314/)

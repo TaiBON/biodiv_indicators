@@ -24,16 +24,16 @@ The tadpoles of the tree-legged tree frog will prey on the native Taiwanese frog
 ## Definition and Calculation
 Changes of the distribution and number of spot-legged tree frogs. The occurrence and number of spot-legged tree frogs are mainly investigated through a volunteer team, and then the data are compiled by the amphibian conservation lab of National Donghua University, and to represent the distribution change of spot-legged tree frog using GIS layers.
 ## The data and temporal range
-斑腿樹蛙出現位點及數量(2010年‐2019年)
+The occurrence and the quantity of *Polypedates megacephalus* (2010–2018)
 
-不計數跟蛙的數量合併，當作「1」觀察數量 有區間，例如10~19、&lt;50等數值，是以最低數量(10、50)作為觀察數量
+The uncounted data is combined with the number of frogs and the number of observation is treated as "1". If the data type is interval, such as 10-19,&lt;50, the lowest number (10, 50) is used as the number of observations.
 
 ## Updates
-2017年11月13日–2018年11月12日，全台共記錄到11,572隻斑腿樹蛙。
+From November 13, 2017 to November 12, 2018, a total of 11,572 spot-legged tree frog were recorded in Taiwan.
 ## Trends
-指標呈現結果可以明顯看出斑腿樹蛙分布的區域隨年度而增加，觀察到的筆數自2010-2018年也逐年上升。雖然2014年觀察筆數略為下降，但2015-2018年觀察筆數再次上升，且分布點已擴散到恆春、花蓮等地。東華大學楊懿如教授表示，斑腿樹蛙已進入外來入侵種的第4階段-族群量已然龐大到無法根除及圍堵，必須思考如何進行長期的經營管理，評估保護原生種之措施。
+According to the results of the biodiversity indicator, it can be clearly seen that the distribution of the spot-legged tree frog increases with the year, and the number of observations has also increased by year from 2010–2018. Although the number of observations has slightly decreased in 2014, the number of observations has increased again, and it has been spreading to Hengchun, Hualien, etc. Prof. Y.-R. Yang said that the spot-legged tree frog has entered the fourth stage of invasion—the population is too large to eradicate and contain. It is necessary to consider how to carry out long-term management and evaluate management to protect native species.
 ## Data Management Authorities
-東華大學自然資源與環境學系兩棲保育研究室
+Lab of Amphibian Conservation, Department of Natural Resources and Environmental Studies, National Dong Hwa University
 ## Data sources/URL
 * [Lab of Amphibian Conservation, Department of Natural Resources and Environmental Studies, National Dong Hwa University—Taiwan Amphibian DB](http://tad.froghome.org/charts/2007-2018/main.html)
 * Yang, Y.-R. (2018) Gone through the four stages within seven years—controlling the invasive spot-legged tree frog is the way no return

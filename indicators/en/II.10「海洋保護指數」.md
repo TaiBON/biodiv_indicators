@@ -1,4 +1,4 @@
-# II.10 " Marine Protected Area Index"
+# II.10 "Marine Protected Area Index"
 
 ### Themes
 Marine protected areas
@@ -6,13 +6,13 @@ Marine protected areas
 Response (R)
 ### Corresponding targets
 #### SDGs
-14.5 在西元 2020 年以前，依照國家與國際法規，以及可取得的最佳科學資訊，保護至少 10%的海岸與海洋區。
+14.5 By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information.
 #### Aichi Biodiversity Targets:
 Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background
-海洋保護區指數（MPA index）是2016年Horta e Costa等人提出，其指標著重在如何對保護區管理的強度予以分級與量化，目前在台灣尚未發展及被計算。
+The Marine Protected Area Index (MPA index) was proposed by Horta e Costa et al. in 2016. This index focuses on how to classify and quantify the intensity of management on rotected area. It has not yet been developed and calculated in Taiwan.
 ### Definition and Calculation
-「海洋保護區指標」有別於IUCN傳統的六大類型的分類系統，將保護區劃分為八級 分區的等級 (Zone classification)：
+The "Marine Protected Area Index" is different from the traditional IUCN classification system of six major types. The protected area is divided into eight levels of zones (ZONE Classification):
 1. No-take/no-go
 2. No-take/regulated access
 3. No-take/unregulated access
@@ -22,13 +22,13 @@ Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 
 7. Very weakly regulated extraction
 8. Unregulated extraction
 
-分1-8級的判斷方法，依據判別樹(A decision tree)來作評分及判別，共考慮四個面向：漁具漁法的種類、水產養殖或底層開發的指數、娛樂漁法使用的指數，及漁船可否進入及拋錨等，針對每個面向有其詳細之計分標準。 $$ I_{MPA}=\sum_{z=1}^{n_z}C_{z_i}\times\frac{A_{z_i}}{A_{MPA}} $$ $I_{MPA}=$ MPA指數 $C_{z_i}=$ 第 i 分區的等級 $A_{z_i}=$ 第i區的面積 $A_{MPA}=$ MPA的總面積
+The method of 1-8 level determination, A decision tree is used to distinguish and grade, and four aspects were taken into consideration: type of fishing gear and method, the index for aquaculture or the development of 底層, the index for use of recreational fishing method, whether or not fishing boat can enter and anchor. There are detailed scoring standards for each aspect. $$ I_{MPA}=\sum_{z=1}^{n_z}C_{z_i}\times\frac{A_{z_i}}{A_{MPA}} $$ $I_{MPA}= $MPA index $C_{z_i}=$ level of the i-th zone $A_{z_i}=$ area of the i-th zone $A_{MPA}= total area of $MPA
 
 ### Updates
 No data currently available
 ### Trends
 --
 ### Data Management Authorities
-Ocean Conservation Administration, Fisheries Agency, National Park Headquarters, County Government
-### Data Source/URL
+Ocean Conservation Administration, Fisheries Agency, Council of Agriculture, National Park Headquarters, County and City Government
+### Data Source/URL https://www.sciencedirect.com/science/article/pii/S0308597X16300197
 --

@@ -1,4 +1,4 @@
-# I.10 " Reducing subsidies that are not conducive to biodiversity"
+# I.10 Reducing subsidies that are not conducive to biodiversity
 Original indicator name: not conducive to subsidies for biodiversity and reducing negative impacts
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -9,18 +9,18 @@ Fishery resources
 Response (R)
 ### Corresponding targets
 #### SDGs
-14.6.1 不予提供非法、未報告及不受規範(簡稱IUU)漁撈行為的補助。
+14.6.1 Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing
 #### Aichi Biodiversity Targets
 Target 4 By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
 ### Background
-追蹤歷年各項補貼金額趨勢，可供漁業政策修訂的參考。目前相關補貼如用油補貼與休漁獎勵等等幾乎佔了漁業署預算的五成，特別是用油補貼。取消不利於生物多樣性及漁業永續的負面補貼，將有助於漁業資源的復育。
+Tracking the trend of various subsidies over years can be a reference for the revision of fishery policy. At present, relevant subsidies, such as subsidies for gas and fishing moratoriums, especially gas subsidies, account for almost 50% of the budget of Fisheries Agency. The cancellation of adverse subsidies that are not conducive to biodiversity or the sustainability of fisheries will help restore fishery resources.
 ### Definition and Calculation
-1. 部分的漁業補貼究竟是正面或負面，目前仍有爭議，主要以用油補貼與休漁獎勵佔大宗。
-2. 用油補貼資料來自漁業署法定預算中之歲出計畫提要及分支計畫概況表，單位為千元。
-3. 本項指標檢討時認為，油價變動會影響每年實際補貼的用油量，故應修正改以補貼的用油量會較符合實際狀況。但因漁業統計年報中僅有用油補貼金額，並無補助之用油量；且補助金額係用「以歸墊油品公司代墊之甲種、乙種及丙種漁船油優惠油價補貼款，並補貼漁業人漁船用汽油優惠油價差額」，無法推估各種漁船用油量，故先以補助金額呈現指標趨勢。
+1. Whether some of the fishery subsidies are beneficial or adverse is still controversial. The majority of the subsidies are for gas and incentives for fishing moratorium.
+2. The gas subsidy data comes from the annual expenditure plan summary and branch plan summary table in the statutory budget of the Fisheries Agency, and the unit is 1,000 yuan.
+3. When reviewing this indicator, it is believed that changes in gas prices will affect the actual amount of gas subsidized each year, so using the amount of gas subsidized as the indicator will be more in line with the actual situation. However, only the amount of subsidy for gas is reported in the Taiwan Fisheries Yearbook and the amount of gas subsidized is not available. Moreover, the mount of subsidy for gas is reported as "The gas price is the preferential price offered by the gas company for first, second and third grade gas, and the difference between the preferential price and actual price paid is subsidized to fisherman for the gas used by fishing boats". Therefore, it is not possible to estimate the amount of gas used by various fishing boats. As a result, the amount of subsidy for gas is used to show the trends of the indicator.
 ### Updates
-依據漁業署法定預算中之歲出計畫提要及分支計畫概況表，民國107年(2018)用油補貼獎補助費為1,159,950千元。
-### Data Management AuthoritiesData Management Authorities
+According to the annual expenditure plan summary and branch plan summary table in the statutory budget of the Fisheries Agency, Council of Agriculture, the subsidy for gas in the 2018 was 1,159,950 thousand yuan.
+### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL
-[Fisheries statistical yearbook of statistical publications on the website of Fisheries Agency](https://www.fa.gov.tw/cht/PublicationsFishYear/index.aspx)
+[Taiwan Fisheries Yearbook, on the website of Fisheries Agency, Council of Agriculture](https://www.fa.gov.tw/cht/PublicationsFishYear/index.aspx)

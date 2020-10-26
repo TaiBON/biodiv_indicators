@@ -1,5 +1,5 @@
-# III.02「在海域設置水質固定測站以定期長期監測水質因子的變化」
-原指標名稱：在海域及港口設置水質固定測站以定期長期監測水質因子的變化
+# III.02 Set up fixed water quality monitoring stations in the sea area to conduct regular and long-term monitoring of changes in water quality variables.
+Original indicator name: Set up fixed water quality monitoring stations in sea areas and harbors to conduct regular and long-term monitoring of changes in water quality parameters.
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -9,18 +9,18 @@ Marine pollution
 Pressure (P)
 ### Corresponding targets
 #### SDGs
-14.1 減少各式海洋污染，包括營養鹽及海洋廢棄物。 14.1.2 2020年量化目標：8項水質項目合格率維持在99.5%以上。
+14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution. 14.1.2 2020 quantitative target: maintain more than 99.5% of the water quality data reaching the standards in 8 of the testing items.
 #### Aichi Biodiversity Targets:
 Target 8 By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
 ### Background
-在海洋中可發現許多有毒金屬包括汞，鎘，鉛，銅，和鋅等等。這些金屬元素可能單獨存在或與有機化合物相結合，毒性變得更強。例如，汞與碳結合後可形成神經毒性化合物甲基汞(CH3Hg)。雖然許多金屬在環境中自然存在，但工業和採礦活動造成的人為排放可能會加深許多毒性的濃度，若有可自動連續監測之水質項目，應將實測的原始數據建置資料庫並上網公開，此方式可據此找到污染源，予以告發並有效遏止偷排污染的行為。
+Many toxic metals can be found in the ocean including mercury, cadmium, lead, copper, and zinc, etc. These metal elements may exist alone or bind with organic compounds which becomes more toxic. For example, when mercury binds with carbon, it can form the neurotoxic compound methylmercury [CH3Hg]+. Although many metals naturally exist in the environment, the anthropogenic emissions caused by industrial and mining activities may increase the concentration of many toxins. If water quality data can be automatically and continuously monitored, a database of actual measured raw data should be built and made public online. This can be used to find the source of pollution, report it, and effectively stop illegal emissions of pollution.
 ### Definition and Calculation
-每季 20 處海域共 105 個測站之水質檢驗項目參數值變化，監測項目包含水溫、溶氧、酸鹼度、鎘、汞、銅、鋅、鉛。 將每年或每季檢驗之水質項目實測數據統計後以圖表方法呈現，觀察歷年海域水質變化趨勢
+There are 105 water quality monitoring stations in 20 sea areas every quater. The monitoring items include water temperature, dissolved oxygen, pH, cadmium, mercury, copper, zinc, and lead. The field data of water quality items inspected annually or quarterly was compiled and presented in the form of graph and chart, then we observe the trends of change in sea water quality over the years.
 ### Updates
-2018年每季 20 處海域共 105 個測站水質監測成果(全年平均[^first] )，水溫25.2℃，pH為8.16，溶氧量為6.67 mg/L，鉛0.000255 mg/L，汞<0.0003mg/L，銅0.001261 mg/L，鋅0.005885 mg/L，鎘0.0000197 mg/L。
+In 2018, the water quality monitoring results of 105 stations in 20 sea areas every quarter (yearly average[^first] ), the water temperature is 25.2℃, the pH is 8.16, the dissolved oxygen is 6.67 mg/L, and the lead is 0.000255 mg/L. Mercury<0.0003mg/L, copper 0.001261 mg/L, zinc 0.005885 mg/L, cadmium 0.0000197 mg/L.
 [^first]: 低於極限值時以極限值之1/2計算平均
 ### Trends
 ### Data Management Authorities
 Ocean Conservation Administration( Environmental Protection Agency before 2018)
 ### Data Source/URL
-[環保署之全國環境水質監測資訊網中之環境水質監測年報](https://wq.epa.gov.tw/Code/Report/ReportList.aspx)
+https://wq.epa.gov.tw/Code/Report/ReportList.aspx

@@ -1,4 +1,4 @@
-# III.04「每年淨灘之垃圾噸數與分類數據」
+# III.04 Tons and Types of Garbage of Annual Beach Cleaning
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -8,18 +8,18 @@ Marine pollution
 State (S)
 ### Corresponding targets
 #### SDGs
-14.1 減少各式海洋污染，包括營養鹽及海洋廢棄物。 14.1.1 沿岸區域優養化指數及漂流塑膠。 2020年量化目標：臺灣海洋廢棄物治理行動方案執行期間暫訂為2018至2022年。持續推動「治理行動方案」之「進行中行動方案」及執行「未來行動」，以有效減少廢棄物之產生與降低對海洋環境生態之衝擊。
+14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution. 14.1.1 Index of coastal eutrophication and floating plastic debris density. 2020 Quantitative target: Taiwan Marine Debris Action Plan is tentatively scheduled for 2018–2022. Continue promoting "On-going Action Plan" and execute "Future Plan" of Taiwan Marine Debris Action Plan to effectively reduce debris and impact on marine environment.
 #### Aichi Biodiversity Targets:
 Target 8 By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
 ### Background
-海洋垃圾 (marine debris，或稱 marine litter)，常用定義為「遭人為丟棄、處置或不慎遺棄之任何物體，進入海岸或海洋環境者」。海洋垃圾可能來自陸上與海上，陸上來源包含垃圾掩埋場、河川夾帶、汙水排水系統溢漏、工業廢棄物以及海岸休閒觀光等；來自海上者則有船舶貨品、郵輪航道、漁船廢棄漁具、軍艦與研究船排放垃圾、離岸天然氣與石油開採設施、水產養殖設施等。如果從分布地點看，則可再細分為海底垃圾 (seafloor marine debris, SMD)、海漂垃圾 (floating marine debris, FMD) 以及海灘垃圾 (beached marine debris, BMD)。 由於人類密集居住於海濱地區，加上海上航運、漁業行為日益活絡，造成海上垃圾經年累月累積後，數量日益龐大，甚至在海上聚集成大如島嶼的漂流物，延伸可長達五百海浬，被謔稱為「塑膠濃湯 (plastic soup)」，其危害日鉅，成為我們應該努力面對的問題。
+Marine debris (or marine litter) is commonly defined as "any object that has been discarded, disposed of, or inadvertently abandoned, and enters the coast or marine environment." Marine garbage may come from land and sea. The sources or terrestrial debris include landfills, river entrainment, sewage drainage system spills, industrial wastes, and coastal recreational activities, etc.; those from the sea include ship goods, cruise channels, discarded fishing gear from fishing vessels, discarded debris of warships and research vessels, offshore natural gas and petroleum exploitation facilities, aquaculture facilities, etc. From the point of view of the distribution location, it can be subdivided into seafloor marine debris (SMD), floating marine debris (FMD) and beach debris (BMD). As humans inhabitat intensively in coastal areas, coupled with the increasingly active maritime shipping and fishing activities, the amount of marine debris has been accumulated over the years, and has become increasingly large. It even gathers at sea into island-like drifts, extending as long as 500 nautical miles, and dubbed as "plastic soup", its harm is increasing day by day, and it has become a problem that we should work hard to face.
 ### Definition and Calculation
-1. 將記錄每年或每季於特定海灘進行淨灘與海域進行淨海所收集之垃圾噸數，以及依據國際淨灘行動ICC紀錄表所記錄的分類數據，以塑膠垃圾佔全部垃圾的比例進行標準化的整理。
-2. 過去此項指標資料發展現況為III，無此項指標之資料可呈現指標趨是。現今海保署網站整合行政院環境保護署海岸淨灘認養系統、各縣市政府執行之淨海作業成果以及荒野保護協會之歷年淨灘紀錄，可先作為此項指標之資料；惟淨灘活動頻率、參與人數、時數等差異，造成資料無法標準化，是未來仍需改善之處。
+1. The tonnage of garbage collected during beach cleaning and sea cleaning at specific beaches and marine areas every year or quarter will be recorded, as well as the classification data recorded in the International Coastal Cleanup (ICC) action, standardized by the proportion of plastic waste in total garbage.
+2. The past status of the development of this indicator data is Iii, which means there is no data on this indicator to present the indicator trend. The current website of the Ocean Conservation Administration integrates the Coastal Beach Cleaning Adoption System of the Environmental Protection Agency of the Executive Yuan, the results of the sea cleaning operations carried out by the county and city governments, and the historical beach cleaning records of the The Society of Wilderness of Taiwan, which can be used as the data for this indicator; but the frequency of beach cleaning activities, the number of participants, the number of hours, etc., resulting in the inability to standardize the data, which still needs improvement in the future.
 ### Updates
-依據海保署網站資料，2018年淨灘垃圾總重量為115578.975公斤、淨灘垃圾個數181480個。
+According to the information on the website of the Ocean Conservation Administration, the total weight of beach-cleaning garbage in 2018 was 115,578.975 kg, and the number of beach-cleaning garbage was 181,480.
 ### Trends
 ### Data Management Authorities
 Environmental Protection Administration, The Society of Wilderness
 ### Data Source/URL
-[海保署之海洋保育網中海洋廢棄物](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx)
+[Marine debris in the Marine Conservation Network of the Ocean Conservation Administration](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx)

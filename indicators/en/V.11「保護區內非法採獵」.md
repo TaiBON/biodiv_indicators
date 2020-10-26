@@ -1,4 +1,4 @@
-# V.11「保護區內非法採獵」
+# V.11 Illegal hunting in the protection areas
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -8,24 +8,24 @@ Terrestrial protected areas
 Pressure (P)
 ## Corresponding targets
 ### SDGs
-15.7 採取緊急行動，終止偷獵和販賣受保護的動植物物種，處理非法野生動植物產品的供求問題。
+15.7 Take urgent action to stop poaching and trafficking of protected animal and plant species, and deal with the supply and demand of illegal wildlife products.
 ### Aichi Biodiversity Targets
 Target 12: By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
-### 生物多樣性行動方案
-D31030加強野生動植物產製品查緝能力與落實執行。 行動方案績效指標：
-* 改善查驗技術之案件數
-* 生物多樣性產製品之查驗件數
-## 發展背景
-非法採獵包括非法的野生動物捕獵及植物採集，是目前全球生物多樣性保護的主要威脅之一。野生動物保育法第十條明定在野生動物保護區內管制騷擾、虐待、獵捕或宰殺一般類野生動物以及採集、砍伐植物等行為。森林法第五十條明定竊取森林主、副產物，收受、搬運、寄藏、故買或媒介贓物者，處六月以上五年以下有期徒刑，併科新臺幣三十萬元以上三百萬元以下罰金。前項竊取森林主、副產物之未遂犯罰之。
-## 定義及計算方式
-保護區非法採獵在內政部營建署轄管之國家公園內，包含「狩獵動物或捕捉魚類」、「採摘植物」以及「盜採鐘乳石、珊瑚礁、土石」的案件數合計。
-## 現有資料內容及所跨年度
-內政部統計處查詢網—違反國家公園法案件(2001年至2019年)
-## 資料更新內容
-2019年違反國家公園法的案件總計74件，其中墾丁國家公園有最多的非法採獵案件數，有39件。相較於2018年，案件數共增加30件，墾丁國家公園增加5件，東沙環礁與台江國家公園分別增加18件與8件，陽明山國家公園則是減少1件。
-## 指標趨勢
-國家公園區域內違法案件數自2001年統計，墾丁國家公園內的違法案件數呈增加趨勢；陽明山國家公園內的違法案件數2011年起則降至個位數。17年來，國家公園區域內違法案件總數約為每年50件，其中，2013年因台江國家公園內違法案件數將近100件，因此，當年國家公園內違法案件總數特別多。2019年東沙環礁與台江國家公園分別增加18件與8件，為該年案件數上升之主要原因。
-## 資料管理/權責單位
-營建署國家公園組
-## 資料來源/網頁連結
-[內政部統計處查詢網—違反國家公園法案件](http://statis.moi.gov.tw/micst/stmain.jsp?sys=100)
+### Biodiversity Action Plan
+D31030 Strengthen the ability to inspection and combat smuggling wild animal and plant products. Action plan performance indicators:
+* Number of cases for improving inspection techniques
+* Number of inspections of biological products
+## Background
+Illegal hunting, including illegal hunting of wild animals and plant collection, is currently one of the main threats of global biodiversity. Article 10 of the Wildlife Conservation Act clearly stipulates that acts of harassing, cruelty, hunting or slaughtering of general wild animals, as well as collecting and cutting plants, etc. shall be regulated in the wildlife protection areas. Article 50 of the Forest Act clearly stipulates that anyone who steals forest main products and by-products, accepts, transports, stores, buys or medias stolen goods shall be sentenced to fixed-term imprisonment of not less than six months but not more than five years, and with a penalty of NT$300,000 and NT$3 million fines. In the preceding paragraph, the attempted crime of stealing forest main products and by-products shall be punished.
+## Definition and Calculation
+Illegal hunting in the protected area includes the total number of cases of "hunting animals or catching fish", "picking plants" and "pirating stalactites, coral reefs, soil and rocks" in the National Parks of the Construction and Planning Agency, Ministry of the Interior.
+## The data and temporal range
+Inquiry Network of the Statistics Department of the Ministry of the Interior-Cases of Violation of the National Park Law (2001-2019)
+## Updates
+In 2019, there were 74 cases of violations of the National Park Law. Kenting National Park had the largest number of illegal hunting cases, with 39 cases. Compared with 2018, the number of cases increased by 30, Kenting National Park increased by 5, Dongsha Atoll National Park and Taijiang National Park increased by 18 and 8 cases respectively, and Yangmingshan National Park decreased by one case.
+## Trends
+The number of illegal cases in the national park area was counted in 2001, and the number of illegal cases in Kenting National Park has been increasing; since 2011, the number of illegal cases in Yangmingshan National Park has dropped to single-digits. In the past 17 years, the total number of illegal cases in the national park area has been about 50 per year. Among them, the number of illegal cases in the Taijiang National Park in 2013 was nearly hundred. Therefore, the total number of illegal cases in the national park in that year was particularly high. In 2019, the number of cases in Dongsha Atoll National Park and Taijiang National Park increased by 18 and 8 respectively, which was the main reason for the increase in the number of cases that year.
+## Data Management Authorities
+National Park Division, Construction and Planning Agency, MOI
+## Data sources/URL
+[Inquiry Network of Statistics Department of the Ministry of the Interior-Cases of Violation of the National Parks Law.](http://statis.moi.gov.tw/micst/stmain.jsp?sys=100)

@@ -1,28 +1,28 @@
-# Habitat diversity
+# VIII.09 Habitat diversity
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ## Themes
 Sensitive habitats
 ## PSBR model type
-狀態( S )
+Status (S)
 ## Corresponding targets
 ### SDGs
-15.1 到2020年，根據國際協議規定的義務，保護、恢復和可持續利用陸地和內陸的淡水生態系統及其服務，特別是森林、濕地、山麓和旱地。 15.4 到2030年，保護山地生態系統，包括其生物多樣性，以便加強山地生態系統的能力，使其能夠帶來對可持續發展必不可少的益處。 15.5 採取緊急重大行動來減少自然棲息地的退化，遏制生物多樣性的喪失，到2020年，保護受威脅物種，防止其滅絕。
+15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements. 15.4 By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development. 15.5 Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.
 ### Aichi Biodiversity Targets
-目標15： 到2020年，透過保育和復原行動，包括復原至少15 %退化的生態系，強化生態系的復原能力以及生物多樣性對碳吸存的貢獻，從而幫助減緩與調適氣候變遷及防止沙漠化。
+Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 per cent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 ## Background
-生物多樣性的喪失導因自許多因素，諸如氣候變遷、外來種入侵與污染，不過世界保育聯盟(IUCN, The World Conservation Union)在1994年與2004年相隔十年發表的瀕危物種紅皮書中，都將「棲地喪失」列為降低生物多樣性的最大原因，因此生態保育需要做好棲地保護以維護棲地多樣性。
+The loss of biodiversity is due to many factors, such as climate change, alien species invasion and pollution. However, the Red Book of Endangered Species published by the International Union for Conservation of Nature (IUCN) in 1994 and 2004, the "habitat loss" is listed as the major reason for reducing biodiversity. Therefore, conservation requires habitat protection to maintain habitat diversity.
 ## Definition and Calculation
-棲地多樣性為棲地健康狀態評估，針對各指定區域提供一套用以評估物種健康狀態的「屬性指標 (attribute indicator)」。以評估林地健康為例，屬性指標包括樹種多樣性、是否有更新現象等監測方法則依物種而異，再透過田野作業調查棲地的範圍、物種組成、物種族群以評估健康狀況、給予 7 個分級：
-| 分級 | 描述 |
-| -- | -- |
-|    |    |
- 有利維護 (Favourable Maintained)|達到監測目標 有利恢復 (Favourable Recovered)|先前被評為「差」的自然保育特色，如今狀況已恢復良好，且監測目標順利達成 不利恢復 (Unfavourable Recovering)|有一至多個屬性指標未能達到目標，但已有管理措施在改善此種情況 不利且無法改變 (Unfavourable No Change)|有一至多個屬性指標未能達到目標，且未能有改善措施 不利且持續下降 (Unfavourable Declining)|有一至多個屬性指標未能達到目標，且若不及時採取行動，健康狀態會越來越差 部分已瓦解 (Partially Destroyed)|地區內有些自然特色消失，且未能有恢復的一線生機 徹底瓦解 (Totally Destroyed)|地區內的自然特色完全消失，且無法恢復
-## 現有資料內容及所跨年度
+Habitat diversity is the assessment of habitat health, which provides a set of "attribute indicators" for assessing the health status of species in each designated area. Taking the assessment of forest land health as an example, the monitoring methods for attribute indicators, including tree species diversity and the renewal monitoring methods will be used or not would according to different species. The fieldwork is used to investigate the habitat range, species composition, and species population to assess the health status, and giving seven levels:
+| Level | description |
+| ----- | ----------- |
+|       |             |
+ Favourable Maintained|Achieved the monitoring target Favourable Recovered|The nature conservation feature that was previously rated as "poor", now the condition has been restored to good condition, and the monitoring target has been successfully achieved Unfavourable Recovering|One Many attribute indicators fail to reach the target, but there are management measures to improve this situation Unfavourable No Change|One or more attribute indicators fail to reach the target, and there is no improvement measure Unfavourable and continuous Unfavourable Declining|One or more attribute indicators fail to reach the target, and if you don’t take action in time, your health will get worse and worse. Partially Destroyed|Some natural features in the area disappear, and there is no The first line of life for restoration Totally Destroyed|The natural features in the area have completely disappeared and cannot be restored
+## The data and temporal range
 --
 ## Trends
---(特生中心發展新方法學中)
+--(Endemic species research institude is developing new methodology)
 ## Data Management Authorities
 Endemic Research Institute, Council of Agriculture
 ## References

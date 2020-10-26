@@ -14,18 +14,18 @@ Target 12: By 2020 the extinction of known threatened species has been prevented
 D12030加具指標性之動物、植物、微生物物種族群變化之研究。 行動方案績效指標：
 * Research items on the change of indicating species
 ## Background
-生物多樣性工作是當前全球重大議題之一，亦是人類永續發展之基礎。全球生物多樣性正處於快速喪失之趨勢，生物物種正以一百至一千倍的速率逐漸滅絕消失，人口以及資源消耗的增加，加以污染的結果、地球的暖化以及外來物種的引進，生物多樣性的危機今日已經成為人類應面對的現實。物種多樣性是區域生態的最基礎指標，高物種多樣性表示生態系中具有較多物種族群，在物種生態區位重疊的情況下，生態系整體有較高的穩定性，能承受一定程度的干擾。
+Biodiversity is one of the major global issues at present, and it is also the foundation of sustainable development of human beings. The global biodiversity is in a trend of rapid loss. Biological species are gradually disappearing at a rate of one hundred to one thousand times. The increase in human population and resource consumption causes pollution, global warming and invasive species, and the crisis of Biodiversity has become a reality that all human beings should face today. Species diversity is the fundamental indicator of regional ecosystem. High species diversity means that the there are more taxa. In the case of overlapping niche, the overall ecosystem has higher stability and can tolerate disturbance.
 ## Definition and Calculation
 Species number of all kinds of organisms in the protected area.
 ## The data and temporal range
 Number of wild species in the National Park/National Nature Park area (1999–2017)
 ## Trends
---(尚缺部分資料，暫不對外提供)
+--(Part of the information is still lacking and will not be provided temporarily)
 ## Updates
 In 2017, the highest animal species diversity in the protected area was the Kenting National Park, with a total of 5,196 species; the highest plant species diversity was in the Yushan National Park, with a total of 2,565 species.
 ## Trends
---(資料品質尚待改善，暫不對外提供)
+--(The quality of the data needs to be improved and will not be provided temporarily)
 ## Data Management Authorities
-營建署國家公園組
+National Park Division, Construction and Planning Agency, MOI
 ## Data Source/URL
-[106年營建統計年報](https://www.cpami.gov.tw/政府資訊公開/主動公開資訊/施政計畫業務統計及研究報告/營建統計資訊/33361-106年營建統計年報.html)
+[2017 Construction and Planning Agency Statistics Annual Report](https://www.cpami.gov.tw/政府資訊公開/主動公開資訊/施政計畫業務統計及研究報告/營建統計資訊/33361-106年營建統計年報.html)

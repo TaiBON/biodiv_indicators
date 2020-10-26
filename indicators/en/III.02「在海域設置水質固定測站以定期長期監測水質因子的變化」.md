@@ -17,10 +17,10 @@ Many toxic metals can be found in the ocean including mercury, cadmium, lead, co
 ### Definition and Calculation
 There are 105 water quality monitoring stations in 20 sea areas every quater. The monitoring items include water temperature, dissolved oxygen, pH, cadmium, mercury, copper, zinc, and lead. The field data of water quality items inspected annually or quarterly was compiled and presented in the form of graph and chart, then we observe the trends of change in sea water quality over the years.
 ### Updates
-In 2018, the water quality monitoring results of 105 stations in 20 sea areas every quarter (yearly average[^first] ), the water temperature is 25.2℃, the pH is 8.16, the dissolved oxygen is 6.67 mg/L, and the lead is 0.000255 mg/L. Mercury<0.0003mg/L, copper 0.001261 mg/L, zinc 0.005885 mg/L, cadmium 0.0000197 mg/L.
-[^first]: 低於極限值時以極限值之1/2計算平均
+In 2018, the water quality monitoring results of 105 stations in 20 sea areas every quarter (yearly average), the water temperature is 25.2℃, the pH is 8.16, the dissolved oxygen is 6.67 mg/L, and the lead is 0.000255 mg/L, Mercury 0.0003mg/L, copper 0.001261 mg/L, zinc 0.005885 mg/L, cadmium 0.0000197 mg/L.
+[^first]: When it is lower than the limit value, calculate the average with 1/2 of the limit value
 ### Trends
 ### Data Management Authorities
-Ocean Conservation Administration( Environmental Protection Agency before 2018)
+Ocean Conservation Administration (Environmental Protection Agency before 2018)
 ### Data Source/URL
-https://wq.epa.gov.tw/Code/Report/ReportList.aspx
+The Annual Report of Water Quality, on the website of Environmental Water Quality Information by Environmental Protection Administration, Executive Yuan. https://wq.epa.gov.tw/Code/Report/ReportList.aspx?Languages=en

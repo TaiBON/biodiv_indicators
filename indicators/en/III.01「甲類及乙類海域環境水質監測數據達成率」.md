@@ -26,4 +26,4 @@ According to the results of water quality monitoring in 2018, the total pass rat
 ### Data Management Authorities
 Ocean Conservation Administration (Environmental Protection Agency before 2018)
 ### Data Source/URL
-[The Annual Report of Water Quality, on the website of Environmental Water Quality Information by Environmental Protection Administration, Executive Yuan.](https://wq.epa.gov.tw/Code/Report/ReportList.aspx)
+[The Annual Report of Water Quality, on the website of Environmental Water Quality Information by Environmental Protection Administration, Executive Yuan. https://wq.epa.gov.tw/Code/Report/ReportList.aspx?Languages=en](https://wq.epa.gov.tw/Code/Report/ReportList.aspx)

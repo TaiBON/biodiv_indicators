@@ -1,5 +1,5 @@
-# III.06「投入海洋污染防治、教育宣導與管理的經費」
-原指標名稱：投入海洋污染防治與管理的人力、物力及經費
+# III.06 "Funds invested in marine pollution prevention, education, promotion and management"
+Original indicator name: manpoweer, material resources and funds invested in marine pollution prevention and management
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -8,7 +8,7 @@ Marine pollution
 ### PSBR model type
 Response (R)
 ### Corresponding targets
-14.1 減少各式海洋污染，包括營養鹽及海洋廢棄物。
+14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution.
 #### Aichi Biodiversity Targets:
 Target 8 By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
 ### Background

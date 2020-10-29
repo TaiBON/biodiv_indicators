@@ -1,4 +1,4 @@
-# III.05「海洋酸化研究及監測的計畫數及資料」
+# III.05 "Number of research and monitoring plans and data on ocean acidification"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -8,7 +8,7 @@ Marine pollution
 Pressure (P)
 ### Corresponding targets
 #### SDGs
-14.3 減緩並改善海洋酸化的影響。
+14.3 Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels
 #### Aichi Biodiversity Targets:
 Target 10 By 2015, the multiple anthropogenic pressures on coral reefs, and other vulnerable ecosystems impacted by climate change or ocean acidification are minimized, so as to maintain their integrity and functioning.
 ### Background

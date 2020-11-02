@@ -2,18 +2,18 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 內容簡述
-該指標用以衡量漁業在各階層之漁獲量是否均衡。
+## Brief description
+The FiB index is used to estimate whether the fishery catches at all levels are balanced.
 
 ### Themes
-漁業資源
+Fishery resources
 ### PSBR model type
-狀態( S )
+State(S)
 ### Corresponding targets
 #### SDGs
-14.2.2 平均營養位階(MTL)及漁獲平衡指數(FiB) 2020年量化目標：MTL值及FiB值維持現有水準，另蒐集建構指數編制資料，俾自行編制我國之MTL及FiB指標。
+14.2.2 Mean Trophic Level (MTL) and Fishing in Balance Index (FiB) Quantitative target for 2020：MTL and FiB values are maintained at the current level, and data for constructing the index will be collected to compile Taiwan’s MTL and FiB indicators.
 #### Aichi Biodiversity Targets
-目標6 到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。
+Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
 ### Background
 漁業學家 Daniel Pauly 於 1998 年提出平均營養指數 (Mean Trophic Index, MTI) 及「漁獲物種漸趨海洋食物網底層 (fishing down marine food wed)」現象後，觸發許多有趣的討論，包括一項對 MTI 趨勢意涵的質疑：「MTI 趨勢向下，可能與生態系中高階消費者的族群消長無關，而是反映管理者的漁業政策傾向捕撈族群量較大的食物網底層以獲取較高的整體漁獲量。」 Pauly 於 2005 年的發表中正式回應此疑慮，表明此情況確有可能存在，並強調此類政策若是存在，應朝減少能量（或生物量）浪費的方向努力。換言之，MTI 的下降應伴隨漁獲量的上升，且兩者變動量的總和應趨於平衡，才表示對漁業資源的管理是朝永續漁業的方向發展。
 ### Definition and Calculation

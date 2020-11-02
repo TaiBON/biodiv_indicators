@@ -10,7 +10,7 @@ State(S)
 #### SDGs
 14.2.2 Mean Trophic Level (MTL) and Fishing in Balance Index (FiB) Quantitative target for 2020：MTL and FiB values are maintained at the current level, and data for constructing the index will be collected to compile Taiwan’s MTL and FiB indicators.
 #### Aichi Biodiversity Targets
-Target 6 By 2020 all fish and invertebrate stocks and aquatic plants are managed and harvested sustainably, legally and applying ecosystem based approaches, so that overfishing is avoided, recovery plans and measures are in place for all depleted species, fisheries have no significant adverse impacts on threatened species and vulnerable ecosystems and the impacts of fisheries on stocks, species and ecosystems are within safe ecological limits.
+Target 6 By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
 ### Background
 Because commercial fishing tends to collectively and systematically catch the top level consumers in the marine food web (tunas, cods, groupers), when the marine ecosystem is under pressure from overfishing and its resilience is undermined, it is expected to see the ratio of top level consumers would decline and the ratio of low level consumers would arise, which is called "fishing down marine food webs". This index is used to monitor if the aforementioned phenomenon appears in the inshore and offshore waters of Taiwan.
 ### Definition and Calculation

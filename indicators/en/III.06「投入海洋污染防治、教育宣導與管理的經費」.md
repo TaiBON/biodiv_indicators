@@ -12,14 +12,14 @@ Response (R)
 #### Aichi Biodiversity Targets:
 Target 8 By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
 ### Background
-海洋汙染的防治經常需要花費高額成本與人力，例如2001年希臘籍貨輪阿瑪斯號擱淺事件，共動員了包含國軍以及中油人員21560人次，耗費半年才全數完成。因此，應投入經費與人力以強化海洋污染防治之宣導教育，讓社會大眾得以了解海洋污染的嚴重性，進而支持海洋污染防治的落實管理，提升民眾守法的觀念，以及加強相關緊急應變的演練，以便快速處理汙染，減輕對環境的傷害
+The prevention and control of marine pollution often require high costs and tremendous manpower. For example, in 2001, the Greek freighter Armas ran aground (on the coast of Taiwan). A total of 21,560 people including the national army and CNPC personnel participated in the rescue, and it took half a year to complete. Therefore, funds and manpower should be invested to strengthen the promotion and education of marine pollution prevention and control, so that the public can understand the seriousness of marine pollution, and then support the implementation and management of marine pollution prevention and control; we can also enhance the public's concept of law-abiding, and strengthen relevant emergency response drills, in order to quickly respond to pollution and reduce damage to the environment.
 ### Definition and Calculation
-統計每年投入海域及港口監測的經費，並設置連續即時自動監測水質儀器或系統之數量，包含新增儀器費用以及維修費
+Count the annual funds invested in sea area and port monitoring, and the number of continuous and real-time automatic water quality monitoring equipment or systems that are set up each year, including the cost of new equipments and maintenance
 ### Updates
 No data currently available
 ### Trends
 --
 ### Data Management Authorities
-Environmental Protection Agency, Ocean Affairs Council, Ocean Conservation Administration
+Environmental Protection Administration, Executive Yuan, Ocean Affairs Council, Ocean Conservation Administration
 ### Data Source/URL
 --

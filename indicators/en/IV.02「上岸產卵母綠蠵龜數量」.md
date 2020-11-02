@@ -1,4 +1,4 @@
-# IV.02「上岸產卵母綠蠵龜數量」
+# IV.02 "Number of female green sea turtle (Chelonia mydas) coming ashore to lay eggs"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

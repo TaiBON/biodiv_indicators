@@ -8,7 +8,7 @@ Fishery resources
 State (S)
 ### Corresponding targets
 #### SDGs
-14.4.1 Proportion of fish stocks within biologically sustainable levels
+14.4.1 Resource management of commercial fish species in offshore and coastal waters.
 #### Aichi Biodiversity Targets
 Target 6: By 2020 all fish and invertebrate stocks and aquatic plants are managed and harvested sustainably, legally and applying ecosystem based approaches, so that overfishing is avoided, recovery plans and measures are in place for all depleted species, fisheries have no significant adverse impacts on threatened species and vulnerable ecosystems and the impacts of fisheries on stocks, species and ecosystems are within safe ecological limits.
 ### Background

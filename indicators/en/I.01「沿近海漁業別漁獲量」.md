@@ -10,7 +10,7 @@ State (S)
 #### SDGs
 14.4.1 Resource management of commercial fish species in offshore and coastal waters.
 #### Aichi Biodiversity Targets
-Target 6: By 2020 all fish and invertebrate stocks and aquatic plants are managed and harvested sustainably, legally and applying ecosystem based approaches, so that overfishing is avoided, recovery plans and measures are in place for all depleted species, fisheries have no significant adverse impacts on threatened species and vulnerable ecosystems and the impacts of fisheries on stocks, species and ecosystems are within safe ecological limits.
+Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
 ### Background
 Monitor and manage various types of fishing gear and fishing methods (including spear fishing, pole and line, troll line, long line, gill net, purse seine, torch light net, purse seine, danish seine, larval anchovy fishery, drag net, reef fishery, etc.), these fishing methods can be divided into sustainable fishing methods, targeted fishing methods, and destructive fishing methods according to the degree of impact on the marine ecology. In order to achieve reasonable development and sustainable use of resources, the trends of changing in various fishing methods should be tracked in details.
 ### Definition and calculation

@@ -1,4 +1,4 @@
-# IV.01 Size of Indo-Pacific humpback dolphin (<0>Sousa chinensis</0>) population
+# IV.01 Size of Indo-Pacific humpback dolphin (*Sousa chinensis*) population
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

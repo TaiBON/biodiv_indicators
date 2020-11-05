@@ -17,7 +17,7 @@ Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resour
 ### Background
 Fisheries scientist Daniel Pauly proposed the Mean Trophic Index (MTI) and the phenomenon of "fishing down marine food web" in 1998, which triggered many interesting discussions including a question to the meaning of the MTI trend: " The downward trend of MTI may be irrelevant with the growth and decline of the top level consumer groups in the ecosystem, but rather reflect the fishery policy of the managers tending to catch the species in the bottom of the food web with large populations to achieve higher total catch." Pauly responded formally to this doubt in his 2005 publication, stating the situation is probable, and stressing that if such policies exist, efforts should be made toward reducing energy (or biomass) waste. In other words, the decline in MTI should be accompanied by the increase in catch, and the sum of the two changes should be balanced, which means that the management of fishery resources develops in the direction of sustainable way.
 ### Definition and Calculation
-First set the base year 0, and use its catch and MTI as the comparison standard. It is expressed as: $$ F_iB=log\Big[Y_i\Big(\frac{1}{TE}\Big)^{TL_i}\Big]-log\Big[Y_0(\frac{1}{TE})^{TL_0}\Big] $$
+First we set the base year 0, and use its catch and MTI as the comparison standard. It is expressed as: $$ F_iB=log\Big[Y_i\Big(\frac{1}{TE}\Big)^{TL_i}\Big]-log\Big[Y_0(\frac{1}{TE})^{TL_0}\Big] $$
 * $Y_i= total catch in i$ year
 * $Y_0=$ total catch in the base year
 * $MTI_i= Mean Trophic Index of year i$
@@ -25,7 +25,7 @@ First set the base year 0, and use its catch and MTI as the comparison standard.
 * $TE=$ transfer efficiency between trophic levels of the food web
 * $F_iB_i= fishing-in-balance index of year i$
 
-為幫助讀者理解，我們假設能量轉換率為 0.1，並將其轉成以下形式： $$ FiB_i = log\Big(\frac{Y_i}{Y_0}\Big) + (MTI_i - MTI_0) $$ 設想 i 年的 MTI 較之基準年變化量為 -1（如從 4 降至 3），也就是捕撈對象在食物網中整整下降了一個層級。由於捕撈對象轉至族群量較大的食物網下層，i 年的漁獲量 (Yi) 應大於基準年 (Y0)；若假設能量轉換率可完全反映在生物量變化上，Yi 和 Y0 的差距應該會是 10 倍，兩者相除取對數將得到 1。於是 FiB = 1 + (-1) = 0。值得強調的是，當 i 年的漁獲量、MTI 皆維持在基準年水平，FiB 仍會是 0。若此狀態持續維持，也就是 FiB 始終為 0，即理想的「平衡」或「永續」漁業狀態。
+To help readers understand the equation, we hypothesize that the transfer efficiency is 0.1 and convert it into the following form： $$ FiB_i = log\Big(\frac{Y_i}{Y_0}\Big) + (MTI_i-MTI_0) $$ The annual MTI change from the standard year is -1 (for example, from 4 to 3), which means that the fishing target in the food web has dropped by one level. Since the fishing target is transferred to the lower part of the food web with larger populations, the yield of catch in year i (Yi) should be greater than the standard year (Y0); if we assumed that the trophic level efficiency can be fully reflected in the biomass change, the ratio between Yi and Y0 should be 10, and the logarithm of dividing the two will get 1. Then FiB = 1 + (-1) = 0. It is worth mentioning that when the yield of catch and MTI in year i are maintained at the standard year level, FiB will still be zero. If this state is maintained continuously, that is, FiB is always zero, which is the ideal "balanced" or "sustainable" fishery state.
 
 FiB 趨勢的上升、下降有時會被導向純然的「鼓勵多補高階或低階消費者」爭論中，這可能是一種錯誤的討論方向。事實上導致其上升、下降的因素有多種：
 

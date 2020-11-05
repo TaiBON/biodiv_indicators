@@ -3,7 +3,7 @@ Original indicator name: the ratio of Marine Protected Areas to the areas of adj
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
+### Brief description
 海洋保護區 (marine protected area, MPA) 概念上為受到保護的大洋 (oceans)、海洋 (seas)、河口或大湖區域，通常是以特定形式限制人類活動以保護其中的自然或文化資源，因此海洋保護區佔領海水域之面積比是重要的永續指標。
 ### 所屬議題
 海洋保護區

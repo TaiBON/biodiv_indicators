@@ -2,26 +2,26 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-劃設海洋保護區 (含完全禁漁區) 並加強落實管理取締，是復育魚類資源最簡單、最經濟、最有效的辦法，因此全球的目標是到 2020 年，全球海洋應有 10% 的海域應劃入海洋保護區的範圍。在國外計算面積比例時多半以專屬經濟區 (Exclusive Economic Zone, EEZ) 為分母，而我國則使用含內水的 12 海浬作分母。
-### 所屬議題
-海洋保護區
-### 指標類別
-回應 ( R )
-### 指標對應
+### Brief description
+Planning marine protected areas (including fishing exclusion zone), improving implement of management and bans are the simplest and most effective ways to restore fish resources. Therefore, by 2020, the global goal is to have 10% of the oceans included in the scope of Marine Protected Areas. When calculating the area ratio, the Exclusive Economic Zone (EEZ) is mostly used as the denominator in other countries, while Taiwan uses areas within 12 nautical miles which includes internal water as the denominator.
+### Themes
+Marine Protected Areas
+### PSBR model type
+Response(R)
+### Corresponding targets
 #### SDGs
-14.5 保護至少10%的海岸與海洋區。
+14.5 Conserve at least 10 per cent of coastal and marine areas.
 #### Aichi Biodiversity Targets:
-目標11 到 2020 年，至少有 17%的陸地、內陸水域和 10%沿海和海洋區域，尤其是對於生物多樣性和生態系服務具有特殊重要性的區域，因有效而公平的管理，和透過生態上具代表性和妥善關聯的保護區系統和其他以地區為保育基礎的有效措施而受到保護，並納入更廣泛的土地景觀和海洋景觀系統中。
-### 發展背景
-劃設海洋保護區 (含完全禁漁區) 並加強落實管理取締，是復育魚類資源最簡單、最經濟、最有效的辦法，因此全球的目標是到 2020 年，全球海洋應有 10% 的海域應劃入海洋保護區的範圍。在國外計算面積比例時多半以專屬經濟區 (Exclusive Economic Zone, EEZ) 為分母，而我國則使用含內水的 12 海浬作分母。
-### 定義及計算方式
-「完全禁漁區」即國外一般所謂的 no-take area ，等於「核心區」或「海洋保留區」，不准任何漁具漁法進入。在臺灣，只要有一種漁具、漁法或是魚種的限捕也稱之為「禁漁區」，故使用「完全禁漁業區」一詞以避免混淆。 加總符合條件的完全禁漁區(或保護區核心區)面積並扣除相互重疊部分，最後除以總保護區面積。
-### 資料更新內容
-依據漁業署網站資料，至2018年12月底，禁止進入或影響之海洋保護區總面積為586.2332 km^2^，佔現有海洋保護區總面積比例為1.8942%；禁止採捕之海洋保護區總面積為2974.7439 km^2^，佔現有海洋保護區總面積比例為9.6116%。
-### 指標趨勢
-依漁業署網站之公告2018年資料為基準，因無過去資料無法畫出指標趨勢圖。
-### 資料管理/權責單位
-海保署、漁業署、國家公園管理處、林務局、觀光局、內政部
-### 資料來源/網站連結
-[漁業署網站中漁業資源之臺灣的海洋保護區](https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=8&chk=a16db5cf-040f-499d-b76d-1a10ffe134e6&param=pn%3d1)
+Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
+### Background
+Planning marine protected areas (including fishing exclusion zone), improving implement of management and bans are the simplest and most effective ways to restore fish resources. Therefore, by 2020, the global goal is to have 10% of the oceans included in the scope of Marine Protected Areas. When calculating the area ratio, the Exclusive Economic Zone (EEZ) is mostly used as the denominator in other countries, while Taiwan uses areas within 12 nautical miles which includes internal water as the denominator.
+### Definition and Calculation
+"Fishing exclusion zone", commonly referred as " no-take area" in other countries, is equivalent to "core area" or "marine reservation area," where no fishing gear or method of any kind is allowed to enter. In Taiwan, areas with restrictions on any fishing gear, fishing method, or fish species are called "no-fishing zone " Therefore, the term "fishing exclusion zone" is used to avoid confusion. To calculate this index, add up the areas of all eligible fishing exclusion zone (or core area of the marine protected area), deduct the overlapping areas, and divide it by the total marine protected area.
+### Updates
+According to the website of the Fisheries Agency, Council of Agriculture, as of the end of December 2018, the total area of marine protected areas that are prohibited from entering or being affected is 586.2332 km^2^, accounting for 1.8942% of the total area of existing marine protected areas; the total area of marine protected areas prohibited from harvesting is 2974.7439 km^2^, accounting for 9.6116% of the total area of existing marine protected areas.
+### Trends
+Based on the data of 2018 published on the website of Fisheries Agency, Council of Agriculture, the indicator trend chart cannot be drawn because there is no past data available.
+### Data Management Authorities
+Ocean Conservation Administration, Fisheries Agency, National Park Headquarters, Forestry Bureau, Tourism Bureau, and Ministry of the Interior.
+### Data Source/URL
+[Taiwan’s Marine Protected Areas of “Fishery Resources” page on the website of Fisheries Agency, Council of Agriculture.](https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=8&chk=a16db5cf-040f-499d-b76d-1a10ffe134e6&param=pn%3d1)

@@ -1,53 +1,53 @@
-# V.03「保護區內植群類型」1.0
+# V.03 "Types of Plants in Protected Areas" 1.0
 
 
-## 指標概述
+## Indicator overview
 
-* 本指標所關注議題為「陸域保護區」
-* 呼應愛知目標第 5 項
-* 呼應聯合國永續發展目標 (SDGs) 15.4
-* 呼應生物多樣性行動方案 D21030
+* The topic of concern for this indicator is "Terrestrial Protected Areas"
+* Corresponding Aichi Biodiversity Targets: Target 5
+* Corresponding SDGs: 15.4
+* Corresponding Biodiversity Action Plan: D21030
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## 關於此指標
+## About the indicator
 
 
 
-### 監測對象為何？
-植群為構成生態系之重要基礎，可反映氣候型態、自然環境條件以及人為干擾程度，同時提供野生動物棲地，是陸域保護區議題重要的指標之一。
+### Who are monitored?
+Vegetation constitutes an important foundation of the ecosystem, reflecting climate patterns, natural environmental conditions, and the degree of human disturbance, and at the same time providing habitats for wildlife. It is one of the important indicators of terrestrial protected areas.
 
-植群圖為保育、研究及管理之重要工具，透過建立保護區之植群基本資料，可做為保護區規劃、生態系統維護、野生動物棲地配置、族群動態監測等不同經營管理之基礎。然 2017 年統計資料之植群圖涵蓋範圍僅限於國有林班地及臺大實驗林，其他如山地保留地、山坡地、平地、海岸及離島等地區則尚待完成。
-
-
-### 重要前提假設與備註
+Vegetation map is an important tool for conservation, research, and management. The basic information about the vegetation in the protected areas can be used as the foundation for different operations and management such as designating protected areas, ecosystem maintenance, wildlife habitat allocation, and dynamic monitoring on populations. However, the coverage of the vegetation map in 2017's survey data is limited to state-owned forest land and experimental forest of National Taiwan University. Other areas such as mountain reserves, hillside land, plains, coasts, and outlying islands have yet to be completed.
 
 
-
-### 指標定義及計算方式
-
-參照林務局「國家植群多樣性調查及製圖」一計畫中的植群繪製圖流程，對保護區內天然植群設置「木本樣區」及「草本樣區」，並調查其植物種類並建構多樣性資訊。
-
-
-## 關於此指標的資料
-
-### 所需資料及其資料來源
-
-| 所需資料      | 資料來源                                                  | 資料橫跨的時間尺度 | 資料維護單位 |
-| --------- | ----------------------------------------------------- | --------- | ------ |
-| 臺灣現生天然植群圖 | [行政院農業委員會林務局](https://www.coa.gov.tw/ws.php?id=21401) |           |        |
+### Important assumptions and remarks
 
 
 
-## 當前侷限性
+### Definition and Calculation
 
-### 指標層面的侷限性
-
-
-
-### 資料層面的侷限性
+According to the plant mapping process in the Forestry Bureau's "National Plant Diversity Survey and Mapping" project, set up "woody plant sample areas" and "herbaceous plant sample areas" for natural plants in the protected areas, and conduct surveys on vegetation types and construct information on diversity.
 
 
+## Information about the indicator
+
+### Required information and its source
+
+| Required Information                          | Source                                                                                            | Data Span | Data Management Authorities |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
+| Map of Existing Natural Vegetations in Taiwan | [Forestry Bureau, Council of Agriculture, Executive Yuan](https://www.coa.gov.tw/ws.php?id=21401) |           |                             |
 
 
-## 參考資訊
+
+## Current limitations
+
+### Indicator-level limitations
+
+
+
+### Data-level limitations
+
+
+
+
+## References

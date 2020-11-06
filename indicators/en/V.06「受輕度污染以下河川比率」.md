@@ -1,4 +1,4 @@
-# V.06 Ratio of Rivers Under Slightly Polluted
+# V.06 "Ratio of Rivers Slightly or Zero Polluted"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

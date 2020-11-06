@@ -21,7 +21,7 @@ Forests are not just trees. Forests are essential to ensure food security and im
 
 Comparison of "forest cover" and that of the "base year" within the protected areas. Count the forest area within the protected areas, and use the forest area in the year of opening or a certain year as the benchmark value to calculate the percentage of increase or decrease in the forest area each year.
 
-## Content of existing data and years covered
+## The data and temporal range
 --
 ## Trends
 --

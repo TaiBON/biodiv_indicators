@@ -17,8 +17,8 @@ Count the number of people applying to enter protected areas every year as an in
 ## Updates
 From January to December in 2018, there were 3,915 patrols who applied for entry into the wildlife sanctuaries, nature reserves, and strict nature reserves, and the number of applications for entry was 1,530.
 ## Trends
---(資料品質尚待改善，暫不對外提供)
+--(The quality of the data needs to be improved and is currently not available to public)
 ## Data Management Authorities
 Forestry Bureau, Council of Agriculture
 ## References
-2018年林管處生態保育業務績效表總彙整
+The forestry district office's summary table of impacts of ecological conservation business in 2018

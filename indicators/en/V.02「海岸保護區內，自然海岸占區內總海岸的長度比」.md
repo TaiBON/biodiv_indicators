@@ -20,7 +20,7 @@ D11050 follows the concept of the Central Mountain Conservation Axis to designat
 The "coastal protection areas" are designed to protect important resources within the areas. The natural coast is the natural environment along the coast. It is an ecotone between the land and sea ecosystems and is an important habitat for coastal organisms. Natural coasts often have high biodiversity and are key conservation targets for protected areas. However, Taiwan has a high population density and is extensively developed. The situation makes it urgent to exploit coastal areas, which is against sustainable development. Therefore, maintaining and increasing the ratio of natural coasts is an important goal of sustainable development. This index is established as a criterion to judge whether various construction plans, such as land exploitation, dredging, and drainage, would affect the ecological environment in the protected areas.
 ## Definition and Calculation
 The length ratio of the natural coastline to the total coastline in the coastal protected areas. The calculation method: the length of the natural coastline in the coastal protected areas/the total coastline length in the coastal protected areas.
-## Content of existing data and years covered
+## The data and temporal range
 Phase 1 and Phase 2 natural and artificial coastline in 2018. Range of coastal protected areas Phase 1 (2017)
 ## Trends
 --(The quality of the data needs to be improved and is currently not available to public)

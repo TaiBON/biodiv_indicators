@@ -20,9 +20,9 @@ In 1997, the Intergovernmental Panel on Climate Change (IPCC) of the United Nati
 ## Definition and Calculation
 保護區內森林碳匯吸存量。估算保護區範圍內，森林資源整 體之二氧化碳移除量。
 
-## Content of existing data and years covered
+## The data and temporal range
 --
-Trends
+## Trends
 --
 ## Data Management Authorities
 Forestry Bureau, Council of Agriculture

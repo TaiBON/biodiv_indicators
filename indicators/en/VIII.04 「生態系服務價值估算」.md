@@ -20,16 +20,16 @@ Ecosystems are closely related to human well-being, such as providing food, regu
 ## Definition and Calculation
 The value of ecosystem services refers to the evaluation of the benefits by finacial value that humans can obtain from the ecosystem. After quantifying the intensity of ecosystem service activities, the evaluation method and price coefficient can be selected to evaluate the value of ecosystem services. To cope with the current situation in Taiwan, the value of the three forest ecosystem services, "water purification", "carbon sequestration, alternative of fossil fuel" and "forest recreation", are first estimated. Ecosystem evaluation must be done within a fixed range of time and space, and different ecosystems require different estimation methods. To evaluate the ecosystem service functions, we must first define the scope and categories of "ecosystem services", and clearly define the functions that are ultimately used by humans, so as to avoid overlapping connotations of ecosystem service functions, which may result in repeated calculations in the evaluation.
 * "Water purification". In Japan, the amount of water reserved per unit area of the forest can be obtained by subtracting evapotranspiration and surface runoff from the forest precipitation of different forest types and tree ages, then multiplying the above result with the area to obtain the total reserved water.
-* 「固碳、化石燃料代替」中國是以單位面積森林淨生長重量乘上森林面積，得森林生產量乘上1.63得二氧化碳固定量，再乘上27.27%得樹木碳固定量，加上土壤碳固定量後計算森林二氧化碳的固定量，再以瑞典碳稅價格作為替代成本。
-* In the UK, "forest recreation" is to calculate the expenses incurred in the natural environment and the expenses incurred during the visit, including fuel, public transport fees, entrance fees and parking fees.
+* "Carbon sequestration, alternative to fossil fuels": In China, the forest net growth weight per unit area is multiplied by the forest area to obtain forest production which is multiplied by 1.63 to obtain the weight of carbon dioxide fixation. The result is then multiplied by 27.27% to obtain the weight of tree carbon fixation. The weight of forest carbon dioxide fixation is the sum of the weights of tree and soild carbon fixation. Finally, the Swedish carbon tax price is used as the alternative cost.
+* "forest recreation": UK uses the expenses incurred in the natural environment and the expenses incurred during the visit, including fuel, public transportion fees, entrance fees and parking fees.
 ## The data and temporal range
 --
 ## Trends
 --(New methodology will be developed)
-## Data Management/Authorities
+## Data Management Authorities
 Forestry Bureau, Council of Agriculture
 ## References
-* Forestry Bureau (2015) The application of forest ecosystem service value assessment to forestry policy formulation
-* Forestry Bureau, Council of Agriculture (2016) Research and Analysis on the Evaluation and Verification Mechanism of Forest Ecosystem Service Value
+* Forestry Bureau, Council of Agriculture (2015) The discussion on the application of forest ecosystem service value evaluation to forestry policy-making.
+* Forestry Bureau, Council of Agriculture (2016) Research and analysis on the estimation and verification mechanism of forest ecosystem service value.
 * Forestry Bureau, Council of Agriculture (2018) "Taiwan Forest Ecosystem Service Value Evaluation" Project Report
 * Yi-Ping Wang, Chi-Rong Chiou (2017) Preliminary study on estimation of forest ecosystem service value in Taiwan. Taiwan Forestry, p3–11

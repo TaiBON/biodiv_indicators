@@ -27,17 +27,17 @@ First we set the base year 0, and use its catch and MTI as the comparison standa
 
 To help readers understand the equation, we hypothesize that the transfer efficiency is 0.1 and convert it into the following form： $$ FiB_i = log\Big(\frac{Y_i}{Y_0}\Big) + (MTI_i-MTI_0) $$ The annual MTI change from the standard year is -1 (for example, from 4 to 3), which means that the fishing target in the food web has dropped by one level. Since the fishing target is transferred to the lower part of the food web with larger populations, the yield of catch in year i (Yi) should be greater than the standard year (Y0); if we assumed that the trophic level efficiency can be fully reflected in the biomass change, the ratio between Yi and Y0 should be 10, and the logarithm of dividing the two will get 1. Then FiB = 1 + (-1) = 0. It is worth mentioning that when the yield of catch and MTI in year i are maintained at the standard year level, FiB will still be zero. If this state is maintained continuously, that is, FiB is always zero, which is the ideal "balanced" or "sustainable" fishery state.
 
-FiB 趨勢的上升、下降有時會被導向純然的「鼓勵多補高階或低階消費者」爭論中，這可能是一種錯誤的討論方向。事實上導致其上升、下降的因素有多種：
+The rise and fall of the FiB trend sometimes lead to a "encourage more tertiary or primary consumers" debate, which can be the wrong direction for discussion. In fact, there are a variety of factors that lead to the fluctuation of FiB：
 
-當 FiB < 0，可能是 i 年漁獲量之增長小於 MTI 下降的程度，或 i 年漁獲量之減少大於 MTI 上升的程度。前者可能源於部分漁獲並未包含在漁業統計資料中（如棄獲），或漁業對海洋生態系中生物量的取用已超出生態系功能可正常運作的程度；後者則可能反映由於漁業傾向捕撈高階消費者而導致漁獲量降低。
+FiB < 0. It may be caused by the increase in the yield of catch in year i is less than the decrease in MTI, or the decrease in the yield of catch in year i is greater than the increase in MTI. The former may be due to the fact that part of the catch is not included in the fishery statistic data (such as discards), or the use of the biomass that fishery used in the marine ecosystem has exceeded the extent that the ecosystem can function normally; the latter may reflect the tendency of fisheries fishing for teritary consumers leads to lower catches.
 
-當 FiB > 0，可能是 i 年漁獲量之增長大於 MTI 下降的程度，或 i 年漁獲量之減少小於 MTI 上升的程度。可能成因包括外來族群的移入（如新的鮪魚族群移入臺灣海域）、漁場範圍的擴張、區域內基礎生產力的上升（如環境優氧化）等。
+FiB > 0. It may be caused by the increase in the yield of catch in year i is greater than the decrease in MTI, or the decrease in the catch in year i is less than the increase in MTI. Other possible causes include the migration of foreign populations (such as the migration of new tuna populations into the sea area of Taiwan), the expansion of fishing grounds, and the increase of basic productivity in regions (such as environmental eutrophication).
 
-故當 FiB 持續偏離平衡狀態，特別是當 FiB 持續下降，僅是點出現有管理方式不足以讓漁業資源維持在永續經營的水平上。至於政策上更明確的改善方向，需更多層面的設計與監測才可能找到解答。
+When FiB keeps deviating from the equilibrium state, especially when FiB keeps decreasing, it is the management methods that are insufficient to maintain fishery resources at a sustainable level. As for a clearer policy direction for improvement, the designs and monitorings in many aspects are needed to find answers.
 ### Updates
-資料來源為 Sea Around Us 中之 Region-based Marine Trophic Index of the catch in the waters of Taiwan，資料僅到2014年。
+The data until 2014 is from the Region-based Marine Trophic Index of the catch in the waters of Taiwan in the website "Sea Around Us".
 ### Trends
 ### Data Management Authorities
-漁業署
+Fisheries Agency, Council of Agriculture
 ### Data Source/URL
-[Sea Around Us網站](http://www.seaaroundus.org/)
+[The website of "Sea Around Us"](http://www.seaaroundus.org/)

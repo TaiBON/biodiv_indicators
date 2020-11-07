@@ -1,4 +1,4 @@
-# VIII.06 “Length of Natural Riverbank in the Downstream of the Mainstem"
+# VIII.06 “Length of Natural Riverbank in the Downstream of the Main stem"
 Original indicator name: Length of Natural Riverbank
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -19,7 +19,7 @@ D42030 Develop reasonable restoration methods for various ecosystems year by yea
 ## Background
 To provide water for human use and protect the safety of residents along the river, governments will build a variety of water conservancy structures (such as dikes and revetments, etc.) next to the riverbanks, but the unnatural water conservancy structures have poor permeability, which barely provides living spaces for organisms, and it will block many biological activities, causes the fragmentation of the riparian habitat, and affect the ecology of the riparian habitat.
 ## Definition and Calculation
-根據經濟部水利署彙整編製成「現有河川防洪設施」之公務統計報表，以河川總長度扣除水利工程設施(堤防及護岸合計)的長度，可得天然河岸之長度。各河川局及縣市政府每年填報所轄河川的幹流長度、堤防長度、護岸長度等資料。然而，報表中的河川總幹流長度為下游主河道的長度，不包含支流、野溪與未整治河川等。堤防及護岸長度包含下游主河道及支流等其他區域。此外，新建與復建的堤防及護岸長度也並無區分。因此，計算方式調整如下： 天然河岸長度=(河川總幹流長度+未整治河川項目)-(欣建堤防總長度+新建護岸總長度)
+According to the official summation report of "Existing River Flood Control Facilities" compiled by the Water Resource Agency, Minister of Economic Affairs, the length of the natural riverbank can be obtained by subtracting the length of hydraulic engineering facilities (total length of dikes and revetments) from the total length of the river. All river management offices and county and city governments fill in the information about the rivers under their jurisdiction, such as the length of the main stem, the embankment, and the revetment each year. However, the total length of the main stem river in the report is the length of the main downstream river, excluding tributaries, wild streams, and unmanaged rivers. The length of dikes and revetments includes other areas such as the downstream main stem and tributaries. In addition, there is no distinction between the length of the newly-built and rebuilt dikes and revetments. Therefore, the calculation method is adjusted as follows: Natural riverbank length = (total length of the main stem river + unmanaged river project)-(total length of newly-built dike + total length of newly-built revetment).
 ## The data and temporal range
 Existing river flood control facilities (2001-2019)
 ## Updates
@@ -29,4 +29,4 @@ Due to the continuous increase in the length of dikes and revetments, the length
 ## Data Management Authorities
 River and Coast Division, Water Resources Agency MOEA
 ## Data sources/URL
-[Website of Water Resource Agency, Minister of Economic Affairs--Flood Control Facilities on Existing Rivers](https://www.wra.gov.tw/6950/7169/7316/7324/)
+[Website of Water Resource Agency, Minister of Economic Affairs--Existing River Flood Control Facilities.](https://www.wra.gov.tw/6950/7169/7316/7324/)

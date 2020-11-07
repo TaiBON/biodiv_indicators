@@ -2,29 +2,29 @@
 Original indicator name: primary production demand
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-海洋基礎生產力的大小，是評估一海域漁業生產力的基本參數，就實際上應用而言，將實測得到的基礎生產力和利用漁業統計年報求得的基礎生產力與基礎生產力需求 (primary production required to sustain fisheries, PPR) 相較，探討臺灣漁場是否有過漁之情形。(游婉玲 2010)
-### 所屬議題
-漁業資源
-### 指標類別
-狀態( S )
-### 指標對應
+### Brief description
+The size of the marine primary production is the basic parameter for evaluating the productivity of fisheries in a sea area. In terms of practical application, we compare the primary production obtained from the actual measurement and the primary production required to sustain fisheries (PPR) calculated from Taiwan Fisheries Yearbook, to explore whether there has been over-fishing in Taiwan’s fishing grounds. (W. L. You, 2010)
+### Themes
+Fishery resources
+### PSBR model type
+Status (S)
+### Corresponding targets
 #### SDGs
-14.2 以永續方式管理並保護海洋與海岸生態
+14.2 Ensure the sustainable management and protection of marine and coastal ecosystems.
 #### Aichi Biodiversity Targets:
-目標6 到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。
-### 發展背景
-海洋基礎生產力的大小，是評估一海域漁業生產力的基本參數，就實際上應用而言，將實測得到的基礎生產力和利用漁業統計年報求得的基礎生產力與基礎生產力 (primary production required to sustain fisheries, PPR) 相較，探討臺灣漁場是否有過漁之情形。
-### 定義及計算方式
+Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
+### Background
+The size of the marine primary production is the basic parameter for evaluating the productivity of fisheries in a sea area. In terms of practical application, we compare the primary production obtained from the actual measurement and the primary production required to sustain fisheries (PPR) calculated from Taiwan Fisheries Yearbook, to explore whether there has been over-fishing in Taiwan’s fishing grounds.
+### Definition and Calculation
 
 $$ PPR=(Catches/9)\times10^{n-1} $$
 
-農委會水產試驗所在台灣周邊海域固定62個測站長期監測葉綠素 a (chlorophyll a; 葉綠素甲)濃度，其調查方法為於臺灣周邊海域62個測站按季採集水樣，葉綠素 a 分別使用10 μm篩絹及0.7 μm濾膜，逐級過濾浮游植物後遮光冷凍 (-20ºC) 保存攜回實驗室，將濾後濾膜經90%丙酮低溫萃取 14-24 小時後，以螢光光度計測定酸化前後的螢光值，計算出海域中葉綠素 a 含量。
-### 資料更新內容
-過去無可對應資料，目前以水試所在台灣周邊海域固定62個測站長期監測之葉綠素a濃度為資料內容。
-### 資料管理/權責單位
-水試所
-### 資料來源/網站連結
-[行政院環境保護署－環境資源資料開放平臺](https://opendata.epa.gov.tw)
+The Fisheries Research Institute attached to Council of Agriculture conducts long-term monitoring on the concentration of chlorophyll a(Chl-a) in 62 fixed measuring stations in the waters surrounding Taiwan. The monitoring method is to collect water samples from the aforementioned 62 stations on a seasonal basis, and the water samples were filtered using 10 μm sieve cloths and 0.7 μm filter membranes sequentially. After filtering the phytoplankton, the used membranes are stored in -20℃ and away from light. Then the membranes are brought back to the laboratory, and extracted with 90% acetone at low temperature for 14-24 hours, then the fluorescence value is measured before and after acidification with a fluorometer to calculate the Chl-a content in the sea.
+### Update
+There was no corresponding data in the past. The current data is based on the chlorophyll a concentrations measured in a long-term monitoring program at the 62 stations in the surrounding marine areas of Taiwan by the Fisheries Research Institute, Council of Agriculture.
+### Data Management/Authorities
+Fisheries Research Institute, Council of Agriculture
+### Data Source/URL
+[Environment Resource of the Government’s Open Data platform from Environmental Protection Administration, Executive Yuan](https://opendata.epa.gov.tw)
 #### The name of data set
-[台灣周邊海域葉綠素甲平均濃度](https://opendata.epa.gov.tw/Data/Contents/WAT00497/)
+[Average chlorophyll a concentrations in Taiwan' s adjacent sea areas](https://opendata.epa.gov.tw/Data/Contents/WAT00497/)

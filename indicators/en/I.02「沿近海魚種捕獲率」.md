@@ -1,5 +1,5 @@
-# I.02 Catch rate of offshore and coastal fish species
-Orignal name of the indicator: Catch per unit effort (CPUE) of offshore and coastal fish species
+# I.02 "Catch rate of offshore and inshore fish species"
+Orignal name of the indicator: Catch per unit effort (CPUE) of offshore and inshore fish species
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -9,7 +9,7 @@ Fishery resources
 State (S)
 ### Corresponding targets
 #### SDGs
-Resource management of commercial fish species in offshore and costal waters.
+14.4.1 Proportion of fish stocks within biologically sustainable levels.
 #### Aichi Biodiversity Targets
 Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
 ### Background

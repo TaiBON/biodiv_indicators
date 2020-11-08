@@ -1,4 +1,4 @@
-# I.01 Fishery Landings for Offshore and Inshore Fisheries
+# I.01 "Fish Landings of Offshore and Inshore Fisheries"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -14,7 +14,7 @@ Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resour
 ### Background
 Monitor and manage various types of fishing gear and fishing method (including spearfishing, pole and line, troll line, longline, gillnet, purse seine, torch light net, purse seine, danish seine, larval anchovy fishery, drag net, reef fishery, etc.), these fishing methods can be divided into sustainable fishing methods, targeted fishing methods, and destructive fishing methods according to the degree of impact on the marine ecology. In order to achieve reasonable development and sustainable use of resources, the trends of change in various fishing methods should be tracked in detail.
 ### Definition and calculation
-1. Fishery landings (tons) of diffrent offshore and inshore fishery categories
+1. Fish landings (tons) of diffrent offshore and inshore fishery categories
 2. The current data are the cumulated sums of offshore fishery production (thousand tons), offshore fishery value (thousand NTD), inshore fishery production (thousand tons), and inshore fishery value (thousand NTD), from past years, provided by the Fishery Statistics Annual Report.
 ### Updates
 According to the 2018 Taiwan Fisheries Yearbook, the total production of offshore fisheries was 161.53 thousand tons, with a value of 13,210,104 thousand NTD; the total inshore fisheries production was 26.39 thousand tons, with a value of 3,605,905 thousand NTD.

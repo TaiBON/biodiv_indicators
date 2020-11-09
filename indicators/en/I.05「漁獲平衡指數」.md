@@ -29,13 +29,13 @@ To help readers understand the equation, we hypothesize that the energy transfer
 
 The rise and fall of the FiB trend sometimes lead to a debate of "encouraging to catch more tertiary or primary consumers", which can be the wrong direction for discussion. In fact, there are a variety of factors that lead to the fluctuation of FiB:
 
-FiB < 0. It may be caused by the increase in the fish landings in year i is less than the decrease in MTI, or the decrease in the fish landings in year i is greater than the increase in MTI. The former may be due to the fact that part of the fish landings is not included in the fishery statistic data (such as discarded catch), or fishery has taken more organisms from the marine ecosystem than what the ecosystem can recover from; the latter may reflect that fisheries tend to catch teritary consumers which leads to lower fish landings.
+FiB < 0. It may be because the increase in the fish landings in year i is less than the decrease in MTI, or the decrease in the fish landings in year i is greater than the increase in MTI. The former may be due to the fact that part of the fish landings is not included in the fishery statistic data (such as discarded catch), or fishery has taken more organisms from the marine ecosystem than what the ecosystem can recover from under normal function; the latter may reflect that fisheries tend to catch teritary consumers, which leads to lower fish landings.
 
-FiB > 0. It may be caused by the increase in the yield of catch in year i is greater than the decrease in MTI, or the decrease in the catch in year i is less than the increase in MTI. Other possible causes include the migration of foreign populations (such as the migration of new tuna populations into the sea area of Taiwan), the expansion of fishing grounds, and the increase of basic productivity in regions (such as environmental eutrophication).
+FiB > 0. It may be because the increase in the fish landings in year i is greater than the decrease in MTI, or the decrease in the fish landings in year i is less than the increase in MTI. Other possible causes include the migration of foreign populations (such as the migration of new tuna populations into the sea area of Taiwan), the expansion of fishing grounds, and the increase of basic productivity in the regions (such as environmental eutrophication).
 
-When FiB keeps deviating from the equilibrium state, especially when FiB keeps decreasing, it is the management methods that are insufficient to maintain fishery resources at a sustainable level. As for a clearer policy direction for improvement, the designs and monitorings in many aspects are needed to find answers.
+When FiB keeps deviating from the balanced state, especially when FiB keeps decreasing, it is the management methods that are insufficient to maintain fishery resources at a sustainable level. As for a clearer policy direction for improvement, the designs and monitorings in many aspects are needed to be sovled.
 ### Updates
-The data until 2014 is from the Region-based Marine Trophic Index of the catch in the waters of Taiwan in the website "Sea Around Us".
+The data, updated until 2014, is from the "Region-based Marine Trophic Index of the catch in the waters of Taiwan", on the website of "Sea Around Us".
 ### Trends
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture

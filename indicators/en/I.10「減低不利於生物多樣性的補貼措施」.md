@@ -1,4 +1,4 @@
-# I.10 Reducing Subsidies That Are Not Conducive To Biodiversity
+# I.10 "Reducing Subsidies That Are Not Conducive To Biodiversity"
 Original indicator name: not conducive to subsidies for biodiversity and reducing negative impacts
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -20,7 +20,7 @@ Tracking the trend of various subsidies over years can be a reference for the re
 1. Whether some of the fishery subsidies are beneficial or adverse is still controversial. The majority of the subsidies are for gas and incentives for fishing moratorium.
 2. The gas subsidy data comes from the annual expenditure plan summary and branch plan summary table in the statutory budget of the Fisheries Agency, and the unit is 1,000 yuan.
 3. When reviewing this indicator, it is believed that changes in gas prices will affect the actual amount of gas subsidized each year, so using the amount of gas subsidized as the indicator will be more in line with the actual situation. However, only the amount of subsidy for gas is reported in the Taiwan Fisheries Yearbook and the amount of gas subsidized is not available. Moreover, the mount of subsidy for gas is reported as "The gas price is the preferential price offered by the gas company for first, second and third grade gas, and the difference between the preferential price and actual price paid is subsidized to fisherman for the gas used by fishing boats". Therefore, it is not possible to estimate the amount of gas used by various fishing boats. As a result, the amount of subsidy for gas is used to show the trends of the indicator.
-### Update
+### Updates
 According to the annual expenditure plan summary and branch plan summary table in the statutory budget of the Fisheries Agency, Council of Agriculture, the subsidy for gas in the 2018 was 1,159,950 thousand yuan.
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture

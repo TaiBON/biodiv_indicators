@@ -1,4 +1,4 @@
-# II.02 Number and area of fishing exclusion zone and their percentages in Marine Protected Areas
+# II.02 "Number and area of fishing exclusion zone and their percentages in Marine Protected Areas"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -10,8 +10,8 @@ Marine Protected Areas
 Response(R)
 ### Corresponding targets
 #### SDGs
-14.5 Conserve at least 10 per cent of coastal and marine areas.
-#### Aichi Biodiversity Targets:
+14.5 By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information
+#### Aichi Biodiversity Targets
 Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background
 Planning marine protected areas (including fishing exclusion zone), improving implement of management and bans are the simplest and most effective ways to restore fish resources. Therefore, by 2020, the global goal is to have 10% of the oceans included in the scope of Marine Protected Areas. When calculating the area ratio, the Exclusive Economic Zone (EEZ) is mostly used as the denominator in other countries, while Taiwan uses areas within 12 nautical miles which includes internal water as the denominator.

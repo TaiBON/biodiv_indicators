@@ -12,9 +12,9 @@ Response (R)
 ### Aichi Biodiversity Targets
 Target 11: By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Biodiversity Action Plan
-D11030 Review the existing system of protected areas, regularly conduct effectiveness assessments and management tests, and improve management strategies and publicity of various types of protected areas. Action Plan Performance Indicator:
+D11030 Review the existing system of protected areas, regularly conduct effectiveness evaluation and management tests, and improve management strategies and publicity of various types of protected areas. Action Plan Performance Indicator:
 * Complete the planning of the national system of protected areas
-* Number and proportion of various types of protected areas with regular assessments of management effectiveness
+* Number and proportion of various types of protected areas with regular evaluations of management effectiveness
 ## Background
 A protected area refers to a clearly defined geographical area that is designated, controlled, and managed for specific protection purposes. Protected areas can provide multiple benefits for biodiversity conservation and sustainable development. Internationally, the establishment of protected areas is considered the main strategy for protecting species and ecosystems. In addition to biodiversity, the establishment of protected areas can also help protect the natural resources which local communities and indigenous people rely on, as well as areas of cultural importance. The area (size) of Taiwan's terrestrial protected areas is the area (size) announced by each protected area.
 ## Definition and Calculation

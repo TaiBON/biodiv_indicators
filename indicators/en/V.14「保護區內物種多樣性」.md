@@ -14,7 +14,7 @@ Target 12: By 2020 the extinction of known threatened species has been prevented
 D12030 Strengthen the research on population changes of indicator animals, plants, and micro organisms. Action plan key performance indicator:
 * Research projects on the change of indicator species
 ## Background
-Biodiversity is one of the major global issues at present and the foundation of sustainable development of human beings. The global biodiversity is in a trend of rapid loss. Biological species are gradually disappearing at a rate of 100~1000 times of the rate before. With the increase in human population, and resource consumption, plus the impact of pollution, global warming and invasive species, the crisis of biodiversity has become a reality that all human beings should face today. Species diversity is the fundamental indicator of regional ecosystem. High species diversity means that there are more species population. In the case of overlapping niche, the overall ecosystem has higher stability and can tolerate disturbance to a ceratin degree.
+Biodiversity is one of the major global issues at present and the foundation of the sustainable development of human beings. The global biodiversity is in a trend of rapid loss. Biological species are gradually disappearing at a rate of 100~1000 times of the rate before. With the increase in human population and resource consumption, plus the impact of pollution, global warming and invasive species, the crisis of biodiversity has become a reality that all human beings should face today. Species diversity is the fundamental indicator of the regional ecosystem. High species diversity means that there are more species populations. In the case of overlapping niche, the overall ecosystem has higher stability and can tolerate disturbance to a certain degree.
 ## Definition and Calculation
 Species number of all organisms in the protected areas.
 ## The data and temporal range
@@ -28,4 +28,4 @@ In 2017, Kenting National Park had the highest animal species diversity in the p
 ## Data Management Authorities
 National Park Division, Construction and Planning Agency, MOI
 ## Data Source/URL
-[The Statistical Yearbook of Construction and Planning Agency Ministry of Interior 2017](https://www.cpami.gov.tw/政府資訊公開/主動公開資訊/施政計畫業務統計及研究報告/營建統計資訊/33361-106年營建統計年報.html)
+[The Statistical Yearbook of Construction and Planning Agency Ministry of Interior 2017](https://www.cpami.gov.tw/Government Information Disclosure/Proactive Disclosure of Information/Government Project and Business Statistics and Research Report/Construction Statistics Information/33361-106 Annual Construction Statistics Report.html)

@@ -16,9 +16,9 @@ D00008 Establishment of forest cover data (Normalized Difference Vegetation Inde
 * Estimation of the area of forest cover in Taiwan
 * The area ratio of forest cover whose health is under the assessment and monitoring to national forest cover.
 ## Background
-In 1997, the Intergovernmental Panel on Climate Change (IPCC) of the United Nations included land use, land-use change, and forestry (LULUCF) into the Guidelines for National Greenhouse Gas Inventories. Carbon emissions and carbon removals caused by changes in land use, forest, and other woody biomass accumulations after 1990 were estimated. The Spatial Planning Act and Forest Act in the Taiwan region have stipulated regulations for changes in forestry land and forest harvesting, and the ban on logging of natural forests has been implemented since 1992. As a result, there have been very few cases where forest land is changed to other uses. Therefore, we can use the forest area obtained in the Third National Forest Resources Survey (conducted by Forestry Bureau, Council of Agriculture), as well as the forestry data on annual new planting, harvesting, fuelwood harvesting, and disturbances, etc., to estimate the annual changes in carbon sequestration by Taiwan’s forest resources, and further understand the health of forest ecosystem.
+In 1997, the Intergovernmental Panel on Climate Change (IPCC) of the United Nations included land use, land-use change, and forestry (LULUCF) into the Guidelines for National Greenhouse Gas Inventories. Carbon emissions and carbon removals caused by changes in land use and forest and other woody biomass accumulations after 1990 were estimated in the guideline. The Spatial Planning Act and Forest Act in Taiwan have stipulated regulations for changes in forestry land and forest harvesting, and the ban on logging of natural forests has been implemented since 1992. As a result, there have been very few cases where forest land is changed to other uses. Therefore, we can use the forest area obtained in the Third National Forest Resources Survey (conducted by Forestry Bureau, Council of Agriculture), as well as the forestry data on annual new planting, harvesting, fuelwood harvesting, and disturbances, etc., to estimate the annual changes in carbon sequestration by Taiwan’s forest resources, and further understand the health of forest ecosystem.
 ## Definition and Calculation
-保護區內森林碳匯吸存量。估算保護區範圍內，森林資源整 體之二氧化碳移除量。
+Forest carbon sequestration in the protected areas. Estimate the total carbon dioxide removals by forest resources in the protected areas.
 
 ## The data and temporal range
 --
@@ -27,6 +27,6 @@ In 1997, the Intergovernmental Panel on Climate Change (IPCC) of the United Nati
 ## Data Management Authorities
 Forestry Bureau, Council of Agriculture
 ## References
-* The key performance index of the Sustainable Development Action Plan, National Council for Sustainable Development, Executive Yuan.
+* The key performance indicators of the Sustainable Development Action Plan, National Council for Sustainable Development, Executive Yuan.
 * "2016 National Greenhouse Gas Emission Inventory Report of the Republic of China (Taiwan)", Environmental Protection Agency, Executive Yuan (2016)
 * "2017 National Greenhouse Gas Emission Inventory Report of the Republic of China (Taiwan)", Environmental Protection Agency, Executive Yuan (2017).

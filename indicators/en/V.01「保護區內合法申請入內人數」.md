@@ -1,5 +1,5 @@
-# V.01 "Number of people legally applying for admission in the marine protected area"
-Original index name: degree of anthropogenic disturbance in the marine protected areas.
+# V.01 "Number of people legally applying for entry into protected areas"
+Original indicator name: the degree of anthropogenic disturbance in protected areas
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -13,7 +13,7 @@ Target 11: By 2020, at least 17 per cent of terrestrial and inland water, and 10
 ## Background
 Protected areas provide various benefits to both biodiversity and sustainable development. Establishing protected areas is a globally recognized main strategy to protect species and ecosystems. Ecological zone (i.e., core zone) is the core of the protected areas, which contains important natural and cultural landscapes or habitats for species. The main purpose of establishing protected areas is to protect and preserve natural resources, landscapes, or important species, nonetheless, to allow people to visit nature as a way of education, parts of the protected areas such as national parks and natural reserves would accept applications for entering the core zone. With control over the number of applicants, the authorities can manage tour activities and promote eco-tour in the protected areas.
 ## Definition and Calculation
-Count the number of people applying to enter protected areas every year as an index of the degree of human disturbance.
+Count the number of people applying to enter protected areas every year as an indicator of the degree of human disturbance.
 ## Updates
 From January to December in 2018, there were 3,915 patrols who applied for entry into the wildlife sanctuaries, nature reserves, and strict nature reserves, and the number of applications for entry was 1,530.
 ## Trends

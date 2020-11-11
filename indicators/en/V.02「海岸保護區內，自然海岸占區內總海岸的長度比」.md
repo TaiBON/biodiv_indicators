@@ -1,4 +1,4 @@
-# V.02 The length ratio of the natural coast to the total coast in the coastal protection areas
+# V.02 "The length ratio of the natural coast to the total coast in the coastal protection areas"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -12,8 +12,8 @@ State (S)
 ### Aichi Biodiversity Targets
 Target 11: By 2020, at least 17 percent of terrestrial and inland water, and 10 percent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Biodiversity Action Plan
-D11050 follows the concept of the Central Mountain Conservation Axis to designate a belt of coastal protected areas, resolving the conflicts between protecting and exploiting existing coastal areas. Key performance indicator of the action plan (gray backgroud represents non-quantitative)
-* Complete the planning of national coastal protected belt
+D11050 follows the concept of the Central Mountain Conservation Axis to designate a belt of coastal protected areas, resolving the conflicts between protecting and exploiting existing coastal areas. Key performance indicator of the action plan (gray background represents non-quantitative)
+* Complete the planning of national coastal belt of protected areas
 * The area ratio of protected natural coastal belt to the total coastal belt in Taiwan
 * Identify potential locations for conflicts between protection and exploitation.
 ## Background
@@ -28,4 +28,4 @@ Phase 1 and Phase 2 natural and artificial coastline in 2018. Range of coastal p
 Urban Planning Division, Construction and Planning Agency
 ## References
 * Project of Coastal Resource Survey and Database Establishment, Ministry of the Interior Construction Agency (2016)
-* Overall coastal management Plan, Ministry of the Interior (2017)
+* Overall Coastal Management Plan, Ministry of the Interior (2017)

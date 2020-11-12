@@ -20,9 +20,9 @@ Rivers are important freshwater resources that connect lakes, estuaries, coasts,
 ## Definition and Calculation
 Based on the River Pollution Index (RPI) published by Environmental Protection Administration, Executive Yuan, the ratio of the length of the slightly polluted/unpolluted river to the total length of the river is calculated. RPI is calculated with the concentration of dissolved oxygen (DO), biochemical oxygen demand (BOD), suspended solids (SS), and ammonia nitrogen (NH3-N) in the river water. The calculated indicator value is used to determine the degree of river pollution. River pollution indicator = (length of un/barely polluted rivers + length of slightly polluted rivers) /total length of the monitored rivers.
 ## Updates
-According to the information on the website of Environmental Protection Administration, Executive Yuan, the ratio of rivers better than the standards of slightly polluted rivers in Taiwan is about 75%. Compared with 2017, the ratio decreased by about 3.4%.
+According to the information on the website of Environmental Protection Administration, Executive Yuan, the proportion of rivers better than the standards of slightly polluted rivers in Taiwan is about 75%. Compared with 2017, it decreased by about 3.4%.
 ## Trends
-Since 1988, the ratio of slightly polluted/unpolluted rivers in Taiwan has ranged from 70% to 80% in the past 30 years.
+Since 1988, the proportion of slightly polluted/unpolluted rivers in Taiwan has ranged from 70% to 80% in the past 30 years.
 ## Data Management Authorities
 Environmental Protection Administration, Executive Yuan
 ## Data sources/URL

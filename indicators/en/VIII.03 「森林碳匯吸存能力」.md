@@ -26,6 +26,6 @@ The estimation results show that the amount of carbon dioxide removed by forest 
 ## Data Management Authorities
 Forestry Bureau, Council of Agriculture
 ## Data sources/URL
-* Forestry Bureau, Council of Agriculture (2017) Established an integrated analysis mechanism for long-term forest monitoring and investigation data and preparation of the national forestry greenhouse gas inventory report
+* Forestry Bureau, Council of Agriculture (2017) The collection of reports of "Establishing a Data Integration and Analysis Mechanism for Long-term Forest Monitoring and Survey and The National Forestry Greenhouse Gas Inventory"
 * Environmental Protection Agency, Executive Yuan (2017) 2017 National Greenhouse Gas Inventory Report of the Republic of China (Taiwan)
 * [Environmental Protection Agency, Executive Yuan (2018) 2018 National Greenhouse Gas Emission Inventory Report of the Republic of China (Taiwan)](http://unfccc.saveoursky.org.tw/2018nir/tw_nir_2018.php)

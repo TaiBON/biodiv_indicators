@@ -1,4 +1,4 @@
-# VIII.09 Habitat diversity
+# VIII.09 “Habitat diversity”
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -12,18 +12,18 @@ Status (S)
 ### Aichi Biodiversity Targets
 Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 per cent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 ## Background
-The loss of biodiversity is due to many factors, such as climate change, alien species invasion and pollution. However, the Red Book of Endangered Species published by the International Union for Conservation of Nature (IUCN) in 1994 and 2004, the "habitat loss" is listed as the major reason for reducing biodiversity. Therefore, conservation requires habitat protection to maintain habitat diversity.
+The loss of biodiversity is due to many factors, such as climate change, alien species invasion and pollution. However, in the Red List of Threatened Species published by the International Union for Conservation of Nature (IUCN) in 1994 and 2004, the "habitat loss" is listed as the major reason for reducing biodiversity. Therefore, conservation requires habitat protection to maintain habitat diversity.
 ## Definition and Calculation
-Habitat diversity is the assessment of habitat health, which provides a set of "attribute indicators" for assessing the health status of species in each designated area. Taking the assessment of forest land health as an example, the monitoring methods for attribute indicators, including tree species diversity and the renewal monitoring methods will be used or not would according to different species. The fieldwork is used to investigate the habitat range, species composition, and species population to assess the health status, and giving seven levels:
+"Habitat Diversity" is the assessment of habitat health, which provides a set of "attribute indicators" for assessing the status of species health in each designated area. Taking the assessment of forest land health as an example, the attribute indicators include tree species diversity and whether or not there are renewals, etc., and the monitoring methods chosen will depend on species monitored. Habitat range, species composition, and species population are surveyed in fieldwork to assess the health status, and the status is classified into seven levels:
 | Level | description |
 | ----- | ----------- |
 |       |             |
- Favourable Maintained|Achieved the monitoring target Favourable Recovered|The nature conservation feature that was previously rated as "poor", now the condition has been restored to good condition, and the monitoring target has been successfully achieved Unfavourable Recovering|One Many attribute indicators fail to reach the target, but there are management measures to improve this situation Unfavourable No Change|One or more attribute indicators fail to reach the target, and there is no improvement measure Unfavourable and continuous Unfavourable Declining|One or more attribute indicators fail to reach the target, and if you don’t take action in time, your health will get worse and worse. Partially Destroyed|Some natural features in the area disappear, and there is no The first line of life for restoration Totally Destroyed|The natural features in the area have completely disappeared and cannot be restored
+ Favourable Maintained| The conservation objectives of an feature of interest were being met at the previous assessment, and are still being met. Favourable Recovered| A feature of interest has regained favourable condition, having been recorded as unfavourable at the previous assessment. Unfavourable Recovering| A feature of interest has begun to show, or is continuing to show, a trend towards favourable condition. Unfavourable No Change| An feature of interest may be retained in a more-or-less steady state by repeated or continuing damage–it is unfavourable but neither declining or recovering. Unfavourable Declining| Recovery is possible and may occur either spontaneously or if suitable management input is made. Partially destroyed| It is possible to destroy sections or areas of certain features or to destroy parts of sites with no hope of reinstatement because part of the feature itself, or the habitat or processes essential to support it, has been removed or irretrievably altered. Totally destroyed| The recording of a feature as destroyed will indicate the entire feature of interest has been affected to such an extent that there is no hope of recovery, perhaps because its supporting habitat or processes have been removed or irretrievably altered.
 ## The data and temporal range
 --
 ## Trends
---(Endemic species research institude is developing new methodology)
+--(New methodology is under development by Endemic Species Research Institute)
 ## Data Management Authorities
-Endemic Research Institute, Council of Agriculture
+Endemic Species Research Institute, Council of Agriculture
 ## References
 Scottish Natural Heritage (2016) Condition of notified habitats.

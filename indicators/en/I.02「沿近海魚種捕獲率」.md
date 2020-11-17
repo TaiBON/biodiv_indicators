@@ -1,4 +1,4 @@
-# I.02 "Catch rate of offshore and inshore fish species"
+# I.02 "Catch rate of Inshore/offshore fish species"
 Orignal name of the indicator: Catch per unit effort (CPUE) of offshore and inshore fish species
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>

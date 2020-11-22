@@ -1,4 +1,4 @@
-# IV.02「上岸產卵母綠蠵龜數量」
+# IV.02 "Number of female green sea turtle (*Chelonia mydas*) coming ashore to lay eggs"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -7,12 +7,12 @@ Abundance trends of selected taxa
 ### PSBR model type
 State (S)
 ### Corresponding targets
-#### Aichi Biodiversity Targets:
+#### Aichi Biodiversity Targets
 Target 12 By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
 ### Background
-綠蠵龜屬於蠵龜科，體型屬中大型海龜，生殖期會洄游至出生海域附近進行交配，龜卵成熟時，母龜會將卵產於溫度高於25℃的沙灘上。平均45-55天出生，孵化成功機率約為70%。目前有六處產卵沙灘被畫設為野生動物保護區。 海大研究團隊分別在澎湖縣望安島及台東縣蘭嶼島收集了 24 年及 19 年的綠蠵龜生殖生態學資料，並從兩島的 19 年相對應資料中，找出兩島產卵母龜數量變化上的差異，可能與公海的漁業捕殺 (如持續監測) 有關，將可能的原因及全球氣候變遷，判斷是否對產卵族群會產生影響。這些結果，不論對學術研究，或是政府相關政策的制訂，都有很重要的意義。
+Green sea turtles (*Chelonia mydas*) belong to the Cheloniidae family. They are medium/large-sized sea turtles and migrate to the sea area near their birthplace to mate during the breeding season. When the eggs mature, the female turtle lays her eggs on the beach where the temperature is higher than 25℃. The average hatching period is 45-55 days, and the success rate is about 70%. Currently, six beaches in Taiwan where they lay eggs have been protected as wildlife sanctuaries. The research team from National Taiwan Ocean University collected 24 and 19 years of green sea turtle's reproductive ecology data on Wang-an Island in Penghu County and Orchid Island in Taitung County, respectively. According to the corresponding 19-year data from both islands, they found that the difference (between the two islands) in the changes in the number of spawning female turtles may relate to fishery hunting on the high seas (if continuous monitoring has been done). Other possible causes and global climate changes are further studied to determine whether they affect the spawning population. These results are of great significance to academic research and the establishment of relevant government policies.
 ### Definition and Calculation
-每年產卵季高峰期間 (6-9 月)，前往各產卵地進行長期駐島調查，除了計算上岸母龜數外，也記錄相關龜卵與稚龜形質資訊，並利用衛星發報定位器了解母龜的洄游模式及覓食區位置
+During the peak of the spawning seasons (June-September) each year, researcher will go to each spawning place and stay for long-term surveys on the islands. In addition to counting the number of female turtles coming ashore, they also record information related to the appearance and quality of the eggs and newly hatched turtles, and use satellite transmitters to track the migratory patterns of female turtles and the location of foraging areas.
 ### Updates
 No data currently available
 ### Trends

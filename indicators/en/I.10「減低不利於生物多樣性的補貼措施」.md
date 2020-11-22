@@ -1,15 +1,17 @@
-# I.10 Reducing Subsidies That Are Not Conducive To Biodiversity
+# I.10 "Reducing Subsidies That Are Not Conducive To Biodiversity"
 Original indicator name: not conducive to subsidies for biodiversity and reducing negative impacts
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### Brief description
+Eliminating the negative subsidies that are not conducive to biodiversity and the sustainability of fisheries, or increasing favorable positive subsidies, will help the restoration of fishery resources. This work has been included in the UN Sustainable Development Goal 14 and Aichi Goal 3. Therefore, governments of all countries need to actively review and improve the effectiveness of fishery subsidy policies in maintaining fishery resources.
 ### Themes
 Fishery resources
 ### PSBR model type
 Response (R)
 ### Corresponding targets
 #### SDGs
-14.6.1 Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing
+14.6.1 Subsidies for illegal, unreported, and unregulated (iuu) fishing activities will not be granted.
 #### Aichi Biodiversity Targets
 Target 4 By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
 ### Background
@@ -23,4 +25,4 @@ According to the annual expenditure plan summary and branch plan summary table i
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL
-[Taiwan Fisheries Yearbook, on the website of Fisheries Agency, Council of Agriculture](https://www.fa.gov.tw/cht/PublicationsFishYear/index.aspx)
+[Taiwan Fisheries Yearbook (Statistics and Publication, Fisheries Agency website)](https://www.fa.gov.tw/cht/PublicationsFishYear/index.aspx)

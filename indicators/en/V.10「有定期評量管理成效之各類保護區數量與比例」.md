@@ -1,4 +1,4 @@
-# V.10「有定期評量管理成效之各類保護區數量與比例」
+# V.10 "The number and proportion of various protected areas with regular evaluations on management effectiveness"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -8,24 +8,24 @@ Terrestrial protected areas
 Response (R)
 ## Corresponding targets
 ### SDGs
-14.2 以永續方式管理並保護海洋與海岸生態。 15.1 保護、維護及促進陸域及內陸水域生態系統的永續利用。
+14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans. 15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.
 ### Aichi Biodiversity Targets
 Target 11: By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Biodiversity Action Plan
-D11030檢討現有保護區系統，並定期進行各類保護區成效評估、管考、改善管理策略及廣宣。 行動方案績效指標(灰底表非量化)：
-* Complete the planning of the national protected area system
-* Number and proportion of various types of protected areas with regular assessment of management effectiveness
+D11030 Review the existing system of protected areas, regularly conduct effectiveness evaluations and management tests, and improve management strategies and publicity of various types of protected areas. Action Plan Performance Indicator:
+* Complete the planning of the national system of protected areas
+* Number and proportion of various types of protected areas with regular evaluations of management effectiveness
 ## Background
-評估準則建立是輔助決策與管理的重要工具。在全球推動永續發展的諸多工作中，發展指標與評量系統以評估各國、各主要都市、甚至社區是否邁向永續以成為首要的任務之一，因為有效的評量系統可以監測環境、經濟、社會的進展與趨勢，並作為預警、引導決策、改善策略的依據(李玲玲，2003)。保護區的設立不必然代表區內的物種獲得充足的保護，評估保護區是否具有經營成效是非常必要的。
-## 定義及計算方式
-有定期進行保護區經營管理成效評量，其保護區數量與占我國保護區數量之比例。 每年計算有經營管理成效評量之保護區數量及其比例。其中經營管理成效評量以世界保護區委員會(World Commission on Protected Areas, WCPA)建立的評估架構為主，以經營管理循環(Management Cycle)作主軸，由權益關係人(保護區管理者、決策者等)組成評估團隊，以互動式工作坊執行評估，最後以問卷問項得分呈現保護區經營管理效能。
-## 現有資料內容及所跨年度
+The establishment of evalution criteria is an important tool to assist decision-making and management. Among the many tasks in the global promotion of sustainable development, the development of indicators and evaluation systems to evaluate whether countries, major cities, and even communities are moving towards sustainability has become one of the priority tasks, because an effective evaluation system can monitor the environmental, economic and social progress and trends, and be as a basis for early warning, guiding decision-making, and improving strategies (Ling-Ling Lee, 2003). The establishment of protected areas does not necessarily mean that the species in the area are adequately protected. It is very necessary to evaluate whether the protected area has operational effectiveness.
+## Definition and Calculation
+The number of various protected areas with regular evaluations on management effectiveness, and its ratio to the total number of protected areas in Taiwan. Calculate the number and proportion of protected areas with regular evaluations on management effectiveness each year. The evaluation on management effectiveness is based on the evaluation framework established by the World Commission on Protected Areas (WCPA), with the management cycle as the center. Stakehoders (e.g., manager of the protected area and decision-maker) form an evaluation team to perform the evaluation in an interactive workshop, and finally use a questionnaire to show the management efficiency of the protected area.
+## The data and temporal range
 --
-## 指標趨勢
+## Trends
 --
-## 資料管理/權責單位
-營建署國家公園組、林務局
-## 參考資訊
-* 李玲玲 (2003) 國家公園保育及經營管理成效評估準則之建立
-* 盧道杰、張雅玲、趙芝良 (2009) 保護區經營管理效能評估的方法及其應用
+## Data Management Authorities
+National Park Division, Forestry Bureau, Council of Agriculture
+## References
+* Ling-Ling Lee (2003), Establishment of effectiveness evaluation criteria for national park conservation and management.
+* Dau-Jye Lu, Ya-Ling Chang (張雅玲), Chih-Liang Chao (2009) Methodology and applications of the management effectiveness evaluation of protected areas.
 * Hockings M, Stolton S, Leverington F, Dudley N, Courrau J, Valentine P (2000) Evaluating Effectiveness A framework for assessing management effectiveness of protected areas 2nd edition. IUCN

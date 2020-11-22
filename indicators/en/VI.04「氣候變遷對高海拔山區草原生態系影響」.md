@@ -1,4 +1,4 @@
-# VI.04 The influence of climate change on high altitude grassland ecosystems
+# VI.04 "The Influence of Climate Change on High Altitude Grassland Ecosystems"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -12,9 +12,9 @@ Pressure (P)
 ### Aichi Biodiversity Targets
 Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 per cent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 ## Background
-High mountain ecosystem is one of sensitive areas under climate change. The high mountain grassland usually has unfavored growth conditions of plants, such as shallow soils, poor nutrients, low temperature, strong winds and heavy snows, and some specific species can adapt and grow in such extreme environments. However, under the climate change, many extreme climatic events, such as warm winter, drought and suddenly temperature decline after spring would disturb the phenology of high mountain species, and to obstruct population renewal and cause the decline of population. Furthermore, climate warming would also cause invasive species that were originally suppressed by low temperatures to gradually move up, threatening native and endemic plant populations.
+The high mountain ecosystem is one of the sensitive areas under climate change. The high mountain grassland usually has unfavorable growth conditions for plants, such as shallow soils, poor nutrients, low temperatures, strong winds, and heavy snows, but some specific species can adapt and grow in such extreme environments. However, under climate change, many extreme climatic events, such as warm winter, drought, and sudden decline of temperatures after spring would disturb the phenology of high mountain species, obstruct population renewal and cause the decline of populations. Furthermore, climate warming would also cause invasive species that were originally suppressed by low temperatures to gradually move up, threatening native and endemic plant populations.
 ## Definition and Calculation
-To understand if climate change could affect the high mountain ecosystems, we selected the vegetation survey of high mountain grassland ecosystem to analyze species, vegetation and environmental factors at vertical and horizontal gradients. To understand the influence of temperature change on species abundance, we also estimated the long-term monitoring data (includes herbal species composition, abundance) in the high mountain grassland ecosystems, and used temperature data of meteorological station to perform relational and regression analyses.
+To understand if climate change could affect the high mountain ecosystems, we selected the high mountain grassland ecosystem to conduct vegetation surveys and analyzed the distributions of species, vegetation and environmental factors at vertical and horizontal gradients, together with the temperature data from meteorological stations. To understand the influence of temperature change on species abundance, we also collected the long-term monitoring data (includes herbal species composition, abundance) in the high mountain grassland ecosystems, and used temperature data of meteorological station to perform relational and regression analyses.
 ## The data and temporal range
 --
 ## Trends

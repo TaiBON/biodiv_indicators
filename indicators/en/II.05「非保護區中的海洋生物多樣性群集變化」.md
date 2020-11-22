@@ -1,5 +1,5 @@
-# II.05 "Changes in marine biodiversity community in non-protected areas"
-The original indicator name: Cluster changes in marine biodiversity in non-protected areas
+# II.05 "Community changes in marine biodiversity in unprotected areas"
+Original indicator name: Community changes in marine biodiversity in unprotected areas
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -15,7 +15,7 @@ Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 
 ### Background
 If we only focus on the monitoring plan in the protected area, we may not be able to understand the actual changes in fishery resources and marine life in the ocean. For more than 90% of Taiwan’s coastal marine organisms that are not fully protected, monitoring the long-term changes in species number, numbers of individuals in each species, and species composition, and comparing them with the data of protected areas can highlight the importance of marine protected areas.
 ### Definition and Calculation
-Among the marine environmental and ecological impact assessments (mainly the environmental assessments on constructions in sea area) that are still monitoring continuously, the data from the monitoring stations that have accumulated more than 3 to 5 years are selected. We collect, sort, and analyze the data on species community (e.g., plankton, fish &their juveniles, benthic Organisms, and cetaceans, etc.) to understand the dynamic changes of marine biodiversity and fishery resources in most Inshore and offshore non-protected areas of Taiwan. If detailed information is available on certain species, we calculate Its abundance and biodiversity index.
+Among the marine environmental and ecological impact evaluations (mainly the environmental evaluations on constructions in sea area) that are still monitoring continuously, the data from the monitoring stations that have accumulated more than 3 to 5 years are selected. We collect, sort, and analyze the data on species community (e. g., plankton, fish &their juveniles, benthic organisms, and cetaceans, etc.) to understand the dynamic changes of marine biodiversity and fishery resources in most inshore and offshore unprotected areas of Taiwan. If detailed information is available on certain species, we calculate its abundance and biodiversity index.
 ### Updates
 No data currently available
 ### Trends

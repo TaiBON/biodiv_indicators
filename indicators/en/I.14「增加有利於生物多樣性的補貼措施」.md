@@ -17,7 +17,7 @@ The trend of various subsidies over the years can be used as a reference for the
 2. The data of the positive subsides indicator adopts the subsidy amount per year for fishing moratorium.
 3. The data of subsidies for fishing moratorium comes from the final accounts of the Fisheries Agency, Council of Agriculture and its affiliated units, which is part of the central government’s final accounts, in units of thousand NTD.
 ### Updates
-According to the final accounts of the Fisheries Agency, Council of Agriculture and its affiliated units in 2018, the amount of subsidies for fishing moratorium in 2018 was 158,017 thousand yuan.
+依據民國108年(2019) 行政院農業委員會漁業署及所屬單位決算，休漁補貼金額為360,470千元。108年休漁補貼金額較2009-2018年高出許多，可能原因為農委會於108年6月21日發布「自願性休漁獎勵辦法」，鼓勵漁民集中在漁業資源密度高峰期作業，離峰期在港休漁。
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

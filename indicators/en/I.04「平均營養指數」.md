@@ -16,7 +16,7 @@ Because commercial fishing tends to collectively and systematically catch the to
 ### Definition and Calculation
 Take the relative abundance of each marine organisms caught in the water of Taiwan in a certain year as the weight of the trophic level (fish landing of a certain species/total fish landing). By multiplying the weight and trophic level of a certain species, then adding up all the results of multiplying, the "mean trophic level" of a specific year is obtained. The annual change of the mean trophic level will reflect the status of the monitored organisms. If the number is declining, it may imply that the top level consumers in the marine ecosystem of a country are facing overfishing. This is defined as the mean trophic index.
 ### Updates
-The data, updated till 2014, were sourced from "Region-based Marine Trophic Index of the catch in the waters of Taiwan" in Sea Around Us.
+資料來源為 Sea Around Us中之Region-based Marine Trophic Index of the catch in the waters of Taiwan，過去資料僅到2014年，目前已更新到2016年。 臺灣2016年的平均營養指數(MTI)為3.72。
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

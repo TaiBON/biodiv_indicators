@@ -4,7 +4,6 @@
 
 ## Brief description
 The index is used to estimate whether the fish landings at all levels are balanced.
-
 ### Themes
 Fishery resources
 ### PSBR model type
@@ -35,7 +34,7 @@ FiB > 0. It may be because the increase in the fish landings in year i is greate
 
 When FiB keeps deviating from the balanced state, especially when FiB keeps decreasing, it is the management methods that are insufficient to maintain fishery resources at a sustainable level. As for a clearer policy direction for improvement, the designs and monitorings in many aspects are needed to be sovled.
 ### Updates
-The data, updated until 2014, is from the "Region-based Marine Trophic Index of the catch in the waters of Taiwan", on the website of "Sea Around Us".
+資料來源為 Sea Around Us中之Region-based Marine Trophic Index of the catch in the waters of Taiwan，過去資料僅到2014年，目前已更新到2016年。 臺灣2016年的漁獲平衡指數(FiB)為2.68。
 ### Trends
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture

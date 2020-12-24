@@ -2,7 +2,8 @@
 原指標名稱：海域環境水質監測數據的合格率與海洋環境品質達甲類及乙類標準的河口數量
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
+### 內容簡述
+不論是行動方案績效指標或永續發展指標，其海洋水質標準皆是以合格率去計算呈現，每年合格率近 100%，標準略顯寬鬆，建議應依據國外及最新研究資料來修正我國海域甲類、乙類水質標準。
 ### 所屬議題
 海洋污染
 ### 指標類別
@@ -30,8 +31,9 @@ $$
 $$
 
 ### 資料更新內容
-2018 年水質監測結果，總達成率為 99.7 %。其中 pH值達成率為 99.0 %、溶氧量達成率為 99.5 %、銅達成率為 99.3 %，其他部分包括重金屬（鎘、鉛、鋅與汞）等項目的達成率均為 100.0%。
+2019年水質監測結果，總達成率為99.7 %。其中，鉛達成率為 99.4 %、pH達成率為98.1 %、溶氧量達成率為 91.7 %，其他重金屬（鎘、銅、鋅）等項目的達成率均為 100.0%。
 ### 資料管理/權責單位
 海保署(2018年以前為環保署)
 ### 資料來源/網站連結
-[環保署之全國環境水質監測資訊網中之環境水質監測年報](https://wq.epa.gov.tw/Code/Report/ReportList.aspx)
+1.  [環保署之全國環境水質監測資訊網中之環境水質監測年報](https://wq.epa.gov.tw/Code/Report/ReportList.aspx)
+2.  [海保署之海洋保育網中海域水質](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_WaterQuality.aspx)

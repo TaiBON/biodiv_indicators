@@ -21,7 +21,7 @@ Variation trends of fish composition and abundance in the set-net fishry grounds
 1. Collect long-term catch data from set-net fishery grounds around Taiwan.
 2. Select five dominant species and calculate their temporal change in the yield of catch (kg), the number of individuals, and the diversity index.
 ### Updates
-Current data is updated to 2017. The yeilds of catch of target fish species are: skipjack tuna 805.037 tons, bullet tuna 347.013 tons, mackerel tuna 520.592 tons, ribbon fish 268.813 tons, and common dolphinfish 238.112 tons.
+依據漁業署所提供之2019年定置網漁業統計資料，正鰹633,713.7公斤、圓花鰹241,267.6公斤、扁花鰹270,647.1公斤、白帶魚491,966公斤、鬼頭刀893,459.4公斤。
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

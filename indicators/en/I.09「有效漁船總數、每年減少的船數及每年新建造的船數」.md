@@ -17,7 +17,7 @@ Overfishing should be one of the main reasons for the reduction of fishery resou
 ### Definition and Calculation
 The number of vessels with legal licenses, in the database of legal fishing vessels issued by the Fisheries Agency.
 ### Updates
-According to the Taiwan Fisheries Yearbook 2018, the total number of powered fishing boats was 12,173, which was 180 fewer than that in the year of 2017.
+依據民國108年(2019)漁業統計年報，動力漁船總艘數為12,101艘，較前一年減少72艘。
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

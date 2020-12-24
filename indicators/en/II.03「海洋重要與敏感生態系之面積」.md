@@ -2,25 +2,25 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### Themes
-Marine protected areas
-### PSBR model type
-State(S)
-### Corresponding targets
+### 內容簡述
+海洋敏感生態系如珊瑚礁、藻礁、海草床、紅樹林、潟湖、熱泉、冷泉等極具重要生態功能與價值，能反映海洋與海岸變遷之指標，應清楚劃分其面積大小並長期監測面積變化。 
+### 所屬議題
+海洋保護區
+### 指標類別
+狀態( S )
+### 指標對應
 #### SDGs
-14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans.
+14.2 在西元 2020 年以前，以可永續的方式管理及保護海洋與海岸生態，避免重大的不利影響，作法包括強健他們的災後復原能力，並採取復原動作，以實現健康又具有生產力的海洋。
 #### Aichi Biodiversity Targets
-Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
-### Background
-Sensitive marine ecosystems such as coral reefs, algae reefs, sea grass beds, mangroves, lagoons, hot springs, cold springs are of important ecological functions and values. They are indicators that can reflect the changes of the ocean and coast, and their areas should be clearly divided and monitored on a long-term basis.
-### Definition and Calculation
-The sum of the area and quantity of important and sensitive marine ecosystems (including coral reefs, algal reefs, seagrass beds, mangroves, lagoons, hot springs, cold springs, etc.)
-### Updates
-In 2019, a research of seagrass distribution in the intertidal zone on the west coast of Taiwan's main island, Penghu, and Kinmen had found 36.8 hectares of seagrass beds. The area of mangrove forests in 2019 was 660.7 hectares, after adding the area of mangrove in regions of outlying islands, the area reaches 680.7 hectares.
-### Data Management Authorities
-Marine National Park Headquarters, Ocean Conservation Administration, Taiwan Environmental Information Association
-### Data Source/URL
-1. Chaolun Chen, 2019. The 2019 coral reef ecosystem survey project, Academia Sinica, commissioned by the Ocean Conservation Administration (in Chinese).
-2. Hsin-Jun Lin, 2019. The 2019 seagrass bed ecosystem survey project, National Chung-Hsing University, commissioned by the Ocean Conservation Administration (in Chinese).
-3. Hsin-Jun Lin, 2019. The 2019 mangrove ecosystem survey project, National Chung-Hsing University, commissioned by the Ocean Conservation Administration.
-4. Kenting seagrass coverage rate (%). Provided by Distinguished Professor Hsin-Jun Lin, Department of Life Sciences, National Chung-Hsing University.
+目標11 到 2020 年，至少有 17%的陸地、內陸水域和 10%沿海和海洋區域，尤其是對於生物多樣性和生態系服務具有特殊重要性的區域，因有效而公平的管理，和透過生態上具代表性和妥善關聯的保護區系統和其他以地區為保育基礎的有效措施而受到保護，並納入更廣泛的土地景觀和海洋景觀系統中。
+### 發展背景
+海洋敏感生態系如珊瑚礁、藻礁、海草床、紅樹林、潟湖、熱泉、冷泉等極具重要生態功能與價值，能反映海洋與海岸變遷之指標，應清楚劃分其面積大小並長期監測面積變化。
+### 定義及計算方式
+加總海洋重要與敏感生態系 (含珊瑚礁、藻礁、海草床、紅樹林、潟湖、熱泉、冷泉等) 之面積與數量
+### 資料更新內容
+2019年完成臺灣本島西海岸、澎湖及金門之潮間帶海草分布調查，盤點的海草床面積共計36.8 公頃。 2019年紅樹林調查面積為660.7 公頃，如加上離島地區總面積達到680.7 公頃。
+### 資料管理/權責單位
+海洋國家公園管理處、海保署、環境資訊協會
+### 資料來源/網站連結
+2. 林幸助，2019。108年度海草床生態系調查計畫，國立中興大學，海洋保育署委託計畫。
+3. 林幸助，2019。108年度紅樹林生態系調查計畫，國立中興大學，海洋保育署委託計畫。

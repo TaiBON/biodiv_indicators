@@ -3,7 +3,6 @@
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 ## 內容簡述
 該指標用以衡量漁業在各階層之漁獲量是否均衡。
-
 ### 所屬議題
 漁業資源
 ### 指標類別
@@ -45,7 +44,8 @@ FiB 趨勢的上升、下降有時會被導向純然的「鼓勵多補高階或�
 
 故當 FiB 持續偏離平衡狀態，特別是當 FiB 持續下降，僅是點出現有管理方式不足以讓漁業資源維持在永續經營的水平上。至於政策上更明確的改善方向，需更多層面的設計與監測才可能找到解答。
 ### 資料更新內容
-資料來源為 Sea Around Us 中之 Region-based Marine Trophic Index of the catch in the waters of Taiwan，資料僅到2014年。
+資料來源為 Sea Around Us中之Region-based Marine Trophic Index of the catch in the waters of Taiwan，過去資料僅到2014年，目前已更新到2016年。
+臺灣2016年的漁獲平衡指數(FiB)為2.68。
 ### 指標趨勢
 ### 資料管理/權責單位
 漁業署

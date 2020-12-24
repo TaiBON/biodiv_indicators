@@ -18,7 +18,7 @@ The total tonnage of fishing vessels and the reduced tonnage each year can refle
 ### Definition and Calculation
 The number of vessels and tonnages with legal licenses issued by Fisheries Agency, Council of Agriculture
 ### Updates
-According to Taiwan Fisheries Yearbook of 2018, the total tonnage of powered fishing vessels was 571,040.57 tons, which was 9,514.12 tons fewer than that of 2017.
+依據民國108年(2019)漁業統計年報，動力漁船總噸數為554,040,55噸，較前一年降低17,000.02噸。
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

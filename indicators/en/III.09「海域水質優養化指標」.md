@@ -10,14 +10,14 @@ Pressure (P)
 #### Aichi Biodiversity Targets
 Target 8 By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
 ### Background
-The water quality index (WQI) is a method of consolidating several analytes of water quality monitoring into a single index. WQI has been developed for more than 40 years. The first general index was developed by Brown et al. (1970) using an expert questionnaire and selecting 9 out of 35 water quality analytes. The 9 analytes were given different weights (Wi) according to their importance, which became the NSF-WQI adopted by the National Sanitation Foundation.
+水質指標WQI是將數種水質監測數據彙整成單一指標的方法，WQI已發展四十餘年，最早發展成為通用指標是由Brown et al. (1970) 採用專家問卷方式，由35水質參數中選出9項，並根據其重要性而給予不同之權重（Wi），成為美國國家衛生基金會（National Sanitation Foundation）所制定之NSF-WQI指標。 NSF-WQI指標九項參數分別為：溶氧量、大腸桿菌群量、pH、生化需氧量、硝酸鹽氮濃度、總磷濃度、溫度、濁度以及總固體物濃度 (TS)。台灣多位學者為了因應台灣的水質污染特性，而將WQI加以改進建置WQI8、WQI5等不同之WQI指標。 但依據現行法規所執行的定期海域水質監測項目，無法符合上述任何一項指數計算所需的每一項參數，部分所需的監測值則屬於河川水質監測項目，而非海域水質監測項目。
 ### Definition and Calculation
 NSF-WQI: The nine parameters are dissolved oxygen, fecal coliform density, pH, biochemical oxygen demand, nitrates, total phosphates, changes of temperature from equilibrium, turbidity, and total solids (TS). Many scholars in Taiwan also refer to the NSF-WQI to establish a number of different WQI. The WQI and its corresponding water quality analytes used here are yet to be determined.
 ### Updates
-No data currently available
+2019年EI=5.00，屬於壞(Bad)的狀態。 National Coastal Condition Report, NCCR分級評估，DO及Chl.a屬於好(Good)的狀態，而DIN及DIP則屬於普通(Fair)的狀態。
 ### Trends
 --
 ### Data Management Authorities
 Ocean Conservation Administration
-### Data Source/URL
---
+### 資料來源/網站連結
+本計畫彙整計算，原始資料下載自海保署之海洋保育網中[海域水質](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_WaterQuality.aspx)

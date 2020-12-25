@@ -2,21 +2,23 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### Themes
-Abundance trends of selected taxa
-### PSBR model type
-State (S)
-### Corresponding targets
+### 內容簡述
+旗艦種、生態關鍵種、保育種或瀕危種等物種具相當重要的生態地位，應予以優先監測與保育。 
+### 所屬議題
+選定物種豐度變化趨勢
+### 指標類別
+狀態( S )
+### 指標對應
 #### Aichi Biodiversity Targets
-Target 12 By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
-### Background
-*Sousa chinensis*, also known as the Mazu fish, inhabits Taiwan's western coast. The current population is smaller than 100. The Forestry Bureau, Council of Agriculture, has announced that the main threats to the “Important Wildlife Habitat for Indo-Pacific Humpback Dolphin” come from reduced food sources, the disappearance of habitats, marine pollution, the underwater noise, and the accidental catch by gill net.
-### Definition and Calculation
-In the distribution area of Indo-Pacific humpback dolphin, the environmental and human activity factors are recorded in the regular fixed-route surveys conducted based on different water depth gradients, and their spatial distribution and the dynamics of habitat utilization are tracked. In the hot-zone, temporal and spatial changes in abundance are monitored using a passive acoustic monitor, to make up for the non-visual periods (night and autumn, winter, and spring). Further, individuals are identified using photos, and numbers of individuals (including mother-child pairs) and other population parameters were calculated using methods for population estimation.
-### Updates
-According to the monitoring report from the team led by professor Lien-Siang Chou in National Taiwan University, the number of Indo-Pacific humpback dolphin witnessed in 2018 was 51.
-### Trends
-### Data Management Authorities
-Forestry Bureau, Council of Agriculture, Ocean Conservation Administration
-### Data Source/URL
-Chou et al. 2018, Population Ecology and Estuary Habitat Monitoring for Chinese White Dolphin (Sousa chinensis), sponsored by Forestry Bureau, Council of Agriculture.
+目標12 到 2020 年，防止了已知瀕危物種免遭滅絕，並改善族群數量下滑最嚴重的物種的保育狀況。
+### 發展背景
+中華白海豚學名：*Sousa chinensis*，又俗稱為媽祖魚，棲息在台灣西部沿海，目前數量不滿一百隻。林務局已預告劃設「中華白海豚野生動物重要棲息環境」主要威脅來自於食物來源減少、棲地消失、海洋汙染、水下噪音以及漁業流刺網誤捕。
+### 定義及計算方式
+定期在中華白海豚分布範圍中，依不同水深梯度進行固定航線調查，記錄環境因子與人為活動因子，追蹤其空間分布與棲地利用之動態。在熱區海域使用被動式聲音監測，補足非海上目視時段 (夜間與秋冬春季) 等時空分布出現豐度之變化，並利用照片辨識個體，利用族群估算法追蹤白海豚的個體隻數 (包含母子對數量) 等族群參數變化
+### 資料更新內容
+依據臺灣大學周蓮香老師團隊的監測報告，2018年中華白海豚的目擊個體數為51隻。依據海保署2019年委託之計畫報告，109年25群次的調查中，共辨識出47隻白海豚個體。各年度個體數資料，2008-2018年採用周等2019報告，2019年個體數採用白等2019報告。中華白海豚目擊率資料採用白等2019報告中所做之文獻彙整。
+### 指標趨勢
+### 資料管理/權責單位
+林務局、海保署
+### 資料來源/網站連結
+周蓮香、丁建均、林幸助、孫建平 (2019) 中華白海豚族群生態與河口棲地監測(II)，107年度行政院農業委員會林務局。 白梅玲、連裕益、洪巧芸 (2019) 108年度臺灣西部沿海白海豚族群監測計畫。福爾摩莎自然史資訊有限公司，海洋保育署委託計畫。

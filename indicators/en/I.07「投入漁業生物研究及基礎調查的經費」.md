@@ -22,6 +22,6 @@ No information currently available
 ### Trends
 --
 ### Data Management Authorities
-Fisheries Agency, Council of Agriculture, Ministry of Science and Technology, and Ocean Conservation Administration
+漁業署、科技部、海洋保育署、水試所
 ### Data Source/URL
 --

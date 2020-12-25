@@ -1,0 +1,29 @@
+# II.04「保護區中重要棲地覆蓋率之變化」
+原指標名稱：海洋保護區中的生物多樣性群聚變化、保護區中的海洋生物多樣性群集變化
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+### 內容簡述
+劃設海洋保護區必須落實管理才能發揮成效，評估海洋保護區是否有效管理最根本的評估辦法，是在海洋保護區內定期、定點進行重要生物類群的監測 (如魚類、珊瑚、海草、浮游動物)，調查物種群聚結構變化趨勢，以反映海洋保護區內生物多樣性之變化。
+### 所屬議題
+海洋保護區
+### 指標類別
+狀態( S )
+### 指標對應
+#### SDGs
+14.2 在西元 2020 年以前，以可永續的方式管理及保護海洋與海岸生態，避免重大的不利影響，作法包括強健他們的災後復原能力，並採取復原動作，以實現健康又具有生產力的海洋。
+#### Aichi Biodiversity Targets
+目標11 到 2020 年，至少有 17%的陸地、內陸水域和 10%沿海和海洋區域，尤其是對於生物多樣性和生態系服務具有特殊重要性的區域，因有效而公平的管理，和透過生態上具代表性和妥善關聯的保護區系統和其他以地區為保育基礎的有效措施而受到保護，並納入更廣泛的土地景觀和海洋景觀系統中。
+### 發展背景
+1. The management of marine protected areas (MPA) must be implemented to allow the establishment of MPA to be effective. The most fundamental method to evaluate whether the MPA are effectively managed is to monitor important biomes (such as fish, corals, seagrass, and zooplanktons) at certain sites of the MPA on a regular basis. Surveying the trend of species structure changes in a community can reflect the changes of biodiversity in the MPA.
+2. At present, "Marine Protected Areas" are based on several different legal sources whose laws and regulations, protection targets, goals, funding and manpower are all different. (It is still under debate that) whether different unit should set corresponding indicators for management on long-term monitoring methods to evaluate its management performance.
+### 定義及計算方式
+1.  Select protected areas established by different laws and regulations, set up fixed survey stations or lines, and monitor changes in their community indicators (species composition, abundance and diversity index).
+2.  先以海管處東沙環礁珊瑚覆蓋率和墾丁潮間帶海草覆蓋率，做為指標資料。
+### 資料更新內容
+海洋國家公園管理處所提供之東沙環礁珊瑚覆蓋率，在潟湖內塊礁、南礁台外側、東沙島東等位置的珊瑚覆蓋率 (%)，2018年分別為：30.6、80.6、68.1；2019年分別為：68、80.6、58.8。2019年墾丁海草年平均覆蓋率在南灣高位潮間帶(冬天背風面)為10.9 %，大光高位潮間帶(冬天迎風面)則為9.9%。
+### 資料管理/權責單位
+海保署、漁業署、海洋國家公園管理處、墾丁國家公園管理處、林務局、觀光局、內政部
+### 資料來源/網站連結
+1. 東沙環礁珊瑚覆蓋率資料由海洋國家公園管理處提供。
+2. 墾丁潮間帶海草覆蓋率資料由國立中興大學生命科學系林幸助特聘教授提供。

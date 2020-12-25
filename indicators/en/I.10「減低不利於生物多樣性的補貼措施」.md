@@ -19,9 +19,10 @@ Tracking the trend of various subsidies over years can be a reference for the re
 ### Definition and Calculation
 1. Whether some of the fishery subsidies are beneficial or adverse is still controversial. The majority of the subsidies are for gas and incentives for fishing moratorium.
 2. The gas subsidy data comes from the annual expenditure plan summary and branch plan summary table in the statutory budget of the Fisheries Agency, and the unit is 1,000 yuan.
-3. When reviewing this indicator, it is believed that changes in gas prices will affect the actual amount of gas subsidized each year, so using the amount of gas subsidized as the indicator will be more in line with the actual situation. However, only the amount of subsidy for gas is reported in the Taiwan Fisheries Yearbook and the amount of gas subsidized is not available. Moreover, the mount of subsidy for gas is reported as "The gas price is the preferential price offered by the gas company for first, second and third grade gas, and the difference between the preferential price and actual price paid is subsidized to fisherman for the gas used by fishing boats". Therefore, it is not possible to estimate the amount of gas used by various fishing boats. As a result, the amount of subsidy for gas is used to show the trends of the indicator.
+3. 本項指標檢討時認為，油價變動會影響每年實際補貼的用油量，故應修正改以補貼的用油量會較符合實際狀況。但因漁業統計年報中僅有用油補貼金額，並無補助之用油量；且補助金額係用「以歸墊油品公司代墊之甲種、乙種及丙種漁船油優惠油價補貼款，並補貼漁業人漁船用汽油優惠油價差額」，無法推估各種漁船用油量，故在資料上同時以補助金額及發油量呈現指標趨勢。
 ### Updates
-According to the annual expenditure plan summary and branch plan summary table in the statutory budget of the Fisheries Agency, Council of Agriculture, the subsidy for gas in the 2018 was 1,159,950 thousand yuan.
+依據漁業署法定預算中之歲出計畫提要及分支計畫概況表，民國108年(2019)用油補貼獎補助費為1,320,134千元。 依據漁業署來函之資料，民國108年 (2019) 發油量為54.3萬公秉。
+
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

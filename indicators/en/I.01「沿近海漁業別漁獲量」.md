@@ -2,7 +2,7 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
+### Brief description
 分析各漁業別之漁產量，以監測、管理及淘汰不永續的漁具漁法 (包括鏢旗魚、一支釣、曳繩釣、刺網、巾著網、焚寄網、圍網、扒網、魩鱙、拖網、珊瑚漁業等) 或用漁船噸數分級。上述漁法的排序，越後面的漁法或噸數越大的漁船，捕撈的能力及誤捕的比例越高，愈不符合永續利用的原則。
 
 ### 所屬議題

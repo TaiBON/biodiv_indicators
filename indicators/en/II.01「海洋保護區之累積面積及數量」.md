@@ -1,4 +1,4 @@
-# II.01「海洋保護區之累積面積及數量」
+# The Ratio Of Marine Protected Areas To The Sea Areas Adjacent To Taiwan
 原指標名稱：海洋保護區佔領海水域之面積比、量海洋保護區佔我國鄰接區海域之面積比
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -18,9 +18,9 @@ By 2020, at least 17 percent of terrestrial and inland water, and 10 percent of 
 Marine Protected Areas (MPA) are protected areas of oceans, seas, estuaries, or great lake regions whose natural or cultural resources are usually protected through restricting human activities in a specific form. The definition of Marine Protected Areas of Taiwanese government, according to the official website of the Fisheries Agency, Council of Agriculture, is “areas within a certain range of the average high-water mark extending to the sea, with special natural landscapes, important cultural heritages, and sustainable ecological resources, etc., which must be protected and managed by law or other effective ways"
 ### Definition and Calculation
 1. There are many legal sources for Taiwan's marine protected areas, and the degree of protection is also different. The scope of the calculation (for example, only include the most protected Marine Protected Areas) must be specified before sum up the eligible Marine Protected Areas and deduct the overlapping areas.
-2. 因臺灣的國際地位特殊，目前無法公告200浬經濟海域面積，如依過去計算以12浬領海面積做為計算分母，與國際無法比較。109年9月4日本計畫舉辦之專家諮詢會議，建議修正此項指標僅以面積和數量表示，暫不考慮分母計算的問題。
+2. Due to the special international status of Taiwan, it is not possible to publish the area of the economic sea area within 200 nautical miles. If using the territorial waters within 12 nautical miles as the denominator, it is not comparable with data from other countries. The conclusion of a meeting held at the Ocean Conservation Administration on November 19, 2019 suggested that the denominator should be changed to contiguous zone, from the territorial sea which includes internal waters.
 ### Updates
-依據海保署提供資料，目前(2020) 共45處海洋保護區，面積5264.0933平方公里(不含漁具漁法禁漁區) 。
+According to the information on the website of the Fisheries Agency, Council of Agriculture, as of 2020, there are 45 Marine Protected Areas, and the total area of Taiwan’s Marine Protected Areas (excluding areas for certain fishing gear and fishing method, and specific fishery prohibited areas), was 5264.0933 km^2^.
 ### Data Management Authorities
 Ocean Conservation Administration, Fisheries Agency, Council of Agriculture, National Park Headquarters, Forestry Bureau, Council of Agriculture, Tourism Bureau, and Ministry of the Interior.
 ### Data Source/URL

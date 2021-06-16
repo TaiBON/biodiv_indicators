@@ -18,9 +18,9 @@ Planning marine protected areas (including fishing exclusion zone), improving im
 ### Definition and Calculation
 "Fishing exclusion zone", commonly referred as " no-take area" in other countries, is equivalent to "core area" or "marine reservation area," where no fishing gear or method of any kind is allowed to enter. In Taiwan, areas with restrictions on any fishing gear, fishing method, or fish species are called "no-fishing zone " Therefore, the term "fishing exclusion zone" is used to avoid confusion. To calculate this index, add up the areas of all eligible fishing exclusion zone (or core area of the marine protected area), deduct the overlapping areas, and divide it by the total marine protected area.
 ### Updates
-依據漁業署網站資料，至2018年12月底，禁止進入或影響之海洋保護區總面積為586.2332 km^2^，佔現有海洋保護區總面積比例為1.8942%；禁止採捕之海洋保護區總面積為2974.7439 km^2^，佔現有海洋保護區總面積比例為9.6116%。 依據海保署提供之2020資料，各海洋保護區分區劃設管理不同，共20處海洋保護區劃設為禁止進入分區或禁止採捕區域，面積合計3566.9189平方公里，佔海洋保護區面積比為67.75% (不含漁具漁網禁漁區)。
+According to the information on the website of Fisheries Agency, Council of Agriculture, as of the end of December 2018, the total area of marine protected areas prohibited from entering or being affected was 586.2332 km^2^, accounting for 1.8942% of the total area of existing marine protected areas; the total area of marine protected areas prohibited from harvesting is 2974.7439 km^2^, accounting for 9.6116% of the total area of the existing marine protected areas. According to the data provided by Fisheries Agency, Council of Agriculture in 2020, each marine protected area has different zoning management. A total of 20 marine protected areas are designated as no-entry or no-harvesting areas. The total area is 3566.9189 square kilometers, accounting for 67.75% of the area of the marine protected area. (Excluding forbidden fishing zone).
 ### Trends
-依漁業署網站之公告2018年資料，以及海保署所提供之資料，因需釐清其計算基準，故暫無法畫出指標趨勢圖。
+Based on the data announced on the website of Fisheries Agency, Council of Agriculture in 2018 and the data provided by the Ocean Conservation Administration, there is still needs to clarify the calculation basis, so it is not possible to draw the indicator trend for the time being.
 ### Data Management Authorities
 Ocean Conservation Administration, Fisheries Agency, National Park Headquarters, Forestry Bureau, Tourism Bureau, and Ministry of the Interior.
 ### Data Source/URL

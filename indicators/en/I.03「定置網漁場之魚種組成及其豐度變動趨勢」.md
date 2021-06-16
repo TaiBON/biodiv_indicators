@@ -21,7 +21,7 @@ Variation trends of fish composition and abundance in the set-net fishry grounds
 1. Collect long-term catch data from set-net fishery grounds around Taiwan.
 2. Select five dominant species and calculate their temporal change in the yield of catch (kg), the number of individuals, and the diversity index.
 ### Updates
-依據漁業署所提供之2019年定置網漁業統計資料，正鰹633,713.7公斤、圓花鰹241,267.6公斤、扁花鰹270,647.1公斤、白帶魚491,966公斤、鬼頭刀893,459.4公斤。
+According to the 2019 fixed net fishery statistics provided by Fisheries Agency, Council of Agriculture, there were skipjack tuna (Katsuwonus pelamis) 633,713.7 kg, bullet tuna (Auxis rochei) 241,267.6 kg, frigate tuna (Auxis thazard) 270,647.1 kg, beltfish (Trichiurus lepturus) 491,966 kg, and dolphinfish (Coryphaena hippurus) 893,459.4 kg.
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

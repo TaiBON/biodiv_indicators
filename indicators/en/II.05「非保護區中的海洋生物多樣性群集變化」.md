@@ -3,26 +3,26 @@ Original indicator name: Community changes in marine biodiversity in unprotected
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-若只關注保護區內的監測計畫，恐帕無法實際了解大海域的漁業資源及海洋生物變動。針對臺灣 90% 以上未受完全保護的沿近海海洋生物，監測物種種數、尾數和種類組成的長期變化，再與保護區的資料進行對照，可突顯海洋保護區的重要性。
-### 所屬議題
-海洋保護區
-### 指標類別
-狀態( S )
-### 指標對應
+### Brief description
+If we only focus on the monitoring plan in the protected area, we may not be able to understand the actual changes in fishery resources and marine life in the ocean. For more than 90% of Taiwan’s coastal marine organisms that are not fully protected, monitoring the long-term changes in species number, numbers of individuals in each species, and species composition, and comparing them with the data of protected areas can highlight the importance of marine protected areas.
+### Themes
+Marine Protected Areas
+### PSBR model type
+Status (S)
+### Corresponding targetsCorresponding targets
 #### SDGs
-14.2 在西元 2020 年以前，以可永續的方式管理及保護海洋與海岸生態，避免重大的不利影響，作法包括強健他們的災後復原能力，並採取復原動作，以實現健康又具有生產力的海洋。
+14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans.
 #### Aichi Biodiversity Targets:
-目標11 到 2020 年，至少有 17%的陸地、內陸水域和 10%沿海和海洋區域，尤其是對於生物多樣性和生態系服務具有特殊重要性的區域，因有效而公平的管理，和透過生態上具代表性和妥善關聯的保護區系統和其他以地區為保育基礎的有效措施而受到保護，並納入更廣泛的土地景觀和海洋景觀系統中。
-### 發展背景
-若只關注保護區內的監測計畫，恐帕無法實際了解大海域的漁業資源及海洋生物變動。針對臺灣 90% 以上未受完全保護的沿近海海洋生物，監測物種種數、尾數和種類組成的長期變化，再與保護區的資料進行對照，可突顯海洋保護區的重要性。
-### 定義及計算方式
-就目前仍持續進行監測的海域環境生態影響評估案中(主要為海域工程的環評書)，挑選已累積超過 3~5 年以上的測站資料，進行物種群聚 (浮游生物、魚類及其仔稚魚、底棲生物、鯨豚類等) 的蒐集、整理、分析，以了解我國絕大多數沿近海非保護區內海洋生物多樣性及漁業資源的動態變化，若有詳細資料之物種，則計算其豐度與多樣性指數。
-### 資料更新內容
-建議可用：(1) 陳虹諺老師所發表的台電長期監測資料，(2) 有EcoDiver制度後的ReefCheck資料。
+Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
+### Background
+If we only focus on the monitoring plan in the protected area, we may not be able to understand the actual changes in fishery resources and marine life in the ocean. For more than 90% of Taiwan’s coastal marine organisms that are not fully protected, monitoring the long-term changes in species number, numbers of individuals in each species, and species composition, and comparing them with the data of protected areas can highlight the importance of marine protected areas.
+### Definition and Calculation
+Among the marine environmental and ecological impact evaluations (mainly the environmental evaluations on constructions in sea area) that are still monitoring continuously, the data from the monitoring stations that have accumulated more than 3 to 5 years are selected. We collect, sort, and analyze the data on species community (e. g., plankton, fish &their juveniles, benthic organisms, and cetaceans, etc.) to understand the dynamic changes of marine biodiversity and fishery resources in most inshore and offshore unprotected areas of Taiwan. If detailed information is available on certain species, we calculate its abundance and biodiversity index.
+### Update
+Recommended data source： (1) Long-term monitoring data of Taipower published by assistant professor, Hungyen Chen. (2) The ReefCheck data with EcoDiver system.
 ### Trends
 --
-### 資料管理/權責單位
-海保署、內政部、環境資訊協會、水產試驗所
-### 資料來源/網站連結
-陳昭倫，2019。108年度珊瑚礁生態系調查計畫，中央研究院，海洋保育署委託計畫。
+### Data Management /Authorities
+Ocean Conservation Administration, Ministry of the Interior, Taiwan Environmental Information Association, and Fisheries Research Institute, Council of Agriculture, Executive Yuan.
+### Data Source/URL
+Chaolun Chen, 2019. The 2019 coral reef ecosystem survey project, Academia Sinica, commissioned by the Ocean Conservation Administration (in Chinese).

@@ -11,7 +11,7 @@ Original indicator name: manpower, material resources and funds invested in the 
 回應( R )
 ### 指標對應
 #### SDGs
-14.5 在西元 2020 年以前，依照國家與國際法規，以及可取得的最佳科學資訊，保護至少 10%的海岸與海洋區。
+14.5 Conserve at least 10 per cent of coastal and marine areas in accordance with national and international regulations, and based on the best available scientific information before 2020.
 #### Aichi Biodiversity Targets
 目標11 到 2020 年，至少有 17%的陸地、內陸水域和 10%沿海和海洋區域，尤其是對於生物多樣性和生態系服務具有特殊重要性的區域，因有效而公平的管理，和透過生態上具代表性和妥善關聯的保護區系統和其他以地區為保育基礎的有效措施而受到保護，並納入更廣泛的土地景觀和海洋景觀系統中。
 ### 發展背景

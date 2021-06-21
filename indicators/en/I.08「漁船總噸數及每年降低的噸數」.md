@@ -18,7 +18,7 @@ The total tonnage of fishing vessels and the reduced tonnage each year can refle
 ### Definition and Calculation
 The number of vessels and tonnages with legal licenses issued by Fisheries Agency, Council of Agriculture
 ### Updates
-依據民國108年(2019)漁業統計年報，動力漁船總噸數為554,040,55噸，較前一年降低17,000.02噸。
+According to the Fishery Statistics Annual Report in 2019, the total tonnage of powered fishing vessels was 554,040,55 tons, decreasing 17,000.02 tons from the previous year.
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

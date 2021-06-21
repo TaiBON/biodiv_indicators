@@ -34,7 +34,7 @@ FiB > 0. It may be because the increase in the fish landings in year i is greate
 
 When FiB keeps deviating from the balanced state, especially when FiB keeps decreasing, it is the management methods that are insufficient to maintain fishery resources at a sustainable level. As for a clearer policy direction for improvement, the designs and monitorings in many aspects are needed to be sovled.
 ### Updates
-資料來源為 Sea Around Us中之Region-based Marine Trophic Index of the catch in the waters of Taiwan，過去資料僅到2014年，目前已更新到2016年。 臺灣2016年的漁獲平衡指數(FiB)為2.68。
+The data source is the Region-based Marine Trophic Index of the catch in the waters of Taiwan in Sea Around Us. The previous data was until 2014, and it has been updated to 2016. Taiwan’s average nutritional index (FiB) in 2016 was 2.68.
 ### Trends
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture

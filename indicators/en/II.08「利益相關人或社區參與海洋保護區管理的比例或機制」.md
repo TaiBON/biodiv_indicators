@@ -2,12 +2,12 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-1. 執法人力與強度，以及經費投入等能提升海洋保護區的管理成效。 
-2. 社區或權益人參與海洋保護區的經營管理是海洋保護區可否成功的重要關鍵，因此權責機關應鼓勵其參與的機制及鼓勵措施。 
-### 所屬議題
+### Brief description
+1. Law enforcement manpower and intensity, as well as funding investment, can improve the management effectiveness of marine protected areas.
+2. The participation of communities or rights holders in the operation and management of marine protected areas is an important key to the success of marine protected areas. Therefore, the authorities and responsible agencies should encourage their participation in mechanisms and incentive measures.
+### Themes
 Marine protected areas
-### 指標類別
+### PSBR model type
 Response (R)
 ### 指標對應
 #### SDGs

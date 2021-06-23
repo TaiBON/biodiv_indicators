@@ -17,7 +17,7 @@ Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 
 ### Definition and Calculation
 Count the investment of law enforcement funds and the number of voyages for law enforcement in marine protected areas over the years (regardless of whether there are violations of regulations found during those voyages)
 ### Updates
-目前無可用之資料。 目前海洋保護區之執法工作係由海巡署、漁業署、國家公園警察及縣市政府等單位辦理，惟相關執法工作涵蓋其他管理事項，難以區分該項投入之經費。
+No data is currently available. The Coast Guard Administration, Fisheries Agency, the National Parks Police Corps, and the county and city governments are handled by the marine reserve law enforcement work. However, the relevant law enforcement work includes other management matters, the funding for this investment is difficult to distinguish.
 ### Trends
 --
 ### Data Management Authorities

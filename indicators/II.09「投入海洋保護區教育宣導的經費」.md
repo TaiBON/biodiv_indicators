@@ -2,7 +2,8 @@
 原指標名稱：投入海洋保護區教育宣導的人力、物力及經費
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
+### 內容簡述
+應投入經費與人力以強化海洋保護區之宣導教育，使漁民及一般社會大眾得以了解海洋保護區的功效與重要價值，加強對支持海洋保護區的劃設與落實管理的意願，並提升民眾守法的觀念。
 ### 所屬議題
 海洋保護區
 ### 指標類別

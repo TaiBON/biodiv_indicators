@@ -1,0 +1,27 @@
+# III.07 "Funds invested in marine area and port monitoring and the number of continuous and real-time automatic water quality monitoring equipments or systems"
+Original indicator name: manpower, material resources, funds invested in marine area and port monitoring and the number of continuous and real-time automatic water quality monitoring equipments or systems.
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+### 內容簡述
+海洋汙染日趨嚴重，需要政府與民間單位投入人力、物力、經費進行清除、防治、研究等，提供社會大眾一個健康的海洋環境。 
+### 所屬議題
+海洋污染
+### 指標類別
+回應( R )
+### 指標對應
+14.1 減少各式海洋污染，包括營養鹽及海洋廢棄物。
+#### Aichi Biodiversity Targets
+目標8 到 2020 年，污染，包括優養化，被控制到不危害生態系功能和生物多樣性的範圍。
+### 發展背景
+海洋汙染的防治經常需要花費高額成本與人力，例如2001年希臘籍貨輪阿瑪斯號擱淺事件，共動員了包含國軍以及中油人員21560人次，耗費半年才全數完成。因此，應投入經費與人力以強化海洋污染防治之宣導教育，讓社會大眾得以了解海洋污染的嚴重性，進而支持海洋污染防治的落實管理，提升民眾守法的觀念，以及加強相關緊急應變的演練，以便快速處理汙染，減輕對環境的傷害
+### 定義及計算方式
+統計每年投入海域及港口監測的人力、物力、經費，並設置連續即時自動監測水質儀器或系統之數量，包含新增儀器費用以及維修費
+### 資料更新內容
+海保署109年預算650.4萬元。未有自動連續監測系統，總監測總監測138點，包含海域105點、掩埋場6處共12點、沙灘6處共18點，離岸風機區1處共3點。 地方政府投入海洋污染防治、教育宣導與管理之經費，因該項經費包含海洋廢棄物、海洋污染防治、地方海域水質監測、地方自辦世界海洋日及相關教育宣導等，難以區分。
+### Trends
+--
+### 資料管理/權責單位
+海保署
+### 資料來源/網站連結
+海保署

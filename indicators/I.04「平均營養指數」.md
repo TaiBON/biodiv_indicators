@@ -19,7 +19,8 @@
 ### 定義及計算方式
 以臺灣沿近海漁獲中各海洋生物於特定年度之相對豐度為其營養位階之權數，各自相乘並加總後，得特定年度的平均營養位階，並以此數值的年度變化反映監測對象狀態。如數值趨勢變化為遞減，可能暗示一個國家海洋生態系中的高階消費者正面臨過漁壓力，此即平均營養指數
 ### 資料更新內容
-資料來源為 Sea Around Us中之Region-based Marine Trophic Index of the catch in the waters of Taiwan，資料僅到2014年。
+資料來源為 Sea Around Us中之Region-based Marine Trophic Index of the catch in the waters of Taiwan，過去資料僅到2014年，目前已更新到2016年。
+臺灣2016年的平均營養指數(MTI)為3.72。
 ### 資料管理/權責單位
 漁業署
 ### 資料來源/網站連結

@@ -1,7 +1,8 @@
 # I.05「漁獲平衡指數」
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
+## 內容簡述
+該指標用以衡量漁業在各階層之漁獲量是否均衡。
 ### 所屬議題
 漁業資源
 ### 指標類別
@@ -20,7 +21,7 @@ Pauly 於 2005 年的發表中正式回應此疑慮，表明此情況確有可�
 ### 定義及計算方式
 先訂出基準年，以其漁獲量和 MTI 為比較標準。以數學式表示為： 
 $$
-F_iB=log(Y_i(\frac{1}{TE})^{TL_i}-log(Y_0(\frac{1}{TE})^{TL_0})
+F_iB=log\Big[Y_i\Big(\frac{1}{TE}\Big)^{TL_i}\Big]-log\Big[Y_0(\frac{1}{TE})^{TL_0}\Big]
 $$
 * $Y_i= i$ 年的總漁獲量
 * $Y_0=$ 基準年的總漁獲量
@@ -31,7 +32,7 @@ $$
 
 為幫助讀者理解，我們假設能量轉換率為 0.1，並將其轉成以下形式：
 $$
-FiB_i = log(\frac{Y_i}{Y_0}) + (MTI_i - MTI_0)
+FiB_i = log\Big(\frac{Y_i}{Y_0}\Big) + (MTI_i - MTI_0)
 $$
 設想 i 年的 MTI 較之基準年變化量為 -1（如從 4 降至 3），也就是捕撈對象在食物網中整整下降了一個層級。由於捕撈對象轉至族群量較大的食物網下層，i 年的漁獲量 (Yi) 應大於基準年 (Y0)；若假設能量轉換率可完全反映在生物量變化上，Yi 和 Y0 的差距應該會是 10 倍，兩者相除取對數將得到 1。於是 FiB = 1 + (-1) = 0。值得強調的是，當 i 年的漁獲量、MTI 皆維持在基準年水平，FiB 仍會是 0。若此狀態持續維持，也就是 FiB 始終為 0，即理想的「平衡」或「永續」漁業狀態。
 
@@ -43,7 +44,8 @@ FiB 趨勢的上升、下降有時會被導向純然的「鼓勵多補高階或�
 
 故當 FiB 持續偏離平衡狀態，特別是當 FiB 持續下降，僅是點出現有管理方式不足以讓漁業資源維持在永續經營的水平上。至於政策上更明確的改善方向，需更多層面的設計與監測才可能找到解答。
 ### 資料更新內容
-資料來源為 Sea Around Us中之Region-based Marine Trophic Index of the catch in the waters of Taiwan，資料僅到2014年。
+資料來源為 Sea Around Us中之Region-based Marine Trophic Index of the catch in the waters of Taiwan，過去資料僅到2014年，目前已更新到2016年。
+臺灣2016年的漁獲平衡指數(FiB)為2.68。
 ### 指標趨勢
 ### 資料管理/權責單位
 漁業署

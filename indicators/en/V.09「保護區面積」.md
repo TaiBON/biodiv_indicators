@@ -10,9 +10,10 @@ Response (R)
 ### SDGs
 15.4 By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development
 ### Aichi Biodiversity Targets
-Target 11: By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
+目標11： 到2020年，至少有17 %的陸地、內陸水域和10 %沿海和海洋區域，尤其是對於生物多樣性和生態系服務具有特殊重要性的區域，因有效而公平的管理，和透過生態上具代表性和妥善關聯的保護區系統和其他以地景為保育基礎的有效措施而受到保護，並納入更廣泛的土地景觀和海洋景觀系統中。
 ### Biodiversity Action Plan
-D11030 Review the existing system of protected areas, regularly conduct effectiveness evaluation and management tests, and improve management strategies and publicity of various types of protected areas. Action Plan Performance Indicator:
+D11030檢討現有保護區系統，並定期進行各類保護區成效評估、管考、改善管理策略及廣宣。
+### 行動方案績效指標
 * Complete the planning of the national system of protected areas
 * Number and proportion of various types of protected areas with regular evaluations of management effectiveness
 ## Background
@@ -22,10 +23,10 @@ The total area (size) of terrestrial protected areas is the sum of areas of prot
 ## The data and temporal range
 Annual Report on Nature Protected Areas in Taiwan and Fujian area (2006–2019)
 ## Updates
-According to the latest update by the Nature Conservation Network of the Forestry Bureau, Council of Agriculture, Executive Yuan, there are 95 protected areas including national parks, nature reserves, etc, and the area of terrestrial protected areas is 694,503.27 hectares.
+依據自然保育網資料所示，2020年國家公園等保護區之數量共計96處，其中陸域的面積為694,298.12公頃。相較2019年減少204.95公頃。
 ## Trends
-The area of protected areas has been changing slowly in the past four years, and the boundaries of each protected area have not been adjusted from 2016 to 2019, maintaining a total area of about 6,945 square kilometers.
+自2011年後，保護區面積變動不大，多維持在694千公頃附近，且於2015年後多維持總面積於694.5千公頃。
 ## Data Management Authorities
-Forestry Bureau, Council of Agriculture
+行政院農業委員會林務局
 ## Data sources/URL
-Nature Conservation Network of the Forestry Bureau, Council of Agriculture, Executive Yuan. https://conservation.forest.gov.tw/EN/0001640
+[行政院農業委員會林務局自然保育網](https://conservation.forest.gov.tw/total)

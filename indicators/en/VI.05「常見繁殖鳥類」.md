@@ -10,7 +10,7 @@ State (S)
 ### Aichi Biodiversity Targets
 Target 19: By 2020, knowledge, the science base and technologies relating to biodiversity, its values, functioning, status and trends, and the consequences of its loss, are improved, widely shared and transferred, and applied.
 ### Biodiversity Action Plan
-D12030 Strengthen the research on population changes of indicator animals, plants, and microorganisms. Key performance indicator of the action plan:
+D12030加具指標性之動物、植物、微生物物種族群變化之研究。 行動方案績效指標：
 * Research projects on the change of indicator species
 ## Background
 Birds are a well-known taxon to the public, which has long-term monitoring data and is considered to be an excellent indicator of environmental health. Breeding Bird Survey (BBS) is a large-scale and long-term survey project for common birds. The project incorporates government agencies and non-governmental organizations, through the participation of citizen scientists, to monitor the populations of common birds in Taiwan with the same standardized survey methods. Through the temporal and spatial changes of common bird populations, the relationship between the environment and bird populations is derived which provides important information for management and decision-making.
@@ -27,10 +27,10 @@ Raw data is the survey results on 92 common bird species in Taiwan from differen
 | G     | Buildings                |
 | H     | Others                   |
 ## The data and temporal range
-Annual Tally Data of Common Breeding Birds from Monitoring Projects (2009–2017)
+每年度之常見繁殖鳥類監測統計資料(2009-2019年)
 ## Trends
-According to the trend diagram, from 2017 to 2019, the overall bird population shows a trend of gradual increase. However, the bird species that prefer farmlands within the range of human activity are increasing(, while bird species that prefer natural habitats away from humans are decreasing). The reason would be the degradation of natural habitats due to the expansion of human activities or the invasion of alien species, which changes the ratios of the two types of birds. The actual reason needs further verification via examing the changes in locations and landscapes together with the changes in populations.
+歷年的調查結果均以棲息於農耕地與森林的鳥類數量最多。此外，棲息於建築區的鳥類數量則有逐年增加的趨勢。鳥類豐富度的趨勢變化主要受到使用森林、農耕地與建築區的鳥類數量的影響。農耕地與建築區鳥類數量的增加，可能與都市化程度增加與都市面積擴張有關。
 ## Data Management Authorities
-[Endemic Species Research Institute, Council of Agriculture](https://www.tesri.gov.tw)
+行政院農業委員會特有生物研究保育中心
 ## References
 [Website of Breeding Birds Survey (BBS)](https://sites.google.com/a/birds-tesri.twbbs.org/bbs-taiwan/)

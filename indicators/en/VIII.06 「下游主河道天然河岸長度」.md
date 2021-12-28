@@ -13,7 +13,8 @@ Status (S)
 ### Aichi Biodiversity Targets
 Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 per cent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 ### Biodiversity Action Plan
-D42030 Develop reasonable restoration methods for various ecosystems year by year, and evaluate the effectiveness of natural ecological projects and the survey and monitoring of ecological resources (including rivers and coasts). Action plan performance indicators:
+D42030 逐年發展各類生態系之合理復育方法，及評估自然生態工程之成效與生態資源調查、監測(含河川及海岸)。
+### 行動方案績效指標
 * Number of restoration methods complying with ecological principles in various ecosystems or results of research and evaluation on practicality (of these methods)
 * (Number of cases where biodiversity has been improved)/(Total number of projects with a funding of 50 million or more) and growth rate
 ## Background
@@ -21,9 +22,9 @@ To provide water for human use and protect the safety of residents along the riv
 ## Definition and Calculation
 According to the official summation report of "Existing River Flood Control Facilities" compiled by the Water Resource Agency, Minister of Economic Affairs, the length of the natural riverbank can be obtained by subtracting the length of hydraulic engineering facilities (total length of dikes and revetments) from the total length of the river. All river management offices and county/city governments fill in the information about the rivers under their jurisdiction, such as the length of the main stem, the embankment, and the revetment each year. However, the total length of the main stem river in the report is the length of the main downstream river, excluding tributaries, wild streams, and unmanaged rivers. The length of dikes and revetments includes other areas such as the downstream main stem and tributaries. In addition, there is no distinction between the length of the newly-built and rebuilt dikes and revetments. Therefore, the calculation method is adjusted as follows: Natural riverbank length = (total length of the main stem river + unmanaged river project)-(total length of newly-built dike + total length of newly-built revetment).
 ## The data and temporal range
-Existing river flood control facilities (2001-2019)
+現有河川防洪設施(2001年至2020年)
 ## Updates
-According to the official summation report of the Water Resource Agency, Minister of Economic Affairs, the length of natural riverbanks in the downstream of the mainstem in 2019 was 1,415.89 kilometers, a decrease of approximately 11.58 kilometers compared to 2018.
+依據經濟部水利署公務統計報表資料經計算後，2020年下游主河道的天然河岸長度為1,395.52公里，相較2019年減少約20.36公里，並且已經低於1,400公里。
 ## Trends
 Due to the continuous increase in the length of dikes and revetments, the length of natural riverbanks has decreased year by year. From 2001 to 2019, it decreased by about 348.48 kilometers.
 ## Data Management Authorities

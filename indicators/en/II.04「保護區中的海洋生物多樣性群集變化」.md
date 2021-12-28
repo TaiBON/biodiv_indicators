@@ -1,4 +1,4 @@
-# II.04「保護區中重要棲地覆蓋率之變化」
+# II.04 Changes in coverage of important habitats in protected areas
 原指標名稱：海洋保護區中的生物多樣性群聚變化、保護區中的海洋生物多樣性群集變化
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>

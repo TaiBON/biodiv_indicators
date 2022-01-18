@@ -7,9 +7,9 @@ Original indicator name: pass rate of data from marine environmental water quali
 Regardless of the action plan performance indicators or sustainable development indicators, the marine water quality standards are calculated and presented based on the rate in the past. The annual rate in the past is nearly 100%, showing a slightly loose standard. It is recommended that the water quality standards in our country should be revised based on foreign and the latest research data.
 ### Themes
 Marine pollution
-### PSBR model type
+### PSBR Model Type
 Pressure (P)
-### Corresponding targets
+### Corresponding Targets
 #### SDGs
 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution. 14.1.2 2020 quantitative target: maintain more than 99.5% of the water quality data reaching the standards in 8 of the testing items.
 #### Aichi Biodiversity Targets

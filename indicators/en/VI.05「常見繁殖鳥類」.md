@@ -10,7 +10,8 @@ State (S)
 ### Aichi Biodiversity Targets
 Target 19: By 2020, knowledge, the science base and technologies relating to biodiversity, its values, functioning, status and trends, and the consequences of its loss, are improved, widely shared and transferred, and applied.
 ### Biodiversity Action Plan
-D12030加具指標性之動物、植物、微生物物種族群變化之研究。 行動方案績效指標：
+D12030加具指標性之動物、植物、微生物物種族群變化之研究。
+### 行動方案績效指標
 * Research projects on the change of indicator species
 ## Background
 Birds are a well-known taxon to the public, which has long-term monitoring data and is considered to be an excellent indicator of environmental health. Breeding Bird Survey (BBS) is a large-scale and long-term survey project for common birds. The project incorporates government agencies and non-governmental organizations, through the participation of citizen scientists, to monitor the populations of common birds in Taiwan with the same standardized survey methods. Through the temporal and spatial changes of common bird populations, the relationship between the environment and bird populations is derived which provides important information for management and decision-making.

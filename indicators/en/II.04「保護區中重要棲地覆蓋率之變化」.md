@@ -1,5 +1,5 @@
 # Community changes in marine biodiversity in protected areas
-原指標名稱：海洋保護區中的生物多樣性群聚變化、保護區中的海洋生物多樣性群集變化
+Former Indicator Name：Changes in Biodiversity Clusters in Marine Protected Areas, Changes in Marine Biodiversity Clusters in Protected Areas
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+異質性的棲地可提供更多物種生存的機會，此指標以「指定地區監測」評估棲地健康狀態，若評估狀態顯示為不佳，可促使土地管理者與政府溝通以做出適當回應。
+
 ## 所屬議題
 生態敏感地
 ## 指標類別

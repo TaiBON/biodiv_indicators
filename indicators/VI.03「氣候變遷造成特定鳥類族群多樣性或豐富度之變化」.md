@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+由於鳥類對氣候變化敏感，透過監測鳥類數量與分布變化，可了解氣候變遷對生物多樣性之衝擊。
+
 ### 所屬議題
 選定生物族群數量
 ### 指標類別

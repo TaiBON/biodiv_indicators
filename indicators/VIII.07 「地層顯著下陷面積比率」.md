@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+地層下陷所造成之地面低窪極易遇雨淹水；沿海地區長期積水不退或海水入侵地下水含水層，容易使土地鹽化而導致地力喪失，影響土地價值與利用型態。地層下陷為不可逆之現象，為彰顯各機關地層下陷防治之努力，爰定義顯著下陷面積為評量指標。
+
 ### 所屬議題
 生態敏感地
 ### 指標類別

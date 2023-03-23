@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+在有限的經費、人力下，需要建立一套有效的評估方式，藉此評估系統來了解防治各種入侵種的輕重緩急。
+
 ### 所屬議題
 外來入侵種
 ### 指標類別

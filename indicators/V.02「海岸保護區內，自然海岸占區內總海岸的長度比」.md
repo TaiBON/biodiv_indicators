@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+劃設「沿海保護區」主要是為了保護區域內部重要資源。該指標的建立旨在於進行各項建設計畫時，如土地開發、疏濬排水等是否會影響保護區內的生態環境。
+
 ## 所屬議題
 陸域保護區
 ## 指標類別

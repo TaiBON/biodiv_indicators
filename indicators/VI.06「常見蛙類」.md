@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+蛙類能夠迅速反映各種環境之變化，是重要的環境指標生物。
+
 ### 所屬議題
 選定生物族群數量
 ### 指標類別

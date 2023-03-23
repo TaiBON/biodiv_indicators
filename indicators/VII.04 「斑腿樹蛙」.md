@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+[斑腿樹蛙](http://taibif.tw/zh/namecode/380047)與臺灣原生[布氏樹蛙](http://taibif.tw/zh/namecode/422106)偏好棲地類型相同，一旦入侵後，將與布氏樹蛙及其他本土樹蛙競爭，因此需對其控制與監測 (楊懿如、龔文斌、陳立瑜、陳建志，2014) 。
+
 ### 所屬議題
 外來入侵種
 ### 指標類別

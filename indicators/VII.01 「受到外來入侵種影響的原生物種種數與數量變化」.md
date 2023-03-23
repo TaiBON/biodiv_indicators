@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+外來種除了對經濟造成損害，最直接的影響就是與原物種競爭 (競爭棲地、食物來源等)、排擠或雜交，往往使原生物種的數量降低甚至滅絕。 
+
 ### 所屬議題
 外來入侵種
 ### 指標類別

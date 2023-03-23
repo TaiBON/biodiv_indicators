@@ -1,6 +1,7 @@
 # II.02「完全禁漁區的數目、面積及佔海洋保護區之面積比」
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ### 內容簡述
 劃設海洋保護區 (含完全禁漁區) 並加強落實管理取締，是復育魚類資源最簡單、最經濟、最有效的辦法，因此全球的目標是到 2020 年，全球海洋應有 10% 的海域應劃入海洋保護區的範圍。在國外計算面積比例時多半以專屬經濟區 (Exclusive Economic Zone, EEZ) 為分母，而我國則使用含內水的 12 海浬作分母。
 ### 所屬議題

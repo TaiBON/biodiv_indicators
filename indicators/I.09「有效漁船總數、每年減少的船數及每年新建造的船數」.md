@@ -1,6 +1,7 @@
 # I.09「有效漁船總數、每年減少的船數及每年新建造的船數」
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ### 內容簡述
 過度捕撈應是使漁業資源減少的主要原因之一，如何降低漁獲壓力則應訂定管理及鼓勵措施，來減少漁船船數及噸數。
 ### 所屬議題

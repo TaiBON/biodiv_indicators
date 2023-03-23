@@ -2,6 +2,7 @@
 原指標名稱：非保護區內海洋生物多樣性變化之群聚資料
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ### 內容簡述
 若只關注保護區內的監測計畫，恐帕無法實際了解大海域的漁業資源及海洋生物變動。針對臺灣 90% 以上未受完全保護的沿近海海洋生物，監測物種種數、尾數和種類組成的長期變化，再與保護區的資料進行對照，可突顯海洋保護區的重要性。
 ### 所屬議題

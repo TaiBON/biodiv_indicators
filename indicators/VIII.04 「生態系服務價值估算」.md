@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+若生態系統服務與其價值未被量化，同時人們從商品中獲得利益時，常會忽略或低估這些價值，導致生物多樣性流失而不自覺。因此將該指標估算在保護區內，估算保護區提供之生態系統服務價值。 
+
 ### 所屬議題
 生態敏感地
 ### 指標類別

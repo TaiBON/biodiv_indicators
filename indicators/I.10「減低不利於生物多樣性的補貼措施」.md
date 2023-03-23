@@ -2,6 +2,7 @@
 原指標名稱：不利於生物多樣性的補貼措施，並減低負面的影響
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ### 內容簡述
 取消不利於生物多樣性及漁業永續的負面補貼，或增加有利的正面補貼，均將有助於漁業資源的復育。此項工作已被列入聯合國永續發展目標 14，及愛知目標 3 中，因此各國政府均需積極檢討與改善漁業補貼政策對維護漁業資源之成效。 
 ### 所屬議題

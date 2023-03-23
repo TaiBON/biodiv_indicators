@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+保護區的設立不必然代表區內的物種獲得充足的保護，評估保護區是否具有經營成效是非常必要的。
+
 ### 所屬議題
 陸域保護區
 ### 指標類別

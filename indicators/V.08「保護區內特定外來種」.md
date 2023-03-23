@@ -2,6 +2,8 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+透過監測保護區內特定外來物種，了解其分布現況、繁殖及棲地利用，以進行控制。
 
 ## 所屬議題
 陸域保護區

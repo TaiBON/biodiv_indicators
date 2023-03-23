@@ -3,6 +3,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+保護區可為生物多樣性保護與永續發展提供多種益處。部分保護區如國家公園與自然保護區等可以申請進入核心區。透過控管申請人數，以合理管理遊客之旅遊活動，並提倡發展保護區生態旅遊。
+
 ### 所屬議題
 陸域保護區
 ### 指標類別

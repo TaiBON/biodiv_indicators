@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+高山生態系統具有對溫度上升敏、全球範圍內均有分布的陸地生物地理單元、較無土地利用及人為活動干擾等之優點，因此高山植群適合用以偵測氣候變遷之衝擊。
+
 ### 所屬議題
 選定生物族群數量
 ### 指標類別

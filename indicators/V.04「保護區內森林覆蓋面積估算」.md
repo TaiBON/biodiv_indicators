@@ -3,6 +3,11 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+森林不只是樹木，森林是確保糧食安全、改善民生的根本所在。[聯合國糧農組織](http://www.fao.org/home/zh/) (Food and Agriculture Organization, FAO) 自 1946 以每 5 - 10 年進行一次全球性的[森林資源評估](http://www.fao.org/forest-resources-assessment/zh/) (Global Forest Resources Assessment, FRA)。
+
+近百年來人類活動頻繁，造成森林生態環境上極大的衝擊亦影響人類發展，如每年加劇的天災、森林面積減少以致無法有效淨化空氣及水質等，因此森林的面積變化逐漸成為生態保育上重要的議題之一，除此之外亦可做為土地開發壓力的指標。 
+
 ## 所屬議題
 陸域保護區
 ## 指標類別

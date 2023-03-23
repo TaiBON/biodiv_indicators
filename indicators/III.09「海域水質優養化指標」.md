@@ -26,7 +26,7 @@ NSF-WQI指標。九項參數分別為溶氧、大腸桿菌群、pH、生化需�
 2019年EI=5.00，屬於壞(Bad)的狀態。
 National Coastal Condition Report, NCCR分級評估，DO及Chl.a屬於好(Good)的狀態，而DIN及DIP則屬於普通(Fair)的狀態。
 ### 指標趨勢
---
+--(指標品質改進中，暫不公開)
 ### 資料管理/權責單位
 海保署
 ### 資料來源/網站連結

@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+內政部利用衛星影像資料，每年定期辦理海岸線監測，奉行政院核定之「永續海岸整體發展方案」維持天然海岸比例不再降低之精神。
+
 ### 所屬議題
 Sensitive habitats
 ### 指標類別

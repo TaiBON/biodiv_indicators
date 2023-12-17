@@ -1,5 +1,5 @@
 # The Ratio Of Marine Protected Areas To The Sea Areas Adjacent To Taiwan
-原指標名稱：海洋保護區佔領海水域之面積比、量海洋保護區佔我國鄰接區海域之面積比
+原指標名稱：海洋保護區佔領海水域之面積比、海洋保護區佔我國鄰接區海域之面積比
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

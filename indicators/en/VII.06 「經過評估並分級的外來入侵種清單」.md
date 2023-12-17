@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+在有限的經費、人力下，需要建立一套有效的評估方式，藉此評估系統來了解防治各種入侵種的輕重緩急。
+
 ### 所屬議題
 Invasive species
 ### 指標類別
@@ -27,8 +30,7 @@ Carry out a risk assessment on foreign invasive species, and establish a list of
 ### 資料更新內容
 2004年公布「優先防止、長期管理、觀察、監測或評估中之21種入侵種生物清單」，內容包含紅火蟻、小花蔓澤蘭等。預計於2020-2022年將「建立適用臺灣地區特定外來入侵種之評估系統與清單」內各管理單位彙整之43種入侵種清單進行管理對策評估，目前已評估19種。
 ### 指標趨勢
---
-(目前僅有2004年「優先防治、長期管理、觀察、監測或評估中之21種入侵種生物清單」，至2018年皆未再更新，至2020年修改清單為43種待評估管理對策之入侵種清單)
+--(目前僅有2004年「優先防治、長期管理、觀察、監測或評估中之21種入侵種生物清單」，至2018年皆未再更新，至2020年修改清單為43種待評估管理對策之入侵種清單)
 ### 資料管理/權責單位
 Forestry Bureau, Council of Agriculture
 ### 資料來源/網站連結

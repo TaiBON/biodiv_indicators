@@ -2,34 +2,33 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-## Themes
+### 所屬議題
 Invasive species
-## PSBR model type
+### 指標類別
 Pressure (P)
-## Corresponding targets
-### SDGs
+### 指標對應
+#### SDGs
 15.8 By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species.
-### Aichi Biodiversity Targets
+#### 愛知目標
 Target 9: By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
-### Biodiversity Action Plan
+#### 生物多樣性行動方案
 D41050 Prevention of invasive species:
 1. Develop an emergency eradication plan for new invasive species and conduct regular drills with local governments.
 2. Establish a long-term control plan for invasive species to minimize the economic loss and ecological impact caused by invasive species.
-
-Key performance indicator of the action plan:
+#### 行動方案績效指標：
 * Number of existing invasive species, affected areas, and eradication cases handled/executed in the invasive species control plan.
 * The reduction rate of distribution range/number of existing invasive species. The reduction in the number of individuals of existing invasive species.
-## Background
-The growth and spread of *Mikania micrantha* is extremely fast, which can ravage the lowland and foothills throughout Taiwan in a short time, resulting in serious damage to farmlands, orchards, artificial and shelter forests, causing severe losses at social and economic levels. It is necessary to monitor and control its growth and spread.
-## Definition and Calculation
-Changes in the area covered by *Mikania micrantha*. Endemic Species Research Institute, Council of Agriculture conducts the monitoring project of *Mikania micrantha* and request corresponding agencies of each county and city to report coverage area of *Mikania micrantha*, and then the Forest Bureau compiled the statistics of "Alien plant species coverage of Taiwan and Fujian areas—*Mikania micrantha*" before the end of next May.
-## The data and temporal range
-Covered area of *Mikania micrantha* (2005–2018)
-## Updates
-According to the data of 2018, the coverage area of *Mikania micrantha* in Taiwan's communal and private forests, national forests and aboriginal reserves is 4,948.69 hectares.
-## Trends
-- (Currently not available, because the data collection method will be improved as well as the quality of the data)
-## Data Management Authorities
-[Endemic Species Research Institute](https://www.tesri.gov.tw)
-## References
-Agricultural statistics published by the Council of Agriculture: Alien plant species coverage of Taiwan and Fujian areas—*Mikania micrantha*
+### 發展背景
+小花蔓澤蘭蔓莖的生長速度極快，可在短時間內肆虐全島平地及低海拔山區，導致農地、果園、人工林及保安林等受到相當危害，造成社會及經濟層面的重大損失，因此需要加以監測並防治。
+### 定義及計算方式
+小花蔓澤蘭覆蓋面積之變動。小花蔓澤蘭監測是由行政院農委會特有生物研究保育中心，函請各縣市政府的相關單位填報防治小花蔓澤蘭時的覆蓋面積，再由行政院農委會林務局於次年五月底前編製「臺閩地區外來植物物種覆蓋率─小花蔓澤蘭」統計表。
+### 現有資料內容及所跨年度
+小花蔓澤蘭覆蓋面積(2005-2021年)
+### 資料更新內容
+2021年小花蔓澤蘭在全臺灣農地、公私有林地、國有林地及原住民保留地的覆蓋面積為3392.11 公頃。
+### 指標趨勢
+-- (暫不對外提供，因資料收集方法將改進，以提高資料品質)
+### 資料管理/權責單位
+行政院農業委員會特有生物研究保育中心
+### 參考資訊
+* 行政院農委會所公布之農業統計資料：臺閩地區外來植物物種覆蓋率─小花蔓澤蘭 https://agrstat.coa.gov.tw/sdweb/public/official/OfficialInformation.aspx

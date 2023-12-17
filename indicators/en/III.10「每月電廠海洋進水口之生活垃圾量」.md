@@ -1,5 +1,8 @@
 # III.10「每月電廠海洋進水口之生活垃圾量」
 
+### 內容簡述
+海洋垃圾常用定義為「遭人為丟棄、處置或不慎遺棄之任何物體，進入海岸或海洋環境者」，本指標蒐集各電廠提供之廢棄物資料，配合廢棄物實際登錄量，計算單位溫排水量之生活垃圾。
+
 ### Themes
 Marine pollution
 ### PSBR model type
@@ -17,8 +20,8 @@ Target 8 By 2020, pollution, including from excess nutrients, has been brought t
 3.  興達電廠分為汽力及複循環兩種機組，計算上是將兩種機組的每月生活垃圾量相加，除以兩種機組每月的溫排水量相加。
 ### Updates
 According to the information provided by Datan power plant and Hsinta Power Plant, there are seven records from June to December 2019, and the monthly domestic waste volume/warm water discharge volume (g/1,000 tons) are: Datan Power Plant: 58.2 (June), 94.6 (July), 25.4 (September), 70.3 (October), 60.9 (November), 139.5 (December) Hsinta Power Plant: 5.4 (June), 6.5 (July), 5.8 (August), 0 (September), 3.4 (November), 1.8 (December).
-Trends
---
+### 指標趨勢
+--(資料品質改進中，暫不公開)
 ### Data Management Authorities
 Taiwan Power Company
 ### Data Source/URL

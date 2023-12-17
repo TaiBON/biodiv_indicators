@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+海洋旗艦種、護傘種、瀕危種與重要經濟等物種具相當重要的生態地位，應予以優先監測與保育。
+
 ### Themes
 Abundance trends of selected taxa
 ### PSBR model type
@@ -15,9 +18,9 @@ The bycatch of small species of toothed whales (*Odontoceti*) has long been one 
 Establish a basic value for the number of common cetacean species in the sea areas around Taiwan, and use the life history parameters of the population to estimate data like its mortality and age composition, etc.. Obtain fishery data such as fishing boat effort, operating range, and type of operations at major fishing ports, establish a marine bycatch data feedback system (APP or security check station for report), estimate the bycatch rate of various species and the temporal and spatial distribution of main fishing method that causes bycatch. Estimate the impact of bycatch on the cetacean population and use PBR and bycatch rate in the population survival model to calculate the impact of different bycatch mortality on different species so that mitigation measures and conservation strategies can be developed.
 ### Updates
 No data currently available
-### Trends
---
+### 指標趨勢
+（暫無）
 ### Data Management Authorities
 Fisheries Agency, Ocean Conservation Administration
-### Data Source/URL
---
+### 資料來源/網站連結
+（暫無）

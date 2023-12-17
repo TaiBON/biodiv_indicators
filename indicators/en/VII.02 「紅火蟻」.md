@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+透過監測了解紅火蟻的分布現況、繁殖及棲地利用，探討對原生物種帶來的影響以進行控制與監測。
+
 ### 所屬議題
 Invasive species
 ### 指標類別

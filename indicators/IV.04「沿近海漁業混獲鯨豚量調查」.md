@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+海洋旗艦種、護傘種、瀕危種與重要經濟等物種具相當重要的生態地位，應予以優先監測與保育。
+
 ### 所屬議題
 選定物種豐度變化趨勢
 ### 指標類別
@@ -19,8 +22,8 @@
 ### 資料更新內容
 目前無可用之資料
 ### 指標趨勢
---
+（暫無）
 ### 資料管理/權責單位
 漁業署、海保署
 ### 資料來源/網站連結
---
+（暫無）

@@ -1,6 +1,7 @@
 # I.07「投入漁業生物研究及基礎調查的經費」
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ### 內容簡述
 特定魚種漁業生物學的基礎研究，或特定魚種、漁法漁業之資源評估是漁業資源管理的重要依據，也是臺灣參與區域性漁業管理國際組織協商 (Regional Fisheries Management Organizations, RFMOs) 可提供漁獲額度所需的資料，因此應持續投入漁業生物研究及基礎調查的經費。 
 ### 所屬議題
@@ -22,8 +23,8 @@
 ### 資料更新內容
 目前無可用之資料
 ### 指標趨勢
---
+（暫無）
 ### 資料管理/權責單位
 漁業署、科技部、海洋保育署、水試所
 ### 資料來源/網站連結
---
+（暫無）

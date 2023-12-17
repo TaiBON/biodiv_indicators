@@ -1,6 +1,7 @@
 # I.03「定置網漁場之魚種組成及其豐度變動趨勢」
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ### 內容簡述
 設置於台灣周邊沿岸海域的定置網，其漁獲種類組成及其豐度之時空變化，應可作為臺灣沿岸中表層洄游習性漁業資源變遷的重要指標之一。
 

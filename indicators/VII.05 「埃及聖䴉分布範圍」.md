@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+埃及聖䴉自1984年首次觀測紀錄後，至今族群數量爆發，已威脅到本土鳥類。本指標在於監測外來鳥種在野外建立族群數量，以降低危害本土原生種的機率。
+
 ### 所屬議題
 外來入侵種
 ### 指標類別

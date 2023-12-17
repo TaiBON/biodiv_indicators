@@ -2,6 +2,7 @@
 原指標名稱：海域環境水質監測數據的合格率與海洋環境品質達甲類及乙類標準的河口數量
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ### 內容簡述
 不論是行動方案績效指標或永續發展指標，其海洋水質標準皆是以合格率去計算呈現，每年合格率近 100%，標準略顯寬鬆，建議應依據國外及最新研究資料來修正我國海域甲類、乙類水質標準。
 ### 所屬議題

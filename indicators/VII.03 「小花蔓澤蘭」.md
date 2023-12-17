@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+小花蔓澤蘭蔓莖的生長速度極快，可在短時間內肆虐全島平地及低海拔山區，導致農地、果園、人工林及保安林等受到相當危害，造成社會及經濟層面的重大損失，因此需要加以監測並防治 (黃士元、葉素春、彭仁傑，2004)。 
+
 ### 所屬議題
 外來入侵種
 ### 指標類別

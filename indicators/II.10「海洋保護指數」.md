@@ -1,5 +1,8 @@
 # II.10「海洋保護指數」
 
+### 內容簡述
+海洋保護區指數（MPA index）著重在如何對保護區管理的強度予以分級與量化，可協助判斷漁業各項活動的強度情況。
+
 ### 所屬議題
 海洋保護區
 ### 指標類別
@@ -16,14 +19,14 @@
 ### 定義及計算方式
 「海洋保護區指標」有別於IUCN傳統的六大類型的分類系統，將保護區劃分為八級
 分區的等級 (Zone classification)：
-1. 禁漁/禁入（no-take/no-go) 
-2. 禁漁/管制進入（no-take/regulated access) 
-3. 禁漁/未管制進入（no-take/unregulated access) 
-4. 高度監管的漁撈（Highly regulated extraction) 
-5. 中度監管的漁撈（Moderately regulated extraction)
-6. 低度監管的漁撈（Weakly  regulated extraction) 
-7. 非常低度監管的漁撈（very weakly regulated extraction)
-8. 未管理的漁撈（unregulated extraction)
+1. 禁漁/禁入（no-take/no-go）
+2. 禁漁/管制進入（no-take/regulated access）
+3. 禁漁/未管制進入（no-take/unregulated access）
+4. 高度監管的漁撈（Highly regulated extraction）
+5. 中度監管的漁撈（Moderately regulated extraction）
+6. 低度監管的漁撈（Weakly  regulated extraction）
+7. 非常低度監管的漁撈（very weakly regulated extraction）
+8. 未管理的漁撈（unregulated extraction）
 
 分1-8級的判斷方法，依據判別樹(A decision tree)來作評分及判別，共考慮四個面向：漁具漁法的種類、水產養殖或底層開發的指數、娛樂漁法使用的指數，及漁船可否進入及拋錨等，針對每個面向有其詳細之計分標準。
 $$
@@ -37,8 +40,8 @@ $A_{MPA}=$ MPA的總面積
 ### 資料更新內容
 目前無可用之資料
 ### 指標趨勢
---
+--(指標品質改進中，暫不公開)
 ### 資料管理/權責單位
 海保署、漁業署、國家公園管理處、縣市政府
 ### 資料來源/網站連結
---
+--(指標品質改進中，暫不公開)

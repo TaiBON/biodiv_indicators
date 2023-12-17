@@ -2,6 +2,8 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+非法採獵包括非法的野生動物捕獵及植物採集，是目前全球生物多樣性保護的主要威脅。
 
 ### 所屬議題
 陸域保護區

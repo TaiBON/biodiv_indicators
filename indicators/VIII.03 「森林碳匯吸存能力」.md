@@ -2,6 +2,10 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+聯合國氣候變化政府間專家委員會 (Intergovernmental Panel on Climate Change，IPCC) 於 1997 年將土地利用、土地利用變化及林業 (Land Use, Land Use Change and Forestry，LULUCF) 納入修訂版國家溫室氣體排放清冊指南 (IPCC Guidelines for National Greenhouse Gas Inventories)，其中 LULUCF 就 1990 年後土地利用、森林及其他木質生物蓄積量的改變，造成碳排放及碳移除量進行估算。
+
+由於臺灣區域計畫法、森林法對於林業用地變更以及森林伐採均已訂有相關規範，且自 1992 年起即實施禁伐天然林政策，至林地變更為其他使用之情形極少，因此可藉行政院農業委員會林務局第三次全國森林資源調查成果之林型面積，以及林業統計每年新植造林、伐採、薪材收穫及干擾等相關數據估算，透過森林地含碳量的改變了解該生態系之健康狀況 (環保署，2016) 。
 
 ### 所屬議題
 生態敏感地

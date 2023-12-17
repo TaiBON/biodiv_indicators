@@ -1,6 +1,7 @@
 # III.03「海灘水質檢驗項目參數值變化」
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ### 內容簡述
 根據許多人體健康與環境衛生的相關研究顯示，海灘遊憩地區水質污染對人體健康的風險來源主要為皮膚接觸以及口腔攝入致病微生物所造成。然而，海灘水質遭受大量細菌等微生物污染的原因，主要是大雨沖刷造成垃圾及地面污水污染、糞便污染及下水道排水溢流污染等，尤其在颱風或暴雨過後水質較差，因此不建議民眾下水遊憩。
 

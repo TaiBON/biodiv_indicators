@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+透過國土利用監測達到土地永續使用的目的。
+
 ### 所屬議題
 生態敏感地
 ### 指標類別

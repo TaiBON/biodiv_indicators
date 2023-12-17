@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+透過紅皮書名錄的成果讓我們更清楚瞭解國家內生物受到威脅的狀態、程度、原因及變化趨勢。
+
 ### 所屬議題
 選定生物族群數量
 ### 指標類別

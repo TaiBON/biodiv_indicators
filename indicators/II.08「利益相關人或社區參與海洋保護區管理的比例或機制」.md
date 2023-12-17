@@ -1,6 +1,7 @@
 # II.08「利益相關人或社區參與海洋保護區管理的比例或機制」
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ### 內容簡述
 1. 執法人力與強度，以及經費投入等能提升海洋保護區的管理成效。 
 2. 社區或權益人參與海洋保護區的經營管理是海洋保護區可否成功的重要關鍵，因此權責機關應鼓勵其參與的機制及鼓勵措施。 

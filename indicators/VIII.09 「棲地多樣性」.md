@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+異質性的棲地可提供更多物種生存的機會，此指標以「指定地區監測」評估棲地健康狀態，若評估狀態顯示為不佳，可促使土地管理者與政府溝通以做出適當回應。
+
 ## 所屬議題
 生態敏感地
 ## 指標類別
@@ -31,7 +34,7 @@
 部分已瓦解 (Partially Destroyed)|地區內有些自然特色消失，且未能有恢復的一線生機
 徹底瓦解 (Totally Destroyed)|地區內的自然特色完全消失，且無法恢復
 ## 現有資料內容及所跨年度
---
+--(資料品質改進中，暫不公開)
 ## 指標趨勢
 --(特生中心發展新方法學中)
 ## 資料管理/權責單位

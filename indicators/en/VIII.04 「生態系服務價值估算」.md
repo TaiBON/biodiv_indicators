@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+若生態系統服務與其價值未被量化，同時人們從商品中獲得利益時，常會忽略或低估這些價值，導致生物多樣性流失而不自覺。因此將該指標估算在保護區內，估算保護區提供之生態系統服務價值。
+
 ### 所屬議題
 Sensitive habitats
 ### 指標類別
@@ -24,7 +27,7 @@ The value of ecosystem services refers to the evaluation of the benefits by fina
 * "Carbon sequestration, alternative to fossil fuels": In China, the forest net growth weight per unit area is multiplied by the forest area to obtain forest production which is multiplied by 1.63 to obtain the weight of carbon dioxide fixation. The result is then multiplied by 27.27% to obtain the weight of tree carbon fixation. The weight of forest carbon dioxide fixation is the sum of the weights of trees and soil carbon fixation. Finally, the Swedish carbon tax price is used as the alternative cost.
 * "Forest recreation": UK uses the expenses incurred in the natural environment and the expenses incurred during the visit, including fuel, public transportion fees, entrance fees and parking fees.
 ### 現有資料內容及所跨年度
---
+--(資料品質改進中，暫不公開資料內容)
 ### 指標趨勢
 --(New methodology will be developed)
 ### 資料管理/權責單位

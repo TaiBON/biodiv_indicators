@@ -2,12 +2,15 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+蛙類能夠迅速反映各種環境之變化，是重要的環境指標生物。
+
 ### 所屬議題
 Population of selected taxa
 ### 指標類別
 State (S)
 ### 指標對應
-#### 愛知目標
+#### Aichi Biodiversity Targets
 Target 19: By 2020, knowledge, the science base and technologies relating to biodiversity, its values, functioning, status and trends, and the consequences of its loss, are improved, widely shared and transferred, and applied.
 #### 生物多樣性行動方案
 D12030 加強具指標性之動物、植物、微生物物種族群變化之研究。

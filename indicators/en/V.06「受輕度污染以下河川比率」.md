@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+為確保水資源清潔及河川生態體系不受污染，河川嚴重污染長度及比率越小越好，河川未 (稍) 受污染長度及比率則越大越好。
+
 ### 所屬議題
 Terrestrial protected areas
 ### 指標類別

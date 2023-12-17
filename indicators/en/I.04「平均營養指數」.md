@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+平均營養指數可用來監測臺灣沿近海是否存在捕撈壓力過大，導致漁獲物中，低階消費者比例提高的情形。
+
 ### Themes
 Fishery resources
 ### PSBR model type

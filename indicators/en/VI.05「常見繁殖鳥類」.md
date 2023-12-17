@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+鳥類族群指標是一般大眾所熟習的物種，且被認為是一種絕佳的環境健康反映指標。
+
 ### 所屬議題
 Population of selected taxa
 ### 指標類別

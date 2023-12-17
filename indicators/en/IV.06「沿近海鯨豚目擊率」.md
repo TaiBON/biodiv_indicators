@@ -3,6 +3,9 @@ Original indicator name: The population size of cetaceans in inshorel and offsho
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+海洋旗艦種、護傘種、瀕危種與重要經濟等物種具相當重要的生態地位，應予以優先監測與保育。
+
 ### Themes
 Abundance trends of selected taxa
 ### PSBR model type

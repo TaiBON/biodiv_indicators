@@ -1,5 +1,8 @@
 # III.09 "Marine Water Quality and Eutrophication Indicator"
 
+### 內容簡述
+水質指標WQI是將數種水質監測數據彙整成單一指標的方法，本指標以海岸優養化評估所發展出來的優養化指標EI(Eutrophication Index)計算，其指標參數包含浮游藻類葉綠素a濃度、氨氮濃度、硝酸態氮濃度、亞硝酸態氮濃度、磷酸鹽濃度等5項。
+
 ### Themes
 Marine pollution
 ### PSBR model type
@@ -15,8 +18,8 @@ Target 8 By 2020, pollution, including from excess nutrients, has been brought t
 NSF-WQI: The nine parameters are dissolved oxygen, fecal coliform density, pH, biochemical oxygen demand, nitrates, total phosphates, changes of temperature from equilibrium, turbidity, and total solids (TS). Many scholars in Taiwan also refer to the NSF-WQI to establish a number of different WQI. The WQI and its corresponding water quality analytes used here are yet to be determined.
 ### Updates
 2019年EI=5.00，屬於壞(Bad)的狀態。 National Coastal Condition Report, NCCR分級評估，DO及Chl.a屬於好(Good)的狀態，而DIN及DIP則屬於普通(Fair)的狀態。
-### Trends
---
+### 指標趨勢
+--(指標品質改進中，暫不公開)
 ### Data Management Authorities
 Ocean Conservation Administration
 ### 資料來源/網站連結

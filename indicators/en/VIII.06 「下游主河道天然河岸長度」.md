@@ -3,6 +3,9 @@ Original indicator name: Length of Natural Riverbank
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+重視保護天然河岸帶的生態與防洪功能。
+
 ### 所屬議題
 Sensitive habitats
 ### 指標類別

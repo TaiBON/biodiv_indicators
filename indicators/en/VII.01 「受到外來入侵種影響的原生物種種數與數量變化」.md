@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+外來種除了對經濟造成損害，最直接的影響就是與原物種競爭 (競爭棲地、食物來源等)、排擠或雜交，往往使原生物種的數量降低甚至滅絕。 
+
 ### 所屬議題
 Invasive species
 ### 指標類別
@@ -23,9 +26,9 @@ D41050 Prevention of invasive species:
 ### 定義及計算方式
 本地生態系會受外來入侵種影響，導致原生種種數及數量減少。以外來入侵種的入侵年作為基年，統計受影響原生種之種數及數量變化。
 ### 現有資料內容及所跨年度
---
+（暫無）
 ### 指標趨勢
---
+（暫無）
 ### 資料管理/權責單位
 行政院農業委員會林務局、行政院農業委員會動植物防疫檢疫局
 ### 參考資訊

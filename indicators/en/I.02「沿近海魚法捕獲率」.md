@@ -3,6 +3,9 @@ Orignal name of the indicator: Catch per unit effort (CPUE) of offshore and insh
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+選定數種代表各營養階層之物種，求其單位努力漁獲量，以了解並評估沿近海漁業資源之變化趨勢，制定相關漁業管理措施，期望能達到合理的資源開發與永續利用。 
+
 ### Themes
 Fishery resources
 ### PSBR model type
@@ -18,9 +21,9 @@ The ratio of "yield of catch" to "working time (effort)"is called Catch Per Unit
 To estimate the catch rate, specific area (space), time (year, month, day), and representative fishing gears/methods are first set, then the data of VDR is used, which is calculated as nautical operation time－sailing time ＝ operation time, in combination with the capture data of various fishing gears and methods reported by each port.
 ### Updates
 No data currently available
-Trends
---
+### 指標趨勢
+（暫無）
 ### Data Management /Authorities
 Fisheries Agency, Council of Agriculture
-Data Source/URL
---
+### 資料來源/網站連結
+（暫無）

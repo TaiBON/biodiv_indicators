@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+以每年臺灣陸域保護區面積反映臺灣陸域生態系受到法定公告劃設的保護區範圍以及核心區面積為指標。
+
 ### 所屬議題
 Terrestrial protected areas
 ### 指標類別

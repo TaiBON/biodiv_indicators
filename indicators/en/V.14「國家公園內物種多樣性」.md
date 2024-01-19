@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+反映國家公園內物種整體的狀況是變好或變差，各保護區可依照各自物種組成特性決定監測的物種。
+
 ### 所屬議題
 陸域保護區
 ### 指標類別

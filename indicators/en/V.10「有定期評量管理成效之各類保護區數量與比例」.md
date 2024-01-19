@@ -2,6 +2,9 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+### 內容簡述
+保護區的設立不必然代表區內的物種獲得充足的保護，評估保護區是否具有經營成效是非常必要的。
+
 ### 所屬議題
 Terrestrial protected areas
 ### 指標類別
@@ -21,9 +24,9 @@ The establishment of evalution criteria is an important tool to assist decision-
 ### 定義及計算方式
 The number of various protected areas with regular evaluations on management effectiveness, and its ratio to the total number of protected areas in Taiwan. Calculate the number and proportion of protected areas with regular evaluations on management effectiveness each year. The evaluation on management effectiveness is based on the evaluation framework established by the World Commission on Protected Areas (WCPA), with the management cycle as the center. Stakehoders (e.g., manager of the protected area and decision-maker) form an evaluation team to perform the evaluation in an interactive workshop, and finally use a questionnaire to show the management efficiency of the protected area.
 ### 現有資料內容及所跨年度
---
+（暫無）
 ### 指標趨勢
---
+（暫無）
 ### 資料管理/權責單位
 內政部營建署國家公園組、行政院農業委員會林務局
 ### 參考資訊

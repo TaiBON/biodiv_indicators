@@ -1,5 +1,8 @@
 # II.15 Investing in the Management of Marine Protected Areas
 
+### 內容簡述
+投入調查研究、監測、執法及教育宣導的人力、物力與經費，才能取得足夠的科學數據，來證明海洋保護區的成效，讓產、官、學各界、漁民及一般社會大眾得以了解海洋保護區的重要性，進而願意支持海洋保護區的劃設與落實管理。
+
 ### Themes
 Marine protected areas
 ### PSBR Model Type

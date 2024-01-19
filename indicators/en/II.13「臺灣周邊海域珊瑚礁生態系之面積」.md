@@ -1,5 +1,8 @@
 # II.13 Area of Coral Reef Ecosystem in Waters Around Taiwan
 
+### 內容簡述
+珊瑚礁敏感生態系極具重要生態功能與價值，能反映海洋與海岸變遷之指標，應清楚劃分其面積大小並長期監測面積變化。
+
 ### Themes
 Marine protected areas
 ### PSBR Model Type
@@ -14,8 +17,8 @@ Sensitive marine ecosystems such as coral reefs, algae reefs, seagrass beds, man
 ### Definition and Calculation
 The total area of the coral reef ecosystems in the surrounding waters of Taiwan.
 ### Updates
-None
+（暫無）
 ### Data Management Authorities
 Marine National Park Headquarters, Ocean Conservation Administration
 ### Data Source/URL
-Not available now
+（暫無）

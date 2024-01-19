@@ -20,8 +20,8 @@ If we only focus on the monitoring plan in the protected area, we may not be abl
 Among the marine environmental and ecological impact evaluations (mainly the environmental evaluations on constructions in sea area) that are still monitoring continuously, the data from the monitoring stations that have accumulated more than 3 to 5 years are selected. We collect, sort, and analyze the data on species community (e. g., plankton, fish &their juveniles, benthic organisms, and cetaceans, etc.) to understand the dynamic changes of marine biodiversity and fishery resources in most inshore and offshore unprotected areas of Taiwan. If detailed information is available on certain species, we calculate its abundance and biodiversity index.
 ### Update
 Recommended data source： (1) Long-term monitoring data of Taipower published by assistant professor, Hungyen Chen. (2) The ReefCheck data with EcoDiver system.
-### Trends
---
+### 指標趨勢
+（暫無）
 ### Data Management /Authorities
 Ocean Conservation Administration, Ministry of the Interior, Taiwan Environmental Information Association, and Fisheries Research Institute, Council of Agriculture, Executive Yuan.
 ### Data Source/URL

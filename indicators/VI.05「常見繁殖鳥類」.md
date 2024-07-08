@@ -38,4 +38,4 @@ D12030 加強具指標性之動物、植物、微生物物種族群變化之研�
 ### 資料管理/權責單位
 [行政院農業委員會特有生物研究保育中心](https://www.tesri.gov.tw)
 ### 參考資訊
-[BBS臺灣繁殖鳥類大調查網站](https://sites.google.com/a/birds-tesri.twbbs.org/bbs-taiwan/)
+[BBS臺灣繁殖鳥類大調查網站](https://sites.google.com/view/bbstaiwan)

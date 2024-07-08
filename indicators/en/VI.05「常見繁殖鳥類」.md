@@ -37,4 +37,4 @@ Raw data is the survey results on 92 common bird species in Taiwan from differen
 ### 資料管理/權責單位
 [行政院農業委員會特有生物研究保育中心](https://www.tesri.gov.tw)
 ### 參考資訊
-[Website of Breeding Birds Survey (BBS)](https://sites.google.com/a/birds-tesri.twbbs.org/bbs-taiwan/)
+[Website of Breeding Birds Survey (BBS)](https://sites.google.com/view/bbstaiwan)

@@ -1,4 +1,4 @@
-# I.02「沿近海魚種捕獲率」
+# I.02「沿近海漁法捕獲率」
 原指標名稱：沿近海魚種單位努力漁獲量
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>

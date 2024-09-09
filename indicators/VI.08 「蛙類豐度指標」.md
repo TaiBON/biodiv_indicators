@@ -1,4 +1,4 @@
-# VI.06「蛙類豐度指標」
+# VI.08「蛙類豐度指標」
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

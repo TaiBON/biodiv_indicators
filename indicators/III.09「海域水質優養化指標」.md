@@ -8,7 +8,7 @@
     <img src="https://raw.githubusercontent.com/TaiBON/biodiv_indicators/master/data/processed/III.09%20%E6%B5%B7%E5%9F%9F%E6%B0%B4%E8%B3%AA%E5%84%AA%E9%A4%8A%E5%8C%96%E6%8C%87%E6%A8%99.png" alt="海域水質優養化指標" style="width: 100%; max-width: 1000px; height: auto;"/>
 </div>
 
-[點擊此處查看互動式葉綠素濃度% 儀表板](https://yourusername.github.io/your-repository/dashboard.html)
+[點擊此處查看互動式葉綠素濃度% 儀表板](https://raw.githubusercontent.com/TaiBON/biodiv_indicators/master/data/processed/III.09%20%E6%B5%B7%E5%9F%9F%E6%B0%B4%E8%B3%AA%E5%84%AA%E9%A4%8A%E5%8C%96%E6%8C%87%E6%A8%99_dashboard.html)
 
 ### 所屬議題
 海洋污染

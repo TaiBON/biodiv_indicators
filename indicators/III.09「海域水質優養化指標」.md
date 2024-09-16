@@ -4,9 +4,7 @@
 水質指標WQI是將數種水質監測數據彙整成單一指標的方法，本指標以海岸優養化評估所發展出來的優養化指標EI(Eutrophication Index)計算，其指標參數包含浮游藻類葉綠素a濃度、氨氮濃度、硝酸態氮濃度、亞硝酸態氮濃度、磷酸鹽濃度等5項。
 
 ### 葉綠素濃度 互動式資料儀表板
-
-這是一個顯示葉綠素濃度 的互動式儀表板，包括地圖和折線圖。
-
+臺灣各個測站的葉綠素濃度時空間分布
 <iframe src="https://TaiBON.github.io/biodiv_indicators/III.09%20海域水質優養化指標_dashboard.html" width="100%" height="1100" frameborder="0"></iframe>
 
 ### 所屬議題

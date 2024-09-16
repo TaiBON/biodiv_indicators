@@ -12,7 +12,7 @@
 
 這是一個顯示葉綠素濃度 的互動式儀表板，包括地圖和折線圖。
 
-<iframe src="https://github.com/TaiBON/biodiv_indicators/blob/master/data/processed/III.09%20%E6%B5%B7%E5%9F%9F%E6%B0%B4%E8%B3%AA%E5%84%AA%E9%A4%8A%E5%8C%96%E6%8C%87%E6%A8%99_dashboard.html" width="100%" height="800" frameborder="0"></iframe>
+<iframe src="https://TaiBON.github.io/biodiv_indicators/III.09 海域水質優養化指標_dashboard.html" width="100%" height="800" frameborder="0"></iframe>
 
 ### 所屬議題
 海洋污染

@@ -1,7 +1,7 @@
 # III.02「在海域設置水質固定測站以定期長期監測水質因子的變化」
 原指標名稱：在海域及港口設置水質固定測站以定期長期監測水質因子的變化
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<iframe src="https://TaiBON.github.io/biodiv_indicators/III.02%20在海域及港口設置水質固定測站以定期長期監測水質因子的變化.html" width="100%" height="100%" frameborder="0"></iframe>
 
 ### 內容簡述
 將每年或每季檢驗之水質項目實測數據統計後以圖表方法呈現，觀察歷年海域水質變化趨勢。 

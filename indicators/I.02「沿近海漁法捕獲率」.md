@@ -1,7 +1,7 @@
 # I.02「沿近海漁法捕獲率」
 原指標名稱：沿近海魚種單位努力漁獲量
 
-<iframe src="https://TaiBON.github.io/biodiv_indicators/docs/I.02%20沿近海漁法捕獲率.html" width="100%" height="1500" frameborder="0"></iframe>
+<iframe src="https://TaiBON.github.io/biodiv_indicators/I.02%20沿近海漁法捕獲率.html" width="100%" height="1500" frameborder="0"></iframe>
 
 
 ### 內容簡述

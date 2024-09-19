@@ -1,7 +1,8 @@
 # I.02「沿近海漁法捕獲率」
 原指標名稱：沿近海魚種單位努力漁獲量
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<iframe src="https://TaiBON.github.io/biodiv_indicators/docs/I.02 沿近海漁法捕獲率.html" width="100%" height="1500" frameborder="0"></iframe>
+
 
 ### 內容簡述
 選定數種代表各營養階層之物種，求其單位努力漁獲量，以了解並評估沿近海漁業資源之變化趨勢，制定相關漁業管理措施，期望能達到合理的資源開發與永續利用。 

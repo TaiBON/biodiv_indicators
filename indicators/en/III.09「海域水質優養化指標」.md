@@ -2,31 +2,26 @@
 
 ### 內容簡述
 水質指標WQI是將數種水質監測數據彙整成單一指標的方法，本指標以海岸優養化評估所發展出來的優養化指標EI(Eutrophication Index)計算，其指標參數包含浮游藻類葉綠素a濃度、氨氮濃度、硝酸態氮濃度、亞硝酸態氮濃度、磷酸鹽濃度等5項。
+### 葉綠素濃度時空分布 <iframe src="https://TaiBON.github.io/biodiv_indicators/III.09%20海域水質優養化指標_dashboard.html" width="100%" height="2500" frameborder="0"></iframe>
 
-#### 海域水質優養化指標年度趨勢圖
-
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/TaiBON/biodiv_indicators/master/data/processed/III.09%20%E6%B5%B7%E5%9F%9F%E6%B0%B4%E8%B3%AA%E5%84%AA%E9%A4%8A%E5%8C%96%E6%8C%87%E6%A8%99.png" alt="海域水質優養化指標" style="width: 100%; max-width: 1000px; height: auto;"/>
-</div>
-
-### Themes
-Marine pollution
-### PSBR model type
-Pressure (P)
-### Corresponding targets
+### 所屬議題
+海洋污染
+### 指標類別
+壓力( P )
+### 指標對應
 #### SDGs
-14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution. 14.1.2 2020 quantitative target: maintain more than 99.5% of the water quality data reaching the standards in 8 of the testing items.
-#### Aichi Biodiversity Targets
-Target 8 By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
-### Background
+14.1 減少各式海洋污染，包括營養鹽及海洋廢棄物。 14.1.2 2020年量化目標：8項水質項目合格率維持在99.5%以上。
+#### 愛知目標：
+目標8 到 2020 年，污染，包括優養化，被控制到不危害生態系功能和生物多樣性的範圍。
+### 發展背景
 水質指標WQI是將數種水質監測數據彙整成單一指標的方法，WQI已發展四十餘年，最早發展成為通用指標是由Brown et al. (1970) 採用專家問卷方式，由35水質參數中選出9項，並根據其重要性而給予不同之權重（Wi），成為美國國家衛生基金會（National Sanitation Foundation）所制定之NSF-WQI指標。 NSF-WQI指標九項參數分別為：溶氧量、大腸桿菌群量、pH、生化需氧量、硝酸鹽氮濃度、總磷濃度、溫度、濁度以及總固體物濃度 (TS)。台灣多位學者為了因應台灣的水質污染特性，而將WQI加以改進建置WQI8、WQI5等不同之WQI指標。 但依據現行法規所執行的定期海域水質監測項目，無法符合上述任何一項指數計算所需的每一項參數，部分所需的監測值則屬於河川水質監測項目，而非海域水質監測項目。
-### Definition and Calculation
-NSF-WQI: The nine parameters are dissolved oxygen, fecal coliform density, pH, biochemical oxygen demand, nitrates, total phosphates, changes of temperature from equilibrium, turbidity, and total solids (TS). Many scholars in Taiwan also refer to the NSF-WQI to establish a number of different WQI. The WQI and its corresponding water quality analytes used here are yet to be determined.
-### Updates
+### 定義及計算方式
+NSF-WQI指標。九項參數分別為溶氧、大腸桿菌群、pH、生化需氧量、硝酸鹽氮、總磷、溫度、濁度、以及總固體物(TS)。台灣多位學者也參考建置多項不同之WQI指標，在此處選使用那些水質參數之WQI指標尚待確認。
+### 資料更新內容
 2019年EI=5.00，屬於壞(Bad)的狀態。 National Coastal Condition Report, NCCR分級評估，DO及Chl.a屬於好(Good)的狀態，而DIN及DIP則屬於普通(Fair)的狀態。
 ### 指標趨勢
 --(指標品質改進中，暫不公開)
-### Data Management Authorities
-Ocean Conservation Administration
+### 資料管理/權責單位
+海保署
 ### 資料來源/網站連結
 本計畫彙整計算，原始資料下載自海保署之海洋保育網中[海域水質](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_WaterQuality.aspx)

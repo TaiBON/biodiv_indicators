@@ -17,7 +17,7 @@
         }
         .center {
             width: 100%;
-            max-width: 1400px;
+            max-width: 1200px; /* 調整總寬度 */
             text-align: center;
             position: relative;
         }
@@ -29,29 +29,36 @@
             margin: 0 auto;
             background-color: transparent;
         }
-        /* 新增的樣式，用於定位篩選器 */
-        .filter-container {
-            width: 200px;
-            background-color: rgba(255,255,255,0.8);
-            padding: 10px;
-            border-radius: 8px;
-            margin-left: 20px; /* 與折線圖的間距 */
-        }
-        .filter-container h3 {
-            margin-top: 0;
-        }
         /* 調整父容器的樣式 */
         .line-chart-container {
             display: flex;
             justify-content: center;
             align-items: flex-start;
             position: relative;
-            max-width: 1200px;
+            width: 100%;
+            max-width: 1200px; /* 與地圖寬度一致 */
             margin: 0 auto;
         }
         /* 調整折線圖的樣式 */
-        #line_div, #avg_line_div {
-            flex: 1;
+        .chart-and-filter {
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start;
+            width: 100%;
+        }
+        .line-chart {
+            flex: 0 0 800px; /* 折線圖寬度 */
+        }
+        .filter-container {
+            width: 200px;
+            background-color: rgba(255,255,255,0.8);
+            padding: 10px;
+            border-radius: 8px;
+            margin-left: 20px; /* 與折線圖的間距 */
+            box-sizing: border-box;
+        }
+        .filter-container h3 {
+            margin-top: 0;
         }
         /* 調整選擇框的高度 */
         .filter-container select {
@@ -71,16 +78,20 @@
         <!-- 年平均折線圖 -->
         <h2>年平均趨勢</h2>
         <div class="line-chart-container">
-            <div id="avg_line_div" class="plotly-graph-div"></div>
-            <!-- 包含區域篩選器 -->
-            <div class="filter-container" id="area-filter-container">
-                <h3>區域篩選條件</h3>
-                <h4>(按 Ctrl 可複選)</h4>
-                <div id="area-filters">
-                    <strong>區域：</strong><br>
-                    <select id="area-select" multiple>
-                        <!-- 區域選項將由 JavaScript 動態生成 -->
-                    </select>
+            <div class="chart-and-filter">
+                <div class="line-chart">
+                    <div id="avg_line_div" class="plotly-graph-div"></div>
+                </div>
+                <!-- 篩選器放在折線圖右側 -->
+                <div class="filter-container" id="area-filter-container">
+                    <h3>區域篩選條件</h3>
+                    <h4>(按 Ctrl 可複選)</h4>
+                    <div id="area-filters">
+                        <strong>區域：</strong><br>
+                        <select id="area-select" multiple>
+                            <!-- 區域選項將由 JavaScript 動態生成 -->
+                        </select>
+                    </div>
                 </div>
             </div>
         </div>
@@ -88,16 +99,20 @@
         <!-- 各測站折線圖 -->
         <h2>各測站時間趨勢</h2>
         <div class="line-chart-container">
-            <div id="line_div" class="plotly-graph-div"></div>
-            <!-- 測站篩選器 -->
-            <div class="filter-container" id="site-filter-container">
-                <h3>測站篩選條件</h3>
-                <h4>(按 Ctrl 可複選)</h4>
-                <div id="site-filters">
-                    <strong>測站：</strong><br>
-                    <select id="site-select" multiple>
-                        <!-- 測站選項將由 JavaScript 動態生成 -->
-                    </select>
+            <div class="chart-and-filter">
+                <div class="line-chart">
+                    <div id="line_div" class="plotly-graph-div"></div>
+                </div>
+                <!-- 篩選器放在折線圖右側 -->
+                <div class="filter-container" id="site-filter-container">
+                    <h3>測站篩選條件</h3>
+                    <h4>(按 Ctrl 可複選)</h4>
+                    <div id="site-filters">
+                        <strong>測站：</strong><br>
+                        <select id="site-select" multiple>
+                            <!-- 測站選項將由 JavaScript 動態生成 -->
+                        </select>
+                    </div>
                 </div>
             </div>
         </div>
@@ -156,7 +171,7 @@
 
             const traces = [];
 
-            // 為每種顏色創建一個 trace
+            // 為每種顏色創建一個 trace，按照紅、黃、綠的順序，確保圖例順序一致
             if (redData.length > 0) {
                 traces.push({
                     type: 'scattermapbox',
@@ -206,17 +221,13 @@
                 });
             }
 
-            
-
-            
-
             const layout = {
                 title: '優養化指標 空間分布（2023年）',
                 width: 1000,
                 height: 600,
                 paper_bgcolor: 'rgba(0,0,0,0)',
                 plot_bgcolor: 'rgba(0,0,0,0)',
-                margin: {l:50, r:50, t:100, b:50}, // 調整右側間距
+                margin: {l:50, r:50, t:100, b:50},
                 mapbox: {
                     style: 'open-street-map',
                     center: {
@@ -348,7 +359,7 @@
 
             const avgLayout = {
                 title: '優養化指標 年平均趨勢',
-                width: 800,
+                width: 800, /* 與折線圖寬度一致 */
                 height: 600,
                 paper_bgcolor: 'rgba(0,0,0,0)',
                 plot_bgcolor: 'rgba(0,0,0,0)',
@@ -362,7 +373,7 @@
                     title: '平均優養化指標',
                     range: [0, 20],
                     autorange: false,
-                    fixedrange: false, // 允許用戶縮放
+                    fixedrange: false,
                 },
                 hovermode: 'x unified',
                 shapes: [
@@ -401,7 +412,7 @@
                         x0: 0,
                         x1: 1,
                         y0: 4.41,
-                        y1: 100, // 延伸到100
+                        y1: 100,
                         fillcolor: 'rgba(255,0,0,0.2)',
                         layer: 'below',
                         line: {
@@ -433,7 +444,7 @@
 
             const stationLayout = {
                 title: '優養化指標 各測站時間趨勢',
-                width: 800,
+                width: 800, /* 與折線圖寬度一致 */
                 height: 600,
                 paper_bgcolor: 'rgba(0,0,0,0)',
                 plot_bgcolor: 'rgba(0,0,0,0)',
@@ -447,7 +458,7 @@
                     title: '優養化指標',
                     range: [0, 20],
                     autorange: false,
-                    fixedrange: false, // 允許用戶縮放
+                    fixedrange: false,
                 },
                 legend: {
                     title: '測站名稱（點擊以選擇）'
@@ -489,7 +500,7 @@
                         x0: 0,
                         x1: 1,
                         y0: 4.41,
-                        y1: 100, // 延伸到100
+                        y1: 100,
                         fillcolor: 'rgba(255,0,0,0.2)',
                         layer: 'below',
                         line: {

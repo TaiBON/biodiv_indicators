@@ -1,7 +1,5 @@
 # III.02 "Set up fixed water quality monitoring stations in the sea area to conduct regular and long-term monitoring of changes in water quality parameters"
-Original indicator name: Set up fixed water quality monitoring stations in sea areas and harbors to conduct regular and long-term monitoring of changes in water quality parameters.
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+Original indicator name: Set up fixed water quality monitoring stations in sea areas and harbors to conduct regular and long-term monitoring of changes in water quality parameters. <iframe src="https://TaiBON.github.io/biodiv_indicators/III.02%20在海域及港口設置水質固定測站以定期長期監測水質因子的變化.html" width="100%" height="2000" frameborder="0"></iframe>
 
 ### Brief description
 The actual measurement data of the water quality items inspected annually or quarterly are collected and presented in a graph method to observe the changing trend of the seawater quality over the years. If there are water quality items that can be monitored automatically and continuously, the raw data should be put in a database and made public on the Internet. This method can be used to find the source of pollution, and effectively stop the illegal discharge of pollution.

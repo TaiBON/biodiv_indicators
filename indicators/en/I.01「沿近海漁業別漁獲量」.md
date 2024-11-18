@@ -20,7 +20,7 @@ Monitor and manage various types of fishing gear and fishing method (including s
 1. Fish landings (tons) of diffrent offshore and inshore fishery categories
 2. The current data are the cumulated sums of offshore fishery production (thousand tons), offshore fishery value (thousand NTD), inshore fishery production (thousand tons), and inshore fishery value (thousand NTD), from past years, provided by the Taiwan Fisheries Yearbook.
 ### Update
-According to the Fisheries Statistics Annual Report of the Republic of China in 111 (2022), the total output of offshore fishery was 115,325 metric tons, with an output value of 9,794,757 thousand NT dollars; the total output of coastal fishery was 19,863 metric tons, with an output value of 3,352,285 thousand NT dollars.
+依據民國111年(2022)漁業統計年報，近海漁業產量合計115,325公噸，產值9,794,757千元；沿岸漁業產量合計19,863公噸，產值3,352,285千元。
 ### Data Management /Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL

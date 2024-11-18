@@ -24,4 +24,4 @@ According to the information on the website of the Fisheries Agency, Council of 
 ### Data Management Authorities
 Ocean Conservation Administration, Fisheries Agency, Council of Agriculture, National Park Headquarters, Forestry Bureau, Council of Agriculture, Tourism Bureau, and Ministry of the Interior.
 ### Data Source/URL
-[Taiwan’s Marine Protected Areas of “Fishery Resources” page on the website of Fisheries Agency, Council of Agriculture.](https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=1&chk=2001739d-d4cd-4ded-bf92-d570912baf08)
+[漁業署網站中漁業資源之臺灣的海洋保護區](https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=1&chk=2001739d-d4cd-4ded-bf92-d570912baf08) [臺灣海洋保護區平台](https://mpa.oca.gov.tw/)

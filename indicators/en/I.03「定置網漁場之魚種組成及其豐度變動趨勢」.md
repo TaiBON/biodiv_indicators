@@ -11,7 +11,7 @@ Fishery resources
 State(S)
 ### Corresponding targets
 #### SDGs
-14.4.1 Proportion of fish stocks within biologically sustainable levels.
+14.4.1 Resource management of economic fish species in offshore and coastal waters.
 #### Aichi Biodiversity Targets
 Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
 ### Background
@@ -22,7 +22,7 @@ Variation trends of fish composition and abundance in the set-net fishry grounds
 2. Select five dominant species and calculate their temporal change in the yield of catch (kg), the number of individuals, and the diversity index.
 ### Updates
 According to the 2019 fixed net fishery statistics provided by Fisheries Agency, Council of Agriculture, there were skipjack tuna (Katsuwonus pelamis) 633,713.7 kg, bullet tuna (Auxis rochei) 241,267.6 kg, frigate tuna (Auxis thazard) 270,647.1 kg, beltfish (Trichiurus lepturus) 491,966 kg, and dolphinfish (Coryphaena hippurus) 893,459.4 kg.
-### Data Management Authorities
+### Data Management/Authorities
 Fisheries Agency, Council of Agriculture
 ### Data Source/URL
-Fisheries Agency, Council of Agriculture
+Fisheries Agency

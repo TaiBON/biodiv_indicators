@@ -1,16 +1,16 @@
 # I.02「沿近海漁法捕獲率」
 
-原指標名稱：沿近海魚種單位努力漁獲量
+Orignal name of the indicator: Fish landings of offshore and inshore fish species
 
 <iframe src="https://TaiBON.github.io/biodiv_indicators/I.02%20沿近海漁法捕獲率.html" width="100%" height="800" frameborder="0"></iframe>
 
 ### Brief description
 
-選定數種代表各營養階層之物種，求其單位努力漁獲量，以了解並評估沿近海漁業資源之變化趨勢，制定相關漁業管理措施，期望能達到合理的資源開發與永續利用。 
+Select several species representing each trophic level and calculate their catch per unit effort to understand and evaluate the changing trends of coastal fishery resources, formulate relevant fishery management measures, and hope to achieve reasonable resource development and sustainable utilization.
 
-### 所屬議題
+### Themes
 
-漁業資源
+Fishery resources
 
 ### 指標類別
 

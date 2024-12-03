@@ -2,8 +2,8 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-異質性的棲地可提供更多物種生存的機會，此指標以「指定地區監測」評估棲地健康狀態，若評估狀態顯示為不佳，可促使土地管理者與政府溝通以做出適當回應。
+### Brief description
+Heterogeneous habitats can provide more opportunities for species to survive. This indicator uses "designated area monitoring" to evaluate the health status of the habitat. If the evaluation status shows that it is not good, it can prompt land managers to communicate with the government to make appropriate responses.
 
 ## Themes
 Sensitive habitats

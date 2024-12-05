@@ -1,14 +1,3 @@
-## 目錄
-1. [簡介（Introduction）](#簡介introduction)
-2. [指標的定義（Definition of the Indicator）](#指標的定義definition-of-the-indicator)
-3. [指標的計算方式（Methodology of Indicator Calculation）](#指標的計算方式methodology-of-indicator-calculation)
-4. [指標的意義（Interpretation of the Indicator）](#指標的意義interpretation-of-the-indicator)
-5. [政策建議（Policy Recommendations）](#政策建議policy-recommendations)
-6. [參考文獻（References）](#參考文獻references)
-7. [技術支持](#技術支持)
-
----
-
 ## 簡介（Introduction）
 * **目的**：透過綜合海域水質資料，本指標旨在量化海域水質的優養化程度，並為海洋污染防治政策提供支持。
 * **背景資訊**：全球水質污染日益嚴重，海洋優養化更是對海洋生態系統的重大威脅。本指標使用優養化指數（Eutrophication Index, EI）來衡量台灣沿岸海域的水質健康狀況，以支持減少海洋污染的目標。

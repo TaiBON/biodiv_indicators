@@ -1,11 +1,3 @@
----
-title: 指標使用指南 - III.09「海域水質優養化指標」
-tags: [TaiBON]
-
----
-
-# 指標使用指南 - III.09「海域水質優養化指標」
-
 ## 目錄
 1. [簡介（Introduction）](#簡介introduction)
 2. [指標的定義（Definition of the Indicator）](#指標的定義definition-of-the-indicator)

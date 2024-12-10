@@ -58,5 +58,5 @@ D12030 加強具指標性之動物、植物、微生物物種族群變化之研�
 農業部生物多樣性研究所 林大利 副研究員
 
 ### 引用文獻
-林大利私人通訊
-[LIN, Da-Li, et al. Taiwan's Breeding Bird Survey reveals very few declining species. Ecological Indicators, 2023, 146: 109839.](https://www.sciencedirect.com/science/article/pii/S1470160X22013127)
+- 林大利私人通訊
+- [LIN, Da-Li, et al. Taiwan's Breeding Bird Survey reveals very few declining species. Ecological Indicators, 2023, 146: 109839.](https://www.sciencedirect.com/science/article/pii/S1470160X22013127)

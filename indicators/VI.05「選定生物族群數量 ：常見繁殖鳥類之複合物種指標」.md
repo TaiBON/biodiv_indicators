@@ -1,8 +1,8 @@
-# VI.05「選定生物族群數量 ：常見繁殖鳥類 之複合物種指標」 
+# VI.05「選定生物族群數量 ：常見繁殖鳥類之複合物種指標」 
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-<img src="https://raw.githubusercontent.com/TaiBON/biodiv_indicators/refs/heads/master/data/processed/VI.05%20選定生物族群數量 ：常見繁殖鳥類 之複合物種指標.png" 
+<img src="https://raw.githubusercontent.com/TaiBON/biodiv_indicators/refs/heads/master/data/processed/VI.05%20%E9%81%B8%E5%AE%9A%E7%94%9F%E7%89%A9%E6%97%8F%E7%BE%A4%E6%95%B8%E9%87%8F%20%EF%BC%9A%E5%B8%B8%E8%A6%8B%E7%B9%81%E6%AE%96%E9%B3%A5%E9%A1%9E%E4%B9%8B%E8%A4%87%E5%90%88%E7%89%A9%E7%A8%AE%E6%8C%87%E6%A8%99.png" 
      alt="VI.05 選定生物族群數量 ：常見繁殖鳥類之複合物種指標" 
      style="width:100%; max-width:1300px; height:auto;"/>
 

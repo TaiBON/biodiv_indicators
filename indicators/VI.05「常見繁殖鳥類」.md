@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/TaiBON/biodiv_indicators/refs/heads/master/data/processed/VI.05%20常見繁殖鳥類.png" 
      alt="VI.05 常見繁殖鳥類" 
-     style="width:100%; max-width:600px; height:auto;"/>
+     style="width:100%; max-width:1000px; height:auto;"/>
 
 ### 內容簡述
 鳥類族群指標透過監測一般大眾熟悉的繁殖鳥類物種族群狀況，以反映環境健康程度。運用臺灣繁殖鳥類大調查（BBS Taiwan）的系統性全國調查資料（2011-2019年）新的結果顯示，森林及農地鳥類指標無顯著變化，但皆緩慢穩定成長，表示森林及農業環境尚稱穩定。唯農地環境可能干擾較頻繁，指標略有波動。臺灣外來鳥類指標則顯著成長，顯示外來鳥類正在大幅增加及擴張。。透過森林、農地與其他棲地之常見繁殖鳥類族群長期變化趨勢，我們可進一步理解環境狀況與鳥類族群之關聯，為環境管理與保育決策提供重要科學依據。

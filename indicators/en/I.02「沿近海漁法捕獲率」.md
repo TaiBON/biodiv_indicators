@@ -12,18 +12,17 @@ Select several species representing each trophic level and calculate their catch
 
 Fishery resources
 
-### 指標類別
+### PSBR Model Type
 
-狀態( S )
+Status (S)
 
-### 指標對應
+### Corresponding Targets
 
 #### SDGs
 
-14.4.1
-沿近海經濟魚種進行資源管理。
+14.4.1 Proportion of fish stocks within biologically sustainable levels.
 
-#### 愛知目標：
+#### Aichi Biodiversity Targets
 
 目標6
 到2020年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。

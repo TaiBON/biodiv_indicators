@@ -181,8 +181,12 @@
                     lon: redData.map(item => item['longitude']),
                     text: redData.map(formatHoverText),
                     marker: {
-                        size: 10,
-                        color: redColor
+                        size: 15,
+                        color: redColor,
+                        line: {
+                        color: '#000000',
+                        width: 2
+                        }
                     },
                     hoverinfo: 'text',
                     showlegend: true
@@ -197,8 +201,12 @@
                     lon: yellowData.map(item => item['longitude']),
                     text: yellowData.map(formatHoverText),
                     marker: {
-                        size: 10,
-                        color: yellowColor
+                        size: 15,
+                        color: yellowColor,
+                        line: {
+                        color: '#000000',
+                        width: 2
+                        }
                     },
                     hoverinfo: 'text',
                     showlegend: true
@@ -213,8 +221,12 @@
                     lon: greenData.map(item => item['longitude']),
                     text: greenData.map(formatHoverText),
                     marker: {
-                        size: 10,
-                        color: greenColor
+                        size: 15,
+                        color: greenColor,
+                        line: {
+                        color: '#000000',
+                        width: 2
+                        }
                     },
                     hoverinfo: 'text',
                     showlegend: true

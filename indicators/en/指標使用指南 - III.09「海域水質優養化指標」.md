@@ -1,23 +1,3 @@
----
-title: 指標使用指南 - III.09「海域水質優養化指標」
-tags:
-  - TaiBON
----
-
-# 指標使用指南 - III.09「海域水質優養化指標」
-
-## 目錄
-
-1. [簡介（Introduction）](#簡介introduction)
-2. [指標的定義（Definition of the Indicator）](#指標的定義definition-of-the-indicator)
-3. [指標的計算方式（Methodology of Indicator Calculation）](#指標的計算方式methodology-of-indicator-calculation)
-4. [指標的意義（Interpretation of the Indicator）](#指標的意義interpretation-of-the-indicator)
-5. [政策建議（Policy Recommendations）](#政策建議policy-recommendations)
-6. [參考文獻（References）](#參考文獻references)
-7. [技術支持](#技術支持)
-
----
-
 ## 簡介（Introduction）
 
 - **目的**：透過綜合海域水質資料，本指標旨在量化海域水質的優養化程度，並為海洋污染防治政策提供支持。

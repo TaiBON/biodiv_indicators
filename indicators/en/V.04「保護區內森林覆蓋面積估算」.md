@@ -2,10 +2,10 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-森林不只是樹木，森林是確保糧食安全、改善民生的根本所在。[聯合國糧農組織](http://www.fao.org/home/zh/) (Food and Agriculture Organization, FAO) 自 1946 以每 5 - 10 年進行一次全球性的[森林資源評估](http://www.fao.org/forest-resources-assessment/zh/) (Global Forest Resources Assessment, FRA)。
+### Brief Description
+Forests are more than just trees. They are fundamental to ensuring food security and improving livelihoods. Since 1946, the Food and Agriculture Organization of the United Nations (FAO) has conducted the Global Forest Resources Assessment (FRA) every 5 to 10 years.
 
-近百年來人類活動頻繁，造成森林生態環境上極大的衝擊亦影響人類發展，如每年加劇的天災、森林面積減少以致無法有效淨化空氣及水質等，因此森林的面積變化逐漸成為生態保育上重要的議題之一，除此之外亦可做為土地開發壓力的指標。
+Over the past century, increasing human activities have profoundly impacted forest ecosystems and human development. For example, the intensification of natural disasters and the reduction of forest area lead to decreased air and water purification capacity. As a result, changes in forest area have gradually become a key issue in ecological conservation and can also serve as an indicator of land development pressure.
 
 ### Themes
 Terrestrial protected areas
@@ -25,10 +25,10 @@ Forests are not just trees. Forests are essential to ensure food security and im
 ### Definition and Calculation
 Compare the "forest cover" with that of the "base year" within the protected areas. Count the forest area within the protected areas, and use the forest area in the year of opening or a certain year as the benchmark value to calculate the percentage of increase or decrease in the forest area each year.
 
-### 現有資料內容及所跨年度
-（暫無）
-### 指標趨勢
-（暫無）
+### Data Coverage and Time Span
+(N/A)
+### Trends
+(N/A)
 ### Data Management Authorities
 Forestry Bureau, Council of Agriculture
 ### References

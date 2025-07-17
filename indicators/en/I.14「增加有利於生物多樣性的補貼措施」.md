@@ -1,49 +1,48 @@
-# I.14「增加有利於生物多樣性的補貼措施」
+# I.14 "Increase Subsidies Conducive to Biodiversity"
 
-原指標名稱：不利於生物多樣性的補貼措施，並減低負面的影響
+Original indicator name: a subsidy measure that is not conducive to biodiversity and reduce the negative impact
 
-### 內容簡述
+### Brief Description
 
-取消不利於生物多樣性及漁業永續的負面補貼，或增加有利的正面補貼，均將有助於漁業資源的復育。此項工作已被列入聯合國永續發展目標 14，及愛知目標 3 中，因此各國政府均需積極檢討與改善漁業補貼政策對維護漁業資源之成效。 
+Eliminating subsidies detrimental to biodiversity and sustainable fisheries, or increasing beneficial ones, will help restore fishery resources.This initiative is incorporated in United Nations Sustainable Development Goal 14, Aichi Target 3, and Target 18 of the Kunming-Montreal Global Biodiversity Framework. Accordingly, governments worldwide should actively review and enhance the effectiveness of fishery subsidy policies in sustaining fishery resources.
 
-### 所屬議題
+### Themes
 
-漁業資源
+Fishery resources
 
-### 指標類別
+### PSBR Model Type
 
-回應( R )
+Response (R)
 
-### 指標對應
+### Corresponding Targets
 
 #### SDGs
 
-14.6.1
-不予提供非法、未報告及不受規範(簡稱IUU)漁撈行為的補助。
+14.6.1 <br>
+Subsidies for illegal, unreported, and unregulated (IUU) fishing activities will not be granted.
 
-#### 愛知目標：
+#### Aichi Biodiversity Targets
 
-目標4
-至遲於 2020 年，消除、淘汰或改革危害生物多樣性不當的獎勵措施 (如補貼漁船用油)；在顧及國家社會經濟條件下，制定並採用有助於生物多樣性保育和永續利用的積極獎勵措施。
+Target 4<br> By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
 
-### 發展背景
+### Background
 
-追蹤歷年各項補貼金額趨勢，可供漁業政策修訂的參考增加有利的正面補貼，將有助於漁業資源的復育。
+The trend of various subsidies over the years can be used as a reference for the revision of fishery policy. Increasing positive subsidies that is conducive to biodiversity will help the restoration of fishery resources.
 
-### 定義及計算方式
+### Definition and Calculation
 
-1. 部分的漁業補貼究竟是正面或負面，目前仍有爭議，主要以用油補貼與休漁獎勵佔大宗。
-2. 正面補貼指標資料內容採用休漁補貼之補助金額/年。
-3. 休漁補貼資料則來自中央政府總決算之漁業署及所屬單位決算，單位為千元。
+1. There is still debate over whether certain fishery subsidies are positive or negative, with fuel subsidies and fishing moratorium incentives accounting for the majority.
+2. The annual amount of subsidies for the fishing moratorium was used as the indicator for positive subsidies.
+3. Data on fishing moratorium subsidies were obtained from the fiscal final accounts of the Fisheries Agency under the Ministry of Agriculture and its affiliated units, as part of the central government’s final accounts, The unit is in thousand NTD.
 
-### 資料更新內容
+### Updates
 
-依據民國108年(2019) 行政院農業委員會漁業署及所屬單位決算，休漁補貼金額為360,470千元。108年休漁補貼金額較2009-2018年高出許多，可能原因為農委會於108年6月21日發布「自願性休漁獎勵辦法」，鼓勵漁民集中在漁業資源密度高峰期作業，離峰期在港休漁。
+According to the 2019 fiscal final account of the Fisheries Agency under the Ministry of Agriculture, Executive Yuan, the amount of subsidies for the fishing moratorium was NT$360.47 million.Compared to the years 2009–2018, the amount of subsidies for the fishing moratorium in 2019 was significantly higher. This may be attributed to the “Regulations for the Incentive Program for Voluntary Fishing Moratorium” announced by the Council of Agriculture (now the Ministry of Agriculture) on June 21, 2019, which encouraged fishers to concentrate their operations during peak periods of fishery resource abundance and to suspend fishing during off-peak periods.
 
-### 資料管理/權責單位
+### Data Management/Authorities
 
-漁業署
+Fisheries Agency, Ministry of Agriculture
 
-### 資料來源/網站連結
+### Data Source/URL
 
-[漁業署網站中政府資訊公開之決算](https://www.fa.gov.tw/cht/GovAccount/index.aspx)
+[The fiscal final account data were sourced from the government public information disclosed on the Fisheries Agency's website](https://www.fa.gov.tw/cht/GovAccount/index.aspx)

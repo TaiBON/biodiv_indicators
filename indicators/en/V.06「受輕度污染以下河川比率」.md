@@ -1,32 +1,32 @@
-# V.06「受輕度污染以下河川比率」
+# V.06 “Percentage of rivers with slight polluted or below”
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-為確保水資源清潔及河川生態體系不受污染，河川嚴重污染長度及比率越小越好，河川未 (稍) 受污染長度及比率則越大越好。
+### Brief Description
+To ensure clean water resources and protect river ecosystems from pollution, a shorter length and lower proportion of severely polluted rivers is preferred, while a longer length and higher proportion of unpolluted or only slightly polluted rivers is desirable.
 
-### 所屬議題
+### Themes
 Terrestrial protected areas
-### 指標類別
+### PSBR Model Type
 Pressure (P)
-### 指標對應
+### Corresponding Targets
 #### SDGs
-6.3 改善民眾居住衛生，提升河川水質；加強推動廢污水妥善 處理；以公共污水廠二級處理放流水循環利用作為新興水源，提升水資源利用效率、降低傳統水資源開發需求；加強事業廢污水排放稽查管制，查緝可疑污染源，遏止水質污染情形發生；優化河川水質以保障國民健康及維護生態體系；強化化學物質流向勾稽，精進管理效能。
-#### 愛知目標
+6.3: Improve water quality, wastewater treatment, and safe reuse. By 2030, improve water quality by reducing pollution, eliminating dumping, and minimizing the release of hazardous chemicals and materials, halving the proportion of untreated wastewater, and substantially increasing recycling and safe reuse globally.
+#### Aichi Biodiversity Targets
 Target 8: By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
-#### 生物多樣性行動方案
-D43010 訂定河川污染改善計畫與時程，逐年使河川與河口水質之營養鹽與重金屬含量低於國際標準。 行動方案績效指標：
-* 河川水質達成不缺氧、不發臭(DO＞2mg/L)之河川長度比例
-* 海洋環境品質達甲類及乙類標準的河口數量
-### 發展背景
-河川是重要淡水水域，連結湖泊、河口、海岸至海洋生態系。由於臺灣人口密集，人口居住區、農業區、工業區鄰近河川容易受到污染。當河川受到污染時，不僅影響河川以及周遭的陸域生態，同時也會使周遭土壤條件惡化，間接影響周遭生物健康。為確保水資源清潔及河川生態體系不受污染，河川嚴重污染長度及比率越小越好，河川未(稍)受污染長度及比率則越大越好。
-### 定義及計算方式
-以行政院環境保護署公布之河川污染指數(River Pollution Index, RPI)為依據，界定河川總長度優於輕度污染河段長度比率。RPI是以河川水質中溶氧(DO)、生化需氧量(BOD)、懸浮固體(SS)、氨氮(NH3-N)等四項水質參數濃度值，計算所得指標值，判定河川污染程度。 河川污染指數 ＝ (未(稍)受污染河川長度 ＋ 輕度污染河川長度) / 河川總監測長度
-### 資料更新內容
-依據環境資料開放平臺資料所示，2021年全台受輕度污染以下(含)河川的比率為75.67%，相較2020年減少1.76%。
-### 指標趨勢
-自1991年迄今，30年來臺灣受輕度污染以下河川的比率多介於70%至80 %，並曾於2007年及2010年達到69%。惟近4年比例皆高於75%，河川品質有提升的現象。
-### 資料管理/權責單位
-行政院環境保護署
-### 資料來源/網頁連結
-環境資料開放平臺－重要河川汙染情形 https://data.epa.gov.tw/dataset/detail/STAT_P_120
+#### Biodiversity Action Plan
+D43010 Formulate improvement plans and schedules for river pollution to reduce the nutrients and heavy metal content of rivers and estuaries to the international standards year by year. Action plan performance indicators:
+* Percentage of river length meeting the water quality standard for no hypoxia and no odor (DO > 2 mg/L)
+* The number of estuaries with marine environmental quality reaching Class A and Class B standards
+### Background
+Rivers are important freshwater bodies that connect lakes, estuaries, coasts, and marine ecosystems. Due to Taiwan's dense population, rivers near residential, agricultural, and industrial areas are particularly susceptible to pollution. When a river is polluted, not only are the river and its surrounding terrestrial ecosystem affected, but soil conditions may also deteriorate, indirectly impacting the health of nearby organisms. To ensure clean water resources and protect river ecosystems from pollution, a shorter length and lower proportion of severely polluted rivers is preferred, while a longer length and higher proportion of unpolluted or only slightly polluted rivers is desirable.
+### Definition and Calculation
+Based on the River Pollution Index (RPI) published by the Environmental Protection Administration, Executive Yuan, the proportion of river length classified as unpolluted or slightly polluted is calculated against the total monitored river length. The RPI is determined using the concentrations of four water quality parameters: dissolved oxygen (DO), biochemical oxygen demand (BOD), suspended solids (SS), and ammonia nitrogen (NH₃-N). The resulting index value is used to assess the river pollution level.<br> River Pollution Index (RPI) = (Length of unpolluted or barely polluted rivers + Length of slightly polluted rivers) / Total monitored river length
+### Updates
+According to data from the Environmental Information Open Platform, the proportion of rivers in Taiwan that were slightly polluted or below (inclusive) in 2021 was 75.67%, a decrease of 1.76% from 2020.
+### Trends
+Over the past 30 years since 1991, the proportion of rivers in Taiwan classified as mildly polluted or better has generally ranged between 70% and 80%, with a low of 69% recorded in both 2007 and 2010. However, this proportion has consistently exceeded 75% in the past four years, indicating improved river water quality.
+### Data Management/Authorities
+Environmental Protection Administration, Executive Yuan
+### Data sources/URL
+Open Environmental Data Platform – Pollution Level of Major Rivers <br> https://data.epa.gov.tw/dataset/detail/STAT_P_120

@@ -3,25 +3,25 @@ Original indicator name: the degree of anthropogenic disturbance in protected ar
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-保護區可為生物多樣性保護與永續發展提供多種益處。部分保護區如國家公園與自然保護區等可以申請進入核心區。透過控管申請人數，以合理管理遊客之旅遊活動，並提倡發展保護區生態旅遊。
+### Brief Description
+Protected areas provide multiple benefits for biodiversity conservation and sustainable development. Certain protected areas, such as national parks and nature reserves, allow applications for entry into the core area. By regulating the number of applicants, visitor activities can be reasonably managed while promoting the development of ecotourism within protected areas.
 
-### 所屬議題
+### Themes
 Terrestrial protected areas
-### 指標類別
+### PSBR Model Type
 Pressure (P)
-### 指標對應
-#### 愛知目標
+### Corresponding Targets
+#### Aichi Biodiversity Targets
 Target 11: By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
-### 發展背景
+### Background
 Protected areas provide various benefits to both biodiversity and sustainable development. Establishing protected areas is a globally recognized main strategy to protect species and ecosystems. Ecological zone (i.e., core zone) is the core of the protected areas, which contains important natural and cultural landscapes or habitats for species. The main purpose of establishing protected areas is to protect and preserve natural resources, landscapes, or important species, nonetheless, to allow people to visit nature as a way of education, parts of the protected areas such as national parks and natural reserves would accept applications for entering the core zone. With control over the number of applicants, the authorities can manage tour activities and promote eco-tour in the protected areas.
-### 定義及計算方式
+### Definition and Calculation
 Count the number of people applying to enter protected areas every year as an indicator of the degree of human disturbance.
-### 資料更新內容
-2021年1月至12月30個野生動物保護區、自然保護區及自然保留區的總共有73,049申請進入人次。
-### 指標趨勢
-2015年至2019年，比2014年有較多人次進入保護留區，並且數量大致維持穩定，直至2020年人次大量增加，推測可能原因之一為新冠肺炎疫情影響，民眾往人潮較少之戶外移動所致，但因各保護留區申請人數上限不一，且申請目的未經統計，此指標趨勢仍列為參考。 --(資料品質尚待改善，暫不對外提供)
-### 資料管理/權責單位
+### Updates
+From January to December 2021, 73,049 applications were received for entry into 30 wildlife refuges, nature reserves, and nature conservation areas.
+### Trends
+From 2015 to 2019, the number of visits to protected areas was generally higher than in 2014 and remained relatively stable. In 2020, a significant increase in visits was observed, possibly due to the COVID-19 pandemic, which may have led people to seek outdoor areas with fewer crowds. However, since the applicant quota varies across protected zones and the purposes of entry applications were not recorded, this trend is for reference only.<br> (under improvement; not yet disclosed)
+### Data Management/Authorities
 Forestry Bureau, Council of Agriculture
-### 參考資訊
-2018年林管處生態保育業務績效表總彙整 林務局保護留區申請進入統計 內政部統計查詢網─國家(自然)公園遊憩據點遊客人次及車輛次 https://statis.moi.gov.tw/micst/stmain.jsp?sys=100
+### References
+2018 Summary of Ecological Conservation Performance of Forest District Offices (Translated by TaiBON Team)<br> Statistics on Applications for Entry Permission to Protected Areas under the Forestry Bureau (Translated by TaiBON Team)<br> Ministry of the Interior Statistics Portal – Visitor and Vehicle Counts at National (Nature) Park Recreation Sites<br> https://statis.moi.gov.tw/micst/stmain.jsp?sys=100

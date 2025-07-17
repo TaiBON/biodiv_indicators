@@ -2,8 +2,7 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-透過監測保護區內特定外來物種，了解其分布現況、繁殖及棲地利用，以進行控制。
+### To control the impact of specific alien species by monitoring their distribution, reproduction, and habitat in protected areas
 
 ### Themes
 Terrestrial protected areas
@@ -19,13 +18,13 @@ D41050 Prevention and Control of Invasive Species: (1) Develop an emergency erad
 * Number of existing invasive species, affected areas, and eradication cases handled/executed in the invasive species control plan.
 * The reduction rate of distribution range/number of existing invasive species. The reduction in the number of individuals of existing invasive species
 ### Background
-The impacts of invasive species on the protected areas and on other places are the same. It will affect the function and structure of ecosystems, species community or habitats, and species per se. Currently, invasive species is regarded as the main factor that causes global loss of biodiversity, affecting biodiversity directly, indirectly, or progressively. The purpose of the establishment of the protected areas is to protect specific landscapes, ecosystems or species. In addition to human disturbance, invasive species is currently the greatest threat to the ecology of the protected areas and the most difficult to eradicate.
+The impact of invasive species on the protected areas, just like on regular areas, will affect the function and structure of ecosystems, species communities or habitats, and species per se. The invasive species is now regarded as the main factor that causes global biodiversity loss, affecting biodiversity directly, indirectly, or progressively. Establishing the protected areas aims to protect specific landscapes, ecosystems, or species. Besides human disturbance, invasive species are currently the greatest threat to the ecology of the protected areas and the most difficult to eradicate.
 ### Definition and Calculation
 Count the number of specific alien species in each protected area and their respective individual numbers, and calculate the annual increase or decrease in the number of specific alien species.
-### 現有資料內容及所跨年度
-（暫無）
-### 指標趨勢
-（暫無）
+### Data span
+(N/A)
+### Data trend
+(N/A)
 ### Data Management Authorities
 National Park Division, Forestry Bureau, Council of Agriculture
 ### References

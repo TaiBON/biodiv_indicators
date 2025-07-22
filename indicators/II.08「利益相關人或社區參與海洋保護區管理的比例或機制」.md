@@ -29,4 +29,3 @@
 漁業署、海保署、縣市政府
 ### 資料來源/網站連結
 海保署提供
-[漁業署網站中漁業資源之海洋保護區民間巡守隊巡護成果](https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=1&chk=2001739d-d4cd-4ded-bf92-d570912baf08)

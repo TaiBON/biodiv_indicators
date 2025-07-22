@@ -24,4 +24,4 @@ According to the website of Fisheries Agency, Council of Agriculture, the 2018 p
 ### Data Management /Authorities
 Fisheries Agency, Council of Agriculture, Ocean Conservation Administration, County and City Government
 ### Data Source/URL
-The patrol results of the private patrol teams in the marine protected areas are provided by the Ocean Conservation Administration.
+海保署提供

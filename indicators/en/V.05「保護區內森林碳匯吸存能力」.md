@@ -2,10 +2,10 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-聯合國氣候變化政府間專家委員會 (Intergovernmental Panel on Climate Change，IPCC) 於 1997 年將土地利用、土地利用變化及林業 (Land Use, Land Use Change and Forestry，LULUCF) 納入修訂版國家溫室氣體排放清冊指南 (IPCC Guidelines for National Greenhouse Gas Inventories)，其中 LULUCF 就 1990 年後土地利用、森林及其他木質生物蓄積量的改變，造成碳排放及碳移除量進行估算。
+### Brief Description
+In 1997, the Intergovernmental Panel on Climate Change (IPCC) included Land Use, Land Use Change and Forestry (LULUCF) in its revised IPCC Guidelines for National Greenhouse Gas Inventories. The LULUCF sector estimates carbon emissions and removals resulting from changes in land use, forests, and other woody biomass since 1990.
 
-由於臺灣區域計畫法、森林法對於林業用地變更以及森林伐採均已訂有相關規範，且自 1992 年起即實施禁伐天然林政策，至林地變更為其他使用之情形極少，因此可藉行政院農業委員會林務局第三次全國森林資源調查成果之林型面積，以及林業統計每年新植造林、伐採、薪材收穫及干擾等相關數據估算，透過森林地含碳量的改變了解該生態系之健康狀況 (環保署，2016) 。
+Due to existing regulations under Taiwan’s Regional Planning Act and Forestry Act regarding land use changes and forest harvesting, and the implementation of a natural forest logging ban since 1992, land-use change from forest to other uses has been rare. Therefore, data from the Forestry Bureau’s Third Nationwide Forest Resources Inventory—including forest type area—and annual forestry statistics on afforestation, logging, fuelwood harvests, and disturbances can be used to estimate changes in forest carbon stocks. These changes serve as indicators for assessing the health of forest ecosystems (Environmental Protection Administration, 2016).
 
 ### Themes
 Terrestrial protected areas
@@ -25,10 +25,10 @@ In 1997, the Intergovernmental Panel on Climate Change (IPCC) of the United Nati
 ### Definition and Calculation
 Forest carbon sequestration in the protected areas. Estimate the total carbon dioxide removals by forest resources in the protected areas.
 
-### 現有資料內容及所跨年度
-（暫無）
-### 指標趨勢
-（暫無）
+### Data Coverage and Time Span
+(N/A)
+### Trends
+(N/A)
 ### Data Management Authorities
 Forestry Bureau, Council of Agriculture
 ### References

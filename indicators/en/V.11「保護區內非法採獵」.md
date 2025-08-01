@@ -2,34 +2,34 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-非法採獵包括非法的野生動物捕獵及植物採集，是目前全球生物多樣性保護的主要威脅。
+### Brief Description
+Illegal hunting and harvesting, including the poaching of wildlife and unauthorized collection of plants, pose major threats to contemporary global biodiversity conservation.
 
-### 所屬議題
+### Themes
 Terrestrial protected areas
-### 指標類別
+### PSBR Model Type
 Pressure (P)
-### 指標對應
+### Corresponding Targets
 #### SDGs
 15.7 Take urgent action to stop poaching and trafficking of protected animal and plant species, and deal with the supply and demand of illegal wildlife products.
-#### 愛知目標
+#### Aichi Biodiversity Targets
 Target 12: By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
-#### 生物多樣性行動方案
-D31030 加強野生動植物產製品查緝能力與落實執行。
-#### 行動方案績效指標：
+#### Biodiversity Action Plan
+D31030 Strengthen the ability to inspect and seize smuggled wild animal and plant products.
+#### Key performance indicator of the action plan:
 * Number of cases on improving inspection techniques
 * Number of inspections on products related to biodiversity
-### 發展背景
+### Background
 Poaching including illegal hunting of wild animals and harvesting plant is currently one of the main threats of global biodiversity. Article 10 of the Wildlife Conservation Act clearly stipulates that acts of harassing, abuse, hunting or slaughtering of common wild animals, as well as collecting and cutting plants, etc. in the wildlife protection areas shall be regulated. Article 50 of the Forest Act clearly stipulates that anyone who steals forest main products and by-products, accepts, transports, stores, buys or mediates purchases of stolen goods shall be sentenced to fixed-term imprisonment of six months~five years, and a fine of NT$300,000~NT$3 million. The attempted crime of stealing aforementioned forest main products and by-products shall be punished.
-### 定義及計算方式
-保護區非法採獵在內政部營建署轄管之國家公園內，包含「狩獵動物或捕捉魚類」、「採折花木」以及「盜採鐘乳石、珊瑚礁、土石」的案件數合計。
-### 現有資料內容及所跨年度
-內政部統計處查詢網—違反國家公園法案件(2001年至2021年)
-### 資料更新內容
-依據內政部統計所示，2021年違反國家公園法之非法採獵的案件總計78件，案件集中在墾丁國家公園及台江國家公園，兩者合計75件，占總件數約96%。相較2020年總件數減少9件。
-### 指標趨勢
-國家公園區域內違法案件數自2001年統計，墾丁國家公園內的違法案件數呈增加趨勢；陽明山國家公園內的違法案件數2011年起則降至個位數。17年來，國家公園區域內違法案件總數約為每年50件，其中，2013年因台江國家公園內違法案件數將近100件，讓案件數出現遽增，然隨後復穩。近2年台江國家公園案件數又增長，使總案件量再度出現驟升趨勢。
-### 資料管理/權責單位
-內政部營建署國家公園組
-### 資料來源/網頁連結
-[Inquiry Network of Statistics Department of the Ministry of the Interior--Cases of Violation of the National Parks Law.](http://statis.moi.gov.tw/micst/stmain.jsp?sys=100)
+### Definition and Calculation
+Number of Illegal hunting and harvesting incidents in the national parks under the jurisdiction of the Construction and Planning Agency, Ministry of the Interior, including "hunting and fishing", "lumbering", and "excavating coral, etc."
+### Data Coverage and Time Span
+Ministry of the Interior Statistics Query Website – Illegal Conducts in National (Nature) Parks (2001-2021)
+### Updates
+According to statistics from the Ministry of the Interior, a total of 78 cases of illegal hunting and harvesting in violation of the National Park Act were recorded in 2021. The cases were concentrated in Kenting National Park and Taijiang National Park, which together accounted for 75 cases, or approximately 96% of the total. Compared to 2020, the total number of cases decreased by nine.
+### Trends
+According to statistics on illegal cases within national park areas, the number of violations in Kenting National Park has shown an upward trend since 2001, while biolations in Yangmingshan National Park have dropped to single digits since 2011. In the past 17 years, average number of illegal cases in national parks has been approximatedly 50 per year. In 2013, the number of violations in Taijiang National park surged to nealy 100 cases, making a sharp spike in the total number of cases, which stabilized thereafter. In the past two years, cases in Taijiang National Parks have increased again, resulting in another rapid rise in the overall trend.
+### Data Management/Authorities
+National Parks Division, Construction and Planning Agency, Ministry of The Interior
+### Data sources/URL
+[Ministry of the Interior Statistics Query Website – Illegal Conducts in National (Nature) Parks (2001-2021)<br> https://ws.moi.gov.tw/001/Upload/400/relfile/0/4405/bbe97e0f-76af-43ab-8071-a542c0d01059/year_en.html](http://statis.moi.gov.tw/micst/stmain.jsp?sys=100)

@@ -1,7 +1,7 @@
 # II.15 Investing in the Management of Marine Protected Areas
 
-### 內容簡述
-投入調查研究、監測、執法及教育宣導的人力、物力與經費，才能取得足夠的科學數據，來證明海洋保護區的成效，讓產、官、學各界、漁民及一般社會大眾得以了解海洋保護區的重要性，進而願意支持海洋保護區的劃設與落實管理。
+### Brief Description
+Investing in manpower, material resources, and funding for research, monitoring, enforcement, and public education and outreach is essential to obtain sufficient scientific data to demonstrate the effectiveness of marine protected areas. These data will help industry, government, academia, fishers, and the general public understand the importance of MPAs, thereby increasing their willingness to support the designation and effective management of such areas.
 
 ### Themes
 Marine protected areas
@@ -13,12 +13,12 @@ Response (R)
 #### Aichi Biodiversity Targets
 Target 11 By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 ### Background
-投入調查研究、監測、執法及教育宣導的人力、物力與經費，才能取得足夠的科學數據，來證明海洋保護區的成效，讓產、官、學各界、漁民及一般社會大眾得以了解海洋保護區的重要性，進而願意支持海洋保護區的劃設與落實管理，特別是社區的經營管理，提升民眾守法的觀念。
+Investing in manpower, material resources, and funding for research, monitoring, enforcement, and public education and outreach is essential to obtain sufficient scientific data to demonstrate the effectiveness of marine protected areas. These data will help industry, government, academia, fishers, and the general public understand the importance of MPAs, thereby increasing their willingness to support the designation and effective management of such areas, particularly community-based management, and fostering greater public awareness and compliance with relevant regulations.
 ### Definition and Calculation
-各相關部會在年度預算中，用以提升海洋保護區管理成效之經費，包含研究、監測、執法、教育宣導工作等。
+The annual budgets allocated by relevant ministries and councils to enhance the effectiveness of marine protected area management, including funding for research, monitoring, enforcement, and education and outreach efforts.
 ### Updates
-海保署108至109年投入海洋保護區委辦及補助辦理調查及監測計畫經費合計150萬，其他中央或地方主管機關投入之經費尚無統計資料。 109年-目前海洋保護區之執法工作係由海巡署、漁業署、國家公園警察及縣市政府等單位辦理，惟相關執法工作涵蓋其他管理事項，難以區分該項投入之經費。 109年-目前海洋保護區之教育宣導投入工作由各中央主管機關及地方政府分別辦理，相關教育宣導工作涵蓋其他海洋保育事項，難以區分該項投入之經費。
+The Ocean Conservation Administration invested a total of NT$1.5 million in commissioned and subsidized projects related to the survey and monitoring of marine protected areas in 2019 and 2020. However, there are no available statistics on related funding from other central or local government agencies. In 2020, the enforcement of marine protected areas was carried out by the Coast Guard Administration, Fisheries Agency of the Ministry of Agriculture, the National Park Police Corps, and the local governments. However, since these enforcement efforts also cover other management duties, it is difficult to distinguish the portion of budget specifically allocated to marine protected area. In 2020, education and outreach efforts related to marine protected areas were carried out separately by central and local government agencies. However, since these efforts also encompassed other aspects of marine conservation, it is difficult to distinguish the portion of the budget specifically allocated to marine protected areas.
 ### Data Management Authorities
-海保署、海洋國家公園管理處、漁業署、縣市政府 (暨補助之民間團體)
+Ocean Conservation Administration, Headquarters of National Park, Fisheries Agency, Ministry of Agriculture, County and municipal governments (including funded NGOs or civil groups)
 ### Data Source/URL
 Ocean Conservation Administration

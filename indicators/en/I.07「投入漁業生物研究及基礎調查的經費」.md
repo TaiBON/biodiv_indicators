@@ -19,9 +19,9 @@ Fundamental research on fishery biology of specific fish species, or resource as
 Count the numbers of research projects on assessment and conservation of fishery resources and related funds.
 ### Updates
 No information currently available
-### 指標趨勢
-（暫無）
+### Trends
+(N/A)
 ### Data Management Authorities
 Fisheries Agency, Council of Agriculture, Ministry of Science and Technology, Ocean Conservation Administration, and Fisheries Research Institute, Council of Agriculture, Executive Yuan
-### 資料來源/網站連結
-（暫無）
+### Data Source/URL
+(N/A)

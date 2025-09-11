@@ -1,47 +1,47 @@
-# III.10「投入海洋污染之管理經費」
+# III.10 Investment in the Management of Marine Pollution
 
-### 內容簡述
+### Brief Description
 
-投入經費與人力以強化海洋污染防治之宣導教育，讓社會大眾得以了解海洋污染的嚴重性，進而支持海洋污染防治的落實管理；提升民眾守法的觀念，以及加強相關緊急應變的演練，以便快速處理汙染，減輕對環境的傷害。
+Investing funds and manpower in education and outreach on marine pollution prevention can enhance public awareness of the severity of marine pollution, thereby fostering greater support the implementation of related management measures. This also strengthens civic awareness of legal compliance and improves emergency response practices, enabling faster pollution mitigation and alleviating the resulting environmental damage.
 
-### 所屬議題
+### Themes
 
-海洋污染
+Marine pollution
 
-### 指標類別
+### PSBR Model Type
 
-回應（R）
+Response (R)
 
-### 指標對應
+### Corresponding Targets
 
 #### SDGs
 
-14.1
-減少各式海洋污染，包括營養鹽及海洋廢棄物。
+14.1<br> Reduce marine pollution of all kinds, including nutrients
+and marine waste pollutions.<br>
 
-#### 愛知目標
+#### Aichi Biodiversity Targets
 
-目標8
-到2020年，污染，包括優養化，被控制到不危害生態系功能和生物多樣性的範圍。
+Target 8 <br>
+By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
 
-### 發展背景
+### Background
 
-海洋污染的防治經常需要花費高額成本與人力，例如2001年希臘籍貨輪阿瑪斯號擱淺事件，共動員了包含國軍以及中油人員21560人次，耗費半年才全數完成。因此，應投入經費與人力以強化海洋污染防治之宣導教育，讓社會大眾得以了解海洋污染的嚴重性，進而支持海洋污染防治的落實管理，提升民眾守法的觀念，以及加強相關緊急應變的演練，以便快速處理汙染，減輕對環境的傷害。
+Marine pollution prevention often requires a substantial amount of financial and human resources. For example, the clean-up and salvage project following the grounding of Greek-registered cargo ship MV Amorgos in 2001 involved the mobilization of 21560 personnel from the military and CPC Corporation, and took nearly six months to complete.Therefore, it is necessary to invest funds and manpower in education and outreach on marine pollution prevention, to enhance public awareness of the severity of marine pollution, thereby fostering greater support for the implementation of related management measures. This also strengthens civic awareness of legal compliance and improves emergency response practices, enabling faster pollution mitigation and alleviating the resulting environmental damage.
 
-### 定義及計算方式
+### Definition and Calculation
 
-統計每年投入海洋污染監測防治、設備儀器及維修、教育宣導、海污訓練等相關之管理經費。
+Summarize the annual management costs related to marine pollution monitoring and prevention, including equipment and instrument expenses (and their maintenance), education and outreach programs, and training for marine pollution emergency response.
 
-### 資料更新內容
+### Updates
 
-海保署辦理衛星遙測、油污模擬、海污訓練、資訊系統管理等事項，108年度投入1,358萬元，109年度投入1622.5萬元。
-海保署109年預算650.4萬元。未有自動連續監測系統，總監測總監測138點，包含海域105點、掩埋場6處共12點、沙灘6處共18點，離岸風機區1處共3點。
-地方政府投入海洋污染防治、教育宣導與管理之經費，因該項經費包含海洋廢棄物、海洋污染防治、地方海域水質監測、地方自辦世界海洋日及相關教育宣導等，難以區分。
+Ocean Conservation Administration conducted satellite remote sensing, oil spill simulation, marine pollution mitigation training, and information system management. The allocated budget amounted to NT$13.58 million in 2019 and NT$16.23 million in 2020.
+海保署109年預算650.4萬元。No automated continuous monitoring system has been implemented. A total of 138 monitoring sites have been established, including 105 marine sites, 12 sites at 6 landfills, 18 sites at 6 beaches, and 3 sites within 1 offshore wind turbine area.
+The funds invested by local governments cover not only marine pollution prevention, education, outreach, and management, but also include expenditure related to marine debris cleanup, water quality monitoring in local wates, and the organization of World Oceans Day events and related educational activities. As these categories often overlap, it is diffcult to clearly distinguish how the funds are allocated.
 
-### 資料管理/權責單位
+### Data Management/Authorities
 
-海洋委員會海洋保育署、各縣市政府
+Marine Conservation Administration, Ocean Affairs Council; County and Municipal governments
 
-### 資料來源/網站連結
+### Data Source/URL
 
-海洋委員會海洋保育署提供
+Ocean Conservation Administration, Ocean Affairs Council

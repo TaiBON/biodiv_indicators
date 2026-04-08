@@ -7,14 +7,16 @@ The index is used to estimate whether the fish landings at all levels are balanc
 ### Themes
 Fishery resources
 ### PSBR Model Type
-State(S)
+狀態（S）
 ### Corresponding Targets
-#### SDGs
-14.2.2 Mean Trophic Level (MTL) and Fishing in Balance Index (FiB) Quantitative target for 2020: MTL and FiB values are maintained at the current level, and the data for constructing the index will be collected to compile Taiwan’s MTL and FiB indicators.
-#### Aichi Biodiversity Targets
-Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
+#### 永續發展目標
+目標 14.2.2：平均營養位階（MTL）及漁獲平衡指數（FiB）<br> 2020 年量化目標：MTL值及FiB值維持現有水準，另蒐集建構指數編制資料，俾自行編制我國之MTL及FiB指標。<br>
+#### 昆–蒙目標
+目標 10：確保農業、水產養殖、漁業與林業能永續地經營管理，特別是透過永續地利用生物多樣性資源，包括大幅度應用生物多樣性友善作法，例如以永續集約化、農業生態學及其他創新方法來增強前述生產系統的韌性、長期效率與生產力，進而促進糧食安全並保護、復育生物多樣性，以維持自然對人類的貢獻，包括生態系功能與服務。<br>
+#### 愛知目標
+目標 6：到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。<br>
 ### Background
-Fisheries scientist Daniel Pauly proposed the Mean Trophic Index (MTI) and the phenomenon of "fishing down marine food web" in 1998, which triggered many interesting discussions including an argument against the interpretation of the MTI trend: "The downward trend of MTI may be irrelevant to the decline of the top-level consumer populations in the ecosystem, but rather reflect the fishery policy of the managers tending to catch the species at the bottom of the food web with large populations to achieve higher total fish landings." Pauly responded formally to this argument in his 2005 publication, stating that the situation is probable and emphasizing that if such policies exist, efforts should be made toward reducing energy (or biomass) waste. In other words, the decline in MTI should be accompanied by the increase in fish landings, and the sum of the two changes should be balanced, in that way, the management of fishery resources is developing towards sustainability.
+漁業學家 Daniel Pauly 於 1998 年提出平均營養指數（Mean Trophic Index, MTI）及「漁獲物種漸趨海洋食物網底層（fishing down marine food wed）」現象後，觸發許多有趣的討論，包括一項對 MTI 趨勢意涵的質疑：「MTI 趨勢向下，可能與生態系中高階消費者的族群消長無關，而是反映管理者的漁業政策傾向捕撈族群量較大的食物網底層以獲取較高的整體漁獲量。」 Pauly 於 2005 年的發表中正式回應此疑慮，表明此情況確有可能存在，並強調此類政策若是存在，應朝減少能量（或生物量）浪費的方向努力。換言之，MTI 的下降應伴隨漁獲量的上升，且兩者變動量的總和應趨於平衡，才表示對漁業資源的管理是朝永續漁業的方向發展。
 ### Definition and Calculation
 First we set the baseline year, and use its fish landings and MTI as the comparison standard. It is expressed as: $$ F_iB=log\Big[Y_i\Big(\frac{1}{TE}\Big)^{TL_i}\Big]-log\Big[Y_0(\frac{1}{TE})^{TL_0}\Big] $$
 * $Y_i= total fish landings in i$ year
@@ -24,7 +26,7 @@ First we set the baseline year, and use its fish landings and MTI as the compari
 * $TE=$ energy transfer efficiency among trophic levels of the food web
 * $F_iB_i= fishing-in-balance index of year i$
 
-To help readers understand the equation, we hypothesize that the energy transfer efficiency is 0.1 and convert the equation into the following form: $$ FiB_i = log\Big(\frac{Y_i}{Y_0}\Big) + (MTI_i-MTI_0) $$ The annual MTI change from the baseline year is -1 (for example, from 4 to 3), which means that the fishing targets in the food web have dropped by one level. Since the fishing targets are transferred to the speices with larger populations in the lower level of the food web, the fish landings in year i (Yi) should be greater than the baseline year (Y0); if we assumed that the energy transfer efficiency can be fully reflected in the biomass change, the ratio between Yi and Y0 should be 10, and the logarithm of dividing the two will be 1. Then FiB = 1 + (-1) = 0. It is worth mentioning that when the fish landings and MTI in year i are maintained at the level of baseline year, FiB will still be zero. If this state is maintained continuously, i. e., FiB is always zero, the ideal "balanced" or "sustainable" fishery state is reached.
+為幫助讀者理解，我們假設能量轉換率為 0.1，並將其轉成以下形式： $$ FiB_i = log\Big(\frac{Y_i}{Y_0}\Big) + (MTI_i - MTI_0) $$ 設想 i 年的 MTI 較之基準年變化量為 -1（如從 4 降至 3），也就是捕撈對象在食物網中整整下降了一個層級。由於捕撈對象轉至族群量較大的食物網下層，i 年的漁獲量（Y<sub>i</sub>）應大於基準年（Y<sub>0</sub>）；若假設能量轉換率可完全反映在生物量變化上，Y<sub>i</sub> 和 Y<sub>0</sub> 的差距應該會是 10 倍，兩者相除取對數將得到 1。於是 FiB = 1 + (-1) = 0。值得強調的是，當 i 年的漁獲量、MTI 皆維持在基準年水平，FiB 仍會是 0。若此狀態持續維持，也就是 FiB 始終為 0，即理想的「平衡」或「永續」漁業狀態。
 
 The rise and fall of the FiB trend sometimes lead to a debate of "encouraging to catch more tertiary or primary consumers", which can be the wrong direction for discussion. In fact, there are a variety of factors that lead to the fluctuation of FiB:
 
@@ -34,9 +36,9 @@ FiB > 0. It may be because the increase in the fish landings in year i is greate
 
 When FiB keeps deviating from the balanced state, especially when FiB keeps decreasing, it is the management methods that are insufficient to maintain fishery resources at a sustainable level. As for a clearer policy direction for improvement, the designs and monitorings in many aspects are needed to be sovled.
 ### Updates
-The data source is the Region-based Marine Trophic Index of the catch in the waters of Taiwan in Sea Around Us. The previous data was until 2014, and it has been updated to 2016. Taiwan’s average nutritional index (FiB) in 2016 was 2.68.
+資料來源為 Sea Around Us 中之 Region-based Marine Trophic Index of the catch in the waters of Taiwan，過去資料僅到 2014 年，目前已更新到 2016 年。 臺灣 2016 年的漁獲平衡指數（FiB）為 2.68。
 ### Trends
-### Data Management/Authorities
+### 資料管理／權責單位
 Fisheries Agency, Council of Agriculture
-### Data Source/URL
-[The website of "Sea Around Us"](http://www.seaaroundus.org/)
+### 資料來源／網站連結
+[Sea Around Us 網站](http://www.seaaroundus.org/)

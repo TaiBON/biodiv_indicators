@@ -3,25 +3,27 @@
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ### Brief description
-Fundamental research on fishery biology of specific fish species, or resource assessment of specific fish species and fishing methods is an important basis for fishery resource management, and (data from these research/assessment) is needed when providing Taiwan's quota of fish landing which is an requirement for participation in Regional Fisheries Management Organizations (RFMOs). Therefore fishery biological research and fundamental surveys should be continuously funded.
+特定魚種漁業生物學的基礎研究，或特定魚種、漁法漁業之資源評估是漁業資源管理的重要依據，也是臺灣參與區域性漁業管理國際組織協商（Regional Fisheries Management Organizations, RFMOs）可提供漁獲額度所需的資料，因此應持續投入漁業生物研究及基礎調查的經費。 
 ### Themes
 Fishery resources
 ### PSBR model type
-Response (R)
+回應（R）
 ### Corresponding targets
-#### SDGs
-14.4 By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics.
-#### Aichi Biodiversity Targets
-Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
+#### 永續發展目標
+目標 14.4：在西元 2020 年以前，有效監管採收，消除過度漁撈，以及非法的、未報告的、未受監管的（以下簡稱 IUU）、或毀滅性魚撈作法，並實施科學管理計畫，在最短的時間內，將魚量恢復到依據它們的生物特性可產生最大永續發展的魚量。
+#### 昆–蒙目標
+目標 10：確保農業、水產養殖、漁業與林業能永續地經營管理，特別是透過永續地利用生物多樣性資源，包括大幅度應用生物多樣性友善作法，例如以永續集約化、農業生態學及其他創新方法來增強前述生產系統的韌性、長期效率與生產力，進而促進糧食安全並保護、復育生物多樣性，以維持自然對人類的貢獻，包括生態系功能與服務。
+#### 愛知目標
+目標 6：到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。
 ### Background
-Fundamental research on fishery biology of specific fish species, or resource assessment of specific fish species and fishing methods is an important basis for fishery resource management, and (data from these research/assessment) is needed when providing Taiwan's quota of fish landing which is an requirement for participation in Regional Fisheries Management Organizations (RFMOs). Therefore fishery biological research and fundamental surveys should be continuously funded. In addition to biological research, port investigators, voyage recorders, and follow-up tracking of fingerling release are also parts of fundamental research.
+特定魚種漁業生物學的基礎研究，或特定魚種、漁法漁業之資源評估是漁業資源管理的重要依據，也是臺灣參與區域性漁業管理國際組織協商（Regional Fisheries Management Organizations, RFMOs）可提供漁獲額度所需的資料，因此應持續投入漁業生物研究及基礎調查的經費。 另外，除了生物研究外，凡舉港口查報員、航程紀錄器、魚苗放流後續追蹤等等也都是屬於基礎研究的一部分。
 ### Definition and Calculation
 Count the numbers of research projects on assessment and conservation of fishery resources and related funds.
 ### Updates
 No information currently available
 ### Trends
 (N/A)
-### Data Management Authorities
+### 資料管理／權責單位
 Fisheries Agency, Council of Agriculture, Ministry of Science and Technology, Ocean Conservation Administration, and Fisheries Research Institute, Council of Agriculture, Executive Yuan
-### Data Source/URL
+### 資料來源／網站連結
 (N/A)

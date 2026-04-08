@@ -10,12 +10,14 @@ Taiwan is located within one of the world's marine biodiversity hotspots and fea
 ### Themes
 Marine pollution
 ### PSBR model type
-Pressure (P)
+壓力（P）
 ### Corresponding targets
-#### SDGs
-14.3 Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels
-#### Aichi Biodiversity Targets:
-Target 10 By 2015, the multiple anthropogenic pressures on coral reefs, and other vulnerable ecosystems impacted by climate change or ocean acidification are minimized, so as to maintain their integrity and functioning.
+#### 永續發展目標
+目標 14.3：減緩並改善海洋酸化的影響。
+#### 昆明–蒙特婁全球生物多樣性框架
+目標 8：最小化氣候變遷與海洋酸化對生物多樣性之衝擊，並透過減緩、調適及災害風險降低行動以增進其韌性，其中包括自然為本的解方及／或生態系為本的方法；同時，應降低氣候行動對生物多樣性之負面影響，並促進其正面效益。
+#### 愛知目標
+目標 10：到 2015 年，儘量減少人類對已受到氣候變遷或海洋酸化衝擊的珊瑚礁和其他脆弱生態系的多重壓力，維護它們的完整性和功能。
 ### Background
 Ocean acidification is thought to have a series of undesirable consequences, such as inhibiting the metabolism of invertebrate organisms, reducing the ability of marine organisms to form carbonated shells, and accelerating coral bleaching. As the saturation level of calcium carbonate in seawater decreases, it's becoming more and more difficult and in some cases impossible for animals with carbonated shells such as zooplankton, crustaceans, shellfish, corals, echinoderms and other invertebrates to form shells; and the calcium carbonate shells that have been formed could dissolve. In addition, the acidified ocean is also a threat to the marine food chain. When the zooplankton disappears, consumers at all levels of the food chain will disappear, and the marine ecosystem will face collapse and disintegration. Therefore, ocean acidification has become one of the most concerned issues of the global marine community, and all countries are making every effort to strengthen related survey and research. Taiwan is located in a hot zone for marine life in the world, not only because its habitats are diverse, but also because it accounts for one-tenth of the total number of species in the world. Therefore, Taiwan is the most ideal place to study the impact of ocean acidification and acidification on marine life.
 ### Definition and Calculation
@@ -24,7 +26,7 @@ Collect the number of projects and funds on ocean acidification research and mon
 No data currently available
 ### Trends
 (N/A)
-### Data Management Authorities
+### 資料管理／權責單位
 Fisheries Research Institute
-### Data Source/URL
+### 資料來源／網站連結
 (N/A)

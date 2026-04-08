@@ -12,23 +12,21 @@ Fishery resources
 
 ### PSBR Model Type
 
-Response (R)
+回應（R）
 
 ### Corresponding Targets
 
-#### SDGs
+#### 永續發展目標
 
-14.6.1
-Subsidies for illegal, unreported, and unregulated (IUU) fishing activities will not be granted.
+目標 14.6.1：不予提供非法、未報告及不受規範（簡稱 IUU）漁撈行為的補助。
 
-#### Kunming-Montreal Global Biodiversity Framework
+#### 昆–蒙目標
 
-By 2025, and eliminate, phase out or reform incentives, including subsidies, harmful for
-biodiversity, in a proportionate, just, fair, effective and equitable way, while substantially and progressively reducing them by at least $500 billion per yearby 2030, starting with the most harmful incentives, and scale up positive incentives for the conservation and sustainable use of biodiversity.
+目標 18：2025 年以前，以合乎比例、公正公平、有效且合理衡平的方式，辨識並消除、逐步淘汰或改革對生物多樣性有害的誘因，包括補貼；到 2030 年以前，每年至少逐步大幅減少 5,000 億美元的此類誘因，並從最有害者著手，同時擴大有利於生物多樣性保育與永續利用的正向誘因。
 
 #### Aichi Biodiversity Targets
 
-Target 4 By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
+目標 4：至遲於 2020 年，消除、淘汰或改革危害生物多樣性不當的獎勵措施（如補貼漁船用油）；在顧及國家社會經濟條件下，制定並採用有助於生物多樣性保育和永續利用的積極獎勵措施。
 
 ### Background
 
@@ -42,12 +40,12 @@ Tracking the trends of various subsidy amounts over the years can provide a refe
 
 ### Updates
 
-According to the annual expenditure program summary and subprogram overview table in the statutory budget of the Fisheries Agency, the feul subsidy in the 2018 was NT$1,159,950,000.
+依據漁業署法定預算中之歲出計畫提要及分支計畫概況表，民國 112 年（西元 2023）用油補貼獎補助費為 1,630,944 千元。
 
-### Data Management /Authorities
+### 資料管理／權責單位
 
 Fisheries Agency, Ministry of Agriculture
 
-### Data Source/URL
+### 資料來源／網站連結
 
 [The fiscal final account data were sourced from the government public information disclosed on the Fisheries Agency's website](https://www.fa.gov.tw/cht/GovAccount/index.aspx)

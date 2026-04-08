@@ -3,17 +3,18 @@
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ### Brief Description
-Since the first recorded sighting of African sacred ibis in 1984, its population has increased rapidly, posing a threat to native bird species. This indicator aims is designed to monitor the establishment and growth of alien bird populations in the wild, in order to reduce the potential negarice impacts on native species.
-
+埃及聖䴉自 1984 年首次觀測紀錄後，至今族群數量爆發，已威脅到本土鳥類。本指標在於監測外來鳥種在野外建立族群數量，以降低危害本土原生種的機率。
 ### Themes
 Invasive species
 ### PSBR Model Type
-Pressure (P)
+壓力（P）
 ### Corresponding Targets
-#### SDGs
-15.8 By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species.
+#### 永續發展目標
+目標 15.8：到 2020 年，採取措施防止引入外來入侵物種並大幅減少其對土地和水域生態系統的影響，控制或消滅其中的重點物種。
+#### 昆–蒙目標
+目標 6：藉由辨識並管理外來物種之引入途徑、避免優先管制入侵種之遷入和定殖，進而消弭、最小化、減少及／或緩解其對生物多樣性和生態系服務之衝擊；並於 2030 年以前，將其他已知或潛在外來入侵種之引入和定殖率降低至少50%，同時推動外來入侵種之根除或防治，特別著重於島嶼等優先防治地區。 
 #### Aichi Biodiversity Targets
-Target 9: By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
+目標 9：至遲於 2020 年，入侵外來物種和進入管道得到鑒定和排定優先次序，優先物種得到控制或根除，同時制定措施管理進入管道以防止入侵外來物種的進入和紮根。
 #### Biodiversity Action Plan
 D41050 Prevention of invasive species:
 1. Develop an emergency eradication plan for new invasive species and conduct regular drills with local governments.
@@ -22,29 +23,29 @@ D41050 Prevention of invasive species:
 * Number of existing invasive species, affected areas, and eradication cases handled/executed in the invasive species control plan.
 * The reduction rate of distribution range/number of existing invasive species. The reduction in the number of individuals of existing invasive species.
 ### Background
-The African sacred ibis, native to Africa and the Middle East, was first recorded in the wild in Guandu, Taipei, in 1984. It has since spread widely across the western coastal wetlands of Taiwan. Due to its high environmental adaptability and broad diet, the African sacred ibis competes with native Ardeidae species for key ecological resources such as food and nesting trees. This results in competitive exclusion pressures that may impact the survival and reproduction of native birds. It is therefore essential to monitor changes in the population size of the African sacred ibis and implement gradual removal measures to reduce its ecological threat.
+埃及聖䴉原產於非洲與中東地區，1984 年在台北關渡首次記錄到埃及聖䴉野外個體，現今已遍布西部各沿海溼地。埃及聖䴉與台灣本地鷺科鳥類在食物、巢樹等生態資源上有諸多重疊，其高環境適應力及廣泛的食性，對原生鳥種造成生存及繁殖上的競爭排除效應，因此需監測埃及聖䴉的族群數量變化，並逐步移除，降低其威脅性。
 ### Definition and Calculation
-* The data of 1995-2010 came from the project of the Taiwan Wild Bird Federation sponsored by the Forest Bureau— The impact of invasive Egyptian Sacred Ibis on native birds in Taiwan, 2009. In order to compare the data year to year, the data was standardized: the summation of the maximum population numbers from each county and city in a certain year is used to represent the population of Egyptian Sacred Ibis of that year.
-* Due to the lack of relevant project as the reference from 2011 to 2014, the data is based on the eBird records. After removing missing or unreasonable records of the data, the Egyptian Sacred Ibis population of the year is represented by the summation of the maximum population of each county and city in the year.
-* The data of 2015-2017 is from the African Sacred Ibis management pilot project of Forestry Bureau, Council of Agriculture (2015 -2017). The surveys of the pilot project are synchronously conducted on the last weekend of each month from each August to November. In the western coastal regions and wetlands, bird-watching societies in different locations conducted synchronized surveys using the method of area searching in locations where the African Sacred Ibis are likely observed. The population size of each year was then estimated after collecting the survey data of each county and city.
-* The data from 2018 to 2021 were sourced from the Forestry and Nature Conservation Agency's Project Reports on "Population Control for Invasive Species – The Sacred Ibis" and observation records of from eBird. Missing values and unreasonable records were removed. The annual population size was estimated by summing the maximum number of individuals reported by each local government, substrcting the number of the removed of eggs, chick, subadults, and adults.
+* 1995 年至 2010 年的資料來自中華野鳥學會與林務局的補助計畫 — 98 年度入侵種埃及聖䴉對於臺灣地區鳥類生態影響之研究，為進行年間的比較，將資料表準化，該計畫以各縣市該年度的最大族群量相加，作為該年度的聖䴉族群量代表。
+* 2011 年至 2014 年由於缺乏相關計畫做參考，因此，是以 eBird 回報紀錄做為依據。將數據中缺值或不合理的紀錄去除後，以各縣市該年度的最大族群量相加，做為該年度的聖䴉族群量代表。
+* 2015 年至 2017 年的資料，來自林務局 104 年度至 106 年度埃及聖䴉族群管理試驗計畫，調查是於每年 8 至 11 月各月份的最後一個周末，由各地鳥於西部各濱海地區及濕地，依埃及聖䴉可能出沒地區採區域搜尋法進行同步調查，後統計各縣市調查資料，估算當年度的族群數量。
+* 2018 年與 2021 年的資料，則是來自林務局 107 年度外來入侵鳥種埃及聖䴉族群管理結案報告與 eBird 的回報紀錄，將 eBird 數據中缺值或不合理的紀錄去除後，以各縣市該年度的最大族群量相加，之後，再加上該年度計畫移除的蛋、幼鳥、亞成鳥及成鳥的數量，做為該年度的聖䴉族群量代表。
 ### Data Coverage and Time Span
-The population size of African Sacred Ibis from 1995 to 2021. <br> The locations and population size of African Sacred Ibis from 1996 to 2019.
+埃及聖䴉族群數量（1995-2021 年） 埃及聖䴉出現位置及數量（1996-2019 年）
 ### Updates
-There was no population size survey in 2018; only individual removal removal were carried out. Therefore, all population data for that year were sourced from eBird. According to records from January to December 2018, a total of 3,544 records were submitted, with Tainan City having the highest number, 295 individuals, among all counties/cities. In the same year, a reproductive control program for the African sacred ibis was implemented, resulting in the removal of 311 eggs, 216 nestlings, 200 juveniles, and 3 adults.
+由於 2018 年僅移除個體，並無針對族群量進行調查，因此，本次族群量數據均來自 eBird。根據 2018 年 1 月至 12 月的資料，共有 3,544 筆紀錄，其中以台南市的族群量最高，最多記錄到 295 隻個體。另外，該年有針對埃及聖䴉進行生殖控制計畫，共移除 311 顆蛋、216 隻幼鳥、200 隻亞成鳥及 3 隻成鳥。
 ### Trends
-The trend chart shows that both the spatial range and population size of the African sacred ibis have been increasing steadily over years, with an exponential growth observed after 2005, indicating a growing ecological threat. According to a 2017 report by Forestry Bureau (now Forestry and Nature Conservation Agency), the population size of ibis has reaching a level that threatens the survival of native bird species. During the survey period, the apparent decline in population between 2011 and 2014 is attributed to data error and should not be interpreted as an actual population decrease. This discrepancy is deu to the insufficient and inconsistant data prior to the offical introduction of the eBrid platform in Taiwan in 2013. Following active promotrion of eBird, a significant number of birdwatchers began contributing their observations, greatly improving the credibility of ibis population estimate. Since 2019, the Forestry Bureau comissioned professional teams and indigenous hunters to assist in the removal of eggs, nestlings, juveniles and adults. In 2020, the removal team was expanded, and additional subsidies were provided to local governments for egg and nestling removal, as well as for collecting and reporting public sightings through eBird. These intensified efforts may explain the elevated population estimates in 2019 and 2020.
-### Data Management/Authorities
-eBird Team, Forestry and Nature Conservation Agency, Minister of Agriculture, Executive Yuan, Taiwan Wild Bird Federation, Birdway Control Co., Ltd., Wildlife Research Laboratory in School of Forestry and Resource Conservation, National Taiwan University
+自指標趨勢圖可見埃及聖䴉分布範圍與數量逐年增加，在 2005 年後更呈現指數成長，顯示埃及聖䴉的威脅越來越嚴重。在林務局 2017 年的研究報告中指出，埃及聖䴉當前的族群數量已經脅迫到原生鳥類的的生存。其中，2011 年至 2014 年族群量下降的原因為數據誤差，並不表示族群量減少，誤差原因為 eBird 是於 2013 年方在台灣正式推廣，因此，2011 年至 2012 年的數據較少且誤差較大。經推廣後，已有許多賞鳥者將數據匯入 eBird 資料庫，所得之埃及聖䴉族群數量可信度相當高。2019 年起林務局開始委託專業廠商及原住民獵人協助移除蛋、幼鳥及成鳥，2020 年擴大原住民獵人移除成鳥隊伍，且另外補助地方政府經費移除蛋及幼鳥，並向民間蒐集目擊資料上傳 eBird，推論因此 2019 年及 2020 年估計之族群數量較高。
+### 資料管理／權責單位
+eBird 團隊、行政院農委會林務局、社團法人中華民國野鳥學會、博威鳥控有限公司、臺灣大學森林環境暨資源學系野生動物研究室
 ### References
-* eBird website
-* Forestry Bureau, Council of Agriculture, Executive Yuan (2021) Ecological Restoration and Removal Plan for the invasive alien species: African Sacred Ibis (*Threskiornis aethiopicus*), Green Iguana (*Iguana iguana*), and White Popinac *Leucaena leucaena* in the Hengchun Peninsula (Translated by TaiBON Team)
-* Forestry Bureau, Council of Agriculture, Executive Yuan (2020) The 2020 Invasive African sacred ibis census report for Taiwan and prevention and control training action plan
-* Forestry Bureau, Council of Agriculture, Executive Yuan (2019) Project report of "Population Control for Invasive Species—The Sacred Ibis"
-* Forestry Bureau, Council of Agriculture, Executive Yuan (2018) Project report of "Population Control for Invasive Species—The Sacred Ibis"
-* Forestry Bureau, Council of Agriculture, Executive Yuan (2017) Experiment of Population Control for Invasive Species – The Sacred Ibis
-* Forestry Bureau, Council of Agriculture, Executive Yuan (2016) Experiment of Population Control for Invasive Species – The Sacred Ibis
-* Forestry Bureau, Council of Agriculture, Executive Yuan (2015) Population Control of The Invasive Species of Sacred Ibis
-* Forestry Bureau, Council of Agriculture, Executive Yuan (2010) Population Models and Control of the Invasive Species of Sacred Ibis
-* Forestry Bureau, Council of Agriculture, Executive Yuan (2011) Population Models and Control of the Invasive Species of Sacred Ibis
-* Forestry Bureau, Council of Agriculture, Executive Yuan (2009) Effects of Invasive Species Sacred Ibis (*Threskornis aethiopicus*) to the Taiwan bird Ecosystem
+* eBird 網站
+* 行政院農委會林務局（2021）外來入侵種埃及聖䴉、綠鬣蜥與恆春半島銀合歡移除及復育計畫
+* 行政院農委會林務局（2020）109 年外來入侵種埃及聖䴉全台族群資料建置與防治人力培訓計畫
+* 行政院農委會林務局（2019）108 年度外來入侵鳥種埃及聖䴉族群管理期末報告
+* 行政院農委會林務局（2018）107 年度外來入侵鳥種埃及聖䴉族群管理結案報告
+* 行政院農委會林務局（2017）106 年度外來入侵鳥種埃及聖䴉族群管理試驗
+* 行政院農委會林務局（2016）105 年度外來入侵鳥種埃及聖䴉防治試驗
+* 行政院農委會林務局（2015）外來入侵鳥種埃及聖䴉防治計畫
+* 行政院農委會林務局（2010）入侵種埃及聖䴉族群模式與移除方法之研究
+* 行政院農委會林務局（2011）入侵種埃及聖䴉族群模式與移除方法之研究
+* 行政院農委會林務局（2009）入侵種埃及聖䴉對於臺灣地區鳥類生態影響之研究

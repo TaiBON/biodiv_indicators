@@ -7,14 +7,16 @@
 ### Themes
 Terrestrial protected areas
 ## PSBR model type
-Pressure (P)
+壓力（P）
 ### Corresponding targets
-#### SDGs
-15.8 By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species.
+#### 永續發展目標
+目標 15.8：到 2020 年，採取措施防止引入外來入侵物種並大幅減少其對土地和水域生態系統的影響，控制或消滅其中的重點物種。
+#### 昆–蒙目標
+目標 6：藉由辨識並管理外來物種之引入途徑、避免優先管制入侵種之遷入和定殖，進而消弭、最小化、減少及／或緩解其對生物多樣性和生態系服務之衝擊；並於 2030 年以前，將其他已知或潛在外來入侵種之引入和定殖率降低至少 50%，同時推動外來入侵種之根除或防治，特別著重於島嶼等優先防治地區。 
 #### Aichi Biodiversity Targets
-Target 9: By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
+目標 9：至遲於 2020 年，入侵外來物種和進入管道得到鑒定和排定優先次序，優先物種得到控制或根除，同時制定措施管理進入管道以防止入侵外來物種的進入和紮根。
 #### Biodiversity Action Plan
-D41050 Prevention and Control of Invasive Species: (1) Develop an emergency eradication plan for new invasive species and conduct regular drills with local governments. (2) Establish a long-term control plan for invasive species to minimize the economic loss and ecological impact caused by invasive species. Action plan performance indicators:
+D41050 入侵種生物防治：（1）研擬新入侵生物緊急撲滅計畫，並聯合地方政府定期演習。（2）建立已入侵生物長期防治計畫，將入侵種造成之經濟損失及生態衝擊降至最小。 行動方案績效指標：
 * Number of existing invasive species, affected areas, and eradication cases handled/executed in the invasive species control plan.
 * The reduction rate of distribution range/number of existing invasive species. The reduction in the number of individuals of existing invasive species
 ### Background
@@ -25,8 +27,8 @@ Count the number of specific alien species in each protected area and their resp
 (N/A)
 ### Data trend
 (N/A)
-### Data Management Authorities
+### 資料管理／權責單位
 National Park Division, Forestry Bureau, Council of Agriculture
 ### References
-* Ling-Ling Lee (2003), Establishment of effectiveness evaluation criteria for national park conservation and management--Final report.
-* GISP (2007) Evaluation report on the overview of Invasive Species and Protected Areas.
+* 李玲玲（2003）國家公園保育及經營管理成效評估準則之建立-期末報告
+* GISP（2007）外來入侵種與保護區概況評估報告

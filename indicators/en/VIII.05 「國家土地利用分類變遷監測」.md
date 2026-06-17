@@ -8,21 +8,23 @@ Land use monitoring serves the purpose of promoting sustainable land use.
 ### Themes
 Sensitive habitats
 ### PSBR Model Type
-Response (R)
+回應（R）
 ### Corresponding Targets
+#### 昆–蒙目標
+目標 2：2030 年以前，使至少 30% 之退化的陸域、內陸水域、海洋與沿海生態系獲得有效修復，以增進生物多樣性、生態系功能與服務，以及生態完整性和連通性。<br> 目標 11：復育、維護並提升自然對人類的貢獻，包括生態系功能與服務，例如空氣、水與氣候的調節、土壤健康、授粉與降低疾病風險，以及防禦自然危害與災害；並透過自然為本的解方及／或生態系為本的方法，造福全體人類與自然。<br>
 #### Aichi Biodiversity Targets
-Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 percent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
+目標15：到 2020 年，透過保育和復原行動，包括復原至少 15% 退化的生態系，強化生態系的復原能力以及生物多樣性對碳吸存的貢獻，從而幫助減緩與調適氣候變遷及防止沙漠化。
 ### Background
-The national land-use monitoring is mainly composed of the detection system of land-use changes, the inspecting and reporting system of variation spots, the App for land monitoring and reporting, and the administrative procedures of the inspecting and reporting on variation spots. Its purpose is to use satellite remote sensing data to handle the operations of detecting land-use changes and inspecting and reporting on spots of variation, in order to understand the spatial and temporal trend of land-use changes, and adopt high-tech digital methods to improve the traditional methods of inspection and suppression on violation of land-use, to prevent illegal land destruction and achieve the goal of sustainable development of Taiwan.
+國家土地利用監測主要由土地利用變遷偵測系統、變異點網路通報查報系統、國土監測查報 App 與變異點查報的行政程序所構成。其目的為使用衛星遙測資料，辦理土地變遷偵測及變異點通報查報作業，以掌握國土時空變遷之趨勢，並採高科技數位化的方式，改善傳統土地利用違規查報取締方法，以遏阻不法之國土破壞行為，達成國土永續發展的目標。
 ### Definition and Calculation
-Use satellite remote sensing as a detection tool to conduct comprehensive and periodic monitoring on land-use changes. First establish the spectral data of the satellite image sample area, complete the selection of permanent sample areas (the purpose of the permanent sample area is to provide a benchmark for the classification of remote sensing images, and it can be used to verify the results of image interpretation), and then observe the images of different periods to identify the differences. Use computer automated interpretation and manual screening to tease out spots of variation that are suspected as violations, and notify local governments and relevant authorities to send personnel to the sites to inspect and report the results of the inspection.
+以衛星遙測為偵測工具，進行全面性及週期性的土地利用變遷監測。首先建立衛星影像樣區光譜資料，完成永久樣區選定（永久樣區選定目的在提供進行遙測影像分類之基準，作為影像判釋成果驗證用），而後經由觀測不同時期的影像，辨識前後期不同之處，透過電腦自動化判釋及人工篩選篩出疑似違規變異點，並通報各地方政府及目的事業主管機關派員至現地查核及回報稽查結果。
 ### Data Coverage and Time Span
-Statistical Result of Changed Areas Report (2002-2022)
+監測通報回報統計成果（2002-2022 年）
 ### Updates
-In 2020, a total of 31,168 spots of variations were reported. Among them, 18,739 were determined to be legal upon inspection, 11,654 were found to be illegal, and 775 were classified as other cases, such as known construction, natural changes, unidentifiable locations, inaccessible for on-site inspection, or outside the jurisdiction. This represents an increase of 4,985 variation spots compared to 2020.
+依據國土利用監測計畫網站資料所示，2020 年共回報 31,168 個變異點，其中有 18,739 個變異點經查驗後為合法、11,654 個變異點屬於違規、775 個變異點屬於其他（包含已知工程、自然變化、無法辨識變異點位置、無法現場查驗、不屬於其管轄範圍等）。相較 2020 年增加 4,985 個變異點。
 ### Trends
-Since 2014, the National Land Surveying and Mapping Center has taken over and integrated the monitoring projects previously conducted by the Construction and Planning Agency, the Soil and Water Conservation Bureau, and the Water Resources Agency. The monitoring frequency for each government department was increased to once every 2 months, and the resolution of satellite imagery was enhanced to 1.5 –2.5 meters. Compared to the pre-2014 period when monitoring efforts were not integrated, the detection rate of illegal land use has substantially improved since the implementation of the integrated monitoring system.
-### Data Management Authorities
+國土測繪中心自 2014 年接辦整合營建署、水保局及水利署等機關監測計畫，提高各機關監測頻率至每 2 個月 1 次，並將衛星影像解析度提升為 1.5 公尺至 2.5 公尺。相較於 2014 年前未整合監測的成果，2014 年執行監測整合迄今，國土違規使用發現率有明顯提高。
+### 資料管理／權責單位
 National Land Surveying and Mapping Center
-### Data sources/URL
+### 資料來源／網頁連結
 [Land Use Monitoring Integrated Information Network – Statistical Result of Changed Areas Report](https://landchg.tcd.gov.tw/Module/RWD/Web/pub_result.aspx)

@@ -10,27 +10,33 @@ Marine pollution
 
 ### PSBR Model Type
 
-Pressure (P)
+壓力（P）
 
 ### Corresponding Targets
 
-#### SDGs
+#### 永續發展目標
 
-14.1<br> Reduce marine pollution of all kinds, including nutrients
-and marine waste pollutions.<br>
-14.1.1 Index of coastal eutrophication and floating plastic debris density <br>
-2020 Quantification Target: The implementation period of Taiwan’s Marine Debris Management Action Plan is tentatively set for 2018 to 2022.
+目標 14.1：<br>
+減少各式海洋污染，包括營養鹽及海洋廢棄物。：<br>
+目標 14.1.1：<br>
+沿岸區域優養化指數及漂流塑膠。
+2020 年量化目標：臺灣海洋廢棄物治理行動方案執行期間暫訂為2018至2022年。
 Continue promoting the implementation of the “Ongoing Actions” and the “Future Actions” under the Management Action Plan, in order to effectively reduce waste generation and minimize its impact on the marine ecosystem.
 
-#### Aichi Biodiversity Targets
+#### 昆–蒙目標
 
-Target 8 <br>
-By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
+目標 7：<br>
+2030 年以前，降低污染風險及各類污染源所造成之負面影響，使之達到不再危害生物多樣性與生態系功能及服務之水準，同時考量污染之累積效應，包括：（a）藉由更高效率之營養鹽循環與利用，將過量營養鹽流失至環境之情形減少至少一半；（b）以科學為基礎，並兼顧糧食安全與生計，將農藥與高度危害化學物質之整體風險降低至少一半，包括透過綜合性病蟲害管理；（c）防止、減少並逐步消除塑膠污染。
+
+#### 愛知目標
+
+目標 8：<br>
+到 2020 年，污染，包括優養化，被控制到不危害生態系功能和生物多樣性的範圍。
 
 ### Background
 
-Marine debris, or marine litter, is usually defined as “any persistent, manufactured or processed solid material that is discarded, disposed of, or abandoned in the marine and coastal environment.”Marine debris originates from both land-based and sea-based resources. Terrestrial sources includes landfills, river runoff, sewage overflow, industrial wastes, and coastal recreational activities. Marine sources include lost or discarded ship cargo, cruise ship opertations, abandoned fishing gear, waste discharged from naval and research vessels, offshore gas and oil extraction facilities, and aquaculture operations, etc.Based on its distribution, marine debris can be further classified into seafloor marine debris (SMD), floating marine debris (FMD) and beached marine debris (BMD).
-Dense human population in coastal area, along with the growing intensity of maritime shipping and fishing activities, have led to the accumulation of a colossal amount of marine debris. In some cases, floating debris has formed patches as large as islands, extending up to 500 nautical mile in width. This phenomenon is often satirically referred to as "plastic soup". The environmental damage continues to worsen by a daily basis, making it an urgent issue that demands our collective attention and action.
+海洋垃圾（marine debris，或稱 marine litter），常用定義為「遭人為丟棄、處置或不慎遺棄之任何物體，進入海岸或海洋環境者」。Marine debris originates from both land-based and sea-based resources. Terrestrial sources includes landfills, river runoff, sewage overflow, industrial wastes, and coastal recreational activities. Marine sources include lost or discarded ship cargo, cruise ship opertations, abandoned fishing gear, waste discharged from naval and research vessels, offshore gas and oil extraction facilities, and aquaculture operations, etc.如果從分布地點看，則可再細分為海底垃圾（seafloor marine debris, SMD）、海漂垃圾（floating marine debris, FMD）以及海灘垃圾（beached marine debris, BMD）。
+由於人類密集居住於海濱地區，加上海上航運、漁業行為日益活絡，造成海上垃圾經年累月累積後，數量日益龐大，甚至在海上聚集成大如島嶼的漂流物，延伸可長達五百海浬，被謔稱為「塑膠濃湯（plastic soup）」，其危害日鉅，成為我們應該努力面對的問題。
 
 ### Definition and Calculation
 
@@ -40,16 +46,16 @@ Dense human population in coastal area, along with the growing intensity of mari
 
 ### Updates
 
-According to the data provided by Datan Power Plant and Hsinta Power Plant, there are 7 data entries from June to December in 2019. The monthly ratio of domestic waste to heated discharge (g/kt) is as follows: 58.2 (June), 94.6 (July), 25.4 (September), [nodata in August], 70.3 (October), 60.9 (November), and 139.5 (December) for Datan Power Plant, and 5.4 (June), 6.5 (July), 5.8 (August), 0 (September), 0 (Octorber), 3.4 (November), 1.8 (December) for Hsinta Power Plant.
+依據大潭電廠及興達電提供的資料，2019 年共有 6-12 月等 7 筆資料，每月生活垃圾量／溫排水量(公克／千噸)分別為：大潭電廠 58.2 (6月)、94.6 (7月)、25.4 (9月)、70.3 (10月)、60.9 (11月)、139.5 (12月)，興達電廠 5.4 (6月)、6.5 (7月)、5.8 (8月)、0 (9月)、0 (10月)、3.4 (11月)、1.8 (12月)。
 
 ### Trends
 
-(under improvement; not yet disclosed)
+\--（資料品質改進中，暫不公開）
 
-### Data Management/Authorities
+### 資料管理／權責單位
 
 Taiwan Power Company
 
-### Data Source/URL
+### 資料來源／網站連結
 
 Taiwan Power Company

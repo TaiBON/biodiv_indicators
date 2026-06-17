@@ -5,30 +5,31 @@ Original indicator number: IV.05
 
 ### Brief Description
 Flagship species, keystone species, protected or endangered species play critical ecological roles and should be given priority in monitoring and conservation efforts.
-
 ### Themes
 Population of selected taxa
 ### PSBR Model Type
-State (S)
+狀態（S）
 ### Corresponding Targets
+#### 昆–蒙目標
+目標 1：確保所有區域均納入具生物多樣性考量之參與式與整合性空間規劃，並／或採行有效之管理機制，以因應土地／海洋利用變遷；並於 2030 年以前，將高度生物多樣性重要區域（包括具高度生態完整性之生態系統）之喪失降至接近於零，同時尊重原住民族人民與地方社區之權利。<br> 目標 20：強化能力建構與發展、技術之取得與轉移，並促進創新以及科技與科學合作之發展與取得，包括藉由南南、南北及三方合作，以滿足有效落實之需求，尤其在開發中國家，推動聯合技術開發與聯合科學研究計畫，以支持生物多樣性之保育與永續利用，並強化科學研究與監測能力，使之與《框架》之目標及行動目標所展現之宏願相稱。<br>
 #### Aichi Biodiversity Targets
-Target 19: By 2020, knowledge, the science base and technologies relating to biodiversity, its values, functioning, status and trends, and the consequences of its loss, are improved, widely shared and transferred, and applied.
+目標 19：到 2020 年，與生物多樣性、其價值和功能，其狀況和趨勢以及其喪失可能帶來的後果有關的知識、科學基礎和技術已經提昇、廣泛分享和移轉及使用。
 #### Biodiversity Action Plan
 D12030 Strengthen the research on population changes of indicator animals, plants, and micro organisms. <br> <br> Action plan key performance indicator:
 * Research projects on the change of indicator species
 ### Background
-The black-faced spoonbill belongs to the subfamily Plataleinae, and are commonly called "Hai-Pi" (Taiwanese Mandarian pronunciation of black spoonbill) by bird watchers. It is one of the globally critically-endangered species, and the total number is fewer than three thousand. The Taijiang National Park is the winter habitat currently with the largest number of black-faced spoonbills in the world, and the maximum number is almost more than one thousand in recent years. In accordance with the Wildlife Conservation List announced by Wildlife Conservation Law, Council of Agriculture, the black-faced spoonbill is listed as critically endangered.
+黑面琵鷺屬於琵鷺亞科，賞鳥人士則俗稱為「黑琵」，為全球瀕危物種之一，總數量不超過 3,000 隻。台江國家公園地區是目前全世界黑面琵鷺數量最多的度冬棲息地，近年最大數量幾乎都在 1,000 隻以上。 依照農委會野生動物保育法公告之保育類野生動物名錄，黑面琵鷺屬於瀕臨絕種的類別。
 ### Definition and Method of Calculation
-The calculation method of the global census (Taiwan Wild Bird Federation): every year, from mid-January to the end of January, when the number of black-faced spoonbill populations is stable, the survey agency selects the known habitats used by black-faced spoonbills in recent years as the sample areas to count the population number. Each survey conducted by a team is regarded as an independent and effective sampling. If there are two surveys in a certain area, the larger number shall be taken as the number of that area in that year. Chiku Research Center, Endemic Research Institute has conducted daily fixed-point observations on the number of black-faced spoonbills in Taijiang wetlands since 2011 and has accumulated 6 years of observational data. The global simultaneous survey of black-faced spoonbills has been carried out since 1993. The Hong Kong Bird Watching Society of the International Bird League began to coordinate the global simultaneous survey in 2003, which is carried out jointly by volunteer senior bird watchers, researchers, and ornithologists from all over the world. The census results of Taiwan, Hong Kong, Macau, Vietnam, and Japan are collected and sorted by local coordinators, and the survey results in various regions are analyzed and published by the Hong Kong Bird Watching Society. Catch, band, and release research: select individuals from different regions and different populations, attach color rings on their feet to facilitate identification, and select individuals to install radio transmitters to monitor the range of activities in the winter habitats. At the same time, select suitable individuals to install satellite transmitters to record information on migration between the north and south of the island.
+全球普查之計算方法（中華鳥會）：每年一月中旬至下旬黑面琵鷺族群數量較穩定時，調查單位選擇近年已知黑面琵鷺曾利用之棲地作為樣區，計算族群數量。每個團體每次進行之調查視為一次獨立有效取樣，若某地區有兩次調查，則取數量較多者為該地區該年度之數量。 特生七股研究中心自 2011 年起每日進行定點觀測台江濕地黑面琵鷺數量，已累積 6 年的觀測資料。 自 1993 年開始進行黑面琵鷺全球同步普查，國際鳥盟支會香港觀鳥會於 2003 年起開始統籌全球同步普查，由各地資深賞鳥人士、研究人員和鳥類學家共同義務進行。臺灣、香港、澳門、越南和日本的普查結果由當地的統籌員收集和整理，各地調查結果由香港觀鳥會統整分析並發佈。 補抓繫放研究：選擇不同區域不同族群之個體，在其腳上繫色環以利辨識，並於其中選取個體裝設無線電發報器，以監測渡冬期間在渡冬地的活動範圍，同時選擇適宜個體裝設衛星發報器，紀錄於島內南北遷徙之資訊。
 ### Content of existing data and years covered
-Global consensus of black-faced spoonbill (2007–2022)
+黑面琵鷺全球普查（2007 年至 2022 年）
 ### Updates
-According to the Taiwan Wild Bird Federation, a total of 3,824 individuals were recorded across Taiwan in 2022, accounting for 62.1% of global population, an increase of 692 individuals compared to 2021.
+依據中華民國野鳥學會資料所示，2022 年全台共記錄到 3,824 隻，佔全球約 62.1% 的族群量。相較於 2021 年增加 692 隻。
 ### Trends
-The trend graph is based on data from the International Black-faced Spoonbill Census. Since 2011, the population size of black-faced spoonbill (*Platalea minor*) has shown a steady increase, with over 50% of the wintering population consistently recorded in Taiwan.
+趨勢圖資料來自黑面琵鷺全球同步普查，從 2011 年開始，黑面琵鷺數量逐年上升，而且持續有 50% 以上的族群量在臺灣度過冬季。
 ### Data Management/Authorities
 Taiwan Wild Bird Federation, Chiku Research Center, Endemic Research Institute, Black-Faced Spoonbill Conservation Association, Hong Kong Bird Watching Society, Wild Bird Society of Tainan
 ### Data sources/URL
-* Taiwan Wild Bird Federation 2022 International Black-faced Spoonbill Census <br>https://www.bird.org.tw/basicpage/1891
-* Black-Faced Spoonbill Conservation Association 2021 International Black-faced Spoonbill Census <br>https://www.bird.org.tw/basicpage/1891
-* Hong Kong Bird Watching Society 2021 International Black-faced Spoonbill Census<br>https://www.hkbws.org.hk/cms/component/phocadownload/category/33-bfs-census-report
+* 中華民國野鳥學會 2022 黑面琵鷺全球同步普查結果 https://www.bird.org.tw/basicpage/1891
+* 黑面琵鷺保育學會 2021 年黑面琵鷺全球同步普查結果 https://www.bfsa.org.tw/tc/research-in.php?cn=44&cn=44&&id=364
+* 香港觀鳥會 2021 年黑臉琵鷺全球同步普查報告 https://www.hkbws.org.hk/cms/component/phocadownload/category/33-bfs-census-report

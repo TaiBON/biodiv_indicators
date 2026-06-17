@@ -8,22 +8,22 @@ The indicator analysis the fish landings of each fishery in order to monitor, ma
 ### Themes
 Fishery resources
 ### PSBR model type
-Status (S)
+狀態（S）
 ### Corresponding targets
-#### SDGs
-14.4.1 Proportion of fish stocks within biologically sustainable levels
-#### Kunming-Montreal Global Biodiversity Framework
-Goal 5: Sustainable Use and Trade of Wild Species. <br> Ensure that the use, harvestnig and trade of wild species are sustainable, safe and legal, prevent overexploitation, minimizing impacts on non-target species and ecosystems, and reducing the risk of pathogen spillover, applying the ecosystem approach, while respecting and protecting customary sustainable use by indigenous peoples and local communities. <br> Goal 9: Sustainable Use of Wild Species. <br> Ensure the management and use of wild species are sustainable, thereby providing social, economic and environmental benefits for people, especially those in vulnerable situations and those most dependent on biodiversity, including through sustainable biodiversity-based activities, products and services that enhance diversity, and protecting and encouraging customary sustainable use by indigenous people and local communities.
-#### Aichi Target (Previous Version of the CBD Targets):
-Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
+#### 永續發展目標
+目標 14.4.1：沿近海經濟魚種進行資源管理。
+#### 昆–蒙目標
+目標 5：確保野生物種之利用、採獵與交易皆為永續、安全且合法，防止過度利用，減少對非目標物種與生態系統之衝擊，並降低病原體溢出風險，採行生態系方法，同時尊重與保護原住民族人民及地方社區之傳統永續利用方式。<br> 目標 9：確保永續地管理與利用野生物種，從而為人類（特別是處境脆弱者及最依賴生物多樣性維生者）提供社會、經濟與環境之利益；包括藉由基於生物多樣性永續之活動、產品與服務以增進生物多樣性，並保障及鼓勵原住民族人民與地方社區之傳統永續利用。<br>
+#### 愛知目標
+目標 6：到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。
 ### Background
-Monitor and manage various types of fishing gear and fishing method (including spearfishing, pole-and-line, trolling, longline fishing, gillnet, purse seine, torchlight net, seine fishing, danish seine, larval anchovy fishery, trawling, reef fishery, etc.), these fishing methods can be divided into sustainable fishing methods, targeted fishing methods, and destructive fishing methods according to the degree of impact on the marine ecology. In order to achieve reasonable development and sustainable use of resources, the trends of change in various fishing methods should be tracked in detail.
+透過各漁業別之漁產量，以監測、管理各類型漁具漁法（包括鏢旗魚、一支釣、曳繩釣、延繩釣、刺網、巾著網、焚寄網、圍網、扒網、魩鱙漁業、拖網、珊瑚漁業等），這些漁法，根據影響海洋生態的程度，可略分為永續性漁法、針對性漁法、破壞性漁法，為達到資源合理的開發與永續利用，應詳細追蹤各類漁法的變化趨勢。
 ### Definition and Calculation
-1. Fish landings (tons) of diffrent offshore and inshore fishery categories
-2. The current data are the cumulated sums of offshore fishery production (thousand tons), offshore fishery value (thousand NTD), inshore fishery production (thousand tons), and inshore fishery value (thousand NTD), from past years, provided by the Taiwan Fisheries Yearbook.
+1. 沿近海各漁業類別之漁獲量資料（噸數）。
+2. 目前資料為歷年漁業統計年報中之沿海漁業產量（千噸）、產值（千元）合計，以及沿岸漁業產量（千噸）、產值（千元）合計。
 ### Update
-According to the Taiwan Fisheries Yearbook (2022), the total offshore fishery production was 115,325 metric tons, with a production value of NT$9,794,757 thousand; the total coastal fishery production was 19,863 metric tons, with a production value of NT$3,352,285 thousand.
-### Data Management /Authorities
+依據民國 112 年（2023）漁業統計年報，近海漁業產量合計 158,516 公噸，產值 13,452,382 千元；沿岸漁業產量合計 33,479 公噸，產值 4,931,367 千元。
+### 資料管理／權責單位
 Fisheries Agency, Council of Agriculture
-### Data Source/URL
+### 資料來源／網站連結
 [Taiwan Fisheries Yearbook on the website of the Fisheries Agency, Council of Agriculture](https://www.fa.gov.tw/cht/PublicationsFishYear/index.aspx)

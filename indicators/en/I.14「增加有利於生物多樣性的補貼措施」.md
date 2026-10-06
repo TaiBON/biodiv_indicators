@@ -4,7 +4,7 @@ Original indicator name: a subsidy measure that is not conducive to biodiversity
 
 ### Brief Description
 
-Eliminating subsidies detrimental to biodiversity and sustainable fisheries, or increasing beneficial ones, will help restore fishery resources.This initiative is incorporated in United Nations Sustainable Development Goal 14, Aichi Target 3, and Target 18 of the Kunming-Montreal Global Biodiversity Framework. Accordingly, governments worldwide should actively review and enhance the effectiveness of fishery subsidy policies in sustaining fishery resources.
+Eliminating subsidies detrimental to biodiversity and sustainable fisheries, or increasing beneficial ones, will help restore fishery resources. This initiative is incorporated in United Nations Sustainable Development Goal 14, Aichi Target 3, and Target 18 of the Kunming-Montreal Global Biodiversity Framework. Accordingly, governments worldwide should actively review and enhance the effectiveness of fishery subsidy policies in sustaining fishery resources.
 
 ### Themes
 
@@ -12,13 +12,14 @@ Fishery resources
 
 ### PSBR Model Type
 
-回應（R）
+Response (R)
 
 ### Corresponding Targets
 
 #### 永續發展目標
 
-目標 14.6.1：不予提供非法、未報告及不受規範（簡稱 IUU）漁撈行為的補助。
+14.6.1 <br>
+Subsidies for illegal, unreported, and unregulated (IUU) fishing activities will not be granted.
 
 #### 昆–蒙目標
 
@@ -40,9 +41,9 @@ The trend of various subsidies over the years can be used as a reference for the
 
 ### Updates
 
-依據民國 112 年（西元 2023）行政院農業委員會漁業署及所屬單位決算，休漁補貼金額為 350,071 千元。112 年休漁補貼金額較 2009-2018 年高出許多，可能原因為農委會於 108 年 6 月 21 日發布「自願性休漁獎勵辦法」，鼓勵漁民集中在漁業資源密度高峰期作業，離峰期在港休漁。
+依據民國 112 年（西元 2023）行政院農業委員會漁業署及所屬單位決算，休漁補貼金額為 350,071 千元。 According to the 2019 fiscal final account of the Fisheries Agency under the Ministry of Agriculture, Executive Yuan, the amount of subsidies for the fishing moratorium was NT$360.47 million.Compared to the years 2009–2018, the amount of subsidies for the fishing moratorium in 2019 was significantly higher. This may be attributed to the “Regulations for the Incentive Program for Voluntary Fishing Moratorium” announced by the Council of Agriculture (now the Ministry of Agriculture) on June 21, 2019, which encouraged fishers to concentrate their operations during peak periods of fishery resource abundance and to suspend fishing during off-peak periods.
 
-### 資料管理／權責單位
+### Data Management/Authorities
 
 Fisheries Agency, Ministry of Agriculture
 

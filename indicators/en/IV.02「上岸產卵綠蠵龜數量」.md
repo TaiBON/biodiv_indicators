@@ -12,7 +12,7 @@ Abundance trends of selected taxa
 
 ### PSBR Model Type
 
-狀態（S）
+Status (S)
 
 ### Corresponding Targets
 
@@ -26,12 +26,12 @@ Abundance trends of selected taxa
 
 ### Background
 
-綠蠵龜屬於蠵龜科，體型屬中大型海龜，生殖期會洄游至出生海域附近進行交配，龜卵成熟時，母龜會將卵產於溫度高於 25℃ 的沙灘上。平均 45-55 天出生，孵化成功機率約為 70%。Currently, six nesting beaches have been designated as wildlife protected areas.
-海大研究團隊分別在澎湖縣望安島及台東縣蘭嶼島收集了 24 年及 19 年的綠蠵龜生殖生態學資料，並從兩島的 19 年相對應資料中，找出兩島產卵母龜數量變化上的差異，可能與公海的漁業捕殺（如持續監測）有關，將可能的原因及全球氣候變遷，判斷是否對產卵族群會產生影響。These findings hold significant implications not only for academic research but also for government policy-making.
+綠蠵龜屬於蠵龜科，體型屬中大型海龜，生殖期會洄游至出生海域附近進行交配，龜卵成熟時，母龜會將卵產於溫度高於 25℃ 的沙灘上。平均 45-55 天出生，孵化成功機率約為 70%。 Currently, six nesting beaches have been designated as wildlife protected areas.
+海大研究團隊分別在澎湖縣望安島及台東縣蘭嶼島收集了 24 年及 19 年的綠蠵龜生殖生態學資料，並從兩島的 19 年相對應資料中，找出兩島產卵母龜數量變化上的差異，可能與公海的漁業捕殺（如持續監測）有關，將可能的原因及全球氣候變遷，判斷是否對產卵族群會產生影響。 These findings hold significant implications not only for academic research but also for government policy-making.
 
 ### Definition and Calculation
 
-每年產卵季高峰期間（6-9 月），前往各產卵地進行長期駐島調查，除了計算上岸母龜數外，也記錄相關龜卵與稚龜形質資訊，並利用衛星發報定位器了解母龜的洄游模式及覓食區位置
+During the peak of the nesting season each year (June to September), long-term on-site surveys are conducted on the nesting islands of green sea turtle. In addition to counting the number of nesting females, data on eggs and hatchlings are also collected. Satellite transmitters are used to study the migratory behavior and foraging grounds of the female turtles
 
 ### Updates
 
@@ -42,13 +42,13 @@ Abundance trends of selected taxa
 
 (N/A)
 
-### 資料管理／權責單位
+### Data Management/Authorities
 
 Forestry and Nature Conservation Agency, Ministry of Agriculture; Ocean Conservation Administration, Ocean Affairs Council
 
 ### 資料來源／網站連結
 
-野澤洋耕（2019）108 年度臺灣周邊海龜族群調查計畫。Academia Sinica, commissioned by the Ocean Conservation Administration. <br>
-國立臺灣海洋大學（2012）澎湖縣海龜族群量生態調查及保護區經營管理計畫。National Taiwan Ocean University, commissioned by the Department of Agriculture and Fisheries, Penghu County Government.<br>
+野澤洋耕（2019）108 年度臺灣周邊海龜族群調查計畫。 Academia Sinica, commissioned by the Ocean Conservation Administration. <br>
+國立臺灣海洋大學（2012）澎湖縣海龜族群量生態調查及保護區經營管理計畫。 National Taiwan Ocean University, commissioned by the Department of Agriculture and Fisheries, Penghu County Government.<br>
 程一駿（2021）。
-2021 Project Report on the Planning of Conservation Measures for Sea Turtle Nesting Sites in Taiwan.National Taiwan Ocean Univeristy, commissioned by the Ocean Conservation Administration.
+2021 Project Report on the Planning of Conservation Measures for Sea Turtle Nesting Sites in Taiwan. National Taiwan Ocean Univeristy, commissioned by the Ocean Conservation Administration.

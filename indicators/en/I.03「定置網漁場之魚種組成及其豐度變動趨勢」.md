@@ -27,6 +27,6 @@ Variation trends of fish composition and abundance in the set-net fishry grounds
 依據漁業署所提供之2025年定置網查報系統統計資料，正鰹865,439 公斤、圓花鰹199,001 公斤、扁花鰹574,385 公斤、帶魚科196,418 公斤、鬼頭刀196,570 公斤。 註：定置網查報系統的魚種代碼表，2010-2014魚種代碼48000為白帶魚，2015年起魚種代碼48000列為帶魚科(屬)。2020年起帶魚科細分為48000帶魚科，480094沙帶魚、48095南海帶魚、48096日本帶魚、48097為白帶魚，48098為帶魚科(帶魚屬)。為做年間漁獲量變化比較，故在此帶魚科(屬)為魚種代碼48000、48094、48095、48096、48097、48098之相加總。
 
 ### Data Management/Authorities
-農業部漁業署
+Fisheries Agency
 ### Data Source/URL
-農業部漁業署
+Fisheries Agency, Council of Agriculture

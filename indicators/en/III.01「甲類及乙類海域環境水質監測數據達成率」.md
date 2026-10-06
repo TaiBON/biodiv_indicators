@@ -8,7 +8,7 @@ Regardless of the action plan performance indicators or sustainable development 
 ### Themes
 Marine pollution
 ### PSBR Model Type
-壓力（P）
+Pressure (P)
 ### Corresponding Targets
 #### 永續發展目標
 目標 14.1：減少各式海洋污染，包括營養鹽及海洋廢棄物。<br> 目標 14.1.2：2020 年量化目標：8項水質項目合格率維持在 99.5% 以上。
@@ -17,18 +17,18 @@ Marine pollution
 #### 愛知目標
 目標 8：<br> 到 2020 年，污染，包括優養化，被控制到不危害生態系功能和生物多樣性的範圍。
 ### Background
-在海洋中可發現許多有毒金屬包括汞，鎘，鉛，銅，和鋅等等。這些金屬元素可能單獨存在或與有機化合物相結合，毒性變得更強。例如，汞與碳結合後可形成神經毒性化合物甲基汞（CH<sub>3</sub>Hg）。雖然許多金屬在環境中自然存在，但工業和採礦活動造成的人為排放可能會加深許多毒性的濃度，若有可自動連續監測之水質項目，應將實測的原始數據建置資料庫並上網公開，此方式可據此找到污染源，予以告發並有效遏止偷排污染的行為。
+Many toxic metals can be found in the ocean including mercury, cadmium, lead, copper, and zinc, etc. These metal elements may exist alone or bind with organic compounds which becomes more toxic. For example, when mercury binds with carbon, it can form the neurotoxic compound methylmercury [CH3Hg]+. Although many metals naturally exist in the environment, the anthropogenic emissions caused by industrial and mining activities may increase the concentration of many toxins. If water quality data can be automatically and continuously monitored, a database of actual measured raw data should be built and made public online.
 ### Definition and Calculation
-海域環境水質監測數據合格率之計算方式，是將各測站水質監測結果（包括pH值、溶氧量、重金屬鎘、鉛、汞、銅、鋅共計 7 項），與其所屬海域環境分類與水質標準進行單一比較統計。
-
-$$ single item pass rate(\%)=\frac{times when water quality data reaching standard on one testing item}{times of water quality tested on one testing item}\times100\% $$
+To calculate the pass rate of date from marine environmental water quality monitoring, we take water quality data from each monitoring station (including pH value, dissolved oxygen, heavy metal cadmium, lead, mercury, copper, zinc, total 7 items), and compare the result of each item with the water quality standards set for the marine environment category where the station belongs and tally the ones reaching standards.
 
 $$ total pass rate (\%)={\frac{times when water quality data reaching standard on all 7 testing items}{times of water quality tested on all 7 testing items}}{\times}100\% $$
 
+$$ single item pass rate(\%)=\frac{times when water quality data reaching standard on one testing item}{times of water quality tested on one testing item}\times100\% $$
+
 ### Update
-2024 年水質監測結果，總達成率為 99.9%。其中，鉛達成率為 100.0%、pH 達成率為 95.5%、溶氧量達成率為 100.0%，其他重金屬（鎘、銅、鋅）等項目的達成率均為 100.0%。
-### 資料管理／權責單位
-海保署（2018 年以前為環保署）
+According to the results of water quality monitoring in 2018, the total pass rate was 99.7%. Among them, the pass rate of pH value is 99.0%, the pass rate of dissolved oxygen is 99.5%, the pass rate of copper is 99.3%, and the pass rate of other items including heavy metals (cadmium, lead, zinc and mercury) is 100.0%.
+### Data Management /Authorities
+Ocean Conservation Administration (Environmental Protection Agency before 2018)
 ### 資料來源／網站連結
 1.  [The Annual Report of Water Quality, on the website of Environmental Water Quality Information by Environmental Protection Administration, Executive Yuan.](https://wq.epa.gov.tw/Code/Report/ReportList.aspx)
 2.  [Water quality of the sea in the Marine Conservation Website of the Ocean Conservation Administration](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_WaterQuality.aspx)

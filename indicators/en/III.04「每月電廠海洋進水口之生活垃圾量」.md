@@ -10,7 +10,7 @@ Marine pollution
 
 ### PSBR Model Type
 
-壓力（P）
+Pressure (P)
 
 ### Corresponding Targets
 
@@ -20,7 +20,11 @@ Marine pollution
 減少各式海洋污染，包括營養鹽及海洋廢棄物。：<br>
 目標 14.1.1：<br>
 沿岸區域優養化指數及漂流塑膠。
-2020 年量化目標：臺灣海洋廢棄物治理行動方案執行期間暫訂為2018至2022年。
+14.1<br> Reduce marine pollution of all kinds, including nutrients
+and marine waste pollutions.<br>
+14.1.1 Index of coastal eutrophication and floating plastic debris density <br>
+2020 Quantification Target: The implementation period of Taiwan’s Marine Debris Management Action Plan is tentatively set for 2018 to 2022.
+Continue promoting the implementation of the “Ongoing Actions” and the “Future Actions” under the Management Action Plan, in order to effectively reduce waste generation and minimize its impact on the marine ecosystem.
 Continue promoting the implementation of the “Ongoing Actions” and the “Future Actions” under the Management Action Plan, in order to effectively reduce waste generation and minimize its impact on the marine ecosystem.
 
 #### 昆–蒙目標
@@ -35,7 +39,8 @@ Continue promoting the implementation of the “Ongoing Actions” and the “Fu
 
 ### Background
 
-海洋垃圾（marine debris，或稱 marine litter），常用定義為「遭人為丟棄、處置或不慎遺棄之任何物體，進入海岸或海洋環境者」。Marine debris originates from both land-based and sea-based resources. Terrestrial sources includes landfills, river runoff, sewage overflow, industrial wastes, and coastal recreational activities. Marine sources include lost or discarded ship cargo, cruise ship opertations, abandoned fishing gear, waste discharged from naval and research vessels, offshore gas and oil extraction facilities, and aquaculture operations, etc.如果從分布地點看，則可再細分為海底垃圾（seafloor marine debris, SMD）、海漂垃圾（floating marine debris, FMD）以及海灘垃圾（beached marine debris, BMD）。
+Marine debris, or marine litter, is usually defined as “any persistent, manufactured or processed solid material that is discarded, disposed of, or abandoned in the marine and coastal environment.”Marine debris originates from both land-based and sea-based resources. Terrestrial sources includes landfills, river runoff, sewage overflow, industrial wastes, and coastal recreational activities. Marine sources include lost or discarded ship cargo, cruise ship opertations, abandoned fishing gear, waste discharged from naval and research vessels, offshore gas and oil extraction facilities, and aquaculture operations, etc.Based on its distribution, marine debris can be further classified into seafloor marine debris (SMD), floating marine debris (FMD) and beached marine debris (BMD).
+Dense human population in coastal area, along with the growing intensity of maritime shipping and fishing activities, have led to the accumulation of a colossal amount of marine debris. In some cases, floating debris has formed patches as large as islands, extending up to 500 nautical mile in width. This phenomenon is often satirically referred to as "plastic soup". The environmental damage continues to worsen by a daily basis, making it an urgent issue that demands our collective attention and action. Marine debris originates from both land-based and sea-based resources. Terrestrial sources includes landfills, river runoff, sewage overflow, industrial wastes, and coastal recreational activities. Marine sources include lost or discarded ship cargo, cruise ship opertations, abandoned fishing gear, waste discharged from naval and research vessels, offshore gas and oil extraction facilities, and aquaculture operations, etc.如果從分布地點看，則可再細分為海底垃圾（seafloor marine debris, SMD）、海漂垃圾（floating marine debris, FMD）以及海灘垃圾（beached marine debris, BMD）。
 由於人類密集居住於海濱地區，加上海上航運、漁業行為日益活絡，造成海上垃圾經年累月累積後，數量日益龐大，甚至在海上聚集成大如島嶼的漂流物，延伸可長達五百海浬，被謔稱為「塑膠濃湯（plastic soup）」，其危害日鉅，成為我們應該努力面對的問題。
 
 ### Definition and Calculation
@@ -52,7 +57,7 @@ Continue promoting the implementation of the “Ongoing Actions” and the “Fu
 
 \--（資料品質改進中，暫不公開）
 
-### 資料管理／權責單位
+### Data Management/Authorities
 
 Taiwan Power Company
 

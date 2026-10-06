@@ -15,13 +15,13 @@ Terrestrial protected areas
 #### Aichi Biodiversity Targets
 目標 19：到 2020 年，與生物多樣性、其價值和功能，其狀況和趨勢以及其喪失可能帶來的後果有關的知識、科學基礎和技術已經提昇、廣泛分享和移轉及使用。
 #### Biodiversity Action Plan
-D21020 完成陸域、濕地與海洋生物多樣性監測系統之規劃，包括監測地點與方式之確定
+D21020 Complete the plan of monitoring system on terrestrial, wetland and marine biodiversity, including the confirmation of monitoring places and methods
 #### Key performance indicator of the action plan
 * Determin the plan of locations and methods of national biodiversity monitoring
 ### Background
 Wetland is the habitat environment which many wild animals and plants depend on for their livelihoods and plays an important role in the ecosystem. In addition, wetland also has the benefits of providing locations for sightseeing and recreation and improving the resilience of the land to flood. In recent years, the environment around the wetlands has changed drastically due to the rapid increase in urbanization. Therefore, it has become an important topic to keep updated on changes in the wetland ecosystem landscape.
 ### Definition and Calculation
-首先，將國土利用調查結果資料之第三級土地使用 103 類與其他土地使用類別，予以配對給予適當之 LDI 係數。 其次，將國家重要濕地範圍圖層套疊至國土利用調查成果圖層進行分析。再者以翁（2007）國家重要濕地彙編，依據濕地之區位與面積大小予以劃分。同時，裁取研究濕地及其邊界向外擴100公尺之國土利用調查成果圖層作為計算 LDI 值範圍。LDI 值為各土地類型所占面積百分比乘以各土地類型 LDI 係數之加總，其計算式為 : LDI<sub>total</sub> = Σ(%LU<sub>i</sub> × LDI<sub>i</sub>) （Brown and Vivas, 2005） LDI 值代表示人類活動干擾愈大，即開發程度愈大，反之亦然。
+First, pair the land-use data of the Third Level Category 103 with the data of other land-use categories in the National Land-Use Survey, and assign an appropriate LDI coefficient. Second, overlay the layer of Important National Wetlands onto the layer of the National Land-Use Survey for analysis. Then, based on the Taiwan Wetlands of Importance (Weng, 2007), classify the wetlands according to their locations and size of the area. At the same time, a layer of land-use from the survey on wetland and its surrounding area of 100 meters outward was used as the range to calculate LDI value. The LDI value is calculated by adding all the results of area percentages multiplied by the LDI coefficient of each land-use category, and its calculation formula is: LDItotal = Σ(%LUi × LDIi) (Brown and Vivas 2005) LDI value represents the disturbance of human activity. The greater the value, the greater the degree of exploitation, and vice versa.
 ### Data Coverage and Time Span
 --（資料品質改進中，暫不公開）
 ### Trends
@@ -32,5 +32,5 @@ Coastal Restore Division, Urban and Rural Development Branch, Construction and P
 * Brown, M. T. and Vivas M. B. (2005). Landscape Development Intensity Index. Environmental Monitoring and Assessment 101:289–309
 * Chen, T. S. and Lin, H. J. (2011). Application of a Landscape Development Intensity Index for Assessing Wetlands in Taiwan. Wetlands. 31:745–756
 * Chen, T. S. and Lin, H. J. (2012). Development of a framework for landscape assessment of Taiwanese wetlands. Ecological Indicators. 25:121–132
-* 陳添水（2013）台灣重要溼地地景評估研究
+* Chen, T. S. (2013). Landscape Assessment of Important Wetlands in Taiwan.
 * 陳添水、林幸助（2010）以地景發展強度指數評估台灣之重要濕地，第一屆台灣濕地生態系研討會

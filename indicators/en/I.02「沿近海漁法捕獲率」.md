@@ -14,7 +14,7 @@ Fishery resources
 
 ### PSBR Model Type
 
-狀態（S）
+Status (S)
 
 ### Corresponding Targets
 
@@ -28,15 +28,16 @@ Fishery resources
 
 #### 愛知目標
 
-目標 6：到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。
+Target 6:
+By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
 
 ### Background
 
-作業時間（稱為努力量）與漁獲量的比值就稱為單位努力漁獲量（catch per unit effort, CPUE），但因無努力量資料，故無法計算 CPUE，故以 VDR 資料標準化作業時間，配合各港口之查報資料，估算捕獲率／漁獲率（catch rate）。
+The ratio of the number of fish caught to the unit of effort is called Catch Per Unit Effort (CPUE). However, due to the lack of unit-of-effort data, CPUE cannot be calculated. Instead, As a result, standardized fishing time based on VDR data was used, along with landing reports from various ports, to estimate the catch rate.
 
 ### Definition and Calculation
 
-VDR的資料（航海作業時間 － 航行時數 ＝ 作業時間），配合各港口查報的各種漁具漁法的捕獲量資料，設定所需的地區（空間）及時間（年、月、日）以及具代表性之漁具漁法，估算捕獲率／漁獲率。
+To estimate the catch rate, specific spatial and temporal parameters (e.g., region, year, month, day) and representative fishing gears/methods are first defined. VDR (Voyage Data Recorder) data are then used to calculate operation time by subtracting sailing time from total nautical operation time. This information is combined with reported catch data from various fishing gears and methods provided by each port to derive the catch rate.
 
 ### Updates
 
@@ -46,7 +47,7 @@ No data is currently available
 
 (N/A)
 
-### 資料管理／權責單位
+### Data Management /Authorities
 
 Fisheries Agency, Council of Agriculture
 

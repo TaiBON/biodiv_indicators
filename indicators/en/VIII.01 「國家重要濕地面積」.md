@@ -15,7 +15,7 @@ Sensitive habitats
 #### 昆–蒙目標
 目標 1：確保所有區域均納入具生物多樣性考量之參與式與整合性空間規劃，並／或採行有效之管理機制，以因應土地／海洋利用變遷；並於 2030 年以前，將高度生物多樣性重要區域（包括具高度生態完整性之生態系統）之喪失降至接近於零，同時尊重原住民族人民與地方社區之權利。<br> 目標 2：2030 年以前，使至少 30% 之退化的陸域、內陸水域、海洋與沿海生態系獲得有效修復，以增進生物多樣性、生態系功能與服務，以及生態完整性和連通性。<br>
 #### Aichi Biodiversity Targets
-目標 5：至遲於 2020 年，使包括森林在內的所有自然棲地的喪失和退化以及破碎化程度至少減半，或在可行之處接近於零。
+Target 5: By 2020, the rate of loss of all natural habitats, including forests, is at least halved and where feasible brought close to zero, and degradation and fragmentation is significantly reduced.
 #### Biodiversity Action Plan
 D21020 <br> Complete the plan of monitoring system on terrestrial, wetland and marine biodiversity, including the confirmation of monitoring places and methods
 #### Key performance indicator of the action plan:
@@ -27,10 +27,10 @@ Wetlands have benefits such as water retention and flood suppression, water puri
 ### Updates
 根據內政部營建署城鄉發展分署資料，截至 2021 年底國家重要濕地面積為 42,699 公頃。
 ### Trends
-配合濕地保育法施行，2015 年的重要濕地面積 41,894 公頃，2015 年至 2019 年的重要濕地面積值均維持在 41,894 公頃，2021 年為 42,699 公頃，較 2019 年些微上升。
-### 資料管理／權責單位
+Following the implementation of the Wetland Conservation Act, the area of Taiwan’s Wetlands of Importance was recorded at 41,894 hectares in 2015. From 2015 to 2019, this figure remained stable. In 2021, the area increased slightly to 42,699 hectares compared to 2019.
+### Data Management/Authorities
 Urban and Rural Development Branch, Construction and Planning Agency, Ministry of the Interior
-### 資料來源／網頁連結
+### Data sources/URL
 * National Council for Sustainable Development, Executive Yuan— Individual indicator information management system of Taiwan Sustainable Development.
 * Mitsch, W.J. and Gosselink, J.G. (2000) Wetlands. John Wiley & Sons, New York. doi: 10.1002/rrr.637
 * [國家重要濕地國家重要濕地保育計畫（2011-2016）](http://wetland-tw.tcd.gov.tw/WetLandWeb/landprotect.php)

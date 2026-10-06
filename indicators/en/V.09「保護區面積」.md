@@ -8,10 +8,10 @@ The annual extent of Taiwan’s terrestrial protected areas serves as an indicat
 ### Themes
 Terrestrial protected areas
 ### PSBR Model Type
-回應（R）
+Response (R)
 ### Corresponding Targets
 #### 永續發展目標
-目標 15.4：到2030年，保護山地生態系統，包括其生物多樣性，以便加強山地生態系統的能力，使其能夠帶來對可持續發展必不可少的益處。
+15.4 By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development
 #### 昆明–蒙特婁全球生物多樣性框架
 目標 3：2030 年以前，確保並促使至少 30% 之陸域、內陸水域、海洋與沿海區域（特別在生物多樣性、生態系功能與服務方面具有特殊重要性者），得以透過具生態代表性、高連通性、且公平治理的保護區（PA）與其他有效地域型保育措施（OECM）加以保育與管理；依規定承認原住民族及其傳統領域，並將前述區域整合至更廣泛之地景、海景與海洋之中。同時，於相關區域中，任何適當之永續利用行為均須完全符合保育成果，並承認及尊重原住民族與地方社區之權利，包括其傳統領域。
 #### Aichi Biodiversity Targets
@@ -26,13 +26,13 @@ A protected area refers to a clearly defined geographical area that is designate
 ### Definition and Calculation
 The total area (size) of terrestrial protected areas is the sum of areas of protected areas (national parks, national nature parks, nature protected areas, nature reserves, wildlife protected areas, important wildlife habitats) announced for each year.
 ### Data Coverage and Time Span
-臺閩地區自然保護區域年報（2006 年至 2020 年）
+Annual Report on Nature Protected Areas of Taiwan-Fuchien Region (2006–2020)
 ### Updates
-依據自然保育網資料所示，2020 年國家公園等保護區之數量共計 96 處，其中陸域的面積為 694,298.12 公頃。相較 2019 年減少 204.95 公頃。
+According to data from the Nature Conservation Network, there were 96 protected areas, including national parks, in 2020, with a total terrestrial area of 694,298.12 hectares. This represents a decrease of 204.95 hectares compared to 2019.
 ### Trends
-自 2011 年後，保護區面積變動不大，多維持在 694 千公頃附近，且於 2015 年後多維持總面積於 694.5 千公頃。
-### 資料管理／權責單位
+Since 2011, the total area of the protected areas has remained relatively stable at around 694,000 hectares. After 2015, the total area has been maintained at 694,500 hectares.
+### Data Management/Authorities
 Forestry and Conservation Agency, Ministry of Agriculture, Executive Yuan
-### 資料來源／網頁連結
+### Data sources/URL
 * Nature Conservation Network – Overview of Nature Conservation Areas<br>https://conservation.forest.gov.tw/total
 * Forest Statistics Yearbook by Forestry Bureau, Council of Agriculture – Protected Areas of Taiwan-Fuchien Region <br>https://www.forest.gov.tw/statistics

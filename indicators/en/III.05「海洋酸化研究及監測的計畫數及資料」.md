@@ -5,12 +5,12 @@
 ### Brief Description
 Ocean acidification is believed to have a series of undesirable consequences, such as inhibiting the metabolism of invertebrate organisms, reducing the ability of marine organisms to form calcium carbonate shells, and accelerating coral bleaching. As the saturation level of calcium carbonate in seawater decline, it is becoming increasingly difficult, and in some cases impossible, for animals with calcareous shells including zooplankton, crustaceans, mollusk, corals, echinoderms, and other invertebrates to form shells. Even existing calcium carbonate structures may begin to dissolve. Moreover, acidified ocean pose a threat to marine food chains. The disappearance of zooplankton, a foundational food source, could lead to cascading effects across higher trophic levels, potentially resulting in the collapse and disintegration of marine ecosystems. As a result, ocean acidification has emerged as one of the most pressing concerns in the global marine community, prompting countries around the world to intensify efforts in monitoring and research.
 
-Taiwan is located within one of the world's marine biodiversity hotspots and features a wide range of diverse habitats. Remarkeably, the number of marine species found in Taiwan accounts for approximately one-tenth of the total marine species worldwide. These characteristics make Taiwan an idealsite for studying ocean acidification and its impacts on marine life.
+Taiwan is located in a hot zone for marine life in the world, not only because its habitats are diverse, but also because it accounts for one-tenth of the total number of species in the world. Therefore, Taiwan is the most ideal place to study the impact of ocean acidification and acidification on marine life.
 
 ### Themes
 Marine pollution
 ### PSBR model type
-壓力（P）
+Pressure (P)
 ### Corresponding targets
 #### 永續發展目標
 目標 14.3：減緩並改善海洋酸化的影響。

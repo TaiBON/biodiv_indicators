@@ -4,7 +4,7 @@ Original indicator name: a subsidy measure that is not conducive to biodiversity
 
 ### Brief description
 
-Eliminating subsidies detrimental to biodiversity and sustainable fisheries, or increasing beneficial ones, will help restore fishery resources.This initiative is incorporated in United Nations Sustainable Development Goal 14, Aichi Target 3, and Target 18 of the Kunming-Montreal Global Biodiversity Framework. Accordingly, governments worldwide should actively review and enhance the effectiveness of fishery subsidy policies in sustaining fishery resources.
+Eliminating subsidies detrimental to biodiversity and sustainable fisheries, or increasing beneficial ones, will help restore fishery resources. Eliminating subsidies detrimental to biodiversity and sustainable fisheries, or increasing beneficial ones, will help restore fishery resources.This initiative is incorporated in United Nations Sustainable Development Goal 14, Aichi Target 3, and Target 18 of the Kunming-Montreal Global Biodiversity Framework. Accordingly, governments worldwide should actively review and enhance the effectiveness of fishery subsidy policies in sustaining fishery resources.
 
 ### Themes
 
@@ -12,13 +12,14 @@ Fishery resources
 
 ### PSBR Model Type
 
-回應（R）
+Response (R)
 
 ### Corresponding Targets
 
 #### 永續發展目標
 
-目標 14.6.1：不予提供非法、未報告及不受規範（簡稱 IUU）漁撈行為的補助。
+14.6.1
+Subsidies for illegal, unreported, and unregulated (IUU) fishing activities will not be granted.
 
 #### 昆–蒙目標
 
@@ -30,19 +31,19 @@ Fishery resources
 
 ### Background
 
-Tracking the trends of various subsidy amounts over the years can provide a reference for revising fisheries policies.Currently, relevant subsidies such as fuel subsidies and fishing moratorium incentives account for almost 50% of the Fisheries Agency's budget, especially fuel subsidies.Removing subsidies that harm biodiversity and sustainable fisheries will help restore fishery resources.
+Tracking the trends of various subsidy amounts over the years can provide a reference for revising fisheries policies. Currently, relevant subsidies such as fuel subsidies and fishing moratorium incentives account for almost 50% of the Fisheries Agency's budget, especially fuel subsidies. Removing subsidies that harm biodiversity and sustainable fisheries will help restore fishery resources.
 
 ### Definition and Calculation
 
 1. There is still debate over whether certain fishery subsidies are positive or negative, with fuel subsidies and fishing moratorium incentives accounting for the majority.
 2. The fuel subsidy data are sourced from the Fisheries Agency's annual expenditure program summary and subprogram overview tables, with units in thousands of NTD.
-3. When reviewing this indicator, it was noted that changes in fuel prices would affect the actual amount of subsidized fuel each year. Therefore, it was recommended to revise the indicator to use the volume of subsidized fuel consumption, which better reflects the actual situation.However, the Taiwan Fisheries Yearbook only report the amount of feul subsidy without providing the volume subsidized feul. In addition, the subsidy amount is described as "The subsidy refers to the amount advanced by fuel companies to cover the preferential fuel prices for Class A, B, and C fishing vessels, and includes the reimbursement of the price difference between the discounted and actual market prices of gasoline used by fishers." Therefore, it is not possible to estimate the fuel amount used by various fishing boats. As a result, the subsidy amount is used to show the trend of the indicator.
+3. When reviewing this indicator, it was noted that changes in fuel prices would affect the actual amount of subsidized fuel each year. Therefore, it was recommended to revise the indicator to use the volume of subsidized fuel consumption, which better reflects the actual situation. However, the Taiwan Fisheries Yearbook only report the amount of feul subsidy without providing the volume subsidized feul. In addition, the subsidy amount is described as "The subsidy refers to the amount advanced by fuel companies to cover the preferential fuel prices for Class A, B, and C fishing vessels, and includes the reimbursement of the price difference between the discounted and actual market prices of gasoline used by fishers." Therefore, it is not possible to estimate the fuel amount used by various fishing boats. As a result, the subsidy amount is used to show the trend of the indicator.
 
 ### Updates
 
 依據漁業署法定預算中之歲出計畫提要及分支計畫概況表，民國 112 年（西元 2023）用油補貼獎補助費為 1,630,944 千元。
 
-### 資料管理／權責單位
+### Data Management /Authorities
 
 Fisheries Agency, Ministry of Agriculture
 

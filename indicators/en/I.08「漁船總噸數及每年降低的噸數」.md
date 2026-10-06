@@ -7,16 +7,16 @@ Overfishing should be one of the main reasons for the reduction of fishery resou
 ### Themes
 Fishery resources
 ### PSBR model type
-回應（R）
+Response (R)
 ### Corresponding targets
 #### 永續發展目標
 目標 14.4：有效監管採收、消除過度漁撈、以及非法、未報告及不受規範（簡稱 IUU）、或毀滅性漁撈作法，並設法恢復魚量達永續發展水準
 #### 昆–蒙目標
 目標 10：確保農業、水產養殖、漁業與林業能永續地經營管理，特別是透過永續地利用生物多樣性資源，包括大幅度應用生物多樣性友善作法，例如以永續集約化、農業生態學及其他創新方法來增強前述生產系統的韌性、長期效率與生產力，進而促進糧食安全並保護、復育生物多樣性，以維持自然對人類的貢獻，包括生態系功能與服務。
 #### Aichi Biodiversity Targets:
-目標 6：到 2020 年，所有魚類、無脊椎動物和水生植物等水產資源都能以維護生態系統為基礎，並以永續、合法的方式進行捕撈及管理，避免過漁現象；另外針對所有枯竭的魚種執行復原計畫及措施，並將漁撈對受威脅的魚群和脆弱生態系的影響控制在安全的生態限度內。
+Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
 ### Background
-漁船總噸數及每年降低的噸數，可反映漁業捕撈能力，該指標在生物多樣性指標聯盟的指標類別中屬於回應類指標（Response）。過度捕撈應是使漁業資源減少的主要原因之一，如何降低漁獲壓力則應訂定管理及鼓勵措施，來減少漁船船數及噸數。 一個國家漁船總噸數可在一定的程度上代表國家的漁業捕撈能力，此指標應配合有效漁船總數指標來看，避免小型船合併建造後進行作業。
+Overfishing should be one of the major reasons for the reduction of fishery resources, and establishing management and incentive measures to reduce the number of fishing vessels and tonnage could alleviate the pressure of overfishing. The total tonnage of a country’s fishing vessels can represent the country’s fishing capacity to a certain extent. This indicator should be viewed in conjunction with the indicator of the total number of active fishing vessels, in order to avoid (missleading interpretation due to) the operation of combined small ships.
 ### Definition and Calculation
 The number of vessels and tonnages with legal licenses issued by Fisheries Agency, Council of Agriculture
 ### Updates

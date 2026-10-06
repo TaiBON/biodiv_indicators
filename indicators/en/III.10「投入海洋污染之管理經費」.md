@@ -16,7 +16,8 @@ Response (R)
 
 #### 永續發展目標
 
-目標 14.1：減少各式海洋污染，包括營養鹽及海洋廢棄物。
+14.1<br> Reduce marine pollution of all kinds, including nutrients
+and marine waste pollutions.<br>
 
 #### 昆–蒙目標
 
@@ -29,7 +30,9 @@ Response (R)
 
 ### Background
 
-海洋污染的防治經常需要花費高額成本與人力，例如 2001 年希臘籍貨輪阿瑪斯號擱淺事件，共動員了包含國軍以及中油人員 21,560 人次，耗費半年才全數完成。Therefore, it is necessary to invest funds and manpower in education and outreach on marine pollution prevention, to enhance public awareness of the severity of marine pollution, thereby fostering greater support for the implementation of related management measures. This also strengthens civic awareness of legal compliance and improves emergency response practices, enabling faster pollution mitigation and alleviating the resulting environmental damage.
+Ocean Conservation Administration conducted satellite remote sensing, oil spill simulation, marine pollution mitigation training, and information system management. The allocated budget amounted to NT$13.58 million in 2019 and NT$16.23 million in 2020.
+海保署109年預算650.4萬元。 No automated continuous monitoring system has been implemented. A total of 138 monitoring sites have been established, including 105 marine sites, 12 sites at 6 landfills, 18 sites at 6 beaches, and 3 sites within 1 offshore wind turbine area.
+The funds invested by local governments cover not only marine pollution prevention, education, outreach, and management, but also include expenditure related to marine debris cleanup, water quality monitoring in local wates, and the organization of World Oceans Day events and related educational activities. As these categories often overlap, it is diffcult to clearly distinguish how the funds are allocated.
 
 ### Definition and Calculation
 
@@ -41,7 +44,7 @@ Summarize the annual management costs related to marine pollution monitoring and
 海保署 109 年預算 650.4 萬元。未有自動連續監測系統，總監測總監測138點，包含海域 105 點、掩埋場 6 處共 12 點、沙灘 6 處共 18 點，離岸風機區 1 處共 3 點。
 The funds invested by local governments cover not only marine pollution prevention, education, outreach, and management, but also include expenditure related to marine debris cleanup, water quality monitoring in local wates, and the organization of World Oceans Day events and related educational activities. As these categories often overlap, it is diffcult to clearly distinguish how the funds are allocated.
 
-### 資料管理／權責單位
+### Data Management/Authorities
 
 Marine Conservation Administration, Ocean Affairs Council; County and Municipal governments
 

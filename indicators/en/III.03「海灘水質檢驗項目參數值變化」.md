@@ -11,10 +11,12 @@ Marine pollution
 ### PSBR model type
 Pressure (P)
 ### Corresponding targets
-#### SDGs
+#### 永續發展目標
 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution.
-#### Aichi Biodiversity Targets
-Target 8 By 2020, pollution, including from excess nutrients, has been brought to levels that are not detrimental to ecosystem function and biodiversity.
+#### 昆–蒙目標
+目標 7：<br> 2030 年以前，降低污染風險及各類污染源所造成之負面影響，使之達到不再危害生物多樣性與生態系功能及服務之水準，同時考量污染之累積效應，包括：（a）藉由更高效率之營養鹽循環與利用，將過量營養鹽流失至環境之情形減少至少一半；（b）以科學為基礎，並兼顧糧食安全與生計，將農藥與高度危害化學物質之整體風險降低至少一半，包括透過綜合性病蟲害管理；（c）防止、減少並逐步消除塑膠污染。
+#### 愛知目標
+目標 8 ：<br> 到 2020 年，污染，包括優養化，被控制到不危害生態系功能和生物多樣性的範圍。
 ### Background
 According to many studies on human health and environmental hygiene, the risk of water pollution in beach recreation areas to human health are mainly caused by skin contact and oral intake of pathogenic microorganisms. However, the beach water quality suffers from a large number of bacteria and other microbial pollution, mainly due to garbage and ground sewage, fecal, and sewage overflow pollution, etc. caused by heavy rain washing. Water quality is especially poor after typhoons or heavy rains, therefore it is not recommended to go to the beach water for recreation. Due to the wide variety of pathogenic microorganisms, it is not easy to monitor and make relevant laws and standards. Many advanced countries such as the United States and European countries have clear "microbial contamination indicators" on beach water quality, which can be used as a reference basis to monitor water quality by Ocean Conservation Administration, and in the swimming season, regular monitoring and announcements are made to protect the health and safety of people playing in the beach water.
 ### Definition and Calculation

@@ -12,8 +12,10 @@ Sensitive habitats
 ### PSBR Model Type
 Benefits (B)
 ### Corresponding Targets
-#### SDGs
-15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.
+#### 永續發展目標
+目標 15.1：到 2020 年，根據國際協議規定的義務，保護、恢復和可持續利用陸地和內陸的淡水生態系統及其服務，特別是森林、濕地、山麓和旱地。
+#### 昆–蒙目標
+目標 8：最小化氣候變遷與海洋酸化對生物多樣性之衝擊，並透過減緩、調適及災害風險降低行動以增進其韌性，其中包括自然為本的解方及／或生態系為本的方法；同時，應降低氣候行動對生物多樣性之負面影響，並促進其正面效益。<br> 目標 11：復育、維護並提升自然對人類的貢獻，包括生態系功能與服務，例如空氣、水與氣候的調節、土壤健康、授粉與降低疾病風險，以及防禦自然危害與災害；並透過自然為本的解方及／或生態系為本的方法，造福全體人類與自然。
 #### Aichi Biodiversity Targets
 Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 percent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 #### Biodiversity Action Plan
@@ -34,5 +36,5 @@ Forestry and Nature Conservation Agency, Ministry of the Interior
 ### Data sources/URL
 * Forestry Bureau, Council of Agriculture (2017) The collection of reports of "Establishing a Data Integration and Analysis Mechanism for Long-term Forest Monitoring and Survey and The National Forestry Greenhouse Gas Inventory"
 * Environmental Protection Agency, Executive Yuan (2017) 2017 National Greenhouse Gas Inventory Report of the Republic of China (Taiwan)
-* \[Environmental Protection Administration, Executive Yuan (2018) National Greenhouse Gas Inventory Report of the Republic of China\](https://www.cca.gov.tw/information-service/publications/national-ghg-inventory-report/1841.html)
-* \[Environmental Protection Administration, Executive Yuan (2020) National Greenhouse Gas Inventory Report of the Republic of China\](https://www.cca.gov.tw/information-service/publications/national-ghg-inventory-report/1845.html)
+* 行政院環境保護署（2018）2018 年中華民國國家溫室氣體排放清冊報告 http://unfccc.saveoursky.org.tw/2018nir/tw_nir_2018.php
+* 行政院環境保護署（2020）2020 年中華民國國家溫室氣體排放清冊報告 https://unfccc.saveoursky.org.tw/nir/tw_nir_2021.php

@@ -7,12 +7,14 @@ The index is used to estimate whether the fish landings at all levels are balanc
 ### Themes
 Fishery resources
 ### PSBR Model Type
-State(S)
+狀態（S）
 ### Corresponding Targets
-#### SDGs
-14.2.2 Mean Trophic Level (MTL) and Fishing in Balance Index (FiB) Quantitative target for 2020: MTL and FiB values are maintained at the current level, and the data for constructing the index will be collected to compile Taiwan’s MTL and FiB indicators.
-#### Aichi Biodiversity Targets
-Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
+#### 永續發展目標
+14.2.2 Mean Trophic Level (MTL) and Fishing in Balance Index (FiB) Quantitative target for 2020: MTL and FiB values are maintained at the current level, and the data for constructing the index will be collected to compile Taiwan’s MTL and FiB indicators.<br>
+#### 昆–蒙目標
+目標 10：確保農業、水產養殖、漁業與林業能永續地經營管理，特別是透過永續地利用生物多樣性資源，包括大幅度應用生物多樣性友善作法，例如以永續集約化、農業生態學及其他創新方法來增強前述生產系統的韌性、長期效率與生產力，進而促進糧食安全並保護、復育生物多樣性，以維持自然對人類的貢獻，包括生態系功能與服務。<br>
+#### 愛知目標
+Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.<br>
 ### Background
 Fisheries scientist Daniel Pauly proposed the Mean Trophic Index (MTI) and the phenomenon of "fishing down marine food web" in 1998, which triggered many interesting discussions including an argument against the interpretation of the MTI trend: "The downward trend of MTI may be irrelevant to the decline of the top-level consumer populations in the ecosystem, but rather reflect the fishery policy of the managers tending to catch the species at the bottom of the food web with large populations to achieve higher total fish landings." Pauly responded formally to this argument in his 2005 publication, stating that the situation is probable and emphasizing that if such policies exist, efforts should be made toward reducing energy (or biomass) waste. In other words, the decline in MTI should be accompanied by the increase in fish landings, and the sum of the two changes should be balanced, in that way, the management of fishery resources is developing towards sustainability.
 ### Definition and Calculation
@@ -38,5 +40,5 @@ The data source is the Region-based Marine Trophic Index of the catch in the wat
 ### Trends
 ### Data Management/Authorities
 Fisheries Agency, Council of Agriculture
-### Data Source/URL
+### 資料來源／網站連結
 [The website of "Sea Around Us"](http://www.seaaroundus.org/)

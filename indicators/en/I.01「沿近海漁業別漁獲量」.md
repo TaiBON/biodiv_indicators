@@ -10,20 +10,20 @@ Fishery resources
 ### PSBR model type
 Status (S)
 ### Corresponding targets
-#### SDGs
-14.4.1 Proportion of fish stocks within biologically sustainable levels
-#### Kunming-Montreal Global Biodiversity Framework
-Goal 5: Sustainable Use and Trade of Wild Species. <br> Ensure that the use, harvestnig and trade of wild species are sustainable, safe and legal, prevent overexploitation, minimizing impacts on non-target species and ecosystems, and reducing the risk of pathogen spillover, applying the ecosystem approach, while respecting and protecting customary sustainable use by indigenous peoples and local communities. <br> Goal 9: Sustainable Use of Wild Species. <br> Ensure the management and use of wild species are sustainable, thereby providing social, economic and environmental benefits for people, especially those in vulnerable situations and those most dependent on biodiversity, including through sustainable biodiversity-based activities, products and services that enhance diversity, and protecting and encouraging customary sustainable use by indigenous people and local communities.
-#### Aichi Target (Previous Version of the CBD Targets):
+#### 永續發展目標
+目標 14.4.1：沿近海經濟魚種進行資源管理。
+#### 昆–蒙目標
+Goal 5: Sustainable Use and Trade of Wild Species. <br> Ensure that the use, harvestnig and trade of wild species are sustainable, safe and legal, prevent overexploitation, minimizing impacts on non-target species and ecosystems, and reducing the risk of pathogen spillover, applying the ecosystem approach, while respecting and protecting customary sustainable use by indigenous peoples and local communities. <br> Goal 9: Sustainable Use of Wild Species. <br> Ensure the management and use of wild species are sustainable, thereby providing social, economic and environmental benefits for people, especially those in vulnerable situations and those most dependent on biodiversity, including through sustainable biodiversity-based activities, products and services that enhance diversity, and protecting and encouraging customary sustainable use by indigenous people and local communities.<br>
+#### 愛知目標
 Target 6: By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
 ### Background
 Monitor and manage various types of fishing gear and fishing method (including spearfishing, pole-and-line, trolling, longline fishing, gillnet, purse seine, torchlight net, seine fishing, danish seine, larval anchovy fishery, trawling, reef fishery, etc.), these fishing methods can be divided into sustainable fishing methods, targeted fishing methods, and destructive fishing methods according to the degree of impact on the marine ecology. In order to achieve reasonable development and sustainable use of resources, the trends of change in various fishing methods should be tracked in detail.
 ### Definition and Calculation
-1. Fish landings (tons) of diffrent offshore and inshore fishery categories
-2. The current data are the cumulated sums of offshore fishery production (thousand tons), offshore fishery value (thousand NTD), inshore fishery production (thousand tons), and inshore fishery value (thousand NTD), from past years, provided by the Taiwan Fisheries Yearbook.
+1. 沿近海各漁業類別之漁獲量資料（噸數）。
+2. 目前資料為歷年漁業統計年報中之沿海漁業產量（千噸）、產值（千元）合計，以及沿岸漁業產量（千噸）、產值（千元）合計。
 ### Update
-According to the Taiwan Fisheries Yearbook (2022), the total offshore fishery production was 115,325 metric tons, with a production value of NT$9,794,757 thousand; the total coastal fishery production was 19,863 metric tons, with a production value of NT$3,352,285 thousand.
+依據民國 112 年（2023）漁業統計年報，近海漁業產量合計 158,516 公噸，產值 13,452,382 千元；沿岸漁業產量合計 33,479 公噸，產值 4,931,367 千元。
 ### Data Management /Authorities
 Fisheries Agency, Council of Agriculture
-### Data Source/URL
+### 資料來源／網站連結
 [Taiwan Fisheries Yearbook on the website of the Fisheries Agency, Council of Agriculture](https://www.fa.gov.tw/cht/PublicationsFishYear/index.aspx)

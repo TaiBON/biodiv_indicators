@@ -5,8 +5,6 @@
 ### 內容簡述
 透過保護區內已記錄的物種資料，了解各保護區的物種多樣性概況。使用者可至台灣生物多樣性網絡（Taiwan Biodiversity Network，以下簡稱 TBN）的保護區圖台，點選感興趣的保護區，查詢相關觀測紀錄與物種名錄。
 各保護區的物種組成、調查程度及資料累積情形可能不同，查閱或比較物種數量時，應一併考量資料來源與調查條件。
-
-點擊下方圖片，或[前往 TBN 保護區圖台](https://www.tbn.org.tw/topic/protected_areas)，查詢各保護區的觀測紀錄與物種名錄。
 <a href="https://www.tbn.org.tw/topic/protected_areas"
    target="_blank"
    rel="noopener noreferrer">
@@ -15,6 +13,7 @@
     alt="TBN 保護區圖台截圖"
     style="width: 70%; max-width: 800px; height: auto;">
 </a>
+點擊下方圖片，或[前往 TBN 保護區圖台](https://www.tbn.org.tw/topic/protected_areas)，查詢各保護區的觀測紀錄與物種名錄。
 圖片來源：台灣生物多樣性網絡（TBN）
 
 

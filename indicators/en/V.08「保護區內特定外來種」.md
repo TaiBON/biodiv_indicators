@@ -3,14 +3,17 @@
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ### To control the impact of specific alien species by monitoring their distribution, reproduction, and habitat in protected areas
+To control the impact of specific alien species by monitoring their distribution, reproduction, and habitat in protected areas
 
 ### Themes
 Terrestrial protected areas
 ## PSBR model type
 Pressure (P)
 ### Corresponding targets
-#### SDGs
+#### 永續發展目標
 15.8 By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species.
+#### 昆–蒙目標
+目標 6：藉由辨識並管理外來物種之引入途徑、避免優先管制入侵種之遷入和定殖，進而消弭、最小化、減少及／或緩解其對生物多樣性和生態系服務之衝擊；並於 2030 年以前，將其他已知或潛在外來入侵種之引入和定殖率降低至少 50%，同時推動外來入侵種之根除或防治，特別著重於島嶼等優先防治地區。 
 #### Aichi Biodiversity Targets
 Target 9: By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
 #### Biodiversity Action Plan
@@ -25,7 +28,7 @@ Count the number of specific alien species in each protected area and their resp
 (N/A)
 ### Data trend
 (N/A)
-### Data Management Authorities
+### 資料管理／權責單位
 National Park Division, Forestry Bureau, Council of Agriculture
 ### References
 * Ling-Ling Lee (2003), Establishment of effectiveness evaluation criteria for national park conservation and management--Final report.

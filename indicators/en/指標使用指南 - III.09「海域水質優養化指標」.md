@@ -1,7 +1,7 @@
 ## Introduction
 
 - **Purpose**: By integrating marine water quality data, this indicator aims to quantify the level of eutrophication of marine water, thereby providing support for marine pollution prevention and control policies.
-- **Background**: Global water pollution is becoming increasingly severe, and marine eutrophication poses a significant threat to marine ecosystems.This indicator uses the Eutrophication Index (EI) to assess the water quality of Taiwan’s coastal marine areas, in support of the goal of reducing marine pollution.
+- **Background**: Global water pollution is becoming increasingly severe, and marine eutrophication poses a significant threat to marine ecosystems. **Background**: Global water pollution is becoming increasingly severe, and marine eutrophication poses a significant threat to marine ecosystems.This indicator uses the Eutrophication Index (EI) to assess the water quality of Taiwan’s coastal marine areas, in support of the goal of reducing marine pollution.
 
 ## Definition of the Indicator
 
@@ -23,13 +23,13 @@ Each parameter — nutrients (mmol m⁻³) and chlorophyll-a (mg m⁻³) — is 
 
 ## Interpretation of the Indicator
 
-- **Meaning**: This indicator reflects the eutrophication level in coastal water quality.Excessive eutrophication can lead to overgrowth of phytoplankton, which in turn affects dissolved oxygen level and thus the health of marine organisms.
-- **Ecosystem impact**: When the eutrophication level is too high, the occurrence of marine hypoxic zones will increase, leading to a decline in biodiversity.On the contrary, the low eutrophication level indicates good water quality, which is conducive to the stability of marine ecosystems.
+- **Meaning**: This indicator reflects the eutrophication level in coastal water quality. **Meaning**: This indicator reflects the eutrophication level in coastal water quality.Excessive eutrophication can lead to overgrowth of phytoplankton, which in turn affects dissolved oxygen level and thus the health of marine organisms.
+- **Ecosystem impact**: When the eutrophication level is too high, the occurrence of marine hypoxic zones will increase, leading to a decline in biodiversity.On the contrary, the low eutrophication level indicates good water quality, which is conducive to the stability of marine ecosystems. On the contrary, the low eutrophication level indicates good water quality, which is conducive to the stability of marine ecosystems.
 - **Policy relevance**: This indicator corresponds to SDGs Target 14.1 and Aichi Target 8 and can provide data support for policymaking to control marine pollution and reduce nutrient and waste discharges.
 
 ## Policy Recommendations
 
-- **How to interpret the indicator**: When the indicator shows an increase in eutrophication levels, it is recommended to strengthen pollution source control, including reducing nutrients in agricultural and urban runoff.If the eutrophication index remains elevated over time, necessary actions should be implemented to reduce pollution emission at the sources.
+- **How to interpret the indicator**: When the indicator shows an increase in eutrophication levels, it is recommended to strengthen pollution source control, including reducing nutrients in agricultural and urban runoff. If the eutrophication index remains elevated over time, necessary actions should be implemented to reduce pollution emission at the sources.
 - **How to integrate the indicator into decision-making**: The eutrophication index should be considered alongside other water quality indicators, such as dissolved oxygen and pH levels, to provide a more comprehensive analysis for coastal pollution prevention and control.
 
 ## Reference

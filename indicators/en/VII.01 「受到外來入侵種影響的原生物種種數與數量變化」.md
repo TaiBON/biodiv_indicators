@@ -4,14 +4,15 @@
 
 ### Brief Description
 In addition to causing economic damage, alien species have a more direct impact by competing with native species for habitats and food resources. This competition, along with exclusion or hybridization, often leads to a decline in native species populations or even their extinction.
-
 ### Themes
 Invasive species
 ### PSBR Model Type
 Pressure (P)
 ### Corresponding Targets
-#### SDGs
+#### 永續發展目標
 15.8 By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species.
+#### 昆明–蒙特婁全球生物多樣性框架
+目標 6：藉由辨識並管理外來物種之引入途徑、避免優先管制入侵種之遷入和定殖，進而消弭、最小化、減少及／或緩解其對生物多樣性和生態系服務之衝擊；並於 2030 年以前，將其他已知或潛在外來入侵種之引入和定殖率降低至少 50%，同時推動外來入侵種之根除或防治，特別著重於島嶼等優先防治地區。 <br>
 #### Aichi Biodiversity Targets
 Target 9: By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
 #### Biodiversity Action Plan

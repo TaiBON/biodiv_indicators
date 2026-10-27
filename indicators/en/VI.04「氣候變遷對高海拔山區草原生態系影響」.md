@@ -10,8 +10,10 @@ Population of selected taxa
 ### PSBR Model Type
 Pressure (P)
 ### Corresponding Targets
-#### SDGs
+#### 永續發展目標
 15.4 By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development.
+#### 昆–蒙目標
+目標 2：2030 年以前，使至少 30% 之退化的陸域、內陸水域、海洋與沿海生態系獲得有效修復，以增進生物多樣性、生態系功能與服務，以及生態完整性和連通性。
 #### Aichi Biodiversity Targets
 Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 per cent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 ### Background

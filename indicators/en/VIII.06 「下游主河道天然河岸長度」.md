@@ -11,15 +11,17 @@ Sensitive habitats
 ### PSBR Model Type
 Status (S)
 ### Corresponding Targets
-#### SDGs
-6.6 By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes. 15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.
+#### 永續發展目標
+目標 6.6：到 2020 年，保護和恢復與水有關的生態系統，包括山地、森林、濕地、河流、地下含水層和湖泊。 目標 15.1：到 2020 年，根據國際協議規定的義務，保護、恢復和可持續利用陸地和內陸的淡水生態系統及其服務，特別是森林、濕地、山麓和旱地。
+#### 昆–蒙目標
+目標 2：2030 年以前，使至少 30% 之退化的陸域、內陸水域、海洋與沿海生態系獲得有效修復，以增進生物多樣性、生態系功能與服務，以及生態完整性和連通性。<br> 目標 11：復育、維護並提升自然對人類的貢獻，包括生態系功能與服務，例如空氣、水與氣候的調節、土壤健康、授粉與降低疾病風險，以及防禦自然危害與災害；並透過自然為本的解方及／或生態系為本的方法，造福全體人類與自然。<br>
 #### Aichi Biodiversity Targets
 Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 per cent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 #### Biodiversity Action Plan
 D42030 Develop reasonable restoration methods for various ecosystems year by year, and evaluate the effectiveness of natural ecological projects and the survey and monitoring of ecological resources (including rivers and coasts).
 #### Key performance indicator of the action plan
 * Number of restoration methods complying with ecological principles in various ecosystems or results of research and evaluation on practicality (of these methods)
-* The ratio of cases that resulting in improved biodiversity to the total number of cases with a budget exceeding NTD$50 million, along with the growth rate of this ratio.
+* （生物多樣性因而改善之案件數）／（額度 5,000 萬以上工程施作之總案件數）及成長率
 ### Background
 To provide water for human use and protect the safety of residents along the river, governments will build a variety of hydraulic structures (such as dikes and revetments, etc.) next to the riverbanks, but the unnatural hydraulic structures have poor permeability, which barely provides living spaces for organisms, and it will block many biological activities, causes the fragmentation of the riparian habitat, and affect the ecology of the riparian habitat.
 ### Definition and Calculation

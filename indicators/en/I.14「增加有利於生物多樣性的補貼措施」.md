@@ -41,7 +41,7 @@ The trend of various subsidies over the years can be used as a reference for the
 
 ### Updates
 
-依據民國 112 年（西元 2023）行政院農業委員會漁業署及所屬單位決算，休漁補貼金額為 350,071 千元。 According to the 2019 fiscal final account of the Fisheries Agency under the Ministry of Agriculture, Executive Yuan, the amount of subsidies for the fishing moratorium was NT$360.47 million.Compared to the years 2009–2018, the amount of subsidies for the fishing moratorium in 2019 was significantly higher. This may be attributed to the “Regulations for the Incentive Program for Voluntary Fishing Moratorium” announced by the Council of Agriculture (now the Ministry of Agriculture) on June 21, 2019, which encouraged fishers to concentrate their operations during peak periods of fishery resource abundance and to suspend fishing during off-peak periods.
+依據民國 114 年（西元 2025）行政院農業委員會漁業署及所屬單位決算，休漁補貼金額為 342,303 千元。民國108 年起，休漁補貼金額較 民國90-107 年高出許多，可能原因為農委會於 108 年 6 月 21 日發布「自願性休漁獎勵辦法」，鼓勵漁民集中在漁業資源密度高峰期作業，離峰期在港休漁。
 
 ### Data Management/Authorities
 

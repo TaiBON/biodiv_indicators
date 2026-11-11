@@ -9,8 +9,10 @@ Abundance trends of selected taxa
 ### PSBR Model Type
 Status (S)
 ### Corresponding Targets
-#### Aichi Biodiversity Targets
-Target 12 By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
+#### 昆–蒙目標
+目標 4：確保採取緊急管理行動，以遏止人為造成之已知受脅物種滅絕，並推動物種之復育與保育，特別針對受脅物種，以顯著降低滅絕風險；同時，維持並恢復原生、野生與馴化物種族群內部及族群間之遺傳多樣性，以保持其適應潛力，其中包括透過就地與移地保育及永續管理作法；並有效管理人類與野生動物之互動，以減少人獸衝突，促進共存。 
+#### 愛知目標
+目標 12：到 2020 年，防止了已知瀕危物種免遭滅絕，並改善族群數量下滑最嚴重的物種的保育狀況。
 ### Background
 The Indo-Pacific humpback dolphin, *Sousa chinensis*, also known as the Matsu fish, inhabits the western coastal waters of Taiwan. Its current population is estimated to be fewer than 100 individuals. The Forestry Bureau, Council of Agriculture, has announced the designation of an “Important Wildlife Habitat for Indo-Pacific Humpback Dolphin,” noting that the main threats come from declining food availability, habitats loss, marine pollution, underwater noise, and incidental bycatch from gillnet fisheries.
 ### Definition and Calculation
@@ -20,5 +22,5 @@ According to the monitoring report by Professor Lien-Siang Chou’s team at Nati
 ### Trends
 ### Data Management/Authorities
 Forestry Bureau, Council of Agriculture; Ocean Conservation Administration
-### Data Source /URL
-Zhou, L.-X., Ding, J.-J., Lin, H.-J., and Suen, J.-P. (2019) Population Ecology and Estuary Habitat Monitoring for Chinese White Dolphin (Sousa chinensis), Forestry Bureau, Council of Agriculture, Executive Yuan, 2018.<br> Bai M.-L., Lien Y.-Y., Hong C.-Y. (2019) Indo-Pacific humpback dolphin population monitoring program along the western coast of Taiwan, 2019. (English title translated by the TaiBON Team). Formosa Natural History Information Ltd., commissioned by the Ocean Conservation Administration.<br> Huang C.-H., Huang Y.-T. (2020). Indo-Pacific humpback dolphin population monitoring program along the western coast of Taiwan, 2020. (English title translated by the TaiBON Team).Observer Ecological Consultant Co., Ltd.​, commissioned by the Ocean Conservation Administration.<br>.
+### 資料來源／網站連結
+Zhou, L.-X., Ding, J.-J., Lin, H.-J., and Suen, J.-P. (2019) Population Ecology and Estuary Habitat Monitoring for Chinese White Dolphin (Sousa chinensis), Forestry Bureau, Council of Agriculture, Executive Yuan, 2018.<br> Bai M.-L., Lien Y.-Y., Hong C.-Y. (2019) Indo-Pacific humpback dolphin population monitoring program along the western coast of Taiwan, 2019. (English title translated by the TaiBON Team). Formosa Natural History Information Ltd., commissioned by the Ocean Conservation Administration.<br> Huang C.-H., Huang Y.-T. (2020). Indo-Pacific humpback dolphin population monitoring program along the western coast of Taiwan, 2020.

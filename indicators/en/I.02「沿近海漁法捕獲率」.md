@@ -18,11 +18,15 @@ Status (S)
 
 ### Corresponding Targets
 
-#### SDGs
+#### 永續發展目標
 
-14.4.1 Proportion of fish stocks within biologically sustainable levels.
+目標 14.4.1：沿近海經濟魚種進行資源管理。
 
-#### Aichi Biodiversity Targets
+#### 昆–蒙目標
+
+目標 10：確保農業、水產養殖、漁業與林業能永續地經營管理，特別是透過永續地利用生物多樣性資源，包括大幅度應用生物多樣性友善作法，例如以永續集約化、農業生態學及其他創新方法來增強前述生產系統的韌性、長期效率與生產力，進而促進糧食安全並保護、復育生物多樣性，以維持自然對人類的貢獻，包括生態系功能與服務。
+
+#### 愛知目標
 
 Target 6:
 By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
@@ -47,6 +51,6 @@ No data is currently available
 
 Fisheries Agency, Council of Agriculture
 
-### Data Source /URL
+### 資料來源／網站連結
 
 (N/A)

@@ -10,6 +10,8 @@ Sensitive habitats
 ### PSBR Model Type
 Response (R)
 ### Corresponding Targets
+#### 昆–蒙目標
+目標 2：2030 年以前，使至少 30% 之退化的陸域、內陸水域、海洋與沿海生態系獲得有效修復，以增進生物多樣性、生態系功能與服務，以及生態完整性和連通性。<br> 目標 11：復育、維護並提升自然對人類的貢獻，包括生態系功能與服務，例如空氣、水與氣候的調節、土壤健康、授粉與降低疾病風險，以及防禦自然危害與災害；並透過自然為本的解方及／或生態系為本的方法，造福全體人類與自然。<br>
 #### Aichi Biodiversity Targets
 Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 percent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 ### Background
@@ -22,7 +24,7 @@ Statistical Result of Changed Areas Report (2002-2022)
 In 2020, a total of 31,168 spots of variations were reported. Among them, 18,739 were determined to be legal upon inspection, 11,654 were found to be illegal, and 775 were classified as other cases, such as known construction, natural changes, unidentifiable locations, inaccessible for on-site inspection, or outside the jurisdiction. This represents an increase of 4,985 variation spots compared to 2020.
 ### Trends
 Since 2014, the National Land Surveying and Mapping Center has taken over and integrated the monitoring projects previously conducted by the Construction and Planning Agency, the Soil and Water Conservation Bureau, and the Water Resources Agency. The monitoring frequency for each government department was increased to once every 2 months, and the resolution of satellite imagery was enhanced to 1.5 –2.5 meters. Compared to the pre-2014 period when monitoring efforts were not integrated, the detection rate of illegal land use has substantially improved since the implementation of the integrated monitoring system.
-### Data Management Authorities
+### 資料管理／權責單位
 National Land Surveying and Mapping Center
 ### Data sources/URL
 [Land Use Monitoring Integrated Information Network – Statistical Result of Changed Areas Report](https://landchg.tcd.gov.tw/Module/RWD/Web/pub_result.aspx)

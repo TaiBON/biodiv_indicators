@@ -30,7 +30,7 @@ The occurrence sites and counts of Spot-legged tree frog (2010–2021)
 ### Updates
 According to the data compiled by the Lab of Amphibian Conservation at National Dong Hwa University, a total of 10,830 spot-legged tree frogs were recorded in 2021. This represents a decrease of 3,160 individuals compared to 2020. Notably, the total number of all frog species recorded in the same survey year also decreased by 12,543 individuals compared to the previous year.
 ### Trends
-The indicators clearly show that the distribution range of spot-legged tree frog has expaneded over the survey years, with the number of recorded occurence increased steadily from 2010 to 2020. The occurrence sites have spread to areas such as Hengchun and Hualien. According to Professor Yi-Ju Yang of National Dong Hwa University, the invasion of the spot-legged tree frog has reached Stage IV of the invasion process – the population has grown too large to be eradicated or contained.Therefore, a long-term management strategy is needed to evaluate pretection measures for related native species.
+The indicators clearly show that the distribution range of spot-legged tree frog has expaneded over the survey years, with the number of recorded occurence increased steadily from 2010 to 2020. The occurrence sites have spread to areas such as Hengchun and Hualien. According to Professor Yi-Ju Yang of National Dong Hwa University, the invasion of the spot-legged tree frog has reached Stage IV of the invasion process – the population has grown too large to be eradicated or contained.
 ### Data Management/Authorities
 Lab of Amphibian Conservation, Department of Natural Resources and Environmental Studies, National Dong Hwa University
 ### Data sources/URL

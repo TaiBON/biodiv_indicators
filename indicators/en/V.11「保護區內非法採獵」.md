@@ -10,10 +10,12 @@ Terrestrial protected areas
 ### PSBR Model Type
 Pressure (P)
 ### Corresponding Targets
-#### SDGs
+#### 永續發展目標
 15.7 Take urgent action to stop poaching and trafficking of protected animal and plant species, and deal with the supply and demand of illegal wildlife products.
+#### 昆–蒙目標
+目標 4：確保採取緊急管理行動，以遏止人為造成之已知受脅物種滅絕，並推動物種之復育與保育，特別針對受脅物種，以顯著降低滅絕風險；同時，維持並恢復原生、野生與馴化物種族群內部及族群間之遺傳多樣性，以保持其適應潛力，其中包括透過就地與移地保育及永續管理作法；並有效管理人類與野生動物之互動，以減少人獸衝突，促進共存。 
 #### Aichi Biodiversity Targets
-Target 12: By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
+目標 12：到 2020 年，防止了已知瀕危物種免遭滅絕，並改善族群數量下滑最嚴重的物種的保育狀況。
 #### Biodiversity Action Plan
 D31030 Strengthen the ability to inspect and seize smuggled wild animal and plant products.
 #### Key performance indicator of the action plan:
@@ -28,7 +30,7 @@ Ministry of the Interior Statistics Query Website – Illegal Conducts in Nation
 ### Updates
 According to statistics from the Ministry of the Interior, a total of 78 cases of illegal hunting and harvesting in violation of the National Park Act were recorded in 2021. The cases were concentrated in Kenting National Park and Taijiang National Park, which together accounted for 75 cases, or approximately 96% of the total. Compared to 2020, the total number of cases decreased by nine.
 ### Trends
-According to statistics on illegal cases within national park areas, the number of violations in Kenting National Park has shown an upward trend since 2001, while biolations in Yangmingshan National Park have dropped to single digits since 2011. In the past 17 years, average number of illegal cases in national parks has been approximatedly 50 per year. In 2013, the number of violations in Taijiang National park surged to nealy 100 cases, making a sharp spike in the total number of cases, which stabilized thereafter. In the past two years, cases in Taijiang National Parks have increased again, resulting in another rapid rise in the overall trend.
+According to statistics on illegal cases within national park areas, the number of violations in Kenting National Park has shown an upward trend since 2001, while biolations in Yangmingshan National Park have dropped to single digits since 2011. In the past 17 years, average number of illegal cases in national parks has been approximatedly 50 per year. In 2013, the number of violations in Taijiang National park surged to nealy 100 cases, making a sharp spike in the total number of cases, which stabilized thereafter.
 ### Data Management/Authorities
 National Parks Division, Construction and Planning Agency, Ministry of The Interior
 ### Data sources/URL

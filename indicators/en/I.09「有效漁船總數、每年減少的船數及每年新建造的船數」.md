@@ -20,7 +20,7 @@ Overfishing should be one of the main reasons for the reduction of fishery resou
 ### Definition and Calculation
 The number of vessels with legal licenses, in the database of legal fishing vessels issued by the Fisheries Agency.
 ### Updates
-依據民國 112 年（西元 2023）漁業統計年報，動力漁船總艘數為 12,188 艘，較前一年增加 10 艘。
+依據民國 114年（西元 2025）漁業統計年報，動力漁船總艘數為 12,123 艘，較前一年減少 36 艘。
 ### 資料管理／權責單位
 Fisheries Agency, Council of Agriculture
 ### 資料來源／網站連結

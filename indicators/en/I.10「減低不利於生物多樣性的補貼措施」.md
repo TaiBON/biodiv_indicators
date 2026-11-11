@@ -41,7 +41,7 @@ Tracking the trends of various subsidy amounts over the years can provide a refe
 
 ### Updates
 
-依據漁業署法定預算中之歲出計畫提要及分支計畫概況表，民國 112 年（西元 2023）用油補貼獎補助費為 1,630,944 千元。
+依據漁業署法定預算中之歲出計畫提要及分支計畫概況表，民國 114 年（西元 2025）用油補貼獎補助費為 1,893,692 千元。
 
 ### Data Management /Authorities
 

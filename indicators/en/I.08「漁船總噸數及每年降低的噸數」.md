@@ -20,7 +20,7 @@ Overfishing should be one of the major reasons for the reduction of fishery reso
 ### Definition and Calculation
 The number of vessels and tonnages with legal licenses issued by Fisheries Agency, Council of Agriculture
 ### Updates
-依據民國 112 年（西元 2023）漁業統計年報，動力漁船總噸數為 567,570.56 噸，較前一年增加 4,609.76 噸。
+依據民國 114年（西元 2025）漁業統計年報，動力漁船總噸數為 560,247.72 噸，較前一年減少 -2,132.92 噸。
 ### 資料管理／權責單位
 Fisheries Agency, Council of Agriculture
 ### 資料來源／網站連結

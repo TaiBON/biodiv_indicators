@@ -23,9 +23,9 @@ Status (S)
 1.  Select protected areas established by different laws and regulations, set up fixed survey stations or lines, and monitor changes in their community indicators (species composition, abundance and diversity index).
 3.  The Reef Check in Marine National Park Headquarters and Kenting National Park Headquarter has more than 10 years of data, which can be used as indicator data first.
 ### Update
-Currently, only the coral coverage rate of Dongsha Atoll provided by the Marine National Park Headquarters is available. The coral coverage rate in the reefs in the lagoon, the outer side of the south reef platform, and the east of Dongsha Island were: 30.6%, 80.6%, and 68.1% respectively in 2018; and 68%, 80.6%, and 58.8% in 2019. The 2019 average annual coverage of Kenting seagrass in the high-level intertidal zone (leeward side in winter) in Nanwan was 10.9%, and the high-level intertidal zone (windward side in winter) in Daguang was 9.9%
+海洋國家公園管理處所提供之東沙環礁珊瑚覆蓋率，在潟湖內塊礁、南礁台外側、東沙島東等位置的珊瑚覆蓋率（%），2018 年分別為：30.6、80.6、68.1；2019年分別為：68、80.6、58.8。2025年墾丁海草年平均覆蓋率在南灣高位潮間帶（冬天背風面）為2.35%，大光高位潮間帶（冬天迎風面）則為 1.39%。
 ### Data Management /Authorities
-Ocean Conservation Administration, Fisheries Agency, Council of Agriculture, Marine National Park Headquarters, Kenting National Park Headquarters, Forestry Bureau, Tourism Bureau, Ministry of the Interior
+海保署、漁業署、海洋國家公園管理處、墾丁國家公園管理處、林業及自然保育署、觀光局、內政部
 ### 資料來源／網站連結
 1. The coral coverage data of Dongsha Atoll is provided by Marine National Park Headquarters.
 2. The seagrass coverage rate in the intertidal zone of Kenting was provided by the Distinguished Professor Lin Xingzhu, Department of Life Sciences, National Chung Hsing University.

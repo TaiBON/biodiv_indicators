@@ -22,8 +22,8 @@ Marine Protected Areas (MPA) are protected areas of oceans, seas, estuaries, or 
 1. There are many legal sources for Taiwan's marine protected areas, and the degree of protection is also different. The scope of the calculation (for example, only include the most protected Marine Protected Areas) must be specified before sum up the eligible Marine Protected Areas and deduct the overlapping areas.
 2. 因臺灣的國際地位特殊，目前無法公告 200 浬經濟海域面積，如依過去計算以 12 浬領海面積做為計算分母，與國際無法比較。109 年 9 月 4 日本計畫舉辦之專家諮詢會議，建議修正此項指標僅以面積和數量表示，暫不考慮分母計算的問題。
 ### Updates
-According to the information on the website of the Fisheries Agency, Council of Agriculture, as of 2020, there are 45 Marine Protected Areas, and the total area of Taiwan’s Marine Protected Areas (excluding areas for certain fishing gear and fishing method, and specific fishery prohibited areas), was 5264.0933 km^2^.
+依據海保署提供資料，目前（西元 2025）共 71 處海洋保護區，面積 5,407.47 平方公里（不含漁具漁法禁漁區）。
 ### 資料管理／權責單位
-Ocean Conservation Administration, Fisheries Agency, Council of Agriculture, National Park Headquarters, Forestry Bureau, Council of Agriculture, Tourism Bureau, and Ministry of the Interior.
+海洋委員會海洋保育署
 ### 資料來源／網站連結
 [臺灣海洋保護區平台](https://mpa.oca.gov.tw/)

@@ -25,10 +25,10 @@ Rivers are important freshwater bodies that connect lakes, estuaries, coasts, an
 ### Definition and Calculation
 Based on the River Pollution Index (RPI) published by the Environmental Protection Administration, Executive Yuan, the proportion of river length classified as unpolluted or slightly polluted is calculated against the total monitored river length. The RPI is determined using the concentrations of four water quality parameters: dissolved oxygen (DO), biochemical oxygen demand (BOD), suspended solids (SS), and ammonia nitrogen (NH₃-N). The resulting index value is used to assess the river pollution level.<br> River Pollution Index (RPI) = (Length of unpolluted or barely polluted rivers + Length of slightly polluted rivers) / Total monitored river length
 ### Updates
-According to data from the Environmental Information Open Platform, the proportion of rivers in Taiwan that were slightly polluted or below (inclusive) in 2021 was 75.67%, a decrease of 1.76% from 2020.
+依據環境資料開放平臺資料所示，2022–2024 連續三年掉到 75% 以下，2024 年 72.65% 是近十幾年最低點；2025 年才回升到 75.73%。
 ### Trends
-自 1991 年迄今，30 年來臺灣受輕度污染以下河川的比率多介於 70% 至 80%，並曾於 2007 年及 2010 年達到 69%。惟近 4 年比例皆高於 75%，河川品質有提升的現象。
+近五年在 72.6%–75.7% 間震盪，尚無明確改善趨勢。
 ### Data Management/Authorities
 Environmental Protection Administration, Executive Yuan
 ### Data sources/URL
-Open Environmental Data Platform – Pollution Level of Major Rivers <br> https://data.epa.gov.tw/dataset/detail/STAT_P_120
+環境資料開放平臺－重要河川汙染情形 https://data.moenv.gov.tw/dataset/detail/STAT_P_120

@@ -1,5 +1,5 @@
-# The Ratio Of Marine Protected Areas To The Sea Areas Adjacent To Taiwan
-原指標名稱：海洋保護區佔領海水域之面積比、海洋保護區佔我國鄰接區海域之面積比
+# II.01 "Number and Cumulative Area of Marine Protected Areas"
+Original indicator name: Ratio of Marine Protected Areas to the Area of the Territorial Sea, Ratio of Marine Protected Areas to the Area adjacent to Taiwan
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
@@ -24,4 +24,4 @@ According to the information on the website of the Fisheries Agency, Council of 
 ### Data Management Authorities
 Ocean Conservation Administration, Fisheries Agency, Council of Agriculture, National Park Headquarters, Forestry Bureau, Council of Agriculture, Tourism Bureau, and Ministry of the Interior.
 ### Data Source/URL
-[漁業署網站中漁業資源之臺灣的海洋保護區](https://www.fa.gov.tw/cht/TaiwanOceansProtectionAreas/content.aspx?id=1&chk=2001739d-d4cd-4ded-bf92-d570912baf08) [臺灣海洋保護區平台](https://mpa.oca.gov.tw/)
+[臺灣海洋保護區平台](https://mpa.oca.gov.tw/)

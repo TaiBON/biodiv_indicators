@@ -3,34 +3,34 @@ Original indicator name: Length of Natural Riverbank
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-重視保護天然河岸帶的生態與防洪功能。
+### Brief Description
+Emphasize the ecological and flood prevention functions of natural riparian zones.
 
-### 所屬議題
+### Themes
 Sensitive habitats
-### 指標類別
+### PSBR Model Type
 Status (S)
-### 指標對應
+### Corresponding Targets
 #### SDGs
 6.6 By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes. 15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.
-#### 愛知目標
+#### Aichi Biodiversity Targets
 Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 per cent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
-#### 生物多樣性行動方案
-D42030 逐年發展各類生態系之合理復育方法，及評估自然生態工程之成效與生態資源調查、監測(含河川及海岸)。
-#### 行動方案績效指標
+#### Biodiversity Action Plan
+D42030 Develop reasonable restoration methods for various ecosystems year by year, and evaluate the effectiveness of natural ecological projects and the survey and monitoring of ecological resources (including rivers and coasts).
+#### Key performance indicator of the action plan
 * Number of restoration methods complying with ecological principles in various ecosystems or results of research and evaluation on practicality (of these methods)
-* (生物多樣性因而改善之案件數)/(額度5,000萬以上工程施作之總案件數)及成長率
-### 發展背景
+* The ratio of cases that resulting in improved biodiversity to the total number of cases with a budget exceeding NTD$50 million, along with the growth rate of this ratio.
+### Background
 To provide water for human use and protect the safety of residents along the river, governments will build a variety of hydraulic structures (such as dikes and revetments, etc.) next to the riverbanks, but the unnatural hydraulic structures have poor permeability, which barely provides living spaces for organisms, and it will block many biological activities, causes the fragmentation of the riparian habitat, and affect the ecology of the riparian habitat.
-### 定義及計算方式
-根據經濟部水利署彙整編製成「現有河川防洪設施」之公務統計報表，以河川總長度扣除水利工程設施(堤防及護岸合計)的長度，可得天然河岸之長度。各河川局及縣市政府每年填報所轄河川的幹流長度、堤防長度、護岸長度等資料。然而，報表中的河川總幹流長度為下游主河道的長度，不包含支流、野溪與未整治河川等。堤防及護岸長度包含下游主河道及支流等其他區域。此外，新建與復建的堤防及護岸長度也並無區分。因此，計算方式調整如下： 天然河岸長度=(河川總幹流長度+未整治河川項目)-(新建堤防總長度+新建護岸總長度)
-### 現有資料內容及所跨年度
-現有河川防洪設施(2001年至2021年)
-### 資料更新內容
-依據經濟部水利署公務統計報表資料經計算後，2021年下游主河道的天然河岸長度為1,276.6公里，相較2020年減少約3.79公里，並且已經低於1,300公里。該數據為未納入野溪等未整治河川項目計算結果，長期來看整體天然河岸長度正逐年下降。
-### 指標趨勢
-由於堤防與護岸的長度不斷增加，致使天然河岸的長度逐年減少，2001年至2021年減少約487.77公里。
-### 資料管理/權責單位
-經濟部水利署河川海岸組
-### 資料來源/網頁連結
+### Definition and Calculation
+According to the official statistical report "Current River Flooding Prevention Construction" compiled by the Water Resources Agency, Ministry of Economic Affairs, the length of natural riverbanks is estimated by subtracting the length of hydraulic engineering structures (levees and revetments) from the total riverbank length. Each River Management Office and local government submits annual reports on the lengths of river mainstreams, levees, revetments, and related structure. However, the reported total length of river mainstreams only includes downstream main channels, excluding tributaries, mountain creeks and un anaged rivers. The reported lengths of levees and revetments cover mainstreams, tributaries and other downstream areas. Additionally, the reports do not distinguish between newly constructed and reconstructed levees and revetments. Therefore, the calculation was adjusted as follows: Length of natural riverbank = (Total length of river mainstream + Length of unmanaged rivers) – (Total length of newly constructed levees + Total length of newly constructed revetments)
+### Data Coverage and Time Span
+Existing river flood control facilities (2001-2021)
+### Updates
+Based on calculations using offical statistics from the Water Resources Agency, Ministry of Economic Affairs, the legnth of natural riverbanks along downstream main channels was 1,276.6 km in 2021, representing a decrease of 3.79 km compared to 2020 and falling below 1,300 km. This figure excludes mountain creeks and other unmanaged rivers, and reflects a long-term downward trend in the total length of natural riverbanks.
+### Trends
+Due to the increasing length of levee and revetments, the length of natural riverbanks has been steadily decline over the years. From 2001 to 2021, the total length of natural riverbanks decreased by approximately 487.77 kilometers.
+### Data Management/Authorities
+River and Coast Division, Water Resource Agency, Ministry of Economic Affairs
+### Data sources/URL
 [Website of Water Resource Agency, Minister of Economic Affairs--Existing River Flood Control Facilities.](https://www.wra.gov.tw/6950/7169/7316/7324/)

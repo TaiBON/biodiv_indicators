@@ -22,8 +22,8 @@ The loss of biodiversity is due to many factors, such as climate change, alien s
 | ----- | ----------- |
 |       |             |
  Favourable Maintained| The conservation objectives of an feature of interest were being met at the previous assessment, and are still being met. Favourable Recovered| A feature of interest has regained favourable condition, having been recorded as unfavourable at the previous assessment. Unfavourable Recovering| A feature of interest has begun to show, or is continuing to show, a trend towards favourable condition. Unfavourable No Change| An feature of interest may be retained in a more-or-less steady state by repeated or continuing damage–it is unfavourable but neither declining or recovering. Unfavourable Declining| Recovery is possible and may occur either spontaneously or if suitable management input is made. Partially destroyed| It is possible to destroy sections or areas of certain features or to destroy parts of sites with no hope of reinstatement because part of the feature itself, or the habitat or processes essential to support it, has been removed or irretrievably altered. Totally destroyed| The recording of a feature as destroyed will indicate the entire feature of interest has been affected to such an extent that there is no hope of recovery, perhaps because its supporting habitat or processes have been removed or irretrievably altered.
-## 現有資料內容及所跨年度
---(資料品質改進中，暫不公開)
+## Data Coverage and Time Span
+(under improvement; not yet disclosed)
 ## Trends
 --(New methodology is under development by Endemic Species Research Institute)
 ## Data Management Authorities

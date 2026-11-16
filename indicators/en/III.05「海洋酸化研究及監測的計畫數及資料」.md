@@ -2,10 +2,10 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-海洋酸化被認為具有一系列不良的後果，比如抑制了無脊椎生物新陳代謝、降低海洋生物形成碳酸殼體的能力，以及加速珊瑚白化。具碳酸殼體動物如浮游動物、甲殼類、貝介類、珊瑚、棘皮動物等無脊椎動物，會因海水碳酸鈣飽和值下降，變得越來越難甚至無法形成介殼，已形成的鈣質也易溶解。此外，正在酸化的海洋對海洋食物鏈也是一個威脅，當浮游動物消失之後，食物鏈上層的各級消費者也會隨之消失，海洋生態系將面臨崩潰和瓦解。因此海洋酸化已成為全球海洋界最關切的議題之一，各國無不傾全力在加強調查研究。
+### Brief Description
+Ocean acidification is believed to have a series of undesirable consequences, such as inhibiting the metabolism of invertebrate organisms, reducing the ability of marine organisms to form calcium carbonate shells, and accelerating coral bleaching. As the saturation level of calcium carbonate in seawater decline, it is becoming increasingly difficult, and in some cases impossible, for animals with calcareous shells including zooplankton, crustaceans, mollusk, corals, echinoderms, and other invertebrates to form shells. Even existing calcium carbonate structures may begin to dissolve. Moreover, acidified ocean pose a threat to marine food chains. The disappearance of zooplankton, a foundational food source, could lead to cascading effects across higher trophic levels, potentially resulting in the collapse and disintegration of marine ecosystems. As a result, ocean acidification has emerged as one of the most pressing concerns in the global marine community, prompting countries around the world to intensify efforts in monitoring and research.
 
-臺灣因位處於全球海洋生物的熱區，不但棲地多樣化，海洋生物物種數也佔全球總種數的十分之一，因此是研究海洋酸化、酸化對海洋生物影響最理想的地點。
+Taiwan is located within one of the world's marine biodiversity hotspots and features a wide range of diverse habitats. Remarkeably, the number of marine species found in Taiwan accounts for approximately one-tenth of the total marine species worldwide. These characteristics make Taiwan an idealsite for studying ocean acidification and its impacts on marine life.
 
 ### Themes
 Marine pollution
@@ -22,9 +22,9 @@ Ocean acidification is thought to have a series of undesirable consequences, suc
 Collect the number of projects and funds on ocean acidification research and monitoring, and show the trend of the number of related projects and total funds over years.
 ### Updates
 No data currently available
-### 指標趨勢
-（暫無）
+### Trends
+(N/A)
 ### Data Management Authorities
 Fisheries Research Institute
-### 資料來源/網站連結
-（暫無）
+### Data Source/URL
+(N/A)

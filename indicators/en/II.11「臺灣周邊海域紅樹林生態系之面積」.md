@@ -1,7 +1,7 @@
-# II.11「臺灣周邊海域紅樹林生態系之面積」
+# II.11 Area of Mangrove Ecosystem in Waters Around Taiwan
 
-### 內容簡述
-紅樹林敏感生態系極具重要生態功能與價值，能反映海洋與海岸變遷之指標，應清楚劃分其面積大小並長期監測面積變化。
+### Brief Description
+Mangroves are a sensitive ecosystem with critical ecological functions and values. They serve as indicators of ocean and coastal changes. Their spatial extent should be clearly delineated, and long-term monitoring of area changes should be conducted.
 
 ### Themes
 Marine protected areas
@@ -19,6 +19,6 @@ The total area of the mangrove ecosystems in the surrounding waters of Taiwan.
 ### Updates
 The surveyed area of mangrove forest in 2019 is 660.7 hectares, and the total area reaches 680.7 hectares if the offshore islands are added.
 ### Data Management Authorities
-Marine National Park Headquarters, Ocean Conservation Administration
+Marine National Park Headquarters, National Park Service, Ministry of the Interior; Ocean Conservation Administration, Ocean Affairs Council
 ### Data Source/URL
 Lin, H.J. (2019) The 2020 mangrove ecosystem survey project, National Chung Hsing University. Commissioned by the Ocean Conservation Administration.

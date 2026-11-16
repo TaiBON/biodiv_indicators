@@ -2,37 +2,37 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-聯合國氣候變化政府間專家委員會 (Intergovernmental Panel on Climate Change，IPCC) 於 1997 年將土地利用、土地利用變化及林業 (Land Use, Land Use Change and Forestry，LULUCF) 納入修訂版國家溫室氣體排放清冊指南 (IPCC Guidelines for National Greenhouse Gas Inventories)，其中 LULUCF 就 1990 年後土地利用、森林及其他木質生物蓄積量的改變，造成碳排放及碳移除量進行估算。
+### Brief Description
+The Intergovernmental Panel on Climate Change (IPCC) of the United Nations incorporated Land Use, Land Use Change and Forestry (LULUCF) into the revised "IPCC Guidelines for National Greenhouse Gas Inventories" in 1997, Under the LULUCF sector, carbon emissions and removals resulting from changes in land use, forests and other woody biomass stocks since 1990 are estimated.
 
-由於臺灣區域計畫法、森林法對於林業用地變更以及森林伐採均已訂有相關規範，且自 1992 年起即實施禁伐天然林政策，至林地變更為其他使用之情形極少，因此可藉行政院農業委員會林務局第三次全國森林資源調查成果之林型面積，以及林業統計每年新植造林、伐採、薪材收穫及干擾等相關數據估算，透過森林地含碳量的改變了解該生態系之健康狀況 (環保署，2016) 。
+Due to existing regulations under Taiwan’s Regional Planning Act and Forestry Act regarding land use changes and forest harvesting, and the implementation of a natural forest logging ban since 1992, land-use change from forest to other uses has been rare. Therefore, data from the Forestry Bureau’s Third Nationwide Forest Resources Inventory—including forest type area—and annual forestry statistics on afforestation, logging, fuelwood harvests, and disturbances can be used to estimate changes in forest carbon stocks. These changes serve as indicators for assessing the health of forest ecosystems (Environmental Protection Administration, 2016).
 
-### 所屬議題
+### Themes
 Sensitive habitats
-### 指標類別
+### PSBR Model Type
 Benefits (B)
-### 指標對應
+### Corresponding Targets
 #### SDGs
 15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.
-#### 愛知目標
+#### Aichi Biodiversity Targets
 Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 percent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
-#### 生物多樣性行動方案
-D00008 建立森林覆蓋面積(NDVI常態化差異植生指標)資料及健康監測評估。
-#### 行動方案績效指標：
+#### Biodiversity Action Plan
+D00008 Establish forest cover data (Normalized Difference Vegetation Index, NDVI) and assessment and monitoring on forest health.
+#### Key performance indicator of the action plan:
 * Estimate the forest cover in Taiwan
 * The ratio of forest cover under forest health monitoring and assessment to national forest cover
-### 發展背景
+### Background
 Forest carbon sequestration is the total amount of carbon dioxide removed by forests per unit of time. In 1997, the Intergovernmental Panel on Climate Change (IPCC) of the United Nations included land use, land-use change, and forestry (LULUCF) into the Guidelines for National Greenhouse Gas Inventories. Carbon emissions and carbon removals caused by changes in land use, forest, and other woody biomass accumulations after 1990 were estimated in the guideline. The Spatial Planning Act and Forest Act in Taiwan have stipulated regulations for changes in forestry land and forest harvesting, and the ban on logging of natural forests has been implemented since 1992. As a result, there have been very few cases where forest land is changed to other uses. Therefore, we can use the forest area obtained in the Third& Fourth National Forest Resources Survey (conducted by Forestry Bureau, Council of Agriculture), as well as the forestry data on annual new planting, harvesting, fuelwood harvesting, and disturbances, etc., to estimate the annual carbon sequestration by Taiwan’s forest resources. Forest carbon sequestration has attracted much attention because of their significant ability of carbon sequestration and emission reduction and high non-carbon benefits. It has become one of the important methods to reduce greenhouse gas emissions internationally.
-### 定義及計算方式
+### Definition and Method of Calculation
 Changes in the total carbon dioxide removed by Taiwan's forest resources each year. The increased sequestration volume of "forest remains forest" and "other land use type changes to forests" can be estimated using the results of the Third& Fourth National Forest Resources Survey (conducted by Forestry Bureau, Council of Agriculture). The obtained volume is then multiplied by the activity data and deduct the amount of forest area loss caused by disasters, to estimate the forest carbon sequestration inventory.
-### 現有資料內容及所跨年度
-臺灣地區森林資源整體之年二氧化碳移除量(1990-2021年)
-### 指標趨勢
-估算結果顯示，2020年森林資源二氧化碳移除變化量為2,191萬公噸，與2019年相差11,830公噸。1990年至2020年森林資源二氧化碳移除量變化已減少148.1萬公噸二氧化碳當量，其中1991年塔塔加森林大火，2001年丹大、梨山、雪山東峰、陽明山國家公園發生五次森林大火、其餘地區59次小火警，以及2009年莫拉克風災造成大量林木材積量損失，致使該年森林二氧化碳移除量下降，而後2010至2019年則大致穩定。
-### 資料管理/權責單位
-行政院農委會林務局
-### 資料來源/網頁連結
+### Data Coverage and Time Span
+Annual carbon dioxide removed by the overall forest resources in Taiwan (1990–2021)
+### Trends
+The estimation results show that the amount of carbon dioxide removed by forests in 2020 was 21.91 million metric tons, representing a difference of 11,830 metric tons compared to 2019. From 1990 to 2020, the overall carbon dioxide removal by forests decreased by 1.481 million metric tons of CO₂ equivalent. Significant declines were observed in 1991 due to the Tataka forest fire. In 2001, a series of forest fires in Danda, Lishan, Xueshan East Peak, and Yangmingshan National Park—along with 59 minor fire incidents in other areas—contributed to reduced carbon sequestration. In 2009, Typhoon Morakot also caused substantial forest biomass loss, further decreasing carbon removal that year. Aside from these exceptional events, forest carbon removal remained relatively stable from 2010 to 2019.
+### Data Management/Authorities
+Forestry and Nature Conservation Agency, Ministry of the Interior
+### Data sources/URL
 * Forestry Bureau, Council of Agriculture (2017) The collection of reports of "Establishing a Data Integration and Analysis Mechanism for Long-term Forest Monitoring and Survey and The National Forestry Greenhouse Gas Inventory"
 * Environmental Protection Agency, Executive Yuan (2017) 2017 National Greenhouse Gas Inventory Report of the Republic of China (Taiwan)
-* 行政院環境保護署(2018) 2018年中華民國國家溫室氣體排放清冊報告 http://unfccc.saveoursky.org.tw/2018nir/tw_nir_2018.php
-* 行政院環境保護署(2020) 2020年中華民國國家溫室氣體排放清冊報告 https://unfccc.saveoursky.org.tw/nir/tw_nir_2021.php
+* \[Environmental Protection Administration, Executive Yuan (2018) National Greenhouse Gas Inventory Report of the Republic of China\](https://www.cca.gov.tw/information-service/publications/national-ghg-inventory-report/1841.html)
+* \[Environmental Protection Administration, Executive Yuan (2020) National Greenhouse Gas Inventory Report of the Republic of China\](https://www.cca.gov.tw/information-service/publications/national-ghg-inventory-report/1845.html)

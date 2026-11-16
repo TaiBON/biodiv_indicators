@@ -7,7 +7,7 @@ Former Indicator Name：Changes in Biodiversity Clusters in Marine Protected Are
 The management of marine protected areas (MPA) must be implemented to allow the establishment of MPA to be effective. The most fundamental method to evaluate whether the MPA are effectively managed is to monitor important biomes (such as fish, corals, seagrass, and zooplanktons) at certain sites of the MPA on a regular basis. Surveying the trend of species structure changes in a community can reflect the changes of biodiversity in the MPA.
 ### Themes
 Marine Protected Areas
-### 指標類別
+### PSBR Model Type
 Status (S)
 ### Corresponding targets
 #### SDGs

@@ -1,10 +1,9 @@
-# I.04 "Mean Trophic Index"
+<img width="283" alt="image" src="https://github.com/user-attachments/assets/92df0fa3-b28a-4fa4-915f-1f7ec01d5178" />I.04 "Mean Trophic Index"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
-平均營養指數可用來監測臺灣沿近海是否存在捕撈壓力過大，導致漁獲物中，低階消費者比例提高的情形。
-
+### Brief description
+The Mean Trophic Index can be used to monitor whether there is excessive fishing pressure in inshore/offshore area of Taiwan, resulting in a rising proportion of low-trophic-level consumers in the catch.
 ### Themes
 Fishery resources
 ### PSBR model type
@@ -12,6 +11,8 @@ State(S)
 ### Corresponding targets
 #### SDGs
 14.2.2 Mean Trophic Level (MTL) and Fishing in Balance Index (FiB) Quantitative target for 2020: MTL and FiB values are maintained at the current level, and the data for constructing the index will be collected to compile Taiwan’s own MTL and FiB indicators.
+#### Kunming-Montreal Global Biodiversity Framework
+Ensure that areas under agriculture, aquaculture, fisheries and forestry are managed sustainably, in particular through the sustainable use of biodiversity, including through a substantial increase of the application of biodiversity friendly practices, such as sustainable intensification, agroecological and other innovative approaches, contributing to the resilience and long-term efficiency and productivity of these production systems, and to food security, conserving and restoring biodiversity and maintaining nature’s contributions to people, including ecosystem functions and services.
 #### Aichi Biodiversity Targets
 Target 6 By 2020, based on the maintenance of the ecosystem, all aquatic resources such as fish, invertebrates and aquatic plants can be managed and harvested in a sustainable and legal manner to avoid overfishing. In addition, the restoration plans and measures for targeted depleted fish species would be implemented, and the impact of fishing on threatened fish stocks and fragile ecosystems would be contained within safe ecological limits.
 ### Background

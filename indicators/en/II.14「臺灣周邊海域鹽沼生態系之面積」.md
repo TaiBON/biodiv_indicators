@@ -1,7 +1,7 @@
-# II.14「臺灣周邊海域鹽沼生態系之面積」
+# II.14 Area of Salt Marsh Ecosystem in Waters Around Taiwan
 
-### 內容簡述
-劃設海洋保護區必須落實管理才能發揮成效，評估海洋保護區是否有效管理最根本的評估辦法，是在海洋保護區內定期、定點進行重要生物類群的監測，調查物種群聚結構變化趨勢。本指標反映臺灣週遭海域之鹽沼生態系生物多樣性之變化。
+### Brief Description
+The establishment of marine protected areas must be accompanied by effective management in order to achieve their intended outcomes. The most fundamental approach to assess whether MPAs are effectively managed is to conduct regular and site-specific monitoring of key biological groups within the MPA, tracking trends in community species composition and structure over time.This indicator reflects changes in the biodiversity of salt marsh ecosystems in the waters surrounding Taiwan.
 
 ### Themes
 Marine protected areas

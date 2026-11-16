@@ -1,50 +1,50 @@
-# IV.02「上岸產卵綠蠵龜數量」
+# IV.02 "Annual Number of Nesting Female Green Sea Turtles (<em x-id="3">Chelonia mydas</em>)"
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 內容簡述
+### Brief Description
 
-旗艦種、生態關鍵種、保育種或瀕危種等物種具相當重要的生態地位，應予以優先監測與保育。
+Marine flagship species, umbrella species, endangered species, and economically important species play profound ecological roles and should therefore be prioritized for monitoring and conservation.
 
-### 所屬議題
+### Themes
 
-選定物種豐度變化趨勢
+Abundance trends of selected taxa
 
-### 指標類別
+### PSBR Model Type
 
-狀態( S )
+Status (S)
 
-### 指標對應
+### Corresponding Targets
 
-#### 愛知目標：
+#### Aichi Biodiversity Targets
 
-目標12
-到 2020 年，防止了已知瀕危物種免遭滅絕，並改善族群數量下滑最嚴重的物種的保育狀況。
+Target 12 <br>By 2020 the extinction of known threatened species has been prevented and their conservation status, particularly of those most in decline, has been improved and sustained.
 
-### 發展背景
+### Background
 
-綠蠵龜屬於蠵龜科，體型屬中大型海龜，生殖期會洄游至出生海域附近進行交配，龜卵成熟時，母龜會將卵產於溫度高於25℃的沙灘上。平均45-55天出生，孵化成功機率約為70%。目前有六處產卵沙灘被畫設為野生動物保護區。
-海大研究團隊分別在澎湖縣望安島及台東縣蘭嶼島收集了 24 年及 19 年的綠蠵龜生殖生態學資料，並從兩島的 19 年相對應資料中，找出兩島產卵母龜數量變化上的差異，可能與公海的漁業捕殺 (如持續監測) 有關，將可能的原因及全球氣候變遷，判斷是否對產卵族群會產生影響。這些結果，不論對學術研究，或是政府相關政策的制訂，都有很重要的意義。
+The green sea turtle, belonging to the Cheloniidae family, is a medium- to large-sized marine turtle species. During the reproductive season, individuals return to the waters near their natal areas to mate. When the eggs mature, females come ashore to lay them on beaches where the temperature exceeds 25°C.The hatchlings emerge after approximately 45 to 55 days of incubation, with a hatching success rate of around 70%.Currently, six nesting beaches have been designated as wildlife protected areas.
+A research team from National Taiwan Ocean University collected reproductive ecological data on green sea turtles for 24 years in Wang’an Island (Penghu County) and 19 years in Lanyu Island (Taitung County). By analyzing 19 years of corresponding data from both islands, the team found differences in the number of nesting females, which may be related to fishing activities in the high seas. 將可能的原因及全球氣候變遷，判斷是否對產卵族群會產生影響。These findings hold significant implications not only for academic research but also for government policy-making.
 
-### 定義及計算方式
+### Definition and Calculation
 
-每年產卵季高峰期間 (6-9 月)，前往各產卵地進行長期駐島調查，除了計算上岸母龜數外，也記錄相關龜卵與稚龜形質資訊，並利用衛星發報定位器了解母龜的洄游模式及覓食區位置
+During the peak of the nesting season each year (June to September), long-term on-site surveys are conducted on the nesting islands of green sea turtle. In addition to counting the number of nesting females, data on eggs and hatchlings are also collected. Satellite transmitters are used to study the migratory behavior and foraging grounds of the female turtles
 
-### 資料更新內容
+### Updates
 
-依據海保署民國108年委託計畫之成果報告，總結已發表的論文、政府研究報告和新聞報導，除了望安和蘭嶼外，其他地方數據並不完整，故產卵族群數量趨勢並不清楚。其中，依據文獻整理和訪談方式方式蒐集2019年海龜產卵紀錄，其中並無望安島的紀錄和報導。
-依據澎湖縣政府農漁局「澎湖縣海龜族群量生態調查及保護區經營管理計畫」成果報告 (2012)，上岸的母龜數量介於2頭 (1999) 到19頭 (1998 年) 之間，母產卵季集中於七、八兩月。
+According to the 2019 project reports commissioned by the Ocean Conservation Administration, which synthesized from published papers, government surveys and news articles, the population trends of nesting sea turtles remain unclear due to imcomplete data from most nesting sites, except for Wangan and Lanyu.Based on literature reviewed and interviews conducted, no records or reports of sea turtle nesting were found on Wangan Island.
+According to the "2012 Project Report on the Population Ecology Survey and Protected Area Management of Green Sea Turtles in Penghu County", commissioned by the Department of Agriculture and Fisheries of Penghu County Government, the nesting female turtles amounts between 2 in 1999 and 19 in 1998, the laying season concentrating in the July and August.
 
-### 指標趨勢
+### Trends
 
-（暫無）
+(N/A)
 
-### 資料管理/權責單位
+### Data Management/Authorities
 
-林務局、海保署
+Forestry and Nature Conservation Agency, Ministry of Agriculture; Ocean Conservation Administration, Ocean Affairs Council
 
-### 資料來源/網站連結
+### Data Source/URL
 
-野澤洋耕 (2019) 108 年度臺灣周邊海龜族群調查計畫。中央研究院，海洋保育署委託計畫。
-國立臺灣海洋大學 (2012) 澎湖縣海龜族群量生態調查及保護區經營管理計畫。澎湖縣政府農漁局委託計畫。
-程一駿(2021)。110 年度臺灣海龜產卵棲地保育措施規劃」。國立臺灣海洋大學，海洋保育署委託計畫。
+Nozawa Y. (2019) 2019 Project Report on the Survey of Sea Turtle Populations Surrounding Taiwan (title translated by TaiBON Team).Academia Sinica, commissioned by the Ocean Conservation Administration. <br>
+National Taiwan Ocean University (2012) 2012 Project Report on the Population Ecology Survey and Protected Area Management of Green Sea Turtles in Penghu County (title translated by TaiBON Team).National Taiwan Ocean University, commissioned by the Department of Agriculture and Fisheries, Penghu County Government.<br>
+Cheng, I.-J. (2021)
+2021 Project Report on the Planning of Conservation Measures for Sea Turtle Nesting Sites in Taiwan.National Taiwan Ocean Univeristy, commissioned by the Ocean Conservation Administration.

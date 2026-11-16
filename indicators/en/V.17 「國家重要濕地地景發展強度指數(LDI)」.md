@@ -1,7 +1,7 @@
 # V.17 "Landscape Development Intensity Index (LDI) of Important National Wetlands"
 
-### 內容簡述
-濕地在生態系中扮演相當重要的角色，近年來濕地環境周圍環境大幅變動，因此掌握並關切濕地生態系的地景變動情形成為重要議題。
+### Brief Description
+Wetlands play critical roles in ecosystems. In recent years, the surrounding environments of wetlands have changed dramatically. Therefore, understanding and paying attention to landscape changes in wetland ecosystems has becoming an important issue.
 
 ### Themes
 Terrestrial protected areas
@@ -13,17 +13,17 @@ State (S)
 #### Aichi Biodiversity Targets
 Target 19: By 2020, knowledge, the science base and technologies relating to biodiversity, its values, functioning, status and trends, and the consequences of its loss, are improved, widely shared and transferred, and applied.
 #### Biodiversity Action Plan
-D21020完成陸域、濕地與海洋生物多樣性監測系統之規劃，包括監測地點與方式之確定
-#### 行動方案績效指標
+D21020 Complete the plan of monitoring system on terrestrial, wetland and marine biodiversity, including the confirmation of monitoring places and methods
+#### Key performance indicator of the action plan
 * Determin the plan of locations and methods of national biodiversity monitoring
 ### Background
 Wetland is the habitat environment which many wild animals and plants depend on for their livelihoods and plays an important role in the ecosystem. In addition, wetland also has the benefits of providing locations for sightseeing and recreation and improving the resilience of the land to flood. In recent years, the environment around the wetlands has changed drastically due to the rapid increase in urbanization. Therefore, it has become an important topic to keep updated on changes in the wetland ecosystem landscape.
 ### Definition and Calculation
 First, pair the land-use data of the Third Level Category 103 with the data of other land-use categories in the National Land-Use Survey, and assign an appropriate LDI coefficient. Second, overlay the layer of Important National Wetlands onto the layer of the National Land-Use Survey for analysis. Then, based on the Taiwan Wetlands of Importance (Weng, 2007), classify the wetlands according to their locations and size of the area. At the same time, a layer of land-use from the survey on wetland and its surrounding area of 100 meters outward was used as the range to calculate LDI value. The LDI value is calculated by adding all the results of area percentages multiplied by the LDI coefficient of each land-use category, and its calculation formula is: LDItotal = Σ(%LUi × LDIi) (Brown and Vivas 2005) LDI value represents the disturbance of human activity. The greater the value, the greater the degree of exploitation, and vice versa.
-### 現有資料內容及所跨年度
---(資料品質改進中，暫不公開)
-### 指標趨勢
-----(資料品質改進中，暫不公開)
+### Data Coverage and Time Span
+(under improvement; not yet disclosed)
+### Trends
+(under improvement; not yet disclosed)
 ### Data Management Authorities
 Coastal Restore Division, Urban and Rural Development Branch, Construction and Planning Agency, and Nonprofit Organization
 ### References

@@ -1,49 +1,53 @@
-# I.10「減低不利於生物多樣性的補貼措施」
+# I.10 "Reducing Subsidies Not Conducive to Biodiversity"
 
-原指標名稱：不利於生物多樣性的補貼措施，並減低負面的影響
+Original indicator name: a subsidy measure that is not conducive to biodiversity and reduce the negative impact
 
-### 內容簡述
+### Brief description
 
-取消不利於生物多樣性及漁業永續的負面補貼，或增加有利的正面補貼，均將有助於漁業資源的復育。此項工作已被列入聯合國永續發展目標 14，及愛知目標 3 中，因此各國政府均需積極檢討與改善漁業補貼政策對維護漁業資源之成效。 
+Eliminating subsidies detrimental to biodiversity and sustainable fisheries, or increasing beneficial ones, will help restore fishery resources.This initiative is incorporated in United Nations Sustainable Development Goal 14, Aichi Target 3, and Target 18 of the Kunming-Montreal Global Biodiversity Framework. Accordingly, governments worldwide should actively review and enhance the effectiveness of fishery subsidy policies in sustaining fishery resources.
 
-### 所屬議題
+### Themes
 
-漁業資源
+Fishery resources
 
-### 指標類別
+### PSBR Model Type
 
-回應( R )
+Response (R)
 
-### 指標對應
+### Corresponding Targets
 
 #### SDGs
 
 14.6.1
-不予提供非法、未報告及不受規範(簡稱IUU)漁撈行為的補助。
+Subsidies for illegal, unreported, and unregulated (IUU) fishing activities will not be granted.
 
-#### 愛知目標：
+#### Kunming-Montreal Global Biodiversity Framework
 
-目標4
-至遲於 2020 年，消除、淘汰或改革危害生物多樣性不當的獎勵措施 (如補貼漁船用油)；在顧及國家社會經濟條件下，制定並採用有助於生物多樣性保育和永續利用的積極獎勵措施。
+By 2025, and eliminate, phase out or reform incentives, including subsidies, harmful for
+biodiversity, in a proportionate, just, fair, effective and equitable way, while substantially and progressively reducing them by at least $500 billion per yearby 2030, starting with the most harmful incentives, and scale up positive incentives for the conservation and sustainable use of biodiversity.
 
-### 發展背景
+#### Aichi Biodiversity Targets
 
-追蹤歷年各項補貼金額趨勢，可供漁業政策修訂的參考。目前相關補貼如用油補貼與休漁獎勵等等幾乎佔了漁業署預算的五成，特別是用油補貼。取消不利於生物多樣性及漁業永續的負面補貼，將有助於漁業資源的復育。
+Target 4 By 2020, at the latest, Governments, business and stakeholders at all levels have taken steps to achieve or have implemented plans for sustainable production and consumption and have kept the impacts of use of natural resources well within safe ecological limits.
 
-### 定義及計算方式
+### Background
 
-1. 部分的漁業補貼究竟是正面或負面，目前仍有爭議，主要以用油補貼與休漁獎勵佔大宗。
-2. 用油補貼資料來自漁業署法定預算中之歲出計畫提要及分支計畫概況表，單位為千元。
-3. 本項指標檢討時認為，油價變動會影響每年實際補貼的用油量，故應修正改以補貼的用油量會較符合實際狀況。但因漁業統計年報中僅有用油補貼金額，並無補助之用油量；且補助金額係用「以歸墊油品公司代墊之甲種、乙種及丙種漁船油優惠油價補貼款，並補貼漁業人漁船用汽油優惠油價差額」，無法推估各種漁船用油量，故先以補助金額呈現指標趨勢。
+Tracking the trends of various subsidy amounts over the years can provide a reference for revising fisheries policies.Currently, relevant subsidies such as fuel subsidies and fishing moratorium incentives account for almost 50% of the Fisheries Agency's budget, especially fuel subsidies.Removing subsidies that harm biodiversity and sustainable fisheries will help restore fishery resources.
 
-### 資料更新內容
+### Definition and Calculation
 
-依據漁業署法定預算中之歲出計畫提要及分支計畫概況表，民國107年(2018)用油補貼獎補助費為1,159,950千元。
+1. There is still debate over whether certain fishery subsidies are positive or negative, with fuel subsidies and fishing moratorium incentives accounting for the majority.
+2. The fuel subsidy data are sourced from the Fisheries Agency's annual expenditure program summary and subprogram overview tables, with units in thousands of NTD.
+3. When reviewing this indicator, it was noted that changes in fuel prices would affect the actual amount of subsidized fuel each year. Therefore, it was recommended to revise the indicator to use the volume of subsidized fuel consumption, which better reflects the actual situation.However, the Taiwan Fisheries Yearbook only report the amount of feul subsidy without providing the volume subsidized feul. In addition, the subsidy amount is described as "The subsidy refers to the amount advanced by fuel companies to cover the preferential fuel prices for Class A, B, and C fishing vessels, and includes the reimbursement of the price difference between the discounted and actual market prices of gasoline used by fishers." Therefore, it is not possible to estimate the fuel amount used by various fishing boats. As a result, the subsidy amount is used to show the trend of the indicator.
 
-### 資料管理/權責單位
+### Updates
 
-漁業署
+According to the annual expenditure program summary and subprogram overview table in the statutory budget of the Fisheries Agency, the feul subsidy in the 2018 was NT$1,159,950,000.
 
-### 資料來源/網站連結
+### Data Management /Authorities
 
-[漁業署網站中政府資訊公開之決算](https://www.fa.gov.tw/cht/GovAccount/index.aspx)
+Fisheries Agency, Ministry of Agriculture
+
+### Data Source/URL
+
+[The fiscal final account data were sourced from the government public information disclosed on the Fisheries Agency's website](https://www.fa.gov.tw/cht/GovAccount/index.aspx)

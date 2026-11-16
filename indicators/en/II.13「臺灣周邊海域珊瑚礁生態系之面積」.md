@@ -1,7 +1,7 @@
 # II.13 Area of Coral Reef Ecosystem in Waters Around Taiwan
 
-### 內容簡述
-珊瑚礁敏感生態系極具重要生態功能與價值，能反映海洋與海岸變遷之指標，應清楚劃分其面積大小並長期監測面積變化。
+### Brief Description
+Coral Reef Ecosystem are a sensitive ecosystem with critical ecological functions and values. They serve as indicators of ocean and coastal changes. Their spatial extent should be clearly delineated, and long-term monitoring of area changes should be conducted.
 
 ### Themes
 Marine protected areas
@@ -17,8 +17,8 @@ Sensitive marine ecosystems such as coral reefs, algae reefs, seagrass beds, man
 ### Definition and Calculation
 The total area of the coral reef ecosystems in the surrounding waters of Taiwan.
 ### Updates
-（暫無）
+(N/A)
 ### Data Management Authorities
 Marine National Park Headquarters, Ocean Conservation Administration
 ### Data Source/URL
-（暫無）
+(N/A)

@@ -22,10 +22,9 @@ According to many studies on human health and environmental hygiene, the risk of
 ### Definition and Calculation
 The monitoring items are water temperature, pH value, salinity, Escherichia coli ( E. coli) strains, and Enterococcus strains, a total of 5 items, and the numerical trends over the years are calculated. According to the marine environmental quality standards, the colony number of E. coli in beach water should be fewer than 1000 CFU/100mL. Beach water quality that passes the standards is further classified as good vs. normal when the colony number of Enterococcal bacteria is higher or lower than 50 MPN/100mL.
 ### Update
-From July to August, 2019, the monthly water quality monitoring results of 8 beach monitoring stations ([^first] July to August average), the colony number of E. coli is 222.1 CFU/100mL, and the colony number of Enterococcus is 29.7 MPN/100mL.
+2025 年 6-7 月每月 6 處海灘監測點水質監測成果（6-8月平均[^first]），大腸桿菌群 3242.9375 CFU/100mL，腸球菌群 60.9125 MPN/100mL；其中6月份沙崙海水浴場樣站以及彌陀漁港海岸光廊樣站，大腸桿菌群高達3088CFU/100mL及1337 CFU/100mL；7月份，彌陀漁港海岸光廊樣站更是達95828 CFU/100mL。[^first]: 低於極限值時以極限值之 1/2 計算平均
+### Data Management Authorities
+環保署全國環境水質監測資訊、海洋委員會海洋保育署
+### Data Source/URL
 1. [The data of Beach Water Quality, on the website of Environmental Water Quality Information by Environmental Protection Administration, Executive Yuan.](https://wq.epa.gov.tw/Code/Report/DownloadList.aspx)
 2. Water quality of the sea in the Marine Conservation Website of the Ocean Conservation Administration
-[^first]: When it is lower than the limit value, calculate the average with 1/2 of the limit value
-### Data Management Authorities
-Ocean Conservation Administration (Environmental Protection Agency before 2018)
-### Data Source/URL

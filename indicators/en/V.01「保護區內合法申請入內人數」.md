@@ -18,12 +18,12 @@ Pressure (P)
 ### Background
 Protected areas provide various benefits to both biodiversity and sustainable development. Establishing protected areas is a globally recognized main strategy to protect species and ecosystems. Ecological zone (i.e., core zone) is the core of the protected areas, which contains important natural and cultural landscapes or habitats for species. The main purpose of establishing protected areas is to protect and preserve natural resources, landscapes, or important species, nonetheless, to allow people to visit nature as a way of education, parts of the protected areas such as national parks and natural reserves would accept applications for entering the core zone. With control over the number of applicants, the authorities can manage tour activities and promote eco-tour in the protected areas.
 ### Definition and Calculation
-Count the number of people applying to enter protected areas every year as an indicator of the degree of human disturbance.
+統計每年申請進入國家公園之人數，以代表人為干擾程度。
 ### Updates
-From January to December 2021, 73,049 applications were received for entry into 30 wildlife refuges, nature reserves, and nature conservation areas.
+2025 年 1 月至 12 月，國家公園總共有 19,793,697申請進入人次，進入車輛數總共有2,321,665輛次。
 ### Trends
-From 2015 to 2019, the number of visits to protected areas was generally higher than in 2014 and remained relatively stable. In 2020, a significant increase in visits was observed, possibly due to the COVID-19 pandemic, which may have led people to seek outdoor areas with fewer crowds. However, since the applicant quota varies across protected zones and the purposes of entry applications were not recorded, this trend is for reference only.<br> (under improvement; not yet disclosed)
+2013 年起國家公園遊客人次明顯增加，並於 2015 年達到約 2,872 萬人次的高峰；2016 年後則逐步下降，至 2019 年約為 2,161 萬人次。2020 至 2021 年間遊客人次進一步下降，2021 年降至約 1,336 萬人次，為近年低點，可能與新冠肺炎疫情期間之旅遊及遊憩活動限制有關。2022 年後遊客人次逐漸回升，2023 年增至約 2,276 萬人次，但 2024 至 2025 年再略為下降，2025 年約為 1,979 萬人次。 此外，歷年遊憩據點數由 2000 年的 35 處逐步增加至 2024 年的 52 處，2025 年進一步增加至 60 處，因此遊客人次的年度變化亦可能受到統計據點數量及範圍變動影響。 --（資料品質尚待改善，暫不對外提供）
 ### Data Management/Authorities
-Forestry Bureau, Council of Agriculture
+內政部國家公園署
 ### References
-2018 Summary of Ecological Conservation Performance of Forest District Offices (Translated by TaiBON Team)<br> Statistics on Applications for Entry Permission to Protected Areas under the Forestry Bureau (Translated by TaiBON Team)<br> Ministry of the Interior Statistics Portal – Visitor and Vehicle Counts at National (Nature) Park Recreation Sites<br> https://statis.moi.gov.tw/micst/stmain.jsp?sys=100
+內政部統計查詢網─國家(自然)公園遊憩據點遊客人次及車輛次 https://statis.moi.gov.tw/micst/webMain.aspx?sys=100&funid=defjsp

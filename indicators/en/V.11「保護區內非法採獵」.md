@@ -26,12 +26,12 @@ Poaching including illegal hunting of wild animals and harvesting plant is curre
 ### Definition and Calculation
 Number of Illegal hunting and harvesting incidents in the national parks under the jurisdiction of the Construction and Planning Agency, Ministry of the Interior, including "hunting and fishing", "lumbering", and "excavating coral, etc."
 ### Data Coverage and Time Span
-Ministry of the Interior Statistics Query Website – Illegal Conducts in National (Nature) Parks (2001-2021)
+內政部統計處查詢網—違反國家公園法案件（1999 年至 2025 年）
 ### Updates
-According to statistics from the Ministry of the Interior, a total of 78 cases of illegal hunting and harvesting in violation of the National Park Act were recorded in 2021. The cases were concentrated in Kenting National Park and Taijiang National Park, which together accounted for 75 cases, or approximately 96% of the total. Compared to 2020, the total number of cases decreased by nine.
+依據內政部統計所示，2024 年案件總數達歷年新高 144 件，2025 年則回落至 91 件。
 ### Trends
-According to statistics on illegal cases within national park areas, the number of violations in Kenting National Park has shown an upward trend since 2001, while biolations in Yangmingshan National Park have dropped to single digits since 2011. In the past 17 years, average number of illegal cases in national parks has been approximatedly 50 per year. In 2013, the number of violations in Taijiang National park surged to nealy 100 cases, making a sharp spike in the total number of cases, which stabilized thereafter.
+國家公園區域內非法採獵案件近年主要集中於台江國家公園，澎湖南方四島國家公園案件數亦明顯增加。近年違法案件九成以上屬「狩獵動物或捕捉魚類」，而盜採鐘乳石、珊瑚礁及土石案件自 2023 年起已連續三年未有紀錄。
 ### Data Management/Authorities
 National Parks Division, Construction and Planning Agency, Ministry of The Interior
 ### Data sources/URL
-[Ministry of the Interior Statistics Query Website – Illegal Conducts in National (Nature) Parks (2001-2021)<br> https://ws.moi.gov.tw/001/Upload/400/relfile/0/4405/bbe97e0f-76af-43ab-8071-a542c0d01059/year_en.html](http://statis.moi.gov.tw/micst/stmain.jsp?sys=100)
+[Ministry of the Interior Statistics Query Website – Illegal Conducts in National (Nature) Parks (2001-2021)<br> https://ws.moi.gov.tw/001/Upload/400/relfile/0/4405/bbe97e0f-76af-43ab-8071-a542c0d01059/year_en.html](https://statis.moi.gov.tw/micst/webMain.aspx?sys=100&funid=defjsp)

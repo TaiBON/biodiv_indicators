@@ -19,7 +19,7 @@ Sensitive marine ecosystems such as coral reefs, algae reefs, sea grass beds, ma
 ### Definition and Calculation
 The total area of the mangrove ecosystems in the surrounding waters of Taiwan.
 ### Updates
-The surveyed area of mangrove forest in 2019 is 660.7 hectares, and the total area reaches 680.7 hectares if the offshore islands are added.
+2023 年紅樹林調查面積為938.82公頃，其中包含既2019年開始有紀錄的金門及澎湖兩個離島區域。
 ### 資料管理／權責單位
 Marine National Park Headquarters, National Park Service, Ministry of the Interior; Ocean Conservation Administration, Ocean Affairs Council
 ### 資料來源／網站連結

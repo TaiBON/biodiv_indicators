@@ -4,16 +4,17 @@
 
 ### Brief Description
 Without quantifying the value of ecosystem services, people often enjoy the benefits they provided while overlooking or underestimating their true worth, leading to unintentional biodiversity loss. Therefore, this indicator aims to estimate the value of ecosystem services provided within protected areas.
-
 ### Themes
 Sensitive habitats
 ### PSBR Model Type
 Benefits (B)
 ### Corresponding Targets
-#### SDGs
-15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.
+#### 永續發展目標
+目標 15.1：到 2020 年，根據國際協議規定的義務，保護、恢復和可持續利用陸地和內陸的淡水生態系統及其服務，特別是森林、濕地、山麓和旱地。
+#### 昆–蒙目標
+目標 11：復育、維護並提升自然對人類的貢獻，包括生態系功能與服務，例如空氣、水與氣候的調節、土壤健康、授粉與降低疾病風險，以及防禦自然危害與災害；並透過自然為本的解方及／或生態系為本的方法，造福全體人類與自然。
 #### Aichi Biodiversity Targets
-Target 14: By 2020, provide important services such as water sources and ecosystems that contribute to health, livelihoods and well-being are secured and/or restored, including consideration of the needs of women, indigenous peoples and local communities, as well as the poor and vulnerable.
+目標 14：到 2020 年，提供重要服務，例如水源及有助於健康、生計和福祉的生態系得到了保障和/或恢復，包括考量婦女、原住民和地方社區以及貧窮和脆弱者的需要。
 #### Biodiversity Action Plan
 D31012 Consolidate information about the services, values, and benefits provided to the local and indigenous communities by the ecosystem.
 #### Key performance indicator of the action plan:
@@ -27,7 +28,7 @@ The value of ecosystem services refers to the evaluation of the benefits by fina
 * "Carbon sequestration, alternative to fossil fuels": In China, the forest net growth weight per unit area is multiplied by the forest area to obtain forest production which is multiplied by 1.63 to obtain the weight of carbon dioxide fixation. The result is then multiplied by 27.27% to obtain the weight of tree carbon fixation. The weight of forest carbon dioxide fixation is the sum of the weights of trees and soil carbon fixation. Finally, the Swedish carbon tax price is used as the alternative cost.
 * "Forest recreation": UK uses the expenses incurred in the natural environment and the expenses incurred during the visit, including fuel, public transportion fees, entrance fees and parking fees.
 ### Data Coverage and Time Span
-(under improvement; not yet disclosed)
+--（資料品質改進中，暫不公開資料內容）
 ### Trends
 --(New methodology will be developed)
 ### Data Management/Authorities

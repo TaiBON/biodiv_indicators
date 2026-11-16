@@ -4,14 +4,15 @@
 
 ### Brief Description
 Due to their high sensitivity to climate, birds serve as effective indicators for understanding the impacts of climate change on biodiversity through monitoring of their population numbers and distribution shifts.
-
 ### Themes
 Population of selected taxa
 ### PSBR Model Type
 Pressure (P)
 ### Corresponding Targets
-#### SDGs
+#### 永續發展目標
 15.5 Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species
+#### 昆–蒙目標
+目標 2：2030 年以前，使至少 30% 之退化的陸域、內陸水域、海洋與沿海生態系獲得有效修復，以增進生物多樣性、生態系功能與服務，以及生態完整性和連通性。
 #### Aichi Biodiversity Targets
 Target 15: By 2020, ecosystem resilience and the contribution of biodiversity to carbon stocks has been enhanced, through conservation and restoration, including restoration of at least 15 per cent of degraded ecosystems, thereby contributing to climate change mitigation and adaptation and to combating desertification.
 ### Background
@@ -26,4 +27,4 @@ Take breeding birds in Taiwan as monitoring targets, we use long-term monitoring
 [Endemic Species Research Institute, Council of Agriculture](https://www.tesri.gov.tw)
 ### References
 * Lee, Pei-Fen (2006) Establishing an ecological early warning system for climate change in Taiwan-As an example using the Pitta nympha. [DOI： 10.6539/GCC.200603_(49).0003](http://dx.doi.org/10.6539%2fGCC.200603_(49).0003)
-* Ting, T.-S. (2014) Indicator species of alpine ecosystem under climate change—field investigation and vulnerability analysis of avian indicator species. Yushan National Park Headquarters. [pdf](https://www.ysnp.gov.tw/upload/documents/20150122_105012.89825.pdf)
+* (2014) Indicator species of alpine ecosystem under climate change—field investigation and vulnerability analysis of avian indicator species. Yushan National Park Headquarters. [pdf](https://www.ysnp.gov.tw/upload/documents/20150122_105012.89825.pdf)

@@ -19,8 +19,8 @@ Sensitive marine ecosystems such as coral reefs, algae reefs, sea grass beds, ma
 ### Definition and Calculation
 The total area of the seagrass beds in the surrounding waters of Taiwan.
 ### Updates
-2019 年完成臺灣本島西海岸、澎湖及金門之潮間帶海草分布調查，盤點的海草床面積共計 36.8 公頃。
+2023 年完成臺灣本島西海岸、澎湖及金門之潮間帶海草分布調查，盤點的海草床面積共計 7818.120 公頃。
 ### 資料管理／權責單位
 Marine National Park Headquarters, National Park Service, Ministry of the Interior; Ocean Conservation Administration, Ocean Affairs Council
 ### 資料來源／網站連結
-Lin, H. J. (2019). The 2019 seagrass bed ecosystem survey project. National Chung Hsing University.
+林幸助 2024 臺灣海洋碳匯潛力復育點調查與評估計畫，海洋保育署委託計畫。

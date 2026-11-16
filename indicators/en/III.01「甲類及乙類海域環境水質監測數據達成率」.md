@@ -26,9 +26,8 @@ $$ total pass rate (\%)={\frac{times when water quality data reaching standard o
 $$ single item pass rate(\%)=\frac{times when water quality data reaching standard on one testing item}{times of water quality tested on one testing item}\times100\% $$
 
 ### Update
-According to the results of water quality monitoring in 2018, the total pass rate was 99.7%. Among them, the pass rate of pH value is 99.0%, the pass rate of dissolved oxygen is 99.5%, the pass rate of copper is 99.3%, and the pass rate of other items including heavy metals (cadmium, lead, zinc and mercury) is 100.0%.
+2025 年水質監測結果，總達成率為 100%。所有項目的達成率均為 100.0%，並且向前補足2002年至2007年的資料。
 ### Data Management /Authorities
-Ocean Conservation Administration (Environmental Protection Agency before 2018)
+環保署全國環境水質監測資訊、海洋委員會海洋保育署
 ### 資料來源／網站連結
-1.  [The Annual Report of Water Quality, on the website of Environmental Water Quality Information by Environmental Protection Administration, Executive Yuan.](https://wq.epa.gov.tw/Code/Report/ReportList.aspx)
-2.  [Water quality of the sea in the Marine Conservation Website of the Ocean Conservation Administration](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_WaterQuality.aspx)
+環保署全國環境水質監測資訊、海洋委員會海洋保育署

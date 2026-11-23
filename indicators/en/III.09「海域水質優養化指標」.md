@@ -19,7 +19,7 @@ The water quality index (WQI) is a method that integrates multiple water quality
 ### Definition and Calculation
 The nine parameters used in the NSF-WQI are dissolved oxygen, fecal coliform, pH, biochemical oxygen demand (BOD), nitrate nitrogen, total phosphorus, temperature, turbidity, and total solids (TS). In Taiwan, scientist have also proposed various WQI verisons; however, the sepecific set of water quality parameters to be used for the WQI has yet to be determined.
 ### Trends
---（指標品質改進中，暫不公開）
+2025 年海域優養化指標（EI）中位數較 2024 年下降，約由 2.5 降至 1.9，顯示整體優養化程度有所減輕；但仍有部分高值，反映不同海域間的水質差異，需持續關注局部優養化情形。
 
 ### Indicator User Guide
 [Indicator User Guide - Marine Water Quality and Eutrophication Indicator](https://taibon.tw/zh-hant/news/243)

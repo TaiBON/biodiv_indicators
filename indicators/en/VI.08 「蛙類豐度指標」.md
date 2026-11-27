@@ -39,15 +39,26 @@ In recent years, the dramatic decline of regional frog populations has become a 
 
 ### Definition and Calculation
 
-Based on Taiwan Amphibian Database, the number of native, endemic, and introduced frog species among common frogs is calculated across different regions of Taiwan. The annual percentage of each of these 3 groups is then determined to analyze trends in species composition over time.
+以兩棲類資源調查資料之年度蛙類累積記錄隻次，除以同一統計期間及資料範圍內的調查事件總數，計算「平均每次調查記錄隻次」，作為蛙類相對觀察量的描述性豐度指標，單位為「隻次／調查事件」。
+
+$$
+A_y = \frac{N_y}{E_y}
+$$
+
+其中，$A_y$ 為第 $y$ 年平均每次調查記錄隻次；$N_y$ 為該年度蛙類累積記錄隻次，不包含卵與蝌蚪紀錄；$E_y$ 為同年度、同一資料範圍內的全部有效調查事件數，原則上包含有調查但未發現蛙類的事件，實際納入方式依來源資料定義註明。
+本指標尚未校正調查時長、樣點組成、季節分布及物種偵測率差異，因此反映的是調查紀錄的相對觀察量，不直接代表全臺蛙類實際族群量。
 
 ### Updates
 
-According to the Taiwan Amphibian Database, a total of approximately 74,192 individual frogs were recorded in 2021. Of them, 12.01% were introduced species, and 87.98% were native species, among which 25.61% were endemic to Taiwan.This represents a decrease of 13,017 individuals compared to the 2020 record.相較 2020 年紀錄隻數約減少 13,017 隻。
+依據《2025 年臺灣蛙類野外族群趨勢監測研究》成果報告，全臺普查共記錄 148,083 隻次蛙類，不含卵與蝌蚪紀錄；年度調查事件共 5,041 次，報告所列調查樣點為 1,852 個。以蛙類累積記錄隻次除以調查事件數，2025 年平均每次調查記錄約 29.38 隻次。
+上述數值為調查期間累積的觀察紀錄，不同事件可能重複記錄同一個體，因此不等同於不同個體的實際數量。
 
 ### Trends
 
-指標趨勢圖顯示，自 2010 年後，外來種斑腿樹蛙的族群開始擴張，外來種比例逐年上升，原生種比例則逐年下降。 2018 年，外來種數量比例佔 11.58%，相較於 2010 年的 1.16%，8 年內族群明顯成長。東華大學楊懿如教授（2015）的研究顯示，斑腿樹蛙可能會競爭排擠原生種布氏樹蛙，影響其族群。
+### 指標趨勢
+
+2019–2025 年原生蛙類平均每筆紀錄隻次介於 2.48–3.12 隻次之間。 2020 年為此期間最高值，約 3.12 隻次；2022 年降至最低值，約 2.48 隻次，其後連續三年上升，2025 年達約 3.05 隻次，接近 2020 年水準。
+本指標反映原生蛙類每筆調查紀錄所包含的平均隻次，並非平均每次調查的觀察量。數值變化可能受到物種組成、記錄方式及調查樣點變動影響，因此近年數值上升尚不能直接解讀為原生蛙類族群恢復，仍須搭配個別物種及固定樣點的長期監測結果共同判讀。
 
 ### Data Management/Authorities
 
@@ -56,5 +67,4 @@ Lab of Amphibian Conservation, Department of Natural Resources and Environmental
 ### Data Source/URL
 
 - [Society for Taiwan Amphibian Conservation – Key Frog Habitats](https://www.froghome.org/ifa-project)
-- Controlling and Monitoring the Alien Tree Frog – <i>Polypedates megacephalus</i> [pdf](https://conservation.forest.gov.tw/0000779)
-- [GBIF – Taiwan Amphibians Database](https://www.gbif.org/zh-tw/dataset/1d9b55a1-1dfb-4b9d-9431-47de185ceea7)
+- 楊懿如（2025）台灣蛙類野外族群趨勢監測研究 [pdf](https://tad.froghome.org/record/114/114%E6%9E%97%E7%99%BC-08.3-%E4%BF%9D-06_%E5%8F%B0%E7%81%A3%E8%9B%99%E9%A1%9E%E9%87%8E%E5%A4%96%E6%97%8F%E7%BE%A4%E8%B6%A8%E5%8B%A2%E7%9B%A3%E6%B8%AC%E7%A0%94%E7%A9%B6.pdf)
